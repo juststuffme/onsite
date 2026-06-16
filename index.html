@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Onsite Manager - Management Rights Listings</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Segoe UI', Arial, sans-serif; background: #f0f2f5; color: #333; }
+
+  header {
+    background: linear-gradient(135deg, #1a3c5e 0%, #2d6a9f 100%);
+    color: white; padding: 24px 32px;
+    display: flex; align-items: center; justify-content: space-between;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+  }
+  header h1 { font-size: 1.8rem; font-weight: 700; }
+  header p { font-size: 0.9rem; opacity: 0.8; margin-top: 4px; }
+  .badge { background: #e8a020; color: white; border-radius: 20px; padding: 4px 12px; font-size: 0.85rem; font-weight: 600; }
+
+  .controls {
+    background: white; padding: 16px 24px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+    display: flex; flex-wrap: wrap; gap: 12px; align-items: center;
+  }
+  .controls input[type=text], .controls select {
+    padding: 8px 12px; border: 1px solid #ddd; border-radius: 6px;
+    font-size: 0.9rem; background: #fafafa;
+  }
+  .controls input[type=text] { flex: 1; min-width: 220px; }
+  .controls select { min-width: 150px; }
+  .controls label { font-size: 0.85rem; color: #666; white-space: nowrap; }
+  .price-range { display: flex; gap: 8px; align-items: center; }
+  .price-range input { width: 120px; }
+
+  .stats-bar {
+    background: #e8f4fd; padding: 10px 24px;
+    display: flex; gap: 24px; flex-wrap: wrap;
+    font-size: 0.85rem; color: #555; border-bottom: 1px solid #cce0f0;
+  }
+  .stats-bar span strong { color: #1a3c5e; }
+
+  .table-wrap { overflow-x: auto; padding: 16px 24px; }
+
+  table { width: 100%; border-collapse: collapse; background: white;
+    border-radius: 8px; overflow: hidden; box-shadow: 0 1px 6px rgba(0,0,0,0.08); font-size: 0.82rem; }
+  thead { background: #1a3c5e; color: white; }
+  thead th { padding: 10px 10px; text-align: left; cursor: pointer; white-space: nowrap; user-select: none; }
+  thead th:hover { background: #2d6a9f; }
+  thead th.sorted-asc::after { content: ' ▲'; font-size: 0.7rem; }
+  thead th.sorted-desc::after { content: ' ▼'; font-size: 0.7rem; }
+  tbody tr { border-bottom: 1px solid #eee; transition: background 0.15s; }
+  tbody tr:hover { background: #f0f7ff; }
+  tbody td { padding: 9px 10px; vertical-align: top; }
+
+  .tag { display: inline-block; padding: 2px 8px; border-radius: 12px; font-size: 0.75rem; font-weight: 600; white-space: nowrap; }
+  .tag-permanent { background: #d1fae5; color: #065f46; }
+  .tag-resort { background: #dbeafe; color: #1e40af; }
+  .tag-holiday { background: #fef3c7; color: #92400e; }
+  .tag-caretaking { background: #ede9fe; color: #5b21b6; }
+  .tag-other { background: #f3f4f6; color: #374151; }
+
+  .price-cell { font-weight: 700; color: #1a3c5e; white-space: nowrap; }
+  .income-cell { color: #065f46; font-weight: 600; }
+  .mult-cell { font-weight: 700; color: #92400e; }
+  .link-cell a { color: #2d6a9f; text-decoration: none; font-weight: 500; }
+  .link-cell a:hover { text-decoration: underline; }
+  .agent-cell { font-size: 0.78rem; color: #555; }
+  .agent-cell strong { color: #333; display: block; }
+
+  .pagination { display: flex; justify-content: center; align-items: center; gap: 8px; padding: 16px; }
+  .pagination button { padding: 6px 14px; border: 1px solid #ddd; border-radius: 6px; cursor: pointer; background: white; }
+  .pagination button:hover { background: #e8f4fd; }
+  .pagination button.active { background: #1a3c5e; color: white; border-color: #1a3c5e; }
+  .pagination .page-info { font-size: 0.9rem; color: #666; }
+
+  .no-data { text-align: center; padding: 48px; color: #999; font-size: 1rem; }
+  .loading { text-align: center; padding: 48px; color: #2d6a9f; font-size: 1.1rem; }
+
+  .updated { font-size: 0.78rem; color: #aaa; padding: 4px 24px 8px; }
+
+  @media (max-width: 768px) {
+    header { flex-direction: column; gap: 8px; }
+    .controls { flex-direction: column; }
+    .table-wrap { padding: 8px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div>
+    <h1>&#127968; Management Rights Listings</h1>
+    <p>Live data from The Onsite Manager &mdash; auto-updated daily</p>
+  </div>
+  <div class="badge" id="totalBadge">Loading...</div>
+</header>
+
+<div class="controls">
+  <input type="text" id="searchBox" placeholder="&#128269; Search title, suburb, agent, agency..." oninput="applyFilters()">
+
+  <div>
+    <label>Category</label><br>
+    <select id="filterCategory" onchange="applyFilters()">
+      <option value="">All Categories</option>
+      <option value="Permanent">Permanent</option>
+      <option value="Resort / Holiday">Resort / Holiday</option>
+      <option value="Holiday">Holiday</option>
+      <option value="Caretaking">Caretaking</option>
+      <option value="Corporate">Corporate</option>
+      <option value="Retirement">Retirement</option>
+      <option value="Off The Plan">Off The Plan</option>
+    </select>
+  </div>
+
+  <div>
+    <label>State</label><br>
+    <select id="filterState" onchange="applyFilters()">
+      <option value="">All States</option>
+      <option value="QLD">QLD</option>
+      <option value="NSW">NSW</option>
+      <option value="VIC">VIC</option>
+      <option value="WA">WA</option>
+      <option value="NT">NT</option>
+    </select>
+  </div>
+
+  <div class="price-range">
+    <div>
+      <label>Min Price ($)</label><br>
+      <input type="number" id="minPrice" placeholder="0" oninput="applyFilters()" style="width:130px;padding:8px 10px;border:1px solid #ddd;border-radius:6px;font-size:0.9rem;">
+    </div>
+    <div>
+      <label>Max Price ($)</label><br>
+      <input type="number" id="maxPrice" placeholder="Any" oninput="applyFilters()" style="width:130px;padding:8px 10px;border:1px solid #ddd;border-radius:6px;font-size:0.9rem;">
+    </div>
+  </div>
+
+  <div>
+    <label>Max Multiplier</label><br>
+    <input type="number" id="maxMult" placeholder="Any" step="0.1" oninput="applyFilters()" style="width:110px;padding:8px 10px;border:1px solid #ddd;border-radius:6px;font-size:0.9rem;">
+  </div>
+
+  <div>
+    <label>Min Net Income ($)</label><br>
+    <input type="number" id="minIncome" placeholder="0" oninput="applyFilters()" style="width:140px;padding:8px 10px;border:1px solid #ddd;border-radius:6px;font-size:0.9rem;">
+  </div>
+
+  <button onclick="resetFilters()" style="padding:8px 16px;background:#e74c3c;color:white;border:none;border-radius:6px;cursor:pointer;font-size:0.9rem;margin-top:16px;">&#10006; Reset</button>
+  <button onclick="exportCSV()" style="padding:8px 16px;background:#27ae60;color:white;border:none;border-radius:6px;cursor:pointer;font-size:0.9rem;margin-top:16px;">&#8595; Export CSV</button>
+</div>
+
+<div class="stats-bar" id="statsBar">Loading data...</div>
+<div class="updated" id="updatedAt"></div>
+
+<div class="table-wrap">
+  <div class="loading" id="loadingMsg">&#8987; Loading listings...</div>
+  <table id="listingsTable" style="display:none">
+    <thead>
+      <tr>
+        <th onclick="sortTable('title')" data-col="title">Listing Title</th>
+        <th onclick="sortTable('category')" data-col="category">Category</th>
+        <th onclick="sortTable('suburb')" data-col="suburb">Location</th>
+        <th onclick="sortTable('price')" data-col="price">Total Price</th>
+        <th onclick="sortTable('netIncome')" data-col="netIncome">Net Income</th>
+        <th onclick="sortTable('multiplier')" data-col="multiplier">Multiplier</th>
+        <th onclick="sortTable('unitValue')" data-col="unitValue">Unit Value</th>
+        <th onclick="sortTable('caretakingRemuneration')" data-col="caretakingRemuneration">Remuneration</th>
+        <th onclick="sortTable('agreementRemaining')" data-col="agreementRemaining">Agr. Remaining</th>
+        <th onclick="sortTable('lettingPool')" data-col="lettingPool">Letting Pool</th>
+        <th onclick="sortTable('unitsInComplex')" data-col="unitsInComplex">Complex Units</th>
+        <th data-col="bedrooms">Mgr Unit</th>
+        <th data-col="agentName">Agent / Agency</th>
+      </tr>
+    </thead>
+    <tbody id="tableBody"></tbody>
+  </table>
+  <div class="no-data" id="noDataMsg" style="display:none">No listings match your filters.</div>
+</div>
+
+<div class="pagination" id="paginationEl"></div>
+
+<script>
+let allListings = [];
+let filtered = [];
+let currentPage = 1;
+const pageSize = 50;
+let sortCol = 'price';
+let sortDir = 'desc';
+
+function fmt(n) {
+  if (!n && n !== 0) return '-';
+  return '$' + Number(n).toLocaleString('en-AU');
+}
+function fmtNum(n) {
+  if (!n && n !== 0) return '-';
+  return Number(n).toLocaleString('en-AU');
+}
+function tagClass(cat) {
+  if (!cat) return 'tag-other';
+  const c = cat.toLowerCase();
+  if (c.includes('permanent')) return 'tag-permanent';
+  if (c.includes('resort') || c.includes('holiday')) return 'tag-resort';
+  if (c.includes('holiday')) return 'tag-holiday';
+  if (c.includes('caretaking')) return 'tag-caretaking';
+  return 'tag-other';
+}
+
+async function loadData() {
+  try {
+    const res = await fetch('listings.json');
+    if (!res.ok) throw new Error('listings.json not found');
+    const json = await res.json();
+    allListings = json.listings || [];
+    document.getElementById('totalBadge').textContent = allListings.length + ' Listings';
+    if (json.scraped_at) {
+      const d = new Date(json.scraped_at);
+      document.getElementById('updatedAt').textContent = 'Last updated: ' + d.toLocaleString('en-AU');
+    }
+    applyFilters();
+    document.getElementById('loadingMsg').style.display = 'none';
+    document.getElementById('listingsTable').style.display = '';
+  } catch(e) {
+    document.getElementById('loadingMsg').textContent = 'Error loading data. Run the scraper first to generate listings.json';
+    console.error(e);
+  }
+}
+
+function applyFilters() {
+  const search = document.getElementById('searchBox').value.toLowerCase();
+  const cat = document.getElementById('filterCategory').value;
+  const state = document.getElementById('filterState').value;
+  const minP = parseFloat(document.getElementById('minPrice').value) || 0;
+  const maxP = parseFloat(document.getElementById('maxPrice').value) || Infinity;
+  const maxM = parseFloat(document.getElementById('maxMult').value) || Infinity;
+  const minI = parseFloat(document.getElementById('minIncome').value) || 0;
+
+  filtered = allListings.filter(l => {
+    if (cat && l.category !== cat) return false;
+    if (state && l.state !== state) return false;
+    if (l.price > 0 && l.price < minP) return false;
+    if (l.price > maxP) return false;
+    if (maxM < Infinity && (!l.multiplier || l.multiplier > maxM)) return false;
+    if (minI > 0 && (!l.netIncome || l.netIncome < minI)) return false;
+    if (search) {
+      const hay = [l.title, l.suburb, l.state, l.agentName, l.agencyName, l.category].join(' ').toLowerCase();
+      if (!hay.includes(search)) return false;
+    }
+    return true;
+  });
+
+  sortData();
+  currentPage = 1;
+  updateStats();
+  renderPage();
+}
+
+function sortData() {
+  filtered.sort((a, b) => {
+    let va = a[sortCol], vb = b[sortCol];
+    if (va == null) va = sortDir === 'asc' ? Infinity : -Infinity;
+    if (vb == null) vb = sortDir === 'asc' ? Infinity : -Infinity;
+    if (typeof va === 'string') va = va.toLowerCase();
+    if (typeof vb === 'string') vb = vb.toLowerCase();
+    if (va < vb) return sortDir === 'asc' ? -1 : 1;
+    if (va > vb) return sortDir === 'asc' ? 1 : -1;
+    return 0;
+  });
+}
+
+function sortTable(col) {
+  if (sortCol === col) {
+    sortDir = sortDir === 'asc' ? 'desc' : 'asc';
+  } else {
+    sortCol = col;
+    sortDir = 'desc';
+  }
+  document.querySelectorAll('thead th').forEach(th => {
+    th.classList.remove('sorted-asc', 'sorted-desc');
+    if (th.dataset.col === col) th.classList.add('sorted-' + sortDir);
+  });
+  sortData();
+  renderPage();
+}
+
+function updateStats() {
+  const withPrice = filtered.filter(l => l.price > 0);
+  const avgPrice = withPrice.length ? Math.round(withPrice.reduce((s,l) => s + l.price, 0) / withPrice.length) : 0;
+  const withIncome = filtered.filter(l => l.netIncome > 0);
+  const avgIncome = withIncome.length ? Math.round(withIncome.reduce((s,l) => s + l.netIncome, 0) / withIncome.length) : 0;
+  const withMult = filtered.filter(l => l.multiplier > 0);
+  const avgMult = withMult.length ? (withMult.reduce((s,l) => s + l.multiplier, 0) / withMult.length).toFixed(2) : '-';
+  document.getElementById('statsBar').innerHTML =
+    `Showing <strong>${filtered.length}</strong> of ${allListings.length} listings &nbsp;|&nbsp; Avg Price: <strong>${fmt(avgPrice)}</strong> &nbsp;|&nbsp; Avg Net Income: <strong>${fmt(avgIncome)}</strong> &nbsp;|&nbsp; Avg Multiplier: <strong>${avgMult}x</strong>`;
+}
+
+function renderPage() {
+  const tbody = document.getElementById('tableBody');
+  const start = (currentPage - 1) * pageSize;
+  const pageData = filtered.slice(start, start + pageSize);
+
+  if (filtered.length === 0) {
+    tbody.innerHTML = '';
+    document.getElementById('noDataMsg').style.display = '';
+    document.getElementById('paginationEl').innerHTML = '';
+    return;
+  }
+  document.getElementById('noDataMsg').style.display = 'none';
+
+  tbody.innerHTML = pageData.map(l => {
+    const mgrUnit = [l.bedrooms ? l.bedrooms+'bd' : '', l.bathrooms ? l.bathrooms+'ba' : '', l.carSpaces ? l.carSpaces+'car' : ''].filter(Boolean).join(' / ') || '-';
+    const mult = l.multiplier ? l.multiplier.toFixed(2)+'x' : '-';
+    const agencyLink = l.agencyWebsite ? `<a href="${l.agencyWebsite}" target="_blank">${l.agencyName || '-'}</a>` : (l.agencyName || '-');
+    return `<tr>
+      <td class="link-cell"><a href="${l.url}" target="_blank">${l.title || 'Untitled'}</a></td>
+      <td><span class="tag ${tagClass(l.category)}">${l.category || '-'}</span></td>
+      <td>${l.suburb || ''}${l.state ? ', '+l.state : ''}${l.postcode ? ' '+l.postcode : ''}</td>
+      <td class="price-cell">${l.priceView || (l.price > 0 ? fmt(l.price) : 'EOI')}</td>
+      <td class="income-cell">${l.netIncome > 0 ? fmt(l.netIncome) : '-'}</td>
+      <td class="mult-cell">${mult}</td>
+      <td>${l.unitValue > 0 ? fmt(l.unitValue) : '-'}</td>
+      <td>${l.caretakingRemuneration > 0 ? fmt(l.caretakingRemuneration) : '-'}</td>
+      <td>${l.agreementRemaining ? l.agreementRemaining+' yrs' : '-'}</td>
+      <td>${l.lettingPool || '-'}</td>
+      <td>${l.unitsInComplex || '-'}</td>
+      <td>${mgrUnit}</td>
+      <td class="agent-cell"><strong>${l.agentName || '-'}</strong>${agencyLink}</td>
+    </tr>`;
+  }).join('');
+
+  renderPagination();
+}
+
+function renderPagination() {
+  const totalPages = Math.ceil(filtered.length / pageSize);
+  if (totalPages <= 1) { document.getElementById('paginationEl').innerHTML = ''; return; }
+  let html = '';
+  if (currentPage > 1) html += `<button onclick="goPage(${currentPage-1})">&#8592; Prev</button>`;
+  const start = Math.max(1, currentPage - 2);
+  const end = Math.min(totalPages, currentPage + 2);
+  if (start > 1) html += `<button onclick="goPage(1)">1</button><span>...</span>`;
+  for (let p = start; p <= end; p++) {
+    html += `<button onclick="goPage(${p})" class="${p===currentPage?'active':''}">${p}</button>`;
+  }
+  if (end < totalPages) html += `<span>...</span><button onclick="goPage(${totalPages})">${totalPages}</button>`;
+  if (currentPage < totalPages) html += `<button onclick="goPage(${currentPage+1})">Next &#8594;</button>`;
+  html += `<span class="page-info">Page ${currentPage} of ${totalPages} (${filtered.length} listings)</span>`;
+  document.getElementById('paginationEl').innerHTML = html;
+}
+
+function goPage(p) {
+  currentPage = p;
+  renderPage();
+  window.scrollTo({top: 0, behavior: 'smooth'});
+}
+
+function resetFilters() {
+  document.getElementById('searchBox').value = '';
+  document.getElementById('filterCategory').value = '';
+  document.getElementById('filterState').value = '';
+  document.getElementById('minPrice').value = '';
+  document.getElementById('maxPrice').value = '';
+  document.getElementById('maxMult').value = '';
+  document.getElementById('minIncome').value = '';
+  applyFilters();
+}
+
+function exportCSV() {
+  const headers = ['ID','URL','Title','Category','State','Suburb','Postcode','Total Price','Price View','Net Income','Net Income Basis','Unit Value','Multiplier','Bedrooms','Bathrooms','Car Spaces','Office On Title','Pets','Caretaking Remuneration','Agreement Term','Agreement Remaining','Agreement Age','Office Hours','Letting Pool','Owner Occupiers','Lock Ups','Outside Agents','Units In Complex','Agent Name','Agent Phone','Agent Email','Agency Name','Agency Website','Date Listed'];
+  const esc = v => { const s = v==null?'':String(v); return (s.includes(',')||s.includes('"')||s.includes('\n')) ? '"'+s.replace(/"/g,'""')+'"' : s; };
+  const rows = filtered.map(l => [l.id,l.url,l.title,l.category,l.state,l.suburb,l.postcode,l.price,l.priceView,l.netIncome,l.netIncomeBasis,l.unitValue,l.multiplier,l.bedrooms,l.bathrooms,l.carSpaces,l.officeOnTitle?'Yes':'No',l.pets,l.caretakingRemuneration,l.agreementTerm,l.agreementRemaining,l.agreementAge,l.officeHours,l.lettingPool,l.ownerOccupiers,l.lockUps,l.outsideAgents,l.unitsInComplex,l.agentName,l.agentPhone,l.agentEmail,l.agencyName,l.agencyWebsite,l.dateListed].map(esc).join(','));
+  const csv = [headers.map(esc).join(','), ...rows].join('\n');
+  const blob = new Blob([csv], {type:'text/csv;charset=utf-8;'});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a'); a.href=url; a.download='onsite_listings.csv'; a.click();
+  setTimeout(()=>URL.revokeObjectURL(url),1000);
+}
+
+loadData();
+</script>
+</body>
+</html>
