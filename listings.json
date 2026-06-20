@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-19T07:20:36.724031",
-  "total": 550,
+  "scraped_at": "2026-06-20T06:33:48.328313",
+  "total": 551,
   "listings": [
     {
       "id": "21181109",
@@ -115,6 +115,44 @@
       "agencyWebsite": null,
       "dateListed": "2026-05-08 12:19:09",
       "lastUpdated": "2026-05-17 05:08:17"
+    },
+    {
+      "id": "21183959",
+      "url": "https://www.theonsitemanager.com.au/listing/21183959",
+      "title": "MANAGEMENT RIGHTS FOR SALE – PRIME BEACHFRONT GOLD COAST BUSINESS",
+      "category": "Holiday",
+      "status": "current",
+      "price": 3335000,
+      "priceView": "$3,335,000",
+      "netIncome": 430497,
+      "netIncomeBasis": "actual",
+      "unitValue": 1400000,
+      "multiplier": 4.49,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "carSpaces": 1,
+      "officeOnTitle": false,
+      "pets": "yes",
+      "caretakingRemuneration": 64892,
+      "agreementTerm": "10",
+      "agreementRemaining": "10",
+      "agreementAge": "0",
+      "officeHours": "As per Contract",
+      "lettingPool": 28,
+      "ownerOccupiers": 6,
+      "lockUps": 10,
+      "outsideAgents": 1,
+      "unitsInComplex": 45,
+      "suburb": "Coolangatta",
+      "state": "QLD",
+      "postcode": "4225",
+      "agentName": "Scott Saunders",
+      "agentPhone": "0432 144 822",
+      "agentEmail": "info@premiersales.com.au",
+      "agencyName": "Premier Business Sales",
+      "agencyWebsite": null,
+      "dateListed": "2026-06-19 07:50:44",
+      "lastUpdated": "2026-06-19 08:05:37"
     },
     {
       "id": "21183799",
@@ -4084,7 +4122,7 @@
       "bathrooms": 2,
       "carSpaces": 4,
       "officeOnTitle": true,
-      "pets": "No",
+      "pets": "yes",
       "caretakingRemuneration": 149000,
       "agreementTerm": "25",
       "agreementRemaining": "20",
@@ -4104,7 +4142,7 @@
       "agencyName": "Cedar Realty",
       "agencyWebsite": null,
       "dateListed": "22 April 2026",
-      "lastUpdated": "2026-06-09 02:10:00"
+      "lastUpdated": "2026-06-19 14:47:06"
     },
     {
       "id": "21173733",
@@ -19304,7 +19342,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "15 June 2026",
-      "lastUpdated": "2026-06-18 02:15:53"
+      "lastUpdated": "2026-06-19 13:15:05"
     },
     {
       "id": "21182913",
@@ -20824,7 +20862,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "03 June 2026",
-      "lastUpdated": "2026-06-18 02:15:48"
+      "lastUpdated": "2026-06-19 13:15:05"
     },
     {
       "id": "21178884",
