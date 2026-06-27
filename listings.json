@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-26T06:23:04.332671",
-  "total": 555,
+  "scraped_at": "2026-06-27T06:07:10.914529",
+  "total": 557,
   "listings": [
     {
       "id": "21181109",
@@ -557,10 +557,10 @@
       "agreementAge": "0",
       "officeHours": "No fixed office hours",
       "lettingPool": 59,
-      "ownerOccupiers": 90,
+      "ownerOccupiers": 60,
       "lockUps": 0,
-      "outsideAgents": 7,
-      "unitsInComplex": 169,
+      "outsideAgents": 35,
+      "unitsInComplex": 154,
       "suburb": "Kangaroo Point",
       "state": "QLD",
       "postcode": "4169",
@@ -570,7 +570,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "29 May 2026",
-      "lastUpdated": "2026-06-21 21:30:45"
+      "lastUpdated": "2026-06-26 13:15:09"
     },
     {
       "id": "21179884",
@@ -3420,7 +3420,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "07 June 2026",
-      "lastUpdated": "2026-06-21 21:30:44"
+      "lastUpdated": "2026-06-26 13:15:09"
     },
     {
       "id": "21181555",
@@ -4152,17 +4152,17 @@
       "status": "current",
       "price": 1750000,
       "priceView": "Expressions Of Interest",
-      "netIncome": 622792,
+      "netIncome": 331255,
       "netIncomeBasis": "actual",
       "unitValue": 0,
-      "multiplier": 2.81,
+      "multiplier": 5.28,
       "bedrooms": 0,
       "bathrooms": 0,
       "carSpaces": 0,
       "officeOnTitle": false,
       "pets": "0",
       "caretakingRemuneration": 0,
-      "agreementTerm": "10",
+      "agreementTerm": "25",
       "agreementRemaining": "0",
       "agreementAge": "0",
       "officeHours": "",
@@ -4180,7 +4180,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "22 April 2026",
-      "lastUpdated": "2026-06-21 21:30:35"
+      "lastUpdated": "2026-06-26 13:15:06"
     },
     {
       "id": "21173360",
@@ -4902,7 +4902,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "26 March 2026",
-      "lastUpdated": "2026-06-21 21:30:36"
+      "lastUpdated": "2026-06-26 13:15:07"
     },
     {
       "id": "21172352",
@@ -4950,10 +4950,10 @@
       "status": "current",
       "price": 3440000,
       "priceView": "$3,440,000",
-      "netIncome": 449157,
+      "netIncome": 464157,
       "netIncomeBasis": "actual",
       "unitValue": 900000,
-      "multiplier": 5.66,
+      "multiplier": 5.47,
       "bedrooms": 3,
       "bathrooms": 2,
       "carSpaces": 1,
@@ -4965,9 +4965,9 @@
       "agreementAge": "0",
       "officeHours": "No set office hours",
       "lettingPool": 67,
-      "ownerOccupiers": 64,
+      "ownerOccupiers": 109,
       "lockUps": 0,
-      "outsideAgents": 18,
+      "outsideAgents": 31,
       "unitsInComplex": 208,
       "suburb": "Varsity Lakes",
       "state": "QLD",
@@ -4978,7 +4978,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "17 April 2026",
-      "lastUpdated": "2026-06-21 21:30:35"
+      "lastUpdated": "2026-06-26 13:15:07"
     },
     {
       "id": "21172190",
@@ -5064,10 +5064,10 @@
       "status": "current",
       "price": 240000,
       "priceView": "$240,000",
-      "netIncome": 63283,
+      "netIncome": 69592,
       "netIncomeBasis": "actual",
       "unitValue": 0,
-      "multiplier": 3.79,
+      "multiplier": 3.45,
       "bedrooms": 0,
       "bathrooms": 0,
       "carSpaces": 0,
@@ -5075,7 +5075,7 @@
       "pets": "0",
       "caretakingRemuneration": 63282,
       "agreementTerm": "25",
-      "agreementRemaining": "25",
+      "agreementRemaining": "15",
       "agreementAge": "0",
       "officeHours": "",
       "lettingPool": 7,
@@ -5092,7 +5092,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "23 March 2026",
-      "lastUpdated": "2026-06-21 21:30:28"
+      "lastUpdated": "2026-06-26 13:15:05"
     },
     {
       "id": "21172105",
@@ -5949,7 +5949,7 @@
       "pets": "1",
       "caretakingRemuneration": 358543,
       "agreementTerm": "25",
-      "agreementRemaining": "22",
+      "agreementRemaining": "20",
       "agreementAge": "0",
       "officeHours": "",
       "lettingPool": 77,
@@ -5966,7 +5966,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "02 March 2026",
-      "lastUpdated": "2026-06-21 21:30:30"
+      "lastUpdated": "2026-06-26 13:15:05"
     },
     {
       "id": "21170599",
@@ -16419,6 +16419,44 @@
       "lastUpdated": "2026-06-23 23:55:16"
     },
     {
+      "id": "21184995",
+      "url": "https://www.theonsitemanager.com.au/listing/21184995",
+      "title": "Townsville Permanent Management Rights with Exceptional Remuneration",
+      "category": "Permanent",
+      "status": "current",
+      "price": 1750000,
+      "priceView": "$1,750,000",
+      "netIncome": 296480,
+      "netIncomeBasis": "actual",
+      "unitValue": 0,
+      "multiplier": 5.9,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": true,
+      "pets": "yes",
+      "caretakingRemuneration": 216,
+      "agreementTerm": "25",
+      "agreementRemaining": "23",
+      "agreementAge": "0",
+      "officeHours": "No Set Office Hours ",
+      "lettingPool": 0,
+      "ownerOccupiers": 81,
+      "lockUps": 0,
+      "outsideAgents": 7,
+      "unitsInComplex": 20,
+      "suburb": "Rosslea",
+      "state": "QLD",
+      "postcode": "4812",
+      "agentName": "0",
+      "agentPhone": "0455 445 531",
+      "agentEmail": "info@hotelresortsales.com.au",
+      "agencyName": "Hotel Resort Sales",
+      "agencyWebsite": null,
+      "dateListed": "26 June 2026",
+      "lastUpdated": "2026-06-26 23:30:32"
+    },
+    {
       "id": "21175371",
       "url": "https://www.theonsitemanager.com.au/listing/21175371",
       "title": "Multiplier 3.09 | No Office Hours | 95% Wage Share | Eastern Suburbs | Management Rights Business for Sale",
@@ -16690,7 +16728,7 @@
       "title": "NEAR NEW BUSINESS-ONLY MANAGEMENT RIGHTS - $155k NET PROFIT - NO FACILITIES  | Resort Brokers ID : MRB009068",
       "category": "Permanent",
       "status": "current",
-      "price": 824767,
+      "price": 824764,
       "priceView": "$824,764",
       "netIncome": 155616,
       "netIncomeBasis": "actual",
@@ -16720,7 +16758,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "17 March 2026",
-      "lastUpdated": "2026-06-25 20:45:07"
+      "lastUpdated": "2026-06-26 13:15:04"
     },
     {
       "id": "21171726",
@@ -16893,7 +16931,7 @@
       "pets": "0",
       "caretakingRemuneration": 273791,
       "agreementTerm": "10",
-      "agreementRemaining": "10",
+      "agreementRemaining": "8",
       "agreementAge": "0",
       "officeHours": "",
       "lettingPool": 35,
@@ -16910,7 +16948,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "26 February 2026",
-      "lastUpdated": "2026-06-25 20:45:08"
+      "lastUpdated": "2026-06-26 13:15:06"
     },
     {
       "id": "21170709",
@@ -17119,7 +17157,7 @@
       "carSpaces": 2,
       "officeOnTitle": true,
       "pets": "1",
-      "caretakingRemuneration": 99490,
+      "caretakingRemuneration": 104166,
       "agreementTerm": "25",
       "agreementRemaining": "22",
       "agreementAge": "0",
@@ -17138,7 +17176,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "04 March 2026",
-      "lastUpdated": "2026-06-25 20:45:07"
+      "lastUpdated": "2026-06-26 13:15:05"
     },
     {
       "id": "21169266",
@@ -19193,6 +19231,44 @@
       "lastUpdated": "2026-04-10 04:13:39"
     },
     {
+      "id": "21185020",
+      "url": "https://www.theonsitemanager.com.au/listing/21185020",
+      "title": "Easy-Care Kangaroo Point Permanent MLR - $198K Net, No onsite requirement! | Resort Brokers ID : MR009268",
+      "category": "Permanent",
+      "status": "current",
+      "price": 1861025,
+      "priceView": "$1,861,025",
+      "netIncome": 197205,
+      "netIncomeBasis": "actual",
+      "unitValue": 875000,
+      "multiplier": 5.0,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "carSpaces": 1,
+      "officeOnTitle": false,
+      "pets": "1",
+      "caretakingRemuneration": 95775,
+      "agreementTerm": "25",
+      "agreementRemaining": "21",
+      "agreementAge": "0",
+      "officeHours": "No fixed office hours",
+      "lettingPool": 34,
+      "ownerOccupiers": 16,
+      "lockUps": 0,
+      "outsideAgents": 18,
+      "unitsInComplex": 69,
+      "suburb": "Kangaroo Point",
+      "state": "QLD",
+      "postcode": "4169",
+      "agentName": "Jessie Shi",
+      "agentPhone": "0422 935 428",
+      "agentEmail": "info@resortbrokers.com.au",
+      "agencyName": "Resort Brokers",
+      "agencyWebsite": null,
+      "dateListed": "26 June 2026",
+      "lastUpdated": "2026-06-26 13:15:11"
+    },
+    {
       "id": "21184674",
       "url": "https://www.theonsitemanager.com.au/listing/21184674",
       "title": "Noosa | $850,000+ Net Profit | Short-Stay Zoned | Resort Brokers ID : MR008686",
@@ -19548,7 +19624,7 @@
       "multiplier": 5.25,
       "bedrooms": 3,
       "bathrooms": 2,
-      "carSpaces": 2,
+      "carSpaces": 1,
       "officeOnTitle": true,
       "pets": "1",
       "caretakingRemuneration": 248111,
@@ -19570,7 +19646,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 June 2026",
-      "lastUpdated": "2026-06-21 21:30:50"
+      "lastUpdated": "2026-06-26 13:15:11"
     },
     {
       "id": "21182742",
@@ -19760,7 +19836,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "03 June 2026",
-      "lastUpdated": "2026-06-21 21:30:47"
+      "lastUpdated": "2026-06-26 13:15:10"
     },
     {
       "id": "21180334",
@@ -19836,7 +19912,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "27 May 2026",
-      "lastUpdated": "2026-06-21 21:30:46"
+      "lastUpdated": "2026-06-26 13:15:10"
     },
     {
       "id": "21179099",
@@ -19931,16 +20007,16 @@
       "carSpaces": 0,
       "officeOnTitle": false,
       "pets": "0",
-      "caretakingRemuneration": 0,
+      "caretakingRemuneration": 145751,
       "agreementTerm": "25",
-      "agreementRemaining": "0",
+      "agreementRemaining": "18",
       "agreementAge": "0",
-      "officeHours": "",
-      "lettingPool": 0,
-      "ownerOccupiers": 0,
+      "officeHours": "Required office hours",
+      "lettingPool": 13,
+      "ownerOccupiers": 72,
       "lockUps": 0,
-      "outsideAgents": 0,
-      "unitsInComplex": 0,
+      "outsideAgents": 5,
+      "unitsInComplex": 123,
       "suburb": "Mooloolaba",
       "state": "QLD",
       "postcode": "4557",
@@ -19950,7 +20026,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "25 May 2026",
-      "lastUpdated": "2026-06-24 20:30:08"
+      "lastUpdated": "2026-06-26 13:15:09"
     },
     {
       "id": "21178234",
@@ -20083,7 +20159,7 @@
       "carSpaces": 2,
       "officeOnTitle": true,
       "pets": "1",
-      "caretakingRemuneration": 468021,
+      "caretakingRemuneration": 488491,
       "agreementTerm": "25",
       "agreementRemaining": "24",
       "agreementAge": "0",
@@ -20102,7 +20178,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
-      "lastUpdated": "2026-06-24 20:30:07"
+      "lastUpdated": "2026-06-26 13:15:06"
     },
     {
       "id": "21176554",
@@ -20178,7 +20254,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
-      "lastUpdated": "2026-06-21 21:30:42"
+      "lastUpdated": "2026-06-26 13:15:09"
     },
     {
       "id": "21176498",
@@ -20254,7 +20330,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
-      "lastUpdated": "2026-06-21 21:30:42"
+      "lastUpdated": "2026-06-26 13:15:09"
     },
     {
       "id": "21176458",
@@ -20273,12 +20349,12 @@
       "carSpaces": 1,
       "officeOnTitle": true,
       "pets": "1",
-      "caretakingRemuneration": 106986,
+      "caretakingRemuneration": 97260,
       "agreementTerm": "25",
       "agreementRemaining": "19",
       "agreementAge": "0",
       "officeHours": "No set office hours",
-      "lettingPool": 17,
+      "lettingPool": 16,
       "ownerOccupiers": 2,
       "lockUps": 0,
       "outsideAgents": 2,
@@ -20292,7 +20368,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
-      "lastUpdated": "2026-06-21 21:30:41"
+      "lastUpdated": "2026-06-26 13:15:08"
     },
     {
       "id": "21176448",
@@ -20634,7 +20710,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 April 2026",
-      "lastUpdated": "2026-06-21 21:30:37"
+      "lastUpdated": "2026-06-26 13:15:07"
     },
     {
       "id": "21173256",
@@ -20682,10 +20758,10 @@
       "status": "current",
       "price": 5600000,
       "priceView": "$5,600,000",
-      "netIncome": 718727,
+      "netIncome": 748727,
       "netIncomeBasis": "actual",
       "unitValue": 1100000,
-      "multiplier": 6.26,
+      "multiplier": 6.01,
       "bedrooms": 2,
       "bathrooms": 2,
       "carSpaces": 1,
@@ -20710,7 +20786,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "10 April 2026",
-      "lastUpdated": "2026-06-21 21:30:38"
+      "lastUpdated": "2026-06-26 13:15:08"
     },
     {
       "id": "21183694",
@@ -20906,29 +20982,29 @@
       "id": "21183759",
       "url": "https://www.theonsitemanager.com.au/listing/21183759",
       "title": "Absolute Beachfront Management Rights - Surfers Paradise Icon | Resort Brokers ID : MR009253",
-      "category": "Permanent",
+      "category": "Resort / Holiday",
       "status": "current",
       "price": 4200000,
       "priceView": "$4,200,000",
       "netIncome": 470000,
       "netIncomeBasis": "actual",
-      "unitValue": 1200000,
-      "multiplier": 6.38,
+      "unitValue": 2100000,
+      "multiplier": 4.47,
       "bedrooms": 0,
       "bathrooms": 0,
       "carSpaces": 0,
       "officeOnTitle": false,
       "pets": "0",
-      "caretakingRemuneration": 93392,
+      "caretakingRemuneration": 120000,
       "agreementTerm": "10",
-      "agreementRemaining": "10",
+      "agreementRemaining": "20",
       "agreementAge": "0",
       "officeHours": "",
-      "lettingPool": 0,
-      "ownerOccupiers": 0,
-      "lockUps": 0,
+      "lettingPool": 18,
+      "ownerOccupiers": 4,
+      "lockUps": 10,
       "outsideAgents": 0,
-      "unitsInComplex": 0,
+      "unitsInComplex": 33,
       "suburb": "Surfers Paradise",
       "state": "QLD",
       "postcode": "4217",
@@ -20938,7 +21014,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "18 June 2026",
-      "lastUpdated": "2026-06-21 21:30:50"
+      "lastUpdated": "2026-06-26 13:15:11"
     },
     {
       "id": "21183388",
@@ -20946,12 +21022,12 @@
       "title": "High-Performing, Prime Coastal Management Rights with Strong Upside | Resort Brokers ID : MR009158",
       "category": "Resort / Holiday",
       "status": "current",
-      "price": 2425696,
-      "priceView": "$2,425,696",
+      "price": 2452696,
+      "priceView": "$2,452,696",
       "netIncome": 454938,
       "netIncomeBasis": "actual",
       "unitValue": 650000,
-      "multiplier": 3.9,
+      "multiplier": 3.96,
       "bedrooms": 2,
       "bathrooms": 1,
       "carSpaces": 1,
@@ -20962,8 +21038,8 @@
       "agreementRemaining": "9",
       "agreementAge": "0",
       "officeHours": "Monday to Friday from 8.30 am to 5.00 pm and on Saturday 8.30 am to 2.00 pm.",
-      "lettingPool": 45,
-      "ownerOccupiers": 23,
+      "lettingPool": 41,
+      "ownerOccupiers": 27,
       "lockUps": 4,
       "outsideAgents": 21,
       "unitsInComplex": 94,
@@ -20976,7 +21052,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "16 June 2026",
-      "lastUpdated": "2026-06-22 20:30:07"
+      "lastUpdated": "2026-06-26 13:15:08"
     },
     {
       "id": "21181334",
@@ -20995,7 +21071,7 @@
       "carSpaces": 0,
       "officeOnTitle": true,
       "pets": "0",
-      "caretakingRemuneration": 143007,
+      "caretakingRemuneration": 146010,
       "agreementTerm": "25",
       "agreementRemaining": "24",
       "agreementAge": "0",
@@ -21014,7 +21090,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "03 June 2026",
-      "lastUpdated": "2026-06-21 21:30:48"
+      "lastUpdated": "2026-06-26 13:15:11"
     },
     {
       "id": "21178884",
@@ -21026,7 +21102,7 @@
       "priceView": "$1,389,000",
       "netIncome": 131888,
       "netIncomeBasis": "actual",
-      "unitValue": 909013,
+      "unitValue": 909000,
       "multiplier": 3.64,
       "bedrooms": 3,
       "bathrooms": 2,
@@ -21052,7 +21128,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "25 May 2026",
-      "lastUpdated": "2026-06-21 21:30:44"
+      "lastUpdated": "2026-06-26 13:15:09"
     },
     {
       "id": "21177942",
@@ -21071,9 +21147,9 @@
       "carSpaces": 2,
       "officeOnTitle": true,
       "pets": "1",
-      "caretakingRemuneration": 183180,
+      "caretakingRemuneration": 189429,
       "agreementTerm": "25",
-      "agreementRemaining": "23",
+      "agreementRemaining": "22",
       "agreementAge": "0",
       "officeHours": "No Set Hours - contactable by phone during business hours 9am-5pm M-F",
       "lettingPool": 48,
@@ -21090,7 +21166,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "19 May 2026",
-      "lastUpdated": "2026-06-21 21:30:39"
+      "lastUpdated": "2026-06-26 13:15:08"
     }
   ]
 }
