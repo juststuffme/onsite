@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-07T06:20:14.272394",
-  "total": 468,
+  "scraped_at": "2026-07-08T05:32:56.438610",
+  "total": 467,
   "listings": [
     {
       "id": "21185060",
@@ -266,7 +266,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "2026-06-25 04:39:28",
-      "lastUpdated": "2026-07-01 06:58:57"
+      "lastUpdated": "2026-07-08 02:21:50"
     },
     {
       "id": "21184494",
@@ -647,44 +647,6 @@
       "agencyWebsite": null,
       "dateListed": "10 May 2026",
       "lastUpdated": "2026-07-01 06:22:17"
-    },
-    {
-      "id": "21186202",
-      "url": "https://www.theonsitemanager.com.au/listing/21186202",
-      "title": "Sunshine Beach Boutique Beauty with Exceptional Returns",
-      "category": "Holiday",
-      "status": "current",
-      "price": 1590000,
-      "priceView": "$1,590,000",
-      "netIncome": 150000,
-      "netIncomeBasis": "actual",
-      "unitValue": 1200000,
-      "multiplier": 2.6,
-      "bedrooms": 2,
-      "bathrooms": 2,
-      "carSpaces": 1,
-      "officeOnTitle": true,
-      "pets": "yes",
-      "caretakingRemuneration": 67855,
-      "agreementTerm": "25",
-      "agreementRemaining": "16",
-      "agreementAge": "0",
-      "officeHours": "",
-      "lettingPool": 8,
-      "ownerOccupiers": 5,
-      "lockUps": 2,
-      "outsideAgents": 2,
-      "unitsInComplex": 18,
-      "suburb": "Sunshine Beach",
-      "state": "QLD",
-      "postcode": "4567",
-      "agentName": "Alex Barker-Re",
-      "agentPhone": "0414835128",
-      "agentEmail": "info@cairnsbeaches.com",
-      "agencyName": "Calvin Bailey Management Rights",
-      "agencyWebsite": null,
-      "dateListed": "2026-07-06 06:44:59",
-      "lastUpdated": "2026-07-06 07:26:39"
     },
     {
       "id": "21185690",
@@ -1943,7 +1905,7 @@
     {
       "id": "21176488",
       "url": "https://www.theonsitemanager.com.au/listing/21176488",
-      "title": "Motivated Seller - Secure Beaudesert Best Permanent Rights with $281,745 Net Profit & 21-Year Term | Resort Brokers ID : MR009198",
+      "title": "MOTIVATED SELLER - Beaudesert Permanent Rights with $281,745 Net Profit  | Resort Brokers ID : MR009198",
       "category": "Permanent",
       "status": "current",
       "price": 1798000,
@@ -1956,7 +1918,7 @@
       "bathrooms": 3,
       "carSpaces": 2,
       "officeOnTitle": true,
-      "pets": "No",
+      "pets": "1",
       "caretakingRemuneration": 120823,
       "agreementTerm": "25",
       "agreementRemaining": "21",
@@ -1976,7 +1938,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
-      "lastUpdated": "2026-07-07 00:36:30"
+      "lastUpdated": "2026-07-07 21:30:12"
     },
     {
       "id": "21176388",
@@ -2014,7 +1976,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
-      "lastUpdated": "2026-07-05 21:00:34"
+      "lastUpdated": "2026-07-07 21:30:11"
     },
     {
       "id": "21176378",
@@ -2435,6 +2397,44 @@
       "lastUpdated": "2026-05-13 02:35:36"
     },
     {
+      "id": "21186202",
+      "url": "https://www.theonsitemanager.com.au/listing/21186202",
+      "title": "Sunshine Beach Boutique Beauty with Exceptional Returns",
+      "category": "Holiday",
+      "status": "current",
+      "price": 1590000,
+      "priceView": "$1,590,000",
+      "netIncome": 150000,
+      "netIncomeBasis": "actual",
+      "unitValue": 1200000,
+      "multiplier": 2.6,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "carSpaces": 1,
+      "officeOnTitle": true,
+      "pets": "yes",
+      "caretakingRemuneration": 67855,
+      "agreementTerm": "25",
+      "agreementRemaining": "16",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 8,
+      "ownerOccupiers": 5,
+      "lockUps": 2,
+      "outsideAgents": 2,
+      "unitsInComplex": 18,
+      "suburb": "Sunshine Beach",
+      "state": "QLD",
+      "postcode": "4567",
+      "agentName": "Alex Barker-Re",
+      "agentPhone": "0414835128",
+      "agentEmail": "info@cairnsbeaches.com",
+      "agencyName": "Calvin Bailey Management Rights",
+      "agencyWebsite": null,
+      "dateListed": "2026-07-06 06:44:59",
+      "lastUpdated": "2026-07-08 02:17:13"
+    },
+    {
       "id": "21185275",
       "url": "https://www.theonsitemanager.com.au/listing/21185275",
       "title": "Main Beach Management Rights with $300K B/C Salary, 22% ROI & Premium Coastal Lifestyle",
@@ -2546,7 +2546,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "2026-05-04 05:02:45",
-      "lastUpdated": "2026-07-05 23:44:41"
+      "lastUpdated": "2026-07-08 02:20:37"
     },
     {
       "id": "21183614",
@@ -2803,16 +2803,16 @@
       "lockUps": 0,
       "outsideAgents": 0,
       "unitsInComplex": 37,
-      "suburb": "Belmont",
+      "suburb": "Carindale",
       "state": "QLD",
-      "postcode": "4153",
+      "postcode": "4152",
       "agentName": "Bill LI",
       "agentPhone": "0420485088",
       "agentEmail": "sales@CedarRealty.com.au",
       "agencyName": "Cedar Realty",
       "agencyWebsite": null,
       "dateListed": "2026-06-03 07:08:18",
-      "lastUpdated": "2026-07-03 01:34:05"
+      "lastUpdated": "2026-07-07 15:01:19"
     },
     {
       "id": "21179024",
@@ -3230,7 +3230,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "06 July 2026",
-      "lastUpdated": "2026-07-06 13:15:19"
+      "lastUpdated": "2026-07-07 21:30:14"
     },
     {
       "id": "21186292",
@@ -3990,7 +3990,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "26 May 2026",
-      "lastUpdated": "2026-07-06 13:15:11"
+      "lastUpdated": "2026-07-07 21:30:13"
     },
     {
       "id": "21178874",
@@ -4712,7 +4712,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "16 June 2026",
-      "lastUpdated": "2026-07-05 21:00:35"
+      "lastUpdated": "2026-07-07 21:30:12"
     },
     {
       "id": "21181334",
@@ -5016,7 +5016,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "23 April 2026",
-      "lastUpdated": "2026-07-05 23:47:13"
+      "lastUpdated": "2026-07-08 02:18:22"
     },
     {
       "id": "21172649",
@@ -5285,6 +5285,44 @@
       "lastUpdated": "2026-07-02 00:43:46"
     },
     {
+      "id": "21168405",
+      "url": "https://www.theonsitemanager.com.au/listing/21168405",
+      "title": "Coolum Beach Icon",
+      "category": "Resort / Holiday",
+      "status": "current",
+      "price": 2690000,
+      "priceView": "$2,690,000",
+      "netIncome": 357000,
+      "netIncomeBasis": "actual",
+      "unitValue": 1140000,
+      "multiplier": 4.34,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "carSpaces": 1,
+      "officeOnTitle": true,
+      "pets": "No",
+      "caretakingRemuneration": 75000,
+      "agreementTerm": "25",
+      "agreementRemaining": "24",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 26,
+      "ownerOccupiers": 3,
+      "lockUps": 1,
+      "outsideAgents": 1,
+      "unitsInComplex": 32,
+      "suburb": "Coolum Beach",
+      "state": "QLD",
+      "postcode": "4573",
+      "agentName": "Alex Barker-Re",
+      "agentPhone": "0414 835 128",
+      "agentEmail": "info@cairnsbeaches.com",
+      "agencyName": "Calvin Bailey Management Rights",
+      "agencyWebsite": null,
+      "dateListed": "23 April 2026",
+      "lastUpdated": "2026-07-08 02:18:40"
+    },
+    {
       "id": "21168044",
       "url": "https://www.theonsitemanager.com.au/listing/21168044",
       "title": "Dual Key Goldmine in the Heart of Port Douglas, High Net, Long Agreements and Proven Performer",
@@ -5320,7 +5358,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "23 April 2026",
-      "lastUpdated": "2026-07-01 07:05:46"
+      "lastUpdated": "2026-07-08 02:23:51"
     },
     {
       "id": "21162062",
@@ -5396,7 +5434,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "23 April 2026",
-      "lastUpdated": "2026-07-01 07:03:43"
+      "lastUpdated": "2026-07-08 02:20:57"
     },
     {
       "id": "21157355",
@@ -5928,45 +5966,45 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "22 April 2026",
-      "lastUpdated": "2026-07-01 07:01:36"
+      "lastUpdated": "2026-07-08 02:22:10"
     },
     {
-      "id": "21164138",
-      "url": "https://www.theonsitemanager.com.au/listing/21164138",
-      "title": "Stunning Location in the Heart of the Sunshine Coast",
+      "id": "21163817",
+      "url": "https://www.theonsitemanager.com.au/listing/21163817",
+      "title": "Noosa Absolute Growth Opportunity",
       "category": "Resort / Holiday",
       "status": "current",
-      "price": 1675000,
-      "priceView": "$1,675,000",
-      "netIncome": 275000,
+      "price": 2165000,
+      "priceView": "$2,165,000",
+      "netIncome": 311000,
       "netIncomeBasis": "actual",
-      "unitValue": 695000,
-      "multiplier": 3.56,
+      "unitValue": 895000,
+      "multiplier": 4.08,
       "bedrooms": 2,
-      "bathrooms": 2,
+      "bathrooms": 1,
       "carSpaces": 1,
       "officeOnTitle": true,
-      "pets": "No",
-      "caretakingRemuneration": 95643,
+      "pets": "yes",
+      "caretakingRemuneration": 54800,
       "agreementTerm": "25",
-      "agreementRemaining": "22",
-      "agreementAge": "0",
+      "agreementRemaining": "19",
+      "agreementAge": "29",
       "officeHours": "",
-      "lettingPool": 28,
-      "ownerOccupiers": 2,
-      "lockUps": 3,
-      "outsideAgents": 3,
-      "unitsInComplex": 36,
-      "suburb": "Alexandra Headland",
+      "lettingPool": 18,
+      "ownerOccupiers": 1,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 20,
+      "suburb": "Noosa Heads",
       "state": "QLD",
-      "postcode": "4572",
+      "postcode": "4567",
       "agentName": "Alex Barker-Re",
-      "agentPhone": "0414 835 128",
+      "agentPhone": "0414835128",
       "agentEmail": "info@cairnsbeaches.com",
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "22 April 2026",
-      "lastUpdated": "2026-07-05 23:47:41"
+      "lastUpdated": "2026-07-08 02:18:01"
     },
     {
       "id": "21170876",
@@ -6460,7 +6498,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "22 April 2026",
-      "lastUpdated": "2026-07-05 21:00:32"
+      "lastUpdated": "2026-07-07 21:30:10"
     },
     {
       "id": "21173360",
@@ -6498,7 +6536,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "17 April 2026",
-      "lastUpdated": "2026-07-05 21:00:33"
+      "lastUpdated": "2026-07-07 21:30:11"
     },
     {
       "id": "21173340",
@@ -6954,7 +6992,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "26 March 2026",
-      "lastUpdated": "2026-07-05 21:00:33"
+      "lastUpdated": "2026-07-07 21:30:11"
     },
     {
       "id": "21172261",
@@ -7106,7 +7144,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "17 April 2026",
-      "lastUpdated": "2026-07-05 21:00:30"
+      "lastUpdated": "2026-07-07 21:30:08"
     },
     {
       "id": "21171998",
@@ -7296,7 +7334,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "16 March 2026",
-      "lastUpdated": "2026-07-05 21:00:30"
+      "lastUpdated": "2026-07-07 21:30:08"
     },
     {
       "id": "21171304",
@@ -7942,7 +7980,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "17 February 2026",
-      "lastUpdated": "2026-07-06 13:15:05"
+      "lastUpdated": "2026-07-07 21:30:07"
     },
     {
       "id": "21169867",
@@ -8322,7 +8360,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "22 April 2026",
-      "lastUpdated": "2026-07-01 07:08:22"
+      "lastUpdated": "2026-07-08 02:24:09"
     },
     {
       "id": "21168848",
@@ -8399,44 +8437,6 @@
       "agencyWebsite": null,
       "dateListed": "22 January 2026",
       "lastUpdated": "2026-06-05 02:00:03"
-    },
-    {
-      "id": "21168405",
-      "url": "https://www.theonsitemanager.com.au/listing/21168405",
-      "title": "Coolum Beach Icon",
-      "category": "Resort / Holiday",
-      "status": "current",
-      "price": 2690000,
-      "priceView": "$2,690,000",
-      "netIncome": 357000,
-      "netIncomeBasis": "actual",
-      "unitValue": 1140000,
-      "multiplier": 4.34,
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "carSpaces": 1,
-      "officeOnTitle": true,
-      "pets": "No",
-      "caretakingRemuneration": 75000,
-      "agreementTerm": "25",
-      "agreementRemaining": "24",
-      "agreementAge": "0",
-      "officeHours": "",
-      "lettingPool": 26,
-      "ownerOccupiers": 3,
-      "lockUps": 1,
-      "outsideAgents": 1,
-      "unitsInComplex": 32,
-      "suburb": "Coolum Beach",
-      "state": "QLD",
-      "postcode": "4573",
-      "agentName": "Alex Barker-Re",
-      "agentPhone": "0414 835 128",
-      "agentEmail": "info@cairnsbeaches.com",
-      "agencyName": "Calvin Bailey Management Rights",
-      "agencyWebsite": null,
-      "dateListed": "23 April 2026",
-      "lastUpdated": "2026-07-05 23:46:22"
     },
     {
       "id": "21168337",
@@ -9386,7 +9386,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 November 2025",
-      "lastUpdated": "2026-07-05 21:00:18"
+      "lastUpdated": "2026-07-07 21:30:03"
     },
     {
       "id": "21164642",
@@ -9539,44 +9539,6 @@
       "agencyWebsite": null,
       "dateListed": "06 November 2025",
       "lastUpdated": "2026-06-22 04:00:21"
-    },
-    {
-      "id": "21164253",
-      "url": "https://www.theonsitemanager.com.au/listing/21164253",
-      "title": "Boutique Sunshine Beach Lifestyle Opportunity",
-      "category": "Resort / Holiday",
-      "status": "current",
-      "price": 1590000,
-      "priceView": "$1,590,000",
-      "netIncome": 170000,
-      "netIncomeBasis": "projected",
-      "unitValue": 1200000,
-      "multiplier": 2.29,
-      "bedrooms": 2,
-      "bathrooms": 2,
-      "carSpaces": 1,
-      "officeOnTitle": true,
-      "pets": "No",
-      "caretakingRemuneration": 56460,
-      "agreementTerm": "25",
-      "agreementRemaining": "17",
-      "agreementAge": "0",
-      "officeHours": "As per agreements",
-      "lettingPool": 9,
-      "ownerOccupiers": 4,
-      "lockUps": 3,
-      "outsideAgents": 1,
-      "unitsInComplex": 18,
-      "suburb": "Sunshine Beach",
-      "state": "QLD",
-      "postcode": "4567",
-      "agentName": "Adam Langer",
-      "agentPhone": "0468317321",
-      "agentEmail": "matt@managementrights.com",
-      "agencyName": "Australian Resort Management Sales",
-      "agencyWebsite": null,
-      "dateListed": "14 April 2026",
-      "lastUpdated": "2026-05-05 04:22:07"
     },
     {
       "id": "21163319",
@@ -10374,7 +10336,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "17 April 2026",
-      "lastUpdated": "2026-07-01 07:11:37"
+      "lastUpdated": "2026-07-08 02:23:10"
     },
     {
       "id": "21156754",
@@ -11780,7 +11742,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "22 April 2026",
-      "lastUpdated": "2026-07-06 07:29:03"
+      "lastUpdated": "2026-07-08 02:16:56"
     },
     {
       "id": "21171916",
@@ -12122,7 +12084,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "22 April 2026",
-      "lastUpdated": "2026-07-05 23:45:00"
+      "lastUpdated": "2026-07-08 02:19:31"
     },
     {
       "id": "21168039",
@@ -12198,7 +12160,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "22 April 2026",
-      "lastUpdated": "2026-07-05 23:45:58"
+      "lastUpdated": "2026-07-08 02:20:18"
     },
     {
       "id": "21164813",
@@ -12236,45 +12198,83 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "23 April 2026",
-      "lastUpdated": "2026-07-05 23:45:36"
+      "lastUpdated": "2026-07-08 02:19:11"
     },
     {
-      "id": "21163817",
-      "url": "https://www.theonsitemanager.com.au/listing/21163817",
-      "title": "The True Noosa Lifestyle Awaits",
+      "id": "21164253",
+      "url": "https://www.theonsitemanager.com.au/listing/21164253",
+      "title": "Boutique Sunshine Beach Lifestyle Opportunity",
       "category": "Resort / Holiday",
       "status": "current",
-      "price": 2170000,
-      "priceView": "$2,170,000",
-      "netIncome": 310000,
-      "netIncomeBasis": "actual",
-      "unitValue": 895000,
-      "multiplier": 4.11,
+      "price": 1590000,
+      "priceView": "$1,590,000",
+      "netIncome": 170000,
+      "netIncomeBasis": "projected",
+      "unitValue": 1200000,
+      "multiplier": 2.29,
       "bedrooms": 2,
-      "bathrooms": 1,
+      "bathrooms": 2,
       "carSpaces": 1,
       "officeOnTitle": true,
-      "pets": "yes",
-      "caretakingRemuneration": 54800,
+      "pets": "No",
+      "caretakingRemuneration": 56460,
       "agreementTerm": "25",
-      "agreementRemaining": "19",
-      "agreementAge": "29",
-      "officeHours": "",
-      "lettingPool": 18,
-      "ownerOccupiers": 1,
-      "lockUps": 0,
-      "outsideAgents": 0,
-      "unitsInComplex": 20,
-      "suburb": "Noosa Heads",
+      "agreementRemaining": "17",
+      "agreementAge": "0",
+      "officeHours": "As per agreements",
+      "lettingPool": 9,
+      "ownerOccupiers": 4,
+      "lockUps": 3,
+      "outsideAgents": 1,
+      "unitsInComplex": 18,
+      "suburb": "Sunshine Beach",
       "state": "QLD",
       "postcode": "4567",
+      "agentName": "Adam Langer",
+      "agentPhone": "0468317321",
+      "agentEmail": "matt@managementrights.com",
+      "agencyName": "Australian Resort Management Sales",
+      "agencyWebsite": null,
+      "dateListed": "14 April 2026",
+      "lastUpdated": "2026-07-07 12:01:00"
+    },
+    {
+      "id": "21164138",
+      "url": "https://www.theonsitemanager.com.au/listing/21164138",
+      "title": "Stunning Location in the Heart of the Sunshine Coast",
+      "category": "Resort / Holiday",
+      "status": "current",
+      "price": 1675000,
+      "priceView": "$1,675,000",
+      "netIncome": 275000,
+      "netIncomeBasis": "actual",
+      "unitValue": 695000,
+      "multiplier": 3.56,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "carSpaces": 1,
+      "officeOnTitle": true,
+      "pets": "No",
+      "caretakingRemuneration": 95643,
+      "agreementTerm": "25",
+      "agreementRemaining": "22",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 28,
+      "ownerOccupiers": 2,
+      "lockUps": 3,
+      "outsideAgents": 3,
+      "unitsInComplex": 36,
+      "suburb": "Alexandra Headland",
+      "state": "QLD",
+      "postcode": "4572",
       "agentName": "Alex Barker-Re",
-      "agentPhone": "0414835128",
+      "agentPhone": "0414 835 128",
       "agentEmail": "info@cairnsbeaches.com",
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "22 April 2026",
-      "lastUpdated": "2026-07-05 23:45:19"
+      "lastUpdated": "2026-07-08 02:17:46"
     },
     {
       "id": "21162663",
@@ -12388,7 +12388,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "22 April 2026",
-      "lastUpdated": "2026-07-01 07:02:12"
+      "lastUpdated": "2026-07-08 02:23:34"
     },
     {
       "id": "21158010",
@@ -12621,21 +12621,21 @@
     {
       "id": "21151603",
       "url": "https://www.theonsitemanager.com.au/listing/21151603",
-      "title": "Discover Your Dream Investment Opportunity in Noosa Heads circa 14.2% ROI",
+      "title": "Prime Noosa Heads profitable business — Circa 14.2% ROI",
       "category": "Resort / Holiday",
       "status": "current",
-      "price": 2170000,
-      "priceView": "MR $1.275M + Unit $895K = $2.170M",
-      "netIncome": 310,
+      "price": 2165000,
+      "priceView": "MR $1.275M + Unit $890K = $2.165M",
+      "netIncome": 311,
       "netIncomeBasis": "actual",
       "unitValue": 0,
-      "multiplier": 7000.0,
+      "multiplier": 6961.41,
       "bedrooms": 2,
       "bathrooms": 1,
       "carSpaces": 1,
       "officeOnTitle": true,
       "pets": "1",
-      "caretakingRemuneration": 0,
+      "caretakingRemuneration": 49090,
       "agreementTerm": "25",
       "agreementRemaining": "19",
       "agreementAge": "0",
@@ -12654,7 +12654,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "06 May 2025",
-      "lastUpdated": "2026-05-26 01:00:03"
+      "lastUpdated": "2026-07-07 22:00:03"
     },
     {
       "id": "21151277",
@@ -12882,7 +12882,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "22 April 2026",
-      "lastUpdated": "2026-07-01 07:08:49"
+      "lastUpdated": "2026-07-08 02:21:24"
     },
     {
       "id": "21174148",
@@ -15238,7 +15238,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 April 2026",
-      "lastUpdated": "2026-07-05 21:00:32"
+      "lastUpdated": "2026-07-07 21:30:09"
     },
     {
       "id": "21172726",
@@ -15276,7 +15276,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "01 April 2026",
-      "lastUpdated": "2026-07-05 21:00:34"
+      "lastUpdated": "2026-07-07 21:30:12"
     },
     {
       "id": "21172598",
@@ -15314,7 +15314,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "30 March 2026",
-      "lastUpdated": "2026-07-05 21:00:33"
+      "lastUpdated": "2026-07-07 21:30:10"
     },
     {
       "id": "21172459",
@@ -15466,7 +15466,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 April 2026",
-      "lastUpdated": "2026-07-05 21:00:31"
+      "lastUpdated": "2026-07-07 21:30:09"
     },
     {
       "id": "21171238",
@@ -15504,7 +15504,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "09 March 2026",
-      "lastUpdated": "2026-07-05 21:00:29"
+      "lastUpdated": "2026-07-07 21:30:07"
     },
     {
       "id": "21170924",
@@ -15846,7 +15846,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "03 February 2026",
-      "lastUpdated": "2026-07-05 21:00:25"
+      "lastUpdated": "2026-07-07 21:30:05"
     },
     {
       "id": "21169127",
@@ -16989,44 +16989,6 @@
       "lastUpdated": "2026-04-10 04:13:39"
     },
     {
-      "id": "21129694",
-      "url": "https://www.theonsitemanager.com.au/listing/21129694",
-      "title": "MANAGEMENT RIGHTS FOR SALE - PRIME SURFERS PARADISE LOCATION",
-      "category": "Resort / Holiday",
-      "status": "current",
-      "price": 1650000,
-      "priceView": "$1,650,000",
-      "netIncome": 173492,
-      "netIncomeBasis": "actual",
-      "unitValue": 950000,
-      "multiplier": 4.03,
-      "bedrooms": 2,
-      "bathrooms": 2,
-      "carSpaces": 1,
-      "officeOnTitle": true,
-      "pets": "No",
-      "caretakingRemuneration": 57151,
-      "agreementTerm": "25",
-      "agreementRemaining": "23",
-      "agreementAge": "43",
-      "officeHours": "No set office hours",
-      "lettingPool": 12,
-      "ownerOccupiers": 10,
-      "lockUps": 2,
-      "outsideAgents": 0,
-      "unitsInComplex": 24,
-      "suburb": "Surfers Paradise",
-      "state": "QLD",
-      "postcode": "4217",
-      "agentName": "SCOTT SAUNDERS",
-      "agentPhone": "0432144822",
-      "agentEmail": "info@premiersales.com.au",
-      "agencyName": "Premier Business Sales",
-      "agencyWebsite": null,
-      "dateListed": "13 April 2026",
-      "lastUpdated": "2026-05-04 23:55:47"
-    },
-    {
       "id": "3855539",
       "url": "https://www.theonsitemanager.com.au/listing/3855539",
       "title": "Good located holiday/permanent complex with the returns",
@@ -17328,7 +17290,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 April 2026",
-      "lastUpdated": "2026-07-05 21:00:33"
+      "lastUpdated": "2026-07-07 21:30:11"
     },
     {
       "id": "21173505",
@@ -17366,7 +17328,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 April 2026",
-      "lastUpdated": "2026-07-05 21:00:28"
+      "lastUpdated": "2026-07-07 21:30:07"
     },
     {
       "id": "21173419",
@@ -17404,7 +17366,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 April 2026",
-      "lastUpdated": "2026-07-05 21:00:34"
+      "lastUpdated": "2026-07-07 21:30:11"
     },
     {
       "id": "21173399",
@@ -17442,7 +17404,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 April 2026",
-      "lastUpdated": "2026-07-05 21:00:32"
+      "lastUpdated": "2026-07-07 21:30:10"
     },
     {
       "id": "21173339",
@@ -17480,7 +17442,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 April 2026",
-      "lastUpdated": "2026-07-05 21:00:35"
+      "lastUpdated": "2026-07-07 21:30:12"
     },
     {
       "id": "21173256",
