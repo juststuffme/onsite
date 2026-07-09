@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-08T05:32:56.438610",
-  "total": 467,
+  "scraped_at": "2026-07-09T06:17:25.445062",
+  "total": 462,
   "listings": [
     {
       "id": "21185060",
@@ -231,6 +231,44 @@
       "lastUpdated": "2026-07-02 21:22:45"
     },
     {
+      "id": "21185265",
+      "url": "https://www.theonsitemanager.com.au/listing/21185265",
+      "title": "High NOP $415K Business-Only Permanent MLR! No Real Estate & No Office Hours! | Resort Brokers ID : MRB009259",
+      "category": "Permanent",
+      "status": "current",
+      "price": 2695466,
+      "priceView": "$2,695,466",
+      "netIncome": 414687,
+      "netIncomeBasis": "actual",
+      "unitValue": 0,
+      "multiplier": 6.5,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": false,
+      "pets": "0",
+      "caretakingRemuneration": 158123,
+      "agreementTerm": "25",
+      "agreementRemaining": "21",
+      "agreementAge": "0",
+      "officeHours": "No fixed office hours",
+      "lettingPool": 74,
+      "ownerOccupiers": 43,
+      "lockUps": 0,
+      "outsideAgents": 10,
+      "unitsInComplex": 127,
+      "suburb": "East Brisbane",
+      "state": "QLD",
+      "postcode": "4102",
+      "agentName": "Jessie Shi",
+      "agentPhone": "0422 935 428",
+      "agentEmail": "info@resortbrokers.com.au",
+      "agencyName": "Resort Brokers",
+      "agencyWebsite": null,
+      "dateListed": "29 June 2026",
+      "lastUpdated": "2026-07-09 02:00:51"
+    },
+    {
       "id": "21184794",
       "url": "https://www.theonsitemanager.com.au/listing/21184794",
       "title": "27% ROI on the Business and 3.65 X Multiplier in Premier Location",
@@ -457,6 +495,44 @@
       "agencyWebsite": null,
       "dateListed": "2026-05-28 23:25:57",
       "lastUpdated": "2026-07-02 21:56:54"
+    },
+    {
+      "id": "21177962",
+      "url": "https://www.theonsitemanager.com.au/listing/21177962",
+      "title": "Business Only - Newly Built Townhouse Complex Offering over $230k Net Profit | Resort Brokers ID : MRB009216",
+      "category": "Permanent",
+      "status": "current",
+      "price": 1220000,
+      "priceView": "$1,220,000",
+      "netIncome": 230856,
+      "netIncomeBasis": "actual",
+      "unitValue": 0,
+      "multiplier": 5.28,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": false,
+      "pets": "0",
+      "caretakingRemuneration": 58913,
+      "agreementTerm": "25",
+      "agreementRemaining": "23",
+      "agreementAge": "0",
+      "officeHours": "No",
+      "lettingPool": 42,
+      "ownerOccupiers": 3,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 45,
+      "suburb": "Mitchelton",
+      "state": "QLD",
+      "postcode": "4053",
+      "agentName": "Jeff Keast",
+      "agentPhone": "0414 669 007",
+      "agentEmail": "info@resortbrokers.com.au",
+      "agencyName": "Resort Brokers",
+      "agencyWebsite": null,
+      "dateListed": "19 May 2026",
+      "lastUpdated": "2026-07-09 02:00:44"
     },
     {
       "id": "21177459",
@@ -1292,7 +1368,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "24 June 2026",
-      "lastUpdated": "2026-07-05 21:00:47"
+      "lastUpdated": "2026-07-09 02:00:51"
     },
     {
       "id": "21183799",
@@ -1368,7 +1444,7 @@
       "agencyName": "Shine Realty",
       "agencyWebsite": null,
       "dateListed": "2026-06-18 21:51:43",
-      "lastUpdated": "2026-06-19 00:46:09"
+      "lastUpdated": "2026-07-08 13:48:11"
     },
     {
       "id": "21183433",
@@ -1482,7 +1558,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "09 June 2026",
-      "lastUpdated": "2026-07-05 21:00:44"
+      "lastUpdated": "2026-07-09 02:00:48"
     },
     {
       "id": "21181715",
@@ -1520,7 +1596,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "07 June 2026",
-      "lastUpdated": "2026-07-06 13:15:11"
+      "lastUpdated": "2026-07-09 02:00:44"
     },
     {
       "id": "21181555",
@@ -1672,7 +1748,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "03 June 2026",
-      "lastUpdated": "2026-07-05 21:00:42"
+      "lastUpdated": "2026-07-09 02:00:46"
     },
     {
       "id": "21181189",
@@ -1748,7 +1824,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "29 May 2026",
-      "lastUpdated": "2026-07-06 13:15:11"
+      "lastUpdated": "2026-07-09 02:00:45"
     },
     {
       "id": "21180114",
@@ -1938,7 +2014,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
-      "lastUpdated": "2026-07-07 21:30:12"
+      "lastUpdated": "2026-07-09 02:00:41"
     },
     {
       "id": "21176388",
@@ -1976,7 +2052,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
-      "lastUpdated": "2026-07-07 21:30:11"
+      "lastUpdated": "2026-07-09 02:00:34"
     },
     {
       "id": "21176378",
@@ -2014,7 +2090,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
-      "lastUpdated": "2026-07-05 21:00:08"
+      "lastUpdated": "2026-07-09 02:00:09"
     },
     {
       "id": "21175206",
@@ -3202,10 +3278,10 @@
       "status": "current",
       "price": 1350000,
       "priceView": "$1,350,000",
-      "netIncome": 313313,
+      "netIncome": 348996,
       "netIncomeBasis": "actual",
       "unitValue": 350000,
-      "multiplier": 3.19,
+      "multiplier": 2.87,
       "bedrooms": 2,
       "bathrooms": 2,
       "carSpaces": 1,
@@ -3230,7 +3306,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "06 July 2026",
-      "lastUpdated": "2026-07-07 21:30:14"
+      "lastUpdated": "2026-07-09 02:00:53"
     },
     {
       "id": "21186292",
@@ -3268,45 +3344,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "06 July 2026",
-      "lastUpdated": "2026-07-06 13:15:16"
-    },
-    {
-      "id": "21185265",
-      "url": "https://www.theonsitemanager.com.au/listing/21185265",
-      "title": "High NOP $415K Business-Only Permanent MLR! No Real Estate & No Office Hours! | Resort Brokers ID : MRB009259",
-      "category": "Permanent",
-      "status": "current",
-      "price": 2695466,
-      "priceView": "$2,695,466",
-      "netIncome": 414687,
-      "netIncomeBasis": "actual",
-      "unitValue": 0,
-      "multiplier": 6.5,
-      "bedrooms": 0,
-      "bathrooms": 0,
-      "carSpaces": 0,
-      "officeOnTitle": false,
-      "pets": "0",
-      "caretakingRemuneration": 158123,
-      "agreementTerm": "25",
-      "agreementRemaining": "21",
-      "agreementAge": "0",
-      "officeHours": "No fixed office hours",
-      "lettingPool": 74,
-      "ownerOccupiers": 43,
-      "lockUps": 0,
-      "outsideAgents": 10,
-      "unitsInComplex": 127,
-      "suburb": "East Brisbane",
-      "state": "QLD",
-      "postcode": "4102",
-      "agentName": "Jessie Shi",
-      "agentPhone": "0422 935 428",
-      "agentEmail": "info@resortbrokers.com.au",
-      "agencyName": "Resort Brokers",
-      "agencyWebsite": null,
-      "dateListed": "29 June 2026",
-      "lastUpdated": "2026-07-05 21:00:46"
+      "lastUpdated": "2026-07-09 02:00:52"
     },
     {
       "id": "21185255",
@@ -3344,7 +3382,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "29 June 2026",
-      "lastUpdated": "2026-07-05 21:00:41"
+      "lastUpdated": "2026-07-09 02:00:45"
     },
     {
       "id": "21185020",
@@ -3382,7 +3420,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "26 June 2026",
-      "lastUpdated": "2026-07-05 21:00:47"
+      "lastUpdated": "2026-07-09 02:00:52"
     },
     {
       "id": "21184674",
@@ -3420,7 +3458,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "24 June 2026",
-      "lastUpdated": "2026-07-06 13:15:04"
+      "lastUpdated": "2026-07-09 02:00:10"
     },
     {
       "id": "21184279",
@@ -3458,7 +3496,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "22 June 2026",
-      "lastUpdated": "2026-07-05 21:00:46"
+      "lastUpdated": "2026-07-09 02:00:51"
     },
     {
       "id": "21184174",
@@ -3534,7 +3572,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "18 June 2026",
-      "lastUpdated": "2026-07-05 21:00:46"
+      "lastUpdated": "2026-07-09 02:00:50"
     },
     {
       "id": "21183649",
@@ -3572,7 +3610,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "18 June 2026",
-      "lastUpdated": "2026-07-05 21:00:45"
+      "lastUpdated": "2026-07-09 02:00:50"
     },
     {
       "id": "21183639",
@@ -3610,7 +3648,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "18 June 2026",
-      "lastUpdated": "2026-07-05 21:00:19"
+      "lastUpdated": "2026-07-09 02:00:19"
     },
     {
       "id": "21183173",
@@ -3648,7 +3686,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "15 June 2026",
-      "lastUpdated": "2026-07-05 21:00:46"
+      "lastUpdated": "2026-07-09 02:00:50"
     },
     {
       "id": "21182752",
@@ -3686,7 +3724,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 June 2026",
-      "lastUpdated": "2026-07-05 21:00:45"
+      "lastUpdated": "2026-07-09 02:00:50"
     },
     {
       "id": "21182742",
@@ -3724,7 +3762,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 June 2026",
-      "lastUpdated": "2026-07-05 21:00:45"
+      "lastUpdated": "2026-07-09 02:00:49"
     },
     {
       "id": "21182422",
@@ -3762,7 +3800,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "10 June 2026",
-      "lastUpdated": "2026-07-05 21:00:44"
+      "lastUpdated": "2026-07-09 02:00:49"
     },
     {
       "id": "21182412",
@@ -3800,7 +3838,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "10 June 2026",
-      "lastUpdated": "2026-07-05 21:00:44"
+      "lastUpdated": "2026-07-09 02:00:48"
     },
     {
       "id": "21181951",
@@ -3838,7 +3876,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "08 June 2026",
-      "lastUpdated": "2026-07-05 21:00:43"
+      "lastUpdated": "2026-07-09 02:00:47"
     },
     {
       "id": "21181304",
@@ -3876,7 +3914,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "03 June 2026",
-      "lastUpdated": "2026-07-06 13:15:12"
+      "lastUpdated": "2026-07-09 02:00:47"
     },
     {
       "id": "21180334",
@@ -3914,7 +3952,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "01 June 2026",
-      "lastUpdated": "2026-07-06 13:15:12"
+      "lastUpdated": "2026-07-09 02:00:46"
     },
     {
       "id": "21179924",
@@ -3952,7 +3990,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "27 May 2026",
-      "lastUpdated": "2026-07-06 13:15:12"
+      "lastUpdated": "2026-07-09 02:00:46"
     },
     {
       "id": "21179099",
@@ -3990,7 +4028,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "26 May 2026",
-      "lastUpdated": "2026-07-07 21:30:13"
+      "lastUpdated": "2026-07-09 02:00:45"
     },
     {
       "id": "21178874",
@@ -4028,7 +4066,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "25 May 2026",
-      "lastUpdated": "2026-07-06 13:15:10"
+      "lastUpdated": "2026-07-09 02:00:41"
     },
     {
       "id": "21178864",
@@ -4066,7 +4104,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "25 May 2026",
-      "lastUpdated": "2026-07-05 21:00:39"
+      "lastUpdated": "2026-07-09 02:00:41"
     },
     {
       "id": "21178234",
@@ -4104,45 +4142,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "20 May 2026",
-      "lastUpdated": "2026-07-06 13:15:11"
-    },
-    {
-      "id": "21177962",
-      "url": "https://www.theonsitemanager.com.au/listing/21177962",
-      "title": "Business Only - Newly Built Townhouse Complex Offering over $230k Net Profit | Resort Brokers ID : MRB009216",
-      "category": "Permanent",
-      "status": "current",
-      "price": 1220000,
-      "priceView": "$1,220,000",
-      "netIncome": 230856,
-      "netIncomeBasis": "actual",
-      "unitValue": 0,
-      "multiplier": 5.28,
-      "bedrooms": 0,
-      "bathrooms": 0,
-      "carSpaces": 0,
-      "officeOnTitle": false,
-      "pets": "0",
-      "caretakingRemuneration": 58913,
-      "agreementTerm": "25",
-      "agreementRemaining": "23",
-      "agreementAge": "0",
-      "officeHours": "No",
-      "lettingPool": 42,
-      "ownerOccupiers": 3,
-      "lockUps": 0,
-      "outsideAgents": 0,
-      "unitsInComplex": 45,
-      "suburb": "Mitchelton",
-      "state": "QLD",
-      "postcode": "4053",
-      "agentName": "Jeff Keast",
-      "agentPhone": "0414 669 007",
-      "agentEmail": "info@resortbrokers.com.au",
-      "agencyName": "Resort Brokers",
-      "agencyWebsite": null,
-      "dateListed": "19 May 2026",
-      "lastUpdated": "2026-07-05 21:00:41"
+      "lastUpdated": "2026-07-09 02:00:42"
     },
     {
       "id": "21176676",
@@ -4180,7 +4180,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
-      "lastUpdated": "2026-07-05 21:00:39"
+      "lastUpdated": "2026-07-09 02:00:42"
     },
     {
       "id": "21176636",
@@ -4201,7 +4201,7 @@
       "pets": "1",
       "caretakingRemuneration": 488491,
       "agreementTerm": "25",
-      "agreementRemaining": "24",
+      "agreementRemaining": "0",
       "agreementAge": "0",
       "officeHours": "None set current managers operate - 8.00 AM to 4.00 PM - Monday to Friday",
       "lettingPool": 117,
@@ -4218,7 +4218,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
-      "lastUpdated": "2026-07-05 21:00:31"
+      "lastUpdated": "2026-07-09 02:00:32"
     },
     {
       "id": "21176508",
@@ -4256,7 +4256,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
-      "lastUpdated": "2026-07-06 13:15:10"
+      "lastUpdated": "2026-07-09 02:00:41"
     },
     {
       "id": "21176498",
@@ -4294,7 +4294,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
-      "lastUpdated": "2026-07-06 13:15:06"
+      "lastUpdated": "2026-07-09 02:00:37"
     },
     {
       "id": "21176458",
@@ -4332,7 +4332,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
-      "lastUpdated": "2026-07-06 13:15:09"
+      "lastUpdated": "2026-07-09 02:00:39"
     },
     {
       "id": "21176448",
@@ -4362,15 +4362,15 @@
       "outsideAgents": 19,
       "unitsInComplex": 174,
       "suburb": "Cannon Hill",
-      "state": "",
-      "postcode": "",
+      "state": "QLD",
+      "postcode": "4170",
       "agentName": "Jessie Shi",
       "agentPhone": "0422 935 428",
       "agentEmail": "info@resortbrokers.com.au",
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
-      "lastUpdated": "2026-07-06 13:15:09"
+      "lastUpdated": "2026-07-09 02:00:39"
     },
     {
       "id": "21176438",
@@ -4408,7 +4408,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
-      "lastUpdated": "2026-07-06 13:15:09"
+      "lastUpdated": "2026-07-09 02:00:40"
     },
     {
       "id": "21176418",
@@ -4446,7 +4446,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
-      "lastUpdated": "2026-07-06 13:15:09"
+      "lastUpdated": "2026-07-09 02:00:39"
     },
     {
       "id": "21176197",
@@ -4636,7 +4636,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "02 July 2026",
-      "lastUpdated": "2026-07-05 21:00:28"
+      "lastUpdated": "2026-07-09 02:00:29"
     },
     {
       "id": "21183759",
@@ -4674,7 +4674,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "18 June 2026",
-      "lastUpdated": "2026-07-05 21:00:45"
+      "lastUpdated": "2026-07-09 02:00:50"
     },
     {
       "id": "21183388",
@@ -4712,7 +4712,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "16 June 2026",
-      "lastUpdated": "2026-07-07 21:30:12"
+      "lastUpdated": "2026-07-09 02:00:35"
     },
     {
       "id": "21181334",
@@ -4750,7 +4750,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "03 June 2026",
-      "lastUpdated": "2026-07-06 13:15:13"
+      "lastUpdated": "2026-07-09 02:00:48"
     },
     {
       "id": "21178884",
@@ -4788,7 +4788,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "25 May 2026",
-      "lastUpdated": "2026-07-06 13:15:11"
+      "lastUpdated": "2026-07-09 02:00:43"
     },
     {
       "id": "21177942",
@@ -4826,7 +4826,45 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "19 May 2026",
-      "lastUpdated": "2026-07-06 13:15:07"
+      "lastUpdated": "2026-07-09 02:00:37"
+    },
+    {
+      "id": "21135566",
+      "url": "https://www.theonsitemanager.com.au/listing/21135566",
+      "title": "Management Rights for sale, Townsville",
+      "category": "Permanent",
+      "status": "current",
+      "price": 925000,
+      "priceView": "3.7x Multiplier",
+      "netIncome": 250000,
+      "netIncomeBasis": "actual",
+      "unitValue": 0,
+      "multiplier": 3.7,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "carSpaces": 1,
+      "officeOnTitle": true,
+      "pets": "yes",
+      "caretakingRemuneration": 156000,
+      "agreementTerm": "25",
+      "agreementRemaining": "23",
+      "agreementAge": "17",
+      "officeHours": "no set office hours",
+      "lettingPool": 38,
+      "ownerOccupiers": 44,
+      "lockUps": 0,
+      "outsideAgents": 7,
+      "unitsInComplex": 84,
+      "suburb": "West End",
+      "state": "QLD",
+      "postcode": "4810",
+      "agentName": "Roger Hu",
+      "agentPhone": "0468456168",
+      "agentEmail": "weh@wulgurutrading.com",
+      "agencyName": "WESTEND ON HENRY PROPERTY MANAGEMENT",
+      "agencyWebsite": null,
+      "dateListed": "09 March 2026",
+      "lastUpdated": "2026-07-09 05:28:21"
     },
     {
       "id": "21100965",
@@ -5435,44 +5473,6 @@
       "agencyWebsite": null,
       "dateListed": "23 April 2026",
       "lastUpdated": "2026-07-08 02:20:57"
-    },
-    {
-      "id": "21157355",
-      "url": "https://www.theonsitemanager.com.au/listing/21157355",
-      "title": "MANAGEMENT RIGHTS GOLD COAST - ABSOLUTE BEACHFRONT GEM",
-      "category": "Resort / Holiday",
-      "status": "current",
-      "price": 1790000,
-      "priceView": "$1,790,000",
-      "netIncome": 205000,
-      "netIncomeBasis": "actual",
-      "unitValue": 975000,
-      "multiplier": 3.98,
-      "bedrooms": 2,
-      "bathrooms": 2,
-      "carSpaces": 2,
-      "officeOnTitle": true,
-      "pets": "No",
-      "caretakingRemuneration": 83529,
-      "agreementTerm": "25",
-      "agreementRemaining": "22",
-      "agreementAge": "0",
-      "officeHours": "Set",
-      "lettingPool": 18,
-      "ownerOccupiers": 11,
-      "lockUps": 5,
-      "outsideAgents": 1,
-      "unitsInComplex": 35,
-      "suburb": "Tugun",
-      "state": "QLD",
-      "postcode": "4224",
-      "agentName": "SCOTT SAUNDERS",
-      "agentPhone": "0432 144 822",
-      "agentEmail": "info@premiersales.com.au",
-      "agencyName": "Premier Business Sales",
-      "agencyWebsite": null,
-      "dateListed": "02 April 2026",
-      "lastUpdated": "2026-07-06 06:24:58"
     },
     {
       "id": "21151958",
@@ -6498,7 +6498,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "22 April 2026",
-      "lastUpdated": "2026-07-07 21:30:10"
+      "lastUpdated": "2026-07-09 02:00:33"
     },
     {
       "id": "21173360",
@@ -6536,7 +6536,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "17 April 2026",
-      "lastUpdated": "2026-07-07 21:30:11"
+      "lastUpdated": "2026-07-09 02:00:34"
     },
     {
       "id": "21173340",
@@ -6574,7 +6574,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "17 April 2026",
-      "lastUpdated": "2026-07-06 13:15:05"
+      "lastUpdated": "2026-07-09 02:00:36"
     },
     {
       "id": "21173221",
@@ -6992,7 +6992,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "26 March 2026",
-      "lastUpdated": "2026-07-07 21:30:11"
+      "lastUpdated": "2026-07-09 02:00:34"
     },
     {
       "id": "21172261",
@@ -7030,7 +7030,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "17 April 2026",
-      "lastUpdated": "2026-07-05 21:00:32"
+      "lastUpdated": "2026-07-09 02:00:33"
     },
     {
       "id": "21172190",
@@ -7106,7 +7106,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "23 March 2026",
-      "lastUpdated": "2026-07-05 21:00:26"
+      "lastUpdated": "2026-07-09 02:00:27"
     },
     {
       "id": "21172105",
@@ -7144,7 +7144,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "17 April 2026",
-      "lastUpdated": "2026-07-07 21:30:08"
+      "lastUpdated": "2026-07-09 02:00:30"
     },
     {
       "id": "21171998",
@@ -7334,7 +7334,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "16 March 2026",
-      "lastUpdated": "2026-07-07 21:30:08"
+      "lastUpdated": "2026-07-09 02:00:31"
     },
     {
       "id": "21171304",
@@ -7524,7 +7524,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "08 April 2026",
-      "lastUpdated": "2026-07-05 21:00:30"
+      "lastUpdated": "2026-07-09 02:00:30"
     },
     {
       "id": "21170922",
@@ -7752,7 +7752,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "02 March 2026",
-      "lastUpdated": "2026-07-05 21:00:28"
+      "lastUpdated": "2026-07-09 02:00:29"
     },
     {
       "id": "21170554",
@@ -7790,7 +7790,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "23 February 2026",
-      "lastUpdated": "2026-07-05 21:00:28"
+      "lastUpdated": "2026-07-09 02:00:28"
     },
     {
       "id": "21170521",
@@ -7942,7 +7942,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "17 February 2026",
-      "lastUpdated": "2026-07-05 21:00:26"
+      "lastUpdated": "2026-07-09 02:00:27"
     },
     {
       "id": "21170182",
@@ -7980,7 +7980,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "17 February 2026",
-      "lastUpdated": "2026-07-07 21:30:07"
+      "lastUpdated": "2026-07-09 02:00:28"
     },
     {
       "id": "21169867",
@@ -8056,7 +8056,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "09 February 2026",
-      "lastUpdated": "2026-07-05 21:00:18"
+      "lastUpdated": "2026-07-09 02:00:18"
     },
     {
       "id": "21169534",
@@ -8398,7 +8398,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "27 January 2026",
-      "lastUpdated": "2026-07-05 21:00:25"
+      "lastUpdated": "2026-07-09 02:00:26"
     },
     {
       "id": "21168465",
@@ -8664,7 +8664,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "25 February 2026",
-      "lastUpdated": "2026-07-05 21:00:20"
+      "lastUpdated": "2026-07-09 02:00:20"
     },
     {
       "id": "21167741",
@@ -8740,7 +8740,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "08 January 2026",
-      "lastUpdated": "2026-07-05 21:00:13"
+      "lastUpdated": "2026-07-09 02:00:14"
     },
     {
       "id": "21167566",
@@ -8778,7 +8778,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "08 January 2026",
-      "lastUpdated": "2026-07-05 21:00:12"
+      "lastUpdated": "2026-07-09 02:00:12"
     },
     {
       "id": "21167507",
@@ -8816,7 +8816,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "08 January 2026",
-      "lastUpdated": "2026-07-05 21:00:20"
+      "lastUpdated": "2026-07-09 02:00:20"
     },
     {
       "id": "21167467",
@@ -8854,7 +8854,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "23 April 2026",
-      "lastUpdated": "2026-07-05 21:00:12"
+      "lastUpdated": "2026-07-09 02:00:12"
     },
     {
       "id": "21167376",
@@ -8968,45 +8968,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "19 December 2025",
-      "lastUpdated": "2026-07-05 21:00:11"
-    },
-    {
-      "id": "21166732",
-      "url": "https://www.theonsitemanager.com.au/listing/21166732",
-      "title": "New Birtinya MLR – A Rare Opportunity to Secure with a Leading Developer | Resort Brokers ID : OTP008916",
-      "category": "Off The Plan",
-      "status": "current",
-      "price": 4785951,
-      "priceView": "$4,785,951",
-      "netIncome": 845173,
-      "netIncomeBasis": "actual",
-      "unitValue": 137500,
-      "multiplier": 5.5,
-      "bedrooms": 0,
-      "bathrooms": 0,
-      "carSpaces": 0,
-      "officeOnTitle": false,
-      "pets": "0",
-      "caretakingRemuneration": 336000,
-      "agreementTerm": "25",
-      "agreementRemaining": "25",
-      "agreementAge": "0",
-      "officeHours": "No set hours",
-      "lettingPool": 132,
-      "ownerOccupiers": 68,
-      "lockUps": 0,
-      "outsideAgents": 0,
-      "unitsInComplex": 200,
-      "suburb": "Birtinya",
-      "state": "QLD",
-      "postcode": "4575",
-      "agentName": "Chenoa Daniel",
-      "agentPhone": "0403 143 151",
-      "agentEmail": "info@resortbrokers.com.au",
-      "agencyName": "Resort Brokers",
-      "agencyWebsite": null,
-      "dateListed": "18 December 2025",
-      "lastUpdated": "2026-07-05 21:00:15"
+      "lastUpdated": "2026-07-09 02:00:12"
     },
     {
       "id": "21166275",
@@ -9386,45 +9348,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 November 2025",
-      "lastUpdated": "2026-07-07 21:30:03"
-    },
-    {
-      "id": "21164642",
-      "url": "https://www.theonsitemanager.com.au/listing/21164642",
-      "title": "Northern Gold Coast – Caretaking Only – Very Minimal Duties | Resort Brokers ID : MRC008977",
-      "category": "Permanent",
-      "status": "current",
-      "price": 1100000,
-      "priceView": "$1,100,000",
-      "netIncome": 92000,
-      "netIncomeBasis": "actual",
-      "unitValue": 750000,
-      "multiplier": 3.8,
-      "bedrooms": 4,
-      "bathrooms": 2,
-      "carSpaces": 2,
-      "officeOnTitle": true,
-      "pets": "1",
-      "caretakingRemuneration": 99793,
-      "agreementTerm": "10",
-      "agreementRemaining": "9",
-      "agreementAge": "0",
-      "officeHours": "No office hours",
-      "lettingPool": 0,
-      "ownerOccupiers": 35,
-      "lockUps": 0,
-      "outsideAgents": 0,
-      "unitsInComplex": 46,
-      "suburb": "Coombabah",
-      "state": "QLD",
-      "postcode": "4216",
-      "agentName": "Clint Amos",
-      "agentPhone": "0482 061 261",
-      "agentEmail": "info@resortbrokers.com.au",
-      "agencyName": "Resort Brokers",
-      "agencyWebsite": null,
-      "dateListed": "13 November 2025",
-      "lastUpdated": "2026-07-05 21:00:19"
+      "lastUpdated": "2026-07-09 02:00:18"
     },
     {
       "id": "21164575",
@@ -9462,7 +9386,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "12 November 2025",
-      "lastUpdated": "2026-07-05 21:00:19"
+      "lastUpdated": "2026-07-09 02:00:19"
     },
     {
       "id": "21164451",
@@ -9614,7 +9538,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "20 October 2025",
-      "lastUpdated": "2026-07-05 21:00:16"
+      "lastUpdated": "2026-07-09 02:00:16"
     },
     {
       "id": "21163169",
@@ -9652,7 +9576,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "17 October 2025",
-      "lastUpdated": "2026-07-05 21:00:07"
+      "lastUpdated": "2026-07-09 02:00:08"
     },
     {
       "id": "21162334",
@@ -9994,7 +9918,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "08 September 2025",
-      "lastUpdated": "2026-07-05 21:00:13"
+      "lastUpdated": "2026-07-09 02:00:13"
     },
     {
       "id": "21160415",
@@ -10299,6 +10223,44 @@
       "agencyWebsite": null,
       "dateListed": "02 April 2026",
       "lastUpdated": "2026-05-05 04:27:16"
+    },
+    {
+      "id": "21157355",
+      "url": "https://www.theonsitemanager.com.au/listing/21157355",
+      "title": "MANAGEMENT RIGHTS GOLD COAST - ABSOLUTE BEACHFRONT GEM",
+      "category": "Resort / Holiday",
+      "status": "current",
+      "price": 1790000,
+      "priceView": "$1,790,000",
+      "netIncome": 213684,
+      "netIncomeBasis": "actual",
+      "unitValue": 975000,
+      "multiplier": 3.81,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "carSpaces": 2,
+      "officeOnTitle": true,
+      "pets": "No",
+      "caretakingRemuneration": 83529,
+      "agreementTerm": "25",
+      "agreementRemaining": "22",
+      "agreementAge": "0",
+      "officeHours": "Set",
+      "lettingPool": 18,
+      "ownerOccupiers": 11,
+      "lockUps": 5,
+      "outsideAgents": 1,
+      "unitsInComplex": 35,
+      "suburb": "Tugun",
+      "state": "QLD",
+      "postcode": "4224",
+      "agentName": "SCOTT SAUNDERS",
+      "agentPhone": "0432 144 822",
+      "agentEmail": "info@premiersales.com.au",
+      "agencyName": "Premier Business Sales",
+      "agencyWebsite": null,
+      "dateListed": "02 April 2026",
+      "lastUpdated": "2026-07-09 04:14:03"
     },
     {
       "id": "21157105",
@@ -10678,7 +10640,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "19 February 2025",
-      "lastUpdated": "2026-07-05 21:00:08"
+      "lastUpdated": "2026-07-09 02:00:08"
     },
     {
       "id": "21147443",
@@ -11515,44 +11477,6 @@
       "agencyWebsite": null,
       "dateListed": "20 April 2026",
       "lastUpdated": "2026-04-19 23:10:22"
-    },
-    {
-      "id": "21135566",
-      "url": "https://www.theonsitemanager.com.au/listing/21135566",
-      "title": "Management Rights for sale, Townsville",
-      "category": "Permanent",
-      "status": "current",
-      "price": 920000,
-      "priceView": "3.7x Multiplier",
-      "netIncome": 250000,
-      "netIncomeBasis": "actual",
-      "unitValue": 0,
-      "multiplier": 3.68,
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "carSpaces": 1,
-      "officeOnTitle": true,
-      "pets": "1",
-      "caretakingRemuneration": 156000,
-      "agreementTerm": "25",
-      "agreementRemaining": "23",
-      "agreementAge": "17",
-      "officeHours": "no set office hours",
-      "lettingPool": 40,
-      "ownerOccupiers": 44,
-      "lockUps": 0,
-      "outsideAgents": 7,
-      "unitsInComplex": 84,
-      "suburb": "West End",
-      "state": "QLD",
-      "postcode": "4810",
-      "agentName": "Roger Hu",
-      "agentPhone": "0468456168",
-      "agentEmail": "weh@wulgurutrading.com",
-      "agencyName": "WESTEND ON HENRY PROPERTY MANAGEMENT",
-      "agencyWebsite": null,
-      "dateListed": "09 March 2026",
-      "lastUpdated": "2026-04-10 04:13:39"
     },
     {
       "id": "21117965",
@@ -12505,44 +12429,6 @@
       "lastUpdated": "2026-06-22 04:00:22"
     },
     {
-      "id": "21155452",
-      "url": "https://www.theonsitemanager.com.au/listing/21155452",
-      "title": "Luxury Coastal Management Rights: High Income, Prime Location, Offsite Lifestyle",
-      "category": "Resort / Holiday",
-      "status": "current",
-      "price": 1077000,
-      "priceView": "$1.077M - Business Only",
-      "netIncome": 239504,
-      "netIncomeBasis": "actual",
-      "unitValue": 0,
-      "multiplier": 4.5,
-      "bedrooms": 0,
-      "bathrooms": 0,
-      "carSpaces": 1,
-      "officeOnTitle": true,
-      "pets": "1",
-      "caretakingRemuneration": 161872,
-      "agreementTerm": "25",
-      "agreementRemaining": "21",
-      "agreementAge": "19",
-      "officeHours": "No office hours required",
-      "lettingPool": 7,
-      "ownerOccupiers": 38,
-      "lockUps": 2,
-      "outsideAgents": 2,
-      "unitsInComplex": 49,
-      "suburb": "Maroochydore",
-      "state": "QLD",
-      "postcode": "4558",
-      "agentName": "Geoff Hatchman",
-      "agentPhone": "0427 938 444",
-      "agentEmail": "fwc3xtxq@robot.zapier.com",
-      "agencyName": "Ras360",
-      "agencyWebsite": null,
-      "dateListed": "11 June 2025",
-      "lastUpdated": "2026-06-22 04:00:03"
-    },
-    {
       "id": "21154975",
       "url": "https://www.theonsitemanager.com.au/listing/21154975",
       "title": "Great ROI Management Rights | EXCLUSIVE",
@@ -12769,44 +12655,6 @@
       "agencyWebsite": null,
       "dateListed": "17 April 2026",
       "lastUpdated": "2026-05-12 03:35:35"
-    },
-    {
-      "id": "21144636",
-      "url": "https://www.theonsitemanager.com.au/listing/21144636",
-      "title": "Bulcock Beach Business Opportunity Awaits You, Business only or Business and Unit,",
-      "category": "Resort / Holiday",
-      "status": "current",
-      "price": 1175000,
-      "priceView": "$425k MR & $750k Unit = Total $1.175M",
-      "netIncome": 140692,
-      "netIncomeBasis": "actual",
-      "unitValue": 0,
-      "multiplier": 8.35,
-      "bedrooms": 2,
-      "bathrooms": 2,
-      "carSpaces": 1,
-      "officeOnTitle": true,
-      "pets": "1",
-      "caretakingRemuneration": 36126,
-      "agreementTerm": "25",
-      "agreementRemaining": "24",
-      "agreementAge": "0",
-      "officeHours": "Nil",
-      "lettingPool": 12,
-      "ownerOccupiers": 4,
-      "lockUps": 2,
-      "outsideAgents": 3,
-      "unitsInComplex": 21,
-      "suburb": "Caloundra",
-      "state": "QLD",
-      "postcode": "4551",
-      "agentName": "Geoff Hatchman",
-      "agentPhone": "0427 938 444",
-      "agentEmail": "fwc3xtxq@robot.zapier.com",
-      "agencyName": "Ras360",
-      "agencyWebsite": null,
-      "dateListed": "07 April 2025",
-      "lastUpdated": "2026-06-22 04:00:21"
     },
     {
       "id": "21141718",
@@ -15238,7 +15086,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 April 2026",
-      "lastUpdated": "2026-07-07 21:30:09"
+      "lastUpdated": "2026-07-09 02:00:32"
     },
     {
       "id": "21172726",
@@ -15276,7 +15124,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "01 April 2026",
-      "lastUpdated": "2026-07-07 21:30:12"
+      "lastUpdated": "2026-07-09 02:00:35"
     },
     {
       "id": "21172598",
@@ -15314,7 +15162,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "30 March 2026",
-      "lastUpdated": "2026-07-07 21:30:10"
+      "lastUpdated": "2026-07-09 02:00:33"
     },
     {
       "id": "21172459",
@@ -15390,7 +15238,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "24 March 2026",
-      "lastUpdated": "2026-07-05 21:00:18"
+      "lastUpdated": "2026-07-09 02:00:18"
     },
     {
       "id": "21171825",
@@ -15428,7 +15276,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "17 March 2026",
-      "lastUpdated": "2026-07-05 21:00:25"
+      "lastUpdated": "2026-07-09 02:00:26"
     },
     {
       "id": "21171726",
@@ -15466,7 +15314,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 April 2026",
-      "lastUpdated": "2026-07-07 21:30:09"
+      "lastUpdated": "2026-07-09 02:00:32"
     },
     {
       "id": "21171238",
@@ -15504,7 +15352,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "09 March 2026",
-      "lastUpdated": "2026-07-07 21:30:07"
+      "lastUpdated": "2026-07-09 02:00:30"
     },
     {
       "id": "21170924",
@@ -15618,7 +15466,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "26 February 2026",
-      "lastUpdated": "2026-07-05 21:00:28"
+      "lastUpdated": "2026-07-09 02:00:29"
     },
     {
       "id": "21170709",
@@ -15732,7 +15580,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "17 April 2026",
-      "lastUpdated": "2026-07-05 21:00:11"
+      "lastUpdated": "2026-07-09 02:00:11"
     },
     {
       "id": "21170115",
@@ -15770,7 +15618,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "16 February 2026",
-      "lastUpdated": "2026-07-05 21:00:24"
+      "lastUpdated": "2026-07-09 02:00:24"
     },
     {
       "id": "21169760",
@@ -15808,7 +15656,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "04 March 2026",
-      "lastUpdated": "2026-07-05 21:00:26"
+      "lastUpdated": "2026-07-09 02:00:27"
     },
     {
       "id": "21169266",
@@ -15846,7 +15694,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "03 February 2026",
-      "lastUpdated": "2026-07-07 21:30:05"
+      "lastUpdated": "2026-07-09 02:00:26"
     },
     {
       "id": "21169127",
@@ -15922,7 +15770,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "28 January 2026",
-      "lastUpdated": "2026-07-05 21:00:21"
+      "lastUpdated": "2026-07-09 02:00:21"
     },
     {
       "id": "21168788",
@@ -15960,7 +15808,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "27 January 2026",
-      "lastUpdated": "2026-07-05 21:00:21"
+      "lastUpdated": "2026-07-09 02:00:21"
     },
     {
       "id": "21168787",
@@ -15998,7 +15846,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "28 January 2026",
-      "lastUpdated": "2026-07-05 21:00:21"
+      "lastUpdated": "2026-07-09 02:00:22"
     },
     {
       "id": "21168555",
@@ -16150,7 +15998,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "14 January 2026",
-      "lastUpdated": "2026-07-05 21:00:23"
+      "lastUpdated": "2026-07-09 02:00:24"
     },
     {
       "id": "21167486",
@@ -16188,7 +16036,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "08 January 2026",
-      "lastUpdated": "2026-07-05 21:00:10"
+      "lastUpdated": "2026-07-09 02:00:11"
     },
     {
       "id": "21167373",
@@ -16264,7 +16112,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "17 December 2025",
-      "lastUpdated": "2026-07-05 21:00:22"
+      "lastUpdated": "2026-07-09 02:00:22"
     },
     {
       "id": "21166388",
@@ -16340,7 +16188,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 December 2025",
-      "lastUpdated": "2026-07-06 13:15:03"
+      "lastUpdated": "2026-07-09 02:00:06"
     },
     {
       "id": "21166356",
@@ -16378,7 +16226,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "12 December 2025",
-      "lastUpdated": "2026-07-05 21:00:21"
+      "lastUpdated": "2026-07-09 02:00:21"
     },
     {
       "id": "21165051",
@@ -16416,7 +16264,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "16 December 2025",
-      "lastUpdated": "2026-07-05 21:00:18"
+      "lastUpdated": "2026-07-09 02:00:18"
     },
     {
       "id": "21163529",
@@ -16454,7 +16302,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "22 October 2025",
-      "lastUpdated": "2026-07-05 21:00:13"
+      "lastUpdated": "2026-07-09 02:00:14"
     },
     {
       "id": "21163082",
@@ -16492,7 +16340,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "17 October 2025",
-      "lastUpdated": "2026-07-05 21:00:16"
+      "lastUpdated": "2026-07-09 02:00:17"
     },
     {
       "id": "21161987",
@@ -16530,7 +16378,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "26 September 2025",
-      "lastUpdated": "2026-07-05 21:00:14"
+      "lastUpdated": "2026-07-09 02:00:15"
     },
     {
       "id": "21161944",
@@ -16568,7 +16416,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "25 September 2025",
-      "lastUpdated": "2026-07-05 21:00:14"
+      "lastUpdated": "2026-07-09 02:00:15"
     },
     {
       "id": "21161488",
@@ -16834,44 +16682,6 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "26 June 2025",
-      "lastUpdated": "2026-04-10 04:13:39"
-    },
-    {
-      "id": "21152922",
-      "url": "https://www.theonsitemanager.com.au/listing/21152922",
-      "title": "Unique Management Rights Opportunity in Hastings Street, Noosa",
-      "category": "Resort / Holiday",
-      "status": "current",
-      "price": 3700000,
-      "priceView": "$1.8M MR&$1.9M Unit = $3.7M",
-      "netIncome": 392374,
-      "netIncomeBasis": "actual",
-      "unitValue": 1800000,
-      "multiplier": 4.84,
-      "bedrooms": 2,
-      "bathrooms": 2,
-      "carSpaces": 1,
-      "officeOnTitle": true,
-      "pets": "yes",
-      "caretakingRemuneration": 64034,
-      "agreementTerm": "25",
-      "agreementRemaining": "21",
-      "agreementAge": "0",
-      "officeHours": "Monday-Friday 9am-3pm Saturday 9am-12pm Sunday closed",
-      "lettingPool": 11,
-      "ownerOccupiers": 4,
-      "lockUps": 1,
-      "outsideAgents": 2,
-      "unitsInComplex": 18,
-      "suburb": "Noosa Heads",
-      "state": "QLD",
-      "postcode": "4567",
-      "agentName": "Nathan Eades",
-      "agentPhone": "0448 339 920, or 0427 938 444",
-      "agentEmail": "fwc3xtxq@robot.zapier.com",
-      "agencyName": "Ras360",
-      "agencyWebsite": null,
-      "dateListed": "07 May 2025",
       "lastUpdated": "2026-04-10 04:13:39"
     },
     {
@@ -17290,7 +17100,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 April 2026",
-      "lastUpdated": "2026-07-07 21:30:11"
+      "lastUpdated": "2026-07-09 02:00:34"
     },
     {
       "id": "21173505",
@@ -17328,7 +17138,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 April 2026",
-      "lastUpdated": "2026-07-07 21:30:07"
+      "lastUpdated": "2026-07-09 02:00:28"
     },
     {
       "id": "21173419",
@@ -17366,7 +17176,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 April 2026",
-      "lastUpdated": "2026-07-07 21:30:11"
+      "lastUpdated": "2026-07-09 02:00:35"
     },
     {
       "id": "21173399",
@@ -17404,7 +17214,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 April 2026",
-      "lastUpdated": "2026-07-07 21:30:10"
+      "lastUpdated": "2026-07-09 02:00:33"
     },
     {
       "id": "21173339",
@@ -17442,7 +17252,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 April 2026",
-      "lastUpdated": "2026-07-07 21:30:12"
+      "lastUpdated": "2026-07-09 02:00:35"
     },
     {
       "id": "21173256",
@@ -17518,7 +17328,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "10 April 2026",
-      "lastUpdated": "2026-07-06 13:15:06"
+      "lastUpdated": "2026-07-09 02:00:36"
     },
     {
       "id": "21174115",
