@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-25T05:27:23.337115",
+  "scraped_at": "2026-07-26T05:44:43.476541",
   "total": 557,
   "listings": [
     {
@@ -1558,7 +1558,7 @@
       "agencyName": "Hotel Resort Sales",
       "agencyWebsite": null,
       "dateListed": "26 June 2026",
-      "lastUpdated": "2026-07-20 06:16:39"
+      "lastUpdated": "2026-07-26 04:13:46"
     },
     {
       "id": "21184414",
@@ -1710,7 +1710,7 @@
       "agencyName": "Hotel Resort Sales",
       "agencyWebsite": null,
       "dateListed": "18 June 2026",
-      "lastUpdated": "2026-07-20 06:03:43"
+      "lastUpdated": "2026-07-26 04:06:27"
     },
     {
       "id": "21180499",
@@ -3393,24 +3393,24 @@
       "price": 4200000,
       "priceView": "$4,200,000",
       "netIncome": 470000,
-      "netIncomeBasis": "",
-      "unitValue": 0,
-      "multiplier": 8.94,
-      "bedrooms": 0,
-      "bathrooms": 0,
-      "carSpaces": 0,
+      "netIncomeBasis": "actual",
+      "unitValue": 2100000,
+      "multiplier": 4.47,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "carSpaces": 1,
       "officeOnTitle": true,
       "pets": "yes",
-      "caretakingRemuneration": 0,
+      "caretakingRemuneration": 122342,
       "agreementTerm": "20",
       "agreementRemaining": "20",
       "agreementAge": "0",
       "officeHours": "Mon-Fri 9am-5pm, Sat 9am-12 noon",
-      "lettingPool": 0,
+      "lettingPool": 18,
       "ownerOccupiers": 4,
       "lockUps": 11,
       "outsideAgents": 0,
-      "unitsInComplex": 0,
+      "unitsInComplex": 33,
       "suburb": "Surfers Paradise",
       "state": "QLD",
       "postcode": "4217",
@@ -3420,7 +3420,7 @@
       "agencyName": "Hotel Resort Sales",
       "agencyWebsite": null,
       "dateListed": "17 June 2026",
-      "lastUpdated": "2026-07-20 06:04:38"
+      "lastUpdated": "2026-07-26 04:12:25"
     },
     {
       "id": "21183238",
@@ -3534,7 +3534,7 @@
       "agencyName": "Hotel Resort Sales",
       "agencyWebsite": null,
       "dateListed": "11 June 2026",
-      "lastUpdated": "2026-06-11 04:44:40"
+      "lastUpdated": "2026-07-26 04:09:15"
     },
     {
       "id": "21181565",
@@ -4104,7 +4104,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "22 July 2026",
-      "lastUpdated": "2026-07-24 13:15:07"
+      "lastUpdated": "2026-07-26 05:15:07"
     },
     {
       "id": "21188496",
@@ -5130,7 +5130,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "27 May 2026",
-      "lastUpdated": "2026-07-23 05:01:03"
+      "lastUpdated": "2026-07-26 05:30:03"
     },
     {
       "id": "21179099",
@@ -15300,10 +15300,10 @@
       "agreementRemaining": "17",
       "agreementAge": "0",
       "officeHours": "As per agreements",
-      "lettingPool": 9,
+      "lettingPool": 8,
       "ownerOccupiers": 4,
       "lockUps": 3,
-      "outsideAgents": 1,
+      "outsideAgents": 2,
       "unitsInComplex": 18,
       "suburb": "Sunshine Beach",
       "state": "QLD",
@@ -15314,7 +15314,7 @@
       "agencyName": "Australian Resort Management Sales",
       "agencyWebsite": null,
       "dateListed": "14 April 2026",
-      "lastUpdated": "2026-07-07 12:01:00"
+      "lastUpdated": "2026-07-25 06:03:56"
     },
     {
       "id": "21163817",
@@ -16682,7 +16682,7 @@
       "agencyName": "Hotel Resort Sales",
       "agencyWebsite": null,
       "dateListed": "01 April 2026",
-      "lastUpdated": "2026-06-11 04:52:48"
+      "lastUpdated": "2026-07-26 04:01:45"
     },
     {
       "id": "21168502",
@@ -20824,7 +20824,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 April 2026",
-      "lastUpdated": "2026-07-23 05:00:37"
+      "lastUpdated": "2026-07-26 05:30:03"
     },
     {
       "id": "21173339",
