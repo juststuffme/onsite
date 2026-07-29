@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-28T05:26:57.080819",
+  "scraped_at": "2026-07-29T05:33:59.900956",
   "total": 559,
   "listings": [
     {
@@ -271,15 +271,15 @@
     {
       "id": "21185385",
       "url": "https://www.theonsitemanager.com.au/listing/21185385",
-      "title": "Seller Is Ready To Retire & Is Looking For Offers!   A day a week of work in Kuraby is all it takes!",
+      "title": "PRICE REDUCTION!  Seller Is Ready To Retire & Is Looking For Any & All Offers!   A day a week of work in Kuraby is all it takes!",
       "category": "Permanent",
       "status": "current",
-      "price": 990000,
-      "priceView": "Open To Offers",
-      "netIncome": 0,
+      "price": 955000,
+      "priceView": "Open To All Offers",
+      "netIncome": 42806,
       "netIncomeBasis": "actual",
-      "unitValue": 895000,
-      "multiplier": null,
+      "unitValue": 860000,
+      "multiplier": 2.22,
       "bedrooms": 3,
       "bathrooms": 2,
       "carSpaces": 3,
@@ -291,7 +291,7 @@
       "agreementAge": "0",
       "officeHours": "None",
       "lettingPool": 4,
-      "ownerOccupiers": 11,
+      "ownerOccupiers": 8,
       "lockUps": 0,
       "outsideAgents": 3,
       "unitsInComplex": 19,
@@ -304,7 +304,7 @@
       "agencyName": "Management Rights Brokers",
       "agencyWebsite": null,
       "dateListed": "2026-06-30 05:26:30",
-      "lastUpdated": "2026-07-26 22:51:29"
+      "lastUpdated": "2026-07-28 23:07:39"
     },
     {
       "id": "21185265",
@@ -1970,13 +1970,13 @@
       "suburb": "Main Beach",
       "state": "QLD",
       "postcode": "4217",
-      "agentName": "Nathan Bock",
-      "agentPhone": "0412 634 277",
+      "agentName": "Clint Amos",
+      "agentPhone": "0482 061 261",
       "agentEmail": "info@resortbrokers.com.au",
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "02 July 2026",
-      "lastUpdated": "2026-07-26 13:15:22"
+      "lastUpdated": "2026-07-28 13:15:06"
     },
     {
       "id": "21183759",
@@ -3300,13 +3300,13 @@
       "suburb": "Nerang",
       "state": "QLD",
       "postcode": "4211",
-      "agentName": "Nathan Bock",
-      "agentPhone": "0412 634 277",
+      "agentName": "Clint Amos",
+      "agentPhone": "0482 061 261",
       "agentEmail": "info@resortbrokers.com.au",
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "21 July 2026",
-      "lastUpdated": "2026-07-26 13:15:37"
+      "lastUpdated": "2026-07-28 13:15:09"
     },
     {
       "id": "21188421",
@@ -3610,7 +3610,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "14 July 2026",
-      "lastUpdated": "2026-07-26 13:15:37"
+      "lastUpdated": "2026-07-28 13:15:09"
     },
     {
       "id": "21187201",
@@ -4022,13 +4022,13 @@
       "suburb": "Hope Island",
       "state": "QLD",
       "postcode": "4212",
-      "agentName": "Todd Warner",
-      "agentPhone": "0438 170 763",
+      "agentName": "Clint Amos",
+      "agentPhone": "0482 061 261",
       "agentEmail": "info@resortbrokers.com.au",
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "18 June 2026",
-      "lastUpdated": "2026-07-26 13:15:35"
+      "lastUpdated": "2026-07-28 13:15:08"
     },
     {
       "id": "21183639",
@@ -4706,13 +4706,13 @@
       "suburb": "Southport",
       "state": "QLD",
       "postcode": "4215",
-      "agentName": "Nathan Bock",
-      "agentPhone": "0412 634 277",
+      "agentName": "Clint Amos",
+      "agentPhone": "0482 061 261",
       "agentEmail": "info@resortbrokers.com.au",
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "20 May 2026",
-      "lastUpdated": "2026-07-26 13:15:30"
+      "lastUpdated": "2026-07-28 13:15:08"
     },
     {
       "id": "21176676",
@@ -4896,13 +4896,13 @@
       "suburb": "Beaudesert",
       "state": "QLD",
       "postcode": "4285",
-      "agentName": "Nathan Bock",
-      "agentPhone": "0412 634 277",
+      "agentName": "Clint Amos",
+      "agentPhone": "0482 061 261",
       "agentEmail": "info@resortbrokers.com.au",
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
-      "lastUpdated": "2026-07-26 13:15:30"
+      "lastUpdated": "2026-07-28 13:15:07"
     },
     {
       "id": "21176458",
@@ -5741,6 +5741,44 @@
       "lastUpdated": "2026-06-11 10:34:50"
     },
     {
+      "id": "21189461",
+      "url": "https://www.theonsitemanager.com.au/listing/21189461",
+      "title": "Over $700K Net Profit on the Gold Coast - ID 8046",
+      "category": "Holiday",
+      "status": "current",
+      "price": 6100000,
+      "priceView": "Prestigious Beachfront Location",
+      "netIncome": 700000,
+      "netIncomeBasis": "actual",
+      "unitValue": 0,
+      "multiplier": 8.71,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "carSpaces": 2,
+      "officeOnTitle": true,
+      "pets": "No",
+      "caretakingRemuneration": 333000,
+      "agreementTerm": "0",
+      "agreementRemaining": "0",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 0,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 0,
+      "suburb": "Palm Beach",
+      "state": "QLD",
+      "postcode": "4221",
+      "agentName": "Bill He",
+      "agentPhone": "0439 288 960",
+      "agentEmail": "sales@mrsales.com.au",
+      "agencyName": "Management Rights Sales",
+      "agencyWebsite": null,
+      "dateListed": "2026-07-28 03:57:50",
+      "lastUpdated": "2026-07-29 00:20:39"
+    },
+    {
       "id": "21188231",
       "url": "https://www.theonsitemanager.com.au/listing/21188231",
       "title": "Southern Area – Remuneration / Net Profit at 66% | No Onsite Office Hours | No Requirement to Live Onsite",
@@ -6150,13 +6188,13 @@
       "suburb": "Runaway Bay",
       "state": "QLD",
       "postcode": "4216",
-      "agentName": "Nathan Bock",
-      "agentPhone": "0412 634 277",
+      "agentName": "Clint Amos",
+      "agentPhone": "0482 061 261",
       "agentEmail": "info@resortbrokers.com.au",
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "25 May 2026",
-      "lastUpdated": "2026-07-26 13:15:31"
+      "lastUpdated": "2026-07-28 13:15:08"
     },
     {
       "id": "21175371",
@@ -14168,13 +14206,13 @@
       "suburb": "Main Beach",
       "state": "QLD",
       "postcode": "4217",
-      "agentName": "Nathan Bock",
-      "agentPhone": "0412 634 277",
+      "agentName": "Clint Amos",
+      "agentPhone": "0482 061 261",
       "agentEmail": "info@resortbrokers.com.au",
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "23 April 2026",
-      "lastUpdated": "2026-07-26 13:15:09"
+      "lastUpdated": "2026-07-28 13:15:04"
     },
     {
       "id": "21166388",
@@ -14966,13 +15004,13 @@
       "suburb": "Main Beach",
       "state": "QLD",
       "postcode": "4217",
-      "agentName": "Trudy Crooks",
-      "agentPhone": "0477 882 210",
+      "agentName": "Clint Amos",
+      "agentPhone": "0482 061 261",
       "agentEmail": "info@resortbrokers.com.au",
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "10 April 2026",
-      "lastUpdated": "2026-07-26 13:15:26"
+      "lastUpdated": "2026-07-28 13:15:07"
     },
     {
       "id": "21172864",
@@ -16638,13 +16676,13 @@
       "suburb": "Labrador",
       "state": "QLD",
       "postcode": "4215",
-      "agentName": "Nathan Bock",
-      "agentPhone": "0412 634 277",
+      "agentName": "Clint Amos",
+      "agentPhone": "0482 061 261",
       "agentEmail": "info@resortbrokers.com.au",
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "12 November 2025",
-      "lastUpdated": "2026-07-26 13:15:14"
+      "lastUpdated": "2026-07-28 13:15:06"
     },
     {
       "id": "21164451",
@@ -19573,44 +19611,6 @@
       "lastUpdated": "2026-06-23 02:54:22"
     },
     {
-      "id": "21137374",
-      "url": "https://www.theonsitemanager.com.au/listing/21137374",
-      "title": "Trinity Beach Holiday Management Rights – ID 9148",
-      "category": "Resort / Holiday",
-      "status": "current",
-      "price": 2275000,
-      "priceView": "$2,275,000",
-      "netIncome": 472917,
-      "netIncomeBasis": "actual",
-      "unitValue": 620000,
-      "multiplier": 3.5,
-      "bedrooms": 2,
-      "bathrooms": 2,
-      "carSpaces": 1,
-      "officeOnTitle": true,
-      "pets": "No",
-      "caretakingRemuneration": 104323,
-      "agreementTerm": "25",
-      "agreementRemaining": "23",
-      "agreementAge": "0",
-      "officeHours": "As per agreements",
-      "lettingPool": 28,
-      "ownerOccupiers": 8,
-      "lockUps": 2,
-      "outsideAgents": 2,
-      "unitsInComplex": 40,
-      "suburb": "Trinity Beach",
-      "state": "QLD",
-      "postcode": "4879",
-      "agentName": "Antonio Curulli",
-      "agentPhone": "0488 030 853",
-      "agentEmail": "sales@mrsales.com.au",
-      "agencyName": "Management Rights Sales",
-      "agencyWebsite": null,
-      "dateListed": "21 April 2026",
-      "lastUpdated": "2026-07-16 01:44:55"
-    },
-    {
       "id": "21133634",
       "url": "https://www.theonsitemanager.com.au/listing/21133634",
       "title": "Vendor Ill Health - ID 8595",
@@ -19830,13 +19830,13 @@
       "suburb": "Southport",
       "state": "QLD",
       "postcode": "4215",
-      "agentName": "Nathan Bock",
-      "agentPhone": "0412 634 277",
+      "agentName": "Clint Amos",
+      "agentPhone": "0482 061 261",
       "agentEmail": "info@resortbrokers.com.au",
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "24 March 2026",
-      "lastUpdated": "2026-07-26 13:15:13"
+      "lastUpdated": "2026-07-28 13:15:05"
     },
     {
       "id": "21171825",
@@ -20400,13 +20400,13 @@
       "suburb": "Labrador",
       "state": "QLD",
       "postcode": "4215",
-      "agentName": "Nathan Bock",
-      "agentPhone": "0412 634 277",
+      "agentName": "Clint Amos",
+      "agentPhone": "0482 061 261",
       "agentEmail": "info@resortbrokers.com.au",
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 December 2025",
-      "lastUpdated": "2026-07-26 13:15:04"
+      "lastUpdated": "2026-07-28 13:15:02"
     },
     {
       "id": "21166356",
@@ -20476,13 +20476,13 @@
       "suburb": "Coombabah",
       "state": "QLD",
       "postcode": "4216",
-      "agentName": "Todd Warner",
-      "agentPhone": "0438 170 763",
+      "agentName": "Clint Amos",
+      "agentPhone": "0482 061 261",
       "agentEmail": "info@resortbrokers.com.au",
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "16 December 2025",
-      "lastUpdated": "2026-07-26 13:15:14"
+      "lastUpdated": "2026-07-28 13:15:05"
     },
     {
       "id": "21163529",
@@ -20574,7 +20574,7 @@
       "multiplier": 2.0,
       "bedrooms": 2,
       "bathrooms": 2,
-      "carSpaces": 0,
+      "carSpaces": 1,
       "officeOnTitle": false,
       "pets": "1",
       "caretakingRemuneration": 101359,
@@ -20596,7 +20596,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "26 September 2025",
-      "lastUpdated": "2026-07-26 13:15:11"
+      "lastUpdated": "2026-07-28 13:15:05"
     },
     {
       "id": "21161944",
