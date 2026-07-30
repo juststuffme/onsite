@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-29T05:33:59.900956",
-  "total": 559,
+  "scraped_at": "2026-07-30T05:20:36.278432",
+  "total": 561,
   "listings": [
     {
       "id": "21185060",
@@ -271,11 +271,11 @@
     {
       "id": "21185385",
       "url": "https://www.theonsitemanager.com.au/listing/21185385",
-      "title": "PRICE REDUCTION!  Seller Is Ready To Retire & Is Looking For Any & All Offers!   A day a week of work in Kuraby is all it takes!",
+      "title": "PRICE REDUCTION TO $955,000 Seller Is Ready To Retire & Is Looking For Any & All Offers!   A day a week of work in Kuraby is all it takes!",
       "category": "Permanent",
       "status": "current",
       "price": 955000,
-      "priceView": "Open To All Offers",
+      "priceView": "$955,000 - Open To All Offers",
       "netIncome": 42806,
       "netIncomeBasis": "actual",
       "unitValue": 860000,
@@ -304,7 +304,7 @@
       "agencyName": "Management Rights Brokers",
       "agencyWebsite": null,
       "dateListed": "2026-06-30 05:26:30",
-      "lastUpdated": "2026-07-28 23:07:39"
+      "lastUpdated": "2026-07-29 06:30:30"
     },
     {
       "id": "21185265",
@@ -2929,6 +2929,82 @@
       "lastUpdated": "2026-06-23 00:31:39"
     },
     {
+      "id": "21189856",
+      "url": "https://www.theonsitemanager.com.au/listing/21189856",
+      "title": "MAROOCHYDORE | $664K+ NET | LOW REAL ESTATE COMPONENT | Resort Brokers ID : MR009294",
+      "category": "Resort / Holiday",
+      "status": "current",
+      "price": 4400000,
+      "priceView": "$4,400,000",
+      "netIncome": 664816,
+      "netIncomeBasis": "actual",
+      "unitValue": 750000,
+      "multiplier": 5.49,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carSpaces": 0,
+      "officeOnTitle": false,
+      "pets": "1",
+      "caretakingRemuneration": 138633,
+      "agreementTerm": "25",
+      "agreementRemaining": "19",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 29,
+      "ownerOccupiers": 35,
+      "lockUps": 0,
+      "outsideAgents": 8,
+      "unitsInComplex": 74,
+      "suburb": "Maroochydore",
+      "state": "QLD",
+      "postcode": "4558",
+      "agentName": "Chenoa Daniel",
+      "agentPhone": "0403 143 151",
+      "agentEmail": "info@resortbrokers.com.au",
+      "agencyName": "Resort Brokers",
+      "agencyWebsite": null,
+      "dateListed": "29 July 2026",
+      "lastUpdated": "2026-07-29 13:15:09"
+    },
+    {
+      "id": "21189836",
+      "url": "https://www.theonsitemanager.com.au/listing/21189836",
+      "title": "PREMIUM SURFERS PARADISE CARETAKING OPPORTUNITY IN BRAND NEW DEVELOPMENT  | Resort Brokers ID : MRC009284",
+      "category": "Off The Plan",
+      "status": "current",
+      "price": 1650000,
+      "priceView": "$1,650,000",
+      "netIncome": 384330,
+      "netIncomeBasis": "actual",
+      "unitValue": 0,
+      "multiplier": 4.29,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": false,
+      "pets": "0",
+      "caretakingRemuneration": 384330,
+      "agreementTerm": "10",
+      "agreementRemaining": "10",
+      "agreementAge": "0",
+      "officeHours": "Monday to Friday 8am to 4pm and Sat 8am to 1pm - be contactable / man reception",
+      "lettingPool": 0,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 55,
+      "suburb": "Surfers Paradise",
+      "state": "QLD",
+      "postcode": "4217",
+      "agentName": "Alex Cook",
+      "agentPhone": "0467 600 610",
+      "agentEmail": "info@resortbrokers.com.au",
+      "agencyName": "Resort Brokers",
+      "agencyWebsite": null,
+      "dateListed": "29 July 2026",
+      "lastUpdated": "2026-07-29 13:15:06"
+    },
+    {
       "id": "21189356",
       "url": "https://www.theonsitemanager.com.au/listing/21189356",
       "title": "Beachfront Coolangatta MR Opportunity | $607K+ Net Profit | Resort Brokers ID : MR009270",
@@ -2984,7 +3060,7 @@
       "officeOnTitle": false,
       "pets": "0",
       "caretakingRemuneration": 0,
-      "agreementTerm": "0",
+      "agreementTerm": "25",
       "agreementRemaining": "0",
       "agreementAge": "0",
       "officeHours": "",
@@ -3002,7 +3078,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "27 July 2026",
-      "lastUpdated": "2026-07-27 13:15:05"
+      "lastUpdated": "2026-07-29 13:15:05"
     },
     {
       "id": "21189211",
@@ -3125,7 +3201,7 @@
       "category": "Permanent",
       "status": "current",
       "price": 1000000,
-      "priceView": "$1,003,288",
+      "priceView": "$999,000",
       "netIncome": 182416,
       "netIncomeBasis": "actual",
       "unitValue": 0,
@@ -3154,7 +3230,7 @@
       "agencyName": "Shine Realty",
       "agencyWebsite": null,
       "dateListed": "2026-07-24 02:43:04",
-      "lastUpdated": "2026-07-24 03:09:40"
+      "lastUpdated": "2026-07-30 03:51:37"
     },
     {
       "id": "21188856",
@@ -3572,7 +3648,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "15 July 2026",
-      "lastUpdated": "2026-07-26 13:15:38"
+      "lastUpdated": "2026-07-29 13:15:05"
     },
     {
       "id": "21187491",
@@ -4066,7 +4142,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "18 June 2026",
-      "lastUpdated": "2026-07-26 13:15:14"
+      "lastUpdated": "2026-07-29 13:15:04"
     },
     {
       "id": "21183173",
@@ -6327,7 +6403,7 @@
       "carSpaces": 4,
       "officeOnTitle": true,
       "pets": "yes",
-      "caretakingRemuneration": 89001,
+      "caretakingRemuneration": 92559,
       "agreementTerm": "25",
       "agreementRemaining": "23",
       "agreementAge": "33",
@@ -6340,13 +6416,13 @@
       "suburb": "Benowa",
       "state": "QLD",
       "postcode": "4217",
-      "agentName": "SUSAN GRZYB",
-      "agentPhone": "0438269259",
+      "agentName": "Susan Grzyb",
+      "agentPhone": "0438 269 259",
       "agentEmail": "surferspalmsplaza@gmail.com",
       "agencyName": "Surfers Palms Plaza",
       "agencyWebsite": null,
       "dateListed": "30 March 2026",
-      "lastUpdated": "2026-07-21 01:20:11"
+      "lastUpdated": "2026-07-30 04:49:11"
     },
     {
       "id": "21171979",
@@ -20596,7 +20672,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "26 September 2025",
-      "lastUpdated": "2026-07-28 13:15:05"
+      "lastUpdated": "2026-07-29 13:15:03"
     },
     {
       "id": "21161944",
@@ -20634,7 +20710,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "25 September 2025",
-      "lastUpdated": "2026-07-27 13:15:03"
+      "lastUpdated": "2026-07-29 13:15:03"
     },
     {
       "id": "21161488",
