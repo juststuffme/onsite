@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-21T03:16:19.249921",
-  "total": 559,
+  "scraped_at": "2026-08-22T03:06:57.188358",
+  "total": 557,
   "listings": [
     {
       "id": "21189761",
@@ -266,7 +266,7 @@
       "agencyName": "SIRE Management Rights",
       "agencyWebsite": null,
       "dateListed": "2026-08-03 10:10:26",
-      "lastUpdated": "2026-08-03 20:59:27"
+      "lastUpdated": "2026-08-21 21:52:49"
     },
     {
       "id": "21190466",
@@ -1368,7 +1368,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "2026-05-04 05:02:45",
-      "lastUpdated": "2026-08-17 00:29:08"
+      "lastUpdated": "2026-08-21 05:54:50"
     },
     {
       "id": "21191627",
@@ -1824,7 +1824,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "2026-06-25 04:39:28",
-      "lastUpdated": "2026-08-17 00:32:21"
+      "lastUpdated": "2026-08-21 05:52:01"
     },
     {
       "id": "21184494",
@@ -3002,7 +3002,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "2026-07-06 06:44:59",
-      "lastUpdated": "2026-08-17 00:29:35"
+      "lastUpdated": "2026-08-21 05:55:21"
     },
     {
       "id": "21185690",
@@ -3651,6 +3651,44 @@
       "lastUpdated": "2026-08-11 00:58:54"
     },
     {
+      "id": "21193283",
+      "url": "https://www.theonsitemanager.com.au/listing/21193283",
+      "title": "High-Income Inner-City Opportunity with No Manager’s Unit Required",
+      "category": "Permanent",
+      "status": "current",
+      "price": 1500000,
+      "priceView": "$1,500,000",
+      "netIncome": 240060,
+      "netIncomeBasis": "actual",
+      "unitValue": 0,
+      "multiplier": 6.25,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": false,
+      "pets": "No",
+      "caretakingRemuneration": 176655,
+      "agreementTerm": "25",
+      "agreementRemaining": "22",
+      "agreementAge": "0",
+      "officeHours": "no",
+      "lettingPool": 29,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 0,
+      "suburb": "West End",
+      "state": "QLD",
+      "postcode": "4101",
+      "agentName": "Jessica Dong",
+      "agentPhone": "0404 331 310",
+      "agentEmail": "sales@siremanagementrights.com.au",
+      "agencyName": "SIRE Management Rights",
+      "agencyWebsite": null,
+      "dateListed": "2026-08-21 21:58:26",
+      "lastUpdated": "2026-08-21 21:58:47"
+    },
+    {
       "id": "21193166",
       "url": "https://www.theonsitemanager.com.au/listing/21193166",
       "title": "ABSOLUTE BEACHFRONT - GENUINE LIFESTYLE FLEXIBILITY, LIVE ONSITE OR OFFSITE | Resort Brokers ID : MR009331",
@@ -3686,7 +3724,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "20 August 2026",
-      "lastUpdated": "2026-08-20 21:00:12"
+      "lastUpdated": "2026-08-21 13:15:11"
     },
     {
       "id": "21192570",
@@ -3886,10 +3924,10 @@
       "status": "current",
       "price": 180000,
       "priceView": "$180,000",
-      "netIncome": 0,
+      "netIncome": 43187,
       "netIncomeBasis": "actual",
       "unitValue": 0,
-      "multiplier": null,
+      "multiplier": 4.17,
       "bedrooms": 0,
       "bathrooms": 0,
       "carSpaces": 0,
@@ -3914,7 +3952,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "10 August 2026",
-      "lastUpdated": "2026-08-20 21:00:10"
+      "lastUpdated": "2026-08-21 13:15:10"
     },
     {
       "id": "21191417",
@@ -4028,7 +4066,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "2026-08-06 05:53:26",
-      "lastUpdated": "2026-08-17 00:34:02"
+      "lastUpdated": "2026-08-21 05:51:25"
     },
     {
       "id": "21190186",
@@ -5510,7 +5548,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "25 May 2026",
-      "lastUpdated": "2026-08-16 13:15:27"
+      "lastUpdated": "2026-08-21 13:15:08"
     },
     {
       "id": "21178864",
@@ -7448,7 +7486,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "23 April 2026",
-      "lastUpdated": "2026-08-17 00:28:07"
+      "lastUpdated": "2026-08-21 05:56:20"
     },
     {
       "id": "21172403",
@@ -7714,7 +7752,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "23 April 2026",
-      "lastUpdated": "2026-08-17 00:32:50"
+      "lastUpdated": "2026-08-21 05:50:49"
     },
     {
       "id": "21167373",
@@ -7828,7 +7866,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "23 April 2026",
-      "lastUpdated": "2026-08-17 00:33:36"
+      "lastUpdated": "2026-08-21 05:50:33"
     },
     {
       "id": "21158520",
@@ -7866,7 +7904,7 @@
       "agencyName": "SIRE Management Rights",
       "agencyWebsite": null,
       "dateListed": "09 August 2025",
-      "lastUpdated": "2026-08-03 03:29:15"
+      "lastUpdated": "2026-08-21 21:55:02"
     },
     {
       "id": "21157355",
@@ -7942,7 +7980,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "17 April 2026",
-      "lastUpdated": "2026-08-18 01:19:05"
+      "lastUpdated": "2026-08-21 05:51:39"
     },
     {
       "id": "21156419",
@@ -8360,7 +8398,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "22 April 2026",
-      "lastUpdated": "2026-08-17 00:31:52"
+      "lastUpdated": "2026-08-21 05:52:21"
     },
     {
       "id": "21164813",
@@ -8398,7 +8436,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "23 April 2026",
-      "lastUpdated": "2026-08-17 00:28:41"
+      "lastUpdated": "2026-08-21 05:55:46"
     },
     {
       "id": "21172428",
@@ -9121,44 +9159,6 @@
       "agencyWebsite": null,
       "dateListed": "23 March 2026",
       "lastUpdated": "2026-07-01 22:48:06"
-    },
-    {
-      "id": "21171961",
-      "url": "https://www.theonsitemanager.com.au/listing/21171961",
-      "title": "High-Income Inner-City Opportunity with No Manager’s Unit Required",
-      "category": "Permanent",
-      "status": "current",
-      "price": 1500000,
-      "priceView": "Call 0404 331 310",
-      "netIncome": 240060,
-      "netIncomeBasis": "actual",
-      "unitValue": 0,
-      "multiplier": 6.25,
-      "bedrooms": 0,
-      "bathrooms": 0,
-      "carSpaces": 0,
-      "officeOnTitle": false,
-      "pets": "No",
-      "caretakingRemuneration": 176655,
-      "agreementTerm": "25",
-      "agreementRemaining": "22",
-      "agreementAge": "0",
-      "officeHours": "no",
-      "lettingPool": 29,
-      "ownerOccupiers": 0,
-      "lockUps": 0,
-      "outsideAgents": 0,
-      "unitsInComplex": 0,
-      "suburb": "West End",
-      "state": "QLD",
-      "postcode": "4101",
-      "agentName": "Jessica Dong",
-      "agentPhone": "0404 331 310",
-      "agentEmail": "sales@siremanagementrights.com.au",
-      "agencyName": "SIRE Management Rights",
-      "agencyWebsite": null,
-      "dateListed": "07 April 2026",
-      "lastUpdated": "2026-07-17 00:59:52"
     },
     {
       "id": "21171302",
@@ -12312,7 +12312,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "22 April 2026",
-      "lastUpdated": "2026-08-17 00:26:30"
+      "lastUpdated": "2026-08-21 05:56:55"
     },
     {
       "id": "21171782",
@@ -12388,7 +12388,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "22 April 2026",
-      "lastUpdated": "2026-08-17 00:31:15"
+      "lastUpdated": "2026-08-21 06:05:58"
     },
     {
       "id": "21168509",
@@ -12464,7 +12464,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "22 April 2026",
-      "lastUpdated": "2026-08-17 00:31:32"
+      "lastUpdated": "2026-08-21 05:53:05"
     },
     {
       "id": "21164253",
@@ -12540,7 +12540,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "22 April 2026",
-      "lastUpdated": "2026-08-17 00:29:55"
+      "lastUpdated": "2026-08-21 05:54:19"
     },
     {
       "id": "21163817",
@@ -12578,7 +12578,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "22 April 2026",
-      "lastUpdated": "2026-08-17 00:30:55"
+      "lastUpdated": "2026-08-21 05:53:27"
     },
     {
       "id": "21162663",
@@ -12692,7 +12692,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "23 April 2026",
-      "lastUpdated": "2026-06-23 23:52:44"
+      "lastUpdated": "2026-08-21 05:58:01"
     },
     {
       "id": "21156835",
@@ -12996,7 +12996,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "22 April 2026",
-      "lastUpdated": "2026-08-17 00:33:14"
+      "lastUpdated": "2026-08-21 05:52:35"
     },
     {
       "id": "21112550",
@@ -14405,44 +14405,6 @@
       "lastUpdated": "2026-04-10 04:13:39"
     },
     {
-      "id": "21171726",
-      "url": "https://www.theonsitemanager.com.au/listing/21171726",
-      "title": "Affordable Kings Beach Business Only with Strong Returns | Resort Brokers ID : MRB009128",
-      "category": "Resort / Holiday",
-      "status": "current",
-      "price": 525000,
-      "priceView": "$525,000",
-      "netIncome": 118000,
-      "netIncomeBasis": "actual",
-      "unitValue": 0,
-      "multiplier": 4.45,
-      "bedrooms": 0,
-      "bathrooms": 0,
-      "carSpaces": 0,
-      "officeOnTitle": false,
-      "pets": "0",
-      "caretakingRemuneration": 64671,
-      "agreementTerm": "25",
-      "agreementRemaining": "25",
-      "agreementAge": "0",
-      "officeHours": "No set office hours",
-      "lettingPool": 9,
-      "ownerOccupiers": 16,
-      "lockUps": 1,
-      "outsideAgents": 2,
-      "unitsInComplex": 28,
-      "suburb": "Kings Beach",
-      "state": "QLD",
-      "postcode": "4551",
-      "agentName": "Chenoa Daniel",
-      "agentPhone": "0403 143 151",
-      "agentEmail": "info@resortbrokers.com.au",
-      "agencyName": "Resort Brokers",
-      "agencyWebsite": null,
-      "dateListed": "13 April 2026",
-      "lastUpdated": "2026-08-16 13:15:21"
-    },
-    {
       "id": "21170709",
       "url": "https://www.theonsitemanager.com.au/listing/21170709",
       "title": "Beachside MR in Prime Southern GC Pocket. High Yield Meets Prime Sea Change Destination",
@@ -15132,12 +15094,12 @@
       "title": "PERFECTLY LOCATED BEACHSIDE RESORT DELIVERING EXCEPTIONAL RETURNS | Resort Brokers ID : MR009153",
       "category": "Resort / Holiday",
       "status": "current",
-      "price": 3590000,
-      "priceView": "$3,590,000",
-      "netIncome": 0,
+      "price": 3390000,
+      "priceView": "$3,390,000",
+      "netIncome": 468350,
       "netIncomeBasis": "actual",
       "unitValue": 1050000,
-      "multiplier": null,
+      "multiplier": 5.0,
       "bedrooms": 2,
       "bathrooms": 2,
       "carSpaces": 1,
@@ -15162,7 +15124,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 April 2026",
-      "lastUpdated": "2026-08-16 13:15:23"
+      "lastUpdated": "2026-08-21 13:15:06"
     },
     {
       "id": "21173399",
@@ -15846,45 +15808,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "22 April 2026",
-      "lastUpdated": "2026-08-18 01:37:08"
-    },
-    {
-      "id": "21171136",
-      "url": "https://www.theonsitemanager.com.au/listing/21171136",
-      "title": "Outstanding 18.5% ROI - BC Salary 80% of Income - No Onsite Living Required | Resort Brokers ID : MR009111",
-      "category": "Permanent",
-      "status": "current",
-      "price": 975000,
-      "priceView": "$975,000",
-      "netIncome": 181280,
-      "netIncomeBasis": "actual",
-      "unitValue": 530000,
-      "multiplier": 2.45,
-      "bedrooms": 0,
-      "bathrooms": 0,
-      "carSpaces": 0,
-      "officeOnTitle": false,
-      "pets": "0",
-      "caretakingRemuneration": 144321,
-      "agreementTerm": "10",
-      "agreementRemaining": "10",
-      "agreementAge": "0",
-      "officeHours": "",
-      "lettingPool": 20,
-      "ownerOccupiers": 77,
-      "lockUps": 0,
-      "outsideAgents": 6,
-      "unitsInComplex": 104,
-      "suburb": "Morayfield",
-      "state": "QLD",
-      "postcode": "4506",
-      "agentName": "Jeff Keast",
-      "agentPhone": "0414 669 007",
-      "agentEmail": "info@resortbrokers.com.au",
-      "agencyName": "Resort Brokers",
-      "agencyWebsite": null,
-      "dateListed": "08 April 2026",
-      "lastUpdated": "2026-08-16 13:15:20"
+      "lastUpdated": "2026-08-21 05:51:07"
     },
     {
       "id": "21170922",
