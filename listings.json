@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-22T03:06:57.188358",
+  "scraped_at": "2026-08-23T03:13:41.236761",
   "total": 557,
   "listings": [
     {
@@ -7687,19 +7687,19 @@
       "price": 1100000,
       "priceView": "$1,100,000",
       "netIncome": 130116,
-      "netIncomeBasis": "",
+      "netIncomeBasis": "actual",
       "unitValue": 800000,
       "multiplier": 2.31,
       "bedrooms": 2,
       "bathrooms": 1,
       "carSpaces": 1,
       "officeOnTitle": false,
-      "pets": "0",
+      "pets": "yes",
       "caretakingRemuneration": 82684,
       "agreementTerm": "25",
       "agreementRemaining": "22",
       "agreementAge": "0",
-      "officeHours": "",
+      "officeHours": "None Stated",
       "lettingPool": 18,
       "ownerOccupiers": 22,
       "lockUps": 0,
@@ -7714,7 +7714,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "17 April 2026",
-      "lastUpdated": "2026-08-18 08:00:08"
+      "lastUpdated": "2026-08-22 04:33:09"
     },
     {
       "id": "21168044",
