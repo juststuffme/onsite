@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-25T03:11:34.342563",
-  "total": 560,
+  "scraped_at": "2026-08-26T03:17:58.724119",
+  "total": 561,
   "listings": [
     {
       "id": "21189761",
@@ -284,7 +284,7 @@
       "bathrooms": 0,
       "carSpaces": 0,
       "officeOnTitle": false,
-      "pets": "0",
+      "pets": "No",
       "caretakingRemuneration": 79000,
       "agreementTerm": "25",
       "agreementRemaining": "23",
@@ -304,7 +304,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "03 August 2026",
-      "lastUpdated": "2026-08-14 03:31:58"
+      "lastUpdated": "2026-08-26 02:02:42"
     },
     {
       "id": "21190281",
@@ -760,7 +760,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "01 June 2026",
-      "lastUpdated": "2026-08-12 11:59:06"
+      "lastUpdated": "2026-08-26 02:03:01"
     },
     {
       "id": "21180069",
@@ -836,7 +836,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "16 May 2026",
-      "lastUpdated": "2026-08-01 01:45:18"
+      "lastUpdated": "2026-08-26 02:03:18"
     },
     {
       "id": "21190286",
@@ -1102,7 +1102,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "11 August 2026",
-      "lastUpdated": "2026-08-18 06:09:11"
+      "lastUpdated": "2026-08-26 02:01:58"
     },
     {
       "id": "21190847",
@@ -1389,7 +1389,7 @@
       "pets": "No",
       "caretakingRemuneration": 0,
       "agreementTerm": "10",
-      "agreementRemaining": "8",
+      "agreementRemaining": "10",
       "agreementAge": "0",
       "officeHours": "",
       "lettingPool": 16,
@@ -1406,7 +1406,7 @@
       "agencyName": "Portal Realty",
       "agencyWebsite": null,
       "dateListed": "2026-08-19 00:30:46",
-      "lastUpdated": "2026-08-24 07:11:36"
+      "lastUpdated": "2026-08-25 05:42:48"
     },
     {
       "id": "21191627",
@@ -2356,7 +2356,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "12 May 2026",
-      "lastUpdated": "2026-07-01 04:06:26"
+      "lastUpdated": "2026-08-26 02:07:26"
     },
     {
       "id": "21176418",
@@ -2364,12 +2364,12 @@
       "title": "Boutique 8 Bungalow High-Performing MR Business with an outstanding reputation | Resort Brokers ID : MR009188",
       "category": "Resort / Holiday",
       "status": "current",
-      "price": 1292000,
-      "priceView": "$1,292,000",
-      "netIncome": 115359,
+      "price": 1275000,
+      "priceView": "$1,275,000",
+      "netIncome": 163512,
       "netIncomeBasis": "actual",
       "unitValue": 750000,
-      "multiplier": 4.7,
+      "multiplier": 3.21,
       "bedrooms": 3,
       "bathrooms": 1,
       "carSpaces": 0,
@@ -2394,7 +2394,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
-      "lastUpdated": "2026-08-23 13:15:26"
+      "lastUpdated": "2026-08-25 05:00:07"
     },
     {
       "id": "21176388",
@@ -3197,15 +3197,15 @@
     {
       "id": "21184995",
       "url": "https://www.theonsitemanager.com.au/listing/21184995",
-      "title": "Outstanding Townsville Permanent Management Rights with Robust Income Stream",
+      "title": "Townsville Permanent Management Rights with Exceptional Remuneration",
       "category": "Permanent",
       "status": "current",
       "price": 1750000,
-      "priceView": "$1,750,000",
+      "priceView": "$1,699,000",
       "netIncome": 296480,
       "netIncomeBasis": "actual",
-      "unitValue": 650000,
-      "multiplier": 3.71,
+      "unitValue": 599000,
+      "multiplier": 3.88,
       "bedrooms": 2,
       "bathrooms": 2,
       "carSpaces": 1,
@@ -3230,7 +3230,7 @@
       "agencyName": "Hotel Resort Sales",
       "agencyWebsite": null,
       "dateListed": "26 June 2026",
-      "lastUpdated": "2026-08-20 06:08:12"
+      "lastUpdated": "2026-08-26 03:02:04"
     },
     {
       "id": "21183588",
@@ -3689,6 +3689,82 @@
       "lastUpdated": "2026-08-11 00:58:54"
     },
     {
+      "id": "21193698",
+      "url": "https://www.theonsitemanager.com.au/listing/21193698",
+      "title": "Paradise Waters Management Rights – Strong Income & Low-Maintenance Duties | Resort Brokers ID : MR009325",
+      "category": "Permanent",
+      "status": "current",
+      "price": 2100000,
+      "priceView": "$2,100,000",
+      "netIncome": 194171,
+      "netIncomeBasis": "actual",
+      "unitValue": 1250000,
+      "multiplier": 4.38,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "carSpaces": 1,
+      "officeOnTitle": true,
+      "pets": "No",
+      "caretakingRemuneration": 160043,
+      "agreementTerm": "10",
+      "agreementRemaining": "8",
+      "agreementAge": "0",
+      "officeHours": "8.30 - 4.00",
+      "lettingPool": 15,
+      "ownerOccupiers": 46,
+      "lockUps": 0,
+      "outsideAgents": 3,
+      "unitsInComplex": 64,
+      "suburb": "Paradise Waters",
+      "state": "QLD",
+      "postcode": "4217",
+      "agentName": "Clint Amos",
+      "agentPhone": "0482 061 261",
+      "agentEmail": "info@resortbrokers.com.au",
+      "agencyName": "Resort Brokers",
+      "agencyWebsite": null,
+      "dateListed": "25 August 2026",
+      "lastUpdated": "2026-08-26 00:36:49"
+    },
+    {
+      "id": "21193618",
+      "url": "https://www.theonsitemanager.com.au/listing/21193618",
+      "title": "Business Only MR Opportunity - No Facilities - Low Maintenance Operation  | Resort Brokers ID : MRB009309",
+      "category": "Permanent",
+      "status": "current",
+      "price": 327500,
+      "priceView": "$327,500",
+      "netIncome": 65397,
+      "netIncomeBasis": "actual",
+      "unitValue": 0,
+      "multiplier": 5.01,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": false,
+      "pets": "No",
+      "caretakingRemuneration": 35792,
+      "agreementTerm": "25",
+      "agreementRemaining": "20",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 12,
+      "ownerOccupiers": 13,
+      "lockUps": 0,
+      "outsideAgents": 4,
+      "unitsInComplex": 29,
+      "suburb": "Cannon Hill",
+      "state": "QLD",
+      "postcode": "4170",
+      "agentName": "Jeff Keast",
+      "agentPhone": "0414 669 007",
+      "agentEmail": "info@resortbrokers.com.au",
+      "agencyName": "Resort Brokers",
+      "agencyWebsite": null,
+      "dateListed": "25 August 2026",
+      "lastUpdated": "2026-08-26 02:57:16"
+    },
+    {
       "id": "21193523",
       "url": "https://www.theonsitemanager.com.au/listing/21193523",
       "title": "Christmas Deadline – Vendor Says Sell – Kings Beach Business Only! | Resort Brokers ID : MRB009344",
@@ -3704,10 +3780,10 @@
       "bathrooms": 0,
       "carSpaces": 0,
       "officeOnTitle": false,
-      "pets": "0",
+      "pets": "No",
       "caretakingRemuneration": 64671,
-      "agreementTerm": "0",
-      "agreementRemaining": "0",
+      "agreementTerm": "25",
+      "agreementRemaining": "25",
       "agreementAge": "0",
       "officeHours": "",
       "lettingPool": 0,
@@ -3724,7 +3800,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "24 August 2026",
-      "lastUpdated": "2026-08-25 01:15:13"
+      "lastUpdated": "2026-08-25 05:17:11"
     },
     {
       "id": "21193283",
@@ -3732,12 +3808,12 @@
       "title": "High-Income Inner-City Opportunity with No Manager’s Unit Required",
       "category": "Permanent",
       "status": "current",
-      "price": 1500000,
-      "priceView": "$1,500,000",
-      "netIncome": 240060,
+      "price": 1550000,
+      "priceView": "$1,550,000",
+      "netIncome": 246725,
       "netIncomeBasis": "actual",
       "unitValue": 0,
-      "multiplier": 6.25,
+      "multiplier": 6.28,
       "bedrooms": 0,
       "bathrooms": 0,
       "carSpaces": 0,
@@ -3762,7 +3838,7 @@
       "agencyName": "SIRE Management Rights",
       "agencyWebsite": null,
       "dateListed": "2026-08-21 21:58:26",
-      "lastUpdated": "2026-08-21 21:58:47"
+      "lastUpdated": "2026-08-26 00:57:36"
     },
     {
       "id": "21193166",
@@ -4356,9 +4432,9 @@
       "agreementRemaining": "22",
       "agreementAge": "0",
       "officeHours": "",
-      "lettingPool": 26,
-      "ownerOccupiers": 60,
-      "lockUps": 2,
+      "lettingPool": 25,
+      "ownerOccupiers": 53,
+      "lockUps": 10,
       "outsideAgents": 4,
       "unitsInComplex": 93,
       "suburb": "Coolangatta",
@@ -4370,7 +4446,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "27 July 2026",
-      "lastUpdated": "2026-08-23 13:15:35"
+      "lastUpdated": "2026-08-25 05:00:09"
     },
     {
       "id": "21189346",
@@ -4940,7 +5016,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "24 June 2026",
-      "lastUpdated": "2026-08-24 21:45:05"
+      "lastUpdated": "2026-08-25 13:15:04"
     },
     {
       "id": "21184674",
@@ -7524,7 +7600,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "12 April 2026",
-      "lastUpdated": "2026-08-01 01:34:32"
+      "lastUpdated": "2026-08-26 02:04:13"
     },
     {
       "id": "21173174",
@@ -7562,7 +7638,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "11 April 2026",
-      "lastUpdated": "2026-08-01 01:44:08"
+      "lastUpdated": "2026-08-26 02:03:37"
     },
     {
       "id": "21172775",
@@ -7828,7 +7904,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "17 April 2026",
-      "lastUpdated": "2026-08-22 04:33:09"
+      "lastUpdated": "2026-08-26 02:04:40"
     },
     {
       "id": "21168044",
@@ -7942,7 +8018,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "17 April 2026",
-      "lastUpdated": "2026-08-01 01:42:13"
+      "lastUpdated": "2026-08-26 02:03:54"
     },
     {
       "id": "21161699",
@@ -8208,7 +8284,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "01 March 2026",
-      "lastUpdated": "2026-08-01 01:32:48"
+      "lastUpdated": "2026-08-26 02:04:26"
     },
     {
       "id": "21173980",
@@ -9044,7 +9120,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "12 April 2026",
-      "lastUpdated": "2026-05-12 03:48:29"
+      "lastUpdated": "2026-08-26 02:09:29"
     },
     {
       "id": "21173091",
@@ -9062,7 +9138,7 @@
       "bathrooms": 2,
       "carSpaces": 1,
       "officeOnTitle": false,
-      "pets": "0",
+      "pets": "No",
       "caretakingRemuneration": 221282,
       "agreementTerm": "25",
       "agreementRemaining": "22",
@@ -9082,7 +9158,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "09 April 2026",
-      "lastUpdated": "2026-07-31 10:00:05"
+      "lastUpdated": "2026-08-26 02:05:17"
     },
     {
       "id": "21172863",
@@ -9480,7 +9556,7 @@
       "bathrooms": 4,
       "carSpaces": 4,
       "officeOnTitle": false,
-      "pets": "0",
+      "pets": "No",
       "caretakingRemuneration": 264219,
       "agreementTerm": "25",
       "agreementRemaining": "19",
@@ -9500,7 +9576,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "17 April 2026",
-      "lastUpdated": "2026-07-31 10:00:04"
+      "lastUpdated": "2026-08-26 02:06:09"
     },
     {
       "id": "21169512",
@@ -9518,7 +9594,7 @@
       "bathrooms": 2,
       "carSpaces": 2,
       "officeOnTitle": false,
-      "pets": "0",
+      "pets": "No",
       "caretakingRemuneration": 150000,
       "agreementTerm": "25",
       "agreementRemaining": "24",
@@ -9538,7 +9614,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "01 March 2026",
-      "lastUpdated": "2026-08-14 03:31:58"
+      "lastUpdated": "2026-08-26 02:02:21"
     },
     {
       "id": "21169125",
@@ -9690,7 +9766,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "01 March 2026",
-      "lastUpdated": "2026-06-09 05:32:49"
+      "lastUpdated": "2026-08-26 02:08:34"
     },
     {
       "id": "21168309",
@@ -9804,7 +9880,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "01 April 2026",
-      "lastUpdated": "2026-06-09 05:33:47"
+      "lastUpdated": "2026-08-26 02:07:50"
     },
     {
       "id": "21166061",
@@ -9918,7 +9994,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "01 February 2026",
-      "lastUpdated": "2026-06-09 05:33:27"
+      "lastUpdated": "2026-08-26 02:08:08"
     },
     {
       "id": "21165239",
@@ -10336,7 +10412,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "17 April 2026",
-      "lastUpdated": "2026-05-12 03:37:49"
+      "lastUpdated": "2026-08-26 02:09:51"
     },
     {
       "id": "21157419",
@@ -10602,7 +10678,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "01 February 2026",
-      "lastUpdated": "2026-05-12 03:35:48"
+      "lastUpdated": "2026-08-26 02:10:10"
     },
     {
       "id": "21145717",
@@ -10716,7 +10792,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "04 April 2026",
-      "lastUpdated": "2026-06-09 05:30:37"
+      "lastUpdated": "2026-08-26 02:09:12"
     },
     {
       "id": "21170940",
@@ -10982,7 +11058,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "12 November 2025",
-      "lastUpdated": "2026-04-10 04:13:39"
+      "lastUpdated": "2026-08-26 02:10:42"
     },
     {
       "id": "21147288",
@@ -11020,7 +11096,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "01 October 2025",
-      "lastUpdated": "2026-04-10 04:13:39"
+      "lastUpdated": "2026-08-26 02:11:25"
     },
     {
       "id": "21140124",
@@ -12862,7 +12938,7 @@
       "bathrooms": 2,
       "carSpaces": 2,
       "officeOnTitle": false,
-      "pets": "0",
+      "pets": "No",
       "caretakingRemuneration": 109573,
       "agreementTerm": "25",
       "agreementRemaining": "23",
@@ -12882,7 +12958,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "19 February 2026",
-      "lastUpdated": "2026-07-22 09:00:04"
+      "lastUpdated": "2026-08-26 02:06:25"
     },
     {
       "id": "21151603",
@@ -12976,7 +13052,7 @@
       "bathrooms": 3,
       "carSpaces": 2,
       "officeOnTitle": false,
-      "pets": "0",
+      "pets": "No",
       "caretakingRemuneration": 185935,
       "agreementTerm": "25",
       "agreementRemaining": "19",
@@ -12996,7 +13072,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "17 April 2026",
-      "lastUpdated": "2026-08-18 08:00:06"
+      "lastUpdated": "2026-08-26 02:01:39"
     },
     {
       "id": "21141718",
@@ -13111,6 +13187,44 @@
       "agencyWebsite": null,
       "dateListed": "22 April 2026",
       "lastUpdated": "2026-08-21 05:52:35"
+    },
+    {
+      "id": "21148409",
+      "url": "https://www.theonsitemanager.com.au/listing/21148409",
+      "title": "GREAT HOME AND $100,000 PLUS PROFIT",
+      "category": "Permanent",
+      "status": "under contract",
+      "price": 1150000,
+      "priceView": "$1,150,000",
+      "netIncome": 102058,
+      "netIncomeBasis": "",
+      "unitValue": 720000,
+      "multiplier": 4.21,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "carSpaces": 2,
+      "officeOnTitle": false,
+      "pets": "No",
+      "caretakingRemuneration": 71052,
+      "agreementTerm": "25",
+      "agreementRemaining": "22",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 12,
+      "ownerOccupiers": 30,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 42,
+      "suburb": "Ormeau",
+      "state": "QLD",
+      "postcode": "4208",
+      "agentName": "Selina Zhong",
+      "agentPhone": "0468 886 010",
+      "agentEmail": "darren@propertybridge.com.au",
+      "agencyName": "Property Bridge",
+      "agencyWebsite": null,
+      "dateListed": "08 July 2025",
+      "lastUpdated": "2026-08-26 02:11:43"
     },
     {
       "id": "21112550",
@@ -14861,82 +14975,6 @@
       "lastUpdated": "2026-05-01 04:07:41"
     },
     {
-      "id": "21148961",
-      "url": "https://www.theonsitemanager.com.au/listing/21148961",
-      "title": "GREAT STARTER COMPLEX!",
-      "category": "Permanent",
-      "status": "under contract",
-      "price": 765000,
-      "priceView": "$765,000",
-      "netIncome": 69000,
-      "netIncomeBasis": "",
-      "unitValue": 524000,
-      "multiplier": 3.49,
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "carSpaces": 1,
-      "officeOnTitle": false,
-      "pets": "0",
-      "caretakingRemuneration": 65645,
-      "agreementTerm": "25",
-      "agreementRemaining": "19",
-      "agreementAge": "0",
-      "officeHours": "",
-      "lettingPool": 4,
-      "ownerOccupiers": 26,
-      "lockUps": 0,
-      "outsideAgents": 13,
-      "unitsInComplex": 43,
-      "suburb": "Slacks Creek",
-      "state": "QLD",
-      "postcode": "4127",
-      "agentName": "Jim Lowe",
-      "agentPhone": "0403 418 115",
-      "agentEmail": "darren@propertybridge.com.au",
-      "agencyName": "Property Bridge",
-      "agencyWebsite": null,
-      "dateListed": "19 March 2026",
-      "lastUpdated": "2026-04-10 04:13:39"
-    },
-    {
-      "id": "21148409",
-      "url": "https://www.theonsitemanager.com.au/listing/21148409",
-      "title": "GREAT HOME AND $100,000 PLUS PROFIT",
-      "category": "Permanent",
-      "status": "under contract",
-      "price": 1150000,
-      "priceView": "$1,150,000",
-      "netIncome": 102058,
-      "netIncomeBasis": "",
-      "unitValue": 720000,
-      "multiplier": 4.21,
-      "bedrooms": 4,
-      "bathrooms": 3,
-      "carSpaces": 2,
-      "officeOnTitle": false,
-      "pets": "No",
-      "caretakingRemuneration": 71052,
-      "agreementTerm": "25",
-      "agreementRemaining": "22",
-      "agreementAge": "0",
-      "officeHours": "",
-      "lettingPool": 12,
-      "ownerOccupiers": 30,
-      "lockUps": 0,
-      "outsideAgents": 0,
-      "unitsInComplex": 42,
-      "suburb": "Ormeau",
-      "state": "QLD",
-      "postcode": "4208",
-      "agentName": "Selina Zhong",
-      "agentPhone": "0468 886 010",
-      "agentEmail": "darren@propertybridge.com.au",
-      "agencyName": "Property Bridge",
-      "agencyWebsite": null,
-      "dateListed": "08 July 2025",
-      "lastUpdated": "2026-04-10 04:13:39"
-    },
-    {
       "id": "21170683",
       "url": "https://www.theonsitemanager.com.au/listing/21170683",
       "title": "Lifestyle Business with Stable Income",
@@ -15142,7 +15180,7 @@
       "bathrooms": 0,
       "carSpaces": 0,
       "officeOnTitle": false,
-      "pets": "0",
+      "pets": "No",
       "caretakingRemuneration": 61724,
       "agreementTerm": "25",
       "agreementRemaining": "21",
@@ -15162,7 +15200,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "20 April 2026",
-      "lastUpdated": "2026-08-18 09:00:04"
+      "lastUpdated": "2026-08-26 02:01:23"
     },
     {
       "id": "21173505",
@@ -15618,7 +15656,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "23 March 2026",
-      "lastUpdated": "2026-08-23 13:15:17"
+      "lastUpdated": "2026-08-25 05:00:06"
     },
     {
       "id": "21172105",
@@ -16074,7 +16112,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "23 February 2026",
-      "lastUpdated": "2026-08-23 13:15:19"
+      "lastUpdated": "2026-08-25 05:00:07"
     },
     {
       "id": "21170521",
@@ -16302,7 +16340,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "10 April 2026",
-      "lastUpdated": "2026-06-09 05:32:03"
+      "lastUpdated": "2026-08-26 02:08:52"
     },
     {
       "id": "21169126",
@@ -17594,7 +17632,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "06 March 2026",
-      "lastUpdated": "2026-07-30 08:00:55"
+      "lastUpdated": "2026-08-26 02:05:40"
     },
     {
       "id": "21170347",
@@ -17632,7 +17670,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "18 February 2026",
-      "lastUpdated": "2026-04-10 04:13:39"
+      "lastUpdated": "2026-08-26 02:11:08"
     },
     {
       "id": "21169896",
@@ -18392,7 +18430,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "10 April 2026",
-      "lastUpdated": "2026-06-30 08:31:23"
+      "lastUpdated": "2026-08-26 02:07:07"
     },
     {
       "id": "21171916",
@@ -18410,7 +18448,7 @@
       "bathrooms": 3,
       "carSpaces": 2,
       "officeOnTitle": false,
-      "pets": "0",
+      "pets": "No",
       "caretakingRemuneration": 148906,
       "agreementTerm": "25",
       "agreementRemaining": "23",
@@ -18430,7 +18468,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "20 March 2026",
-      "lastUpdated": "2026-07-31 10:00:04"
+      "lastUpdated": "2026-08-26 02:06:42"
     },
     {
       "id": "21171801",
@@ -20335,21 +20373,21 @@
     {
       "id": "21167916",
       "url": "https://www.theonsitemanager.com.au/listing/21167916",
-      "title": "COASTAL LIVING, ABSOLUTE BEACHFRONT RESORT MANAGEMENT RIGHTS - $527K+ NET PROFIT | Resort Brokers ID : MR009045",
+      "title": "ABSOLUTE BEACHFRONT, FLEXIBLE OPERATION, LIFESTYLE APPEAL, STRONG RETURNS! | Resort Brokers ID : MR009045",
       "category": "Resort / Holiday",
       "status": "current",
-      "price": 3800000,
-      "priceView": "$3,800,000",
-      "netIncome": 527966,
+      "price": 3650000,
+      "priceView": "$3,650,000",
+      "netIncome": 556991,
       "netIncomeBasis": "actual",
       "unitValue": 1100000,
-      "multiplier": 5.11,
+      "multiplier": 4.58,
       "bedrooms": 3,
       "bathrooms": 2,
       "carSpaces": 2,
       "officeOnTitle": true,
       "pets": "1",
-      "caretakingRemuneration": 121922,
+      "caretakingRemuneration": 121801,
       "agreementTerm": "25",
       "agreementRemaining": "20",
       "agreementAge": "0",
@@ -20368,7 +20406,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "14 January 2026",
-      "lastUpdated": "2026-08-23 13:15:16"
+      "lastUpdated": "2026-08-25 05:00:03"
     },
     {
       "id": "21166561",
