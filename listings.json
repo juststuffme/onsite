@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-27T12:47:14.597014",
-  "total": 563,
+  "scraped_at": "2026-08-28T14:17:06.830316",
+  "total": 567,
   "listings": [
     {
       "id": "21189761",
@@ -398,7 +398,7 @@
       "bathrooms": 2,
       "carSpaces": 2,
       "officeOnTitle": true,
-      "pets": "No",
+      "pets": "1",
       "caretakingRemuneration": 148516,
       "agreementTerm": "25",
       "agreementRemaining": "18",
@@ -418,7 +418,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "27 July 2026",
-      "lastUpdated": "2026-08-03 02:02:07"
+      "lastUpdated": "2026-08-27 13:47:01"
     },
     {
       "id": "21189191",
@@ -512,8 +512,8 @@
       "bathrooms": 0,
       "carSpaces": 0,
       "officeOnTitle": true,
-      "pets": "No",
-      "caretakingRemuneration": 245000,
+      "pets": "1",
+      "caretakingRemuneration": 255000,
       "agreementTerm": "10",
       "agreementRemaining": "10",
       "agreementAge": "0",
@@ -532,7 +532,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "23 July 2026",
-      "lastUpdated": "2026-08-03 02:07:56"
+      "lastUpdated": "2026-08-27 13:47:01"
     },
     {
       "id": "21188301",
@@ -816,7 +816,7 @@
       "bathrooms": 2,
       "carSpaces": 2,
       "officeOnTitle": false,
-      "pets": "No",
+      "pets": "0",
       "caretakingRemuneration": 184107,
       "agreementTerm": "25",
       "agreementRemaining": "23",
@@ -836,7 +836,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "16 May 2026",
-      "lastUpdated": "2026-08-26 02:03:18"
+      "lastUpdated": "2026-08-27 13:44:58"
     },
     {
       "id": "21190286",
@@ -1082,7 +1082,7 @@
       "bathrooms": 2,
       "carSpaces": 2,
       "officeOnTitle": false,
-      "pets": "No",
+      "pets": "0",
       "caretakingRemuneration": 347000,
       "agreementTerm": "25",
       "agreementRemaining": "20",
@@ -1102,7 +1102,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "11 August 2026",
-      "lastUpdated": "2026-08-26 02:01:58"
+      "lastUpdated": "2026-08-27 13:44:56"
     },
     {
       "id": "21190847",
@@ -1259,7 +1259,7 @@
     {
       "id": "21183694",
       "url": "https://www.theonsitemanager.com.au/listing/21183694",
-      "title": "Large Body Corp Salary of $140k+",
+      "title": "Massive R.O.I 34% on Huge Nett Profit $157k",
       "category": "Permanent",
       "status": "current",
       "price": 400000,
@@ -1292,7 +1292,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "18 June 2026",
-      "lastUpdated": "2026-08-17 23:00:06"
+      "lastUpdated": "2026-08-27 13:45:41"
     },
     {
       "id": "21182037",
@@ -1867,7 +1867,7 @@
     {
       "id": "21184494",
       "url": "https://www.theonsitemanager.com.au/listing/21184494",
-      "title": "Lifestyle Bayside MLR with 25-Year Peace of Mind",
+      "title": "25 Year Security $171K Net Profit - Bayside Wakerley MLR Won't Last",
       "category": "Permanent",
       "status": "current",
       "price": 1719800,
@@ -1900,7 +1900,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "23 June 2026",
-      "lastUpdated": "2026-07-14 11:00:03"
+      "lastUpdated": "2026-08-27 13:45:40"
     },
     {
       "id": "21183799",
@@ -2171,8 +2171,8 @@
     {
       "id": "21180269",
       "url": "https://www.theonsitemanager.com.au/listing/21180269",
-      "title": "Rare Established Hotel In Heart of Fortitude Valley",
-      "category": "Permanent",
+      "title": "82 Lot Hotel MLR in Fortitude Valley - $391K Net Profit Genuine Growth Upside",
+      "category": "Resort / Holiday",
       "status": "current",
       "price": 2740000,
       "priceView": "MR $2.19M + Unit $550k = $2.74m",
@@ -2184,7 +2184,7 @@
       "bathrooms": 1,
       "carSpaces": 1,
       "officeOnTitle": true,
-      "pets": "No",
+      "pets": "1",
       "caretakingRemuneration": 133730,
       "agreementTerm": "25",
       "agreementRemaining": "18",
@@ -2204,7 +2204,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "31 May 2026",
-      "lastUpdated": "2026-07-01 22:20:03"
+      "lastUpdated": "2026-08-27 13:45:40"
     },
     {
       "id": "21180204",
@@ -2589,15 +2589,15 @@
     {
       "id": "21174814",
       "url": "https://www.theonsitemanager.com.au/listing/21174814",
-      "title": "Lifestyle and Business rarely combine like this!",
+      "title": "Exceptionally Priced at Offers over $650k",
       "category": "Permanent",
       "status": "current",
-      "price": 799000,
-      "priceView": "MR $500k + Unit $299k = Total $799k",
+      "price": 649000,
+      "priceView": "Offers over $650k",
       "netIncome": 115000,
       "netIncomeBasis": "actual",
       "unitValue": 0,
-      "multiplier": 6.95,
+      "multiplier": 5.64,
       "bedrooms": 2,
       "bathrooms": 2,
       "carSpaces": 2,
@@ -2622,7 +2622,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "30 April 2026",
-      "lastUpdated": "2026-08-18 00:00:04"
+      "lastUpdated": "2026-08-27 13:46:35"
     },
     {
       "id": "21183774",
@@ -3116,7 +3116,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "04 June 2026",
-      "lastUpdated": "2026-08-13 06:00:04"
+      "lastUpdated": "2026-08-27 13:47:01"
     },
     {
       "id": "21181384",
@@ -3134,7 +3134,7 @@
       "bathrooms": 0,
       "carSpaces": 0,
       "officeOnTitle": true,
-      "pets": "No",
+      "pets": "1",
       "caretakingRemuneration": 41380,
       "agreementTerm": "25",
       "agreementRemaining": "21",
@@ -3154,7 +3154,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "04 June 2026",
-      "lastUpdated": "2026-07-01 22:40:20"
+      "lastUpdated": "2026-08-27 13:47:02"
     },
     {
       "id": "21175216",
@@ -3689,6 +3689,82 @@
       "lastUpdated": "2026-08-11 00:58:54"
     },
     {
+      "id": "21194018",
+      "url": "https://www.theonsitemanager.com.au/listing/21194018",
+      "title": "NET PROFIT $577,000 - BUSINESS ONLY - NO REAL ESTATE",
+      "category": "Permanent",
+      "status": "current",
+      "price": 3438000,
+      "priceView": "$3,438,000",
+      "netIncome": 577708,
+      "netIncomeBasis": "",
+      "unitValue": 0,
+      "multiplier": 5.95,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": false,
+      "pets": "0",
+      "caretakingRemuneration": 299756,
+      "agreementTerm": "25",
+      "agreementRemaining": "23",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 133,
+      "ownerOccupiers": 40,
+      "lockUps": 0,
+      "outsideAgents": 44,
+      "unitsInComplex": 217,
+      "suburb": "Morayfield",
+      "state": "QLD",
+      "postcode": "4506",
+      "agentName": "Bobo Qi",
+      "agentPhone": "0438 027 771",
+      "agentEmail": "darren@propertybridge.com.au",
+      "agencyName": "Property Bridge",
+      "agencyWebsite": null,
+      "dateListed": "27 August 2026",
+      "lastUpdated": "2026-08-27 13:44:58"
+    },
+    {
+      "id": "21194008",
+      "url": "https://www.theonsitemanager.com.au/listing/21194008",
+      "title": "VARSITY CATCHMENT INVESTMENT - NET $270,000",
+      "category": "Permanent",
+      "status": "current",
+      "price": 2380000,
+      "priceView": "$2,380,000",
+      "netIncome": 271380,
+      "netIncomeBasis": "",
+      "unitValue": 950000,
+      "multiplier": 5.27,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "carSpaces": 2,
+      "officeOnTitle": false,
+      "pets": "0",
+      "caretakingRemuneration": 170067,
+      "agreementTerm": "25",
+      "agreementRemaining": "22",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 29,
+      "ownerOccupiers": 45,
+      "lockUps": 0,
+      "outsideAgents": 10,
+      "unitsInComplex": 84,
+      "suburb": "Robina",
+      "state": "QLD",
+      "postcode": "4226",
+      "agentName": "Bobo Qi",
+      "agentPhone": "0438 027 771",
+      "agentEmail": "darren@propertybridge.com.au",
+      "agencyName": "Property Bridge",
+      "agencyWebsite": null,
+      "dateListed": "27 August 2026",
+      "lastUpdated": "2026-08-27 13:44:56"
+    },
+    {
       "id": "21193878",
       "url": "https://www.theonsitemanager.com.au/listing/21193878",
       "title": "Permanent Management Rights For Sale BNE Southern Suburb",
@@ -4028,7 +4104,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "14 August 2026",
-      "lastUpdated": "2026-08-18 09:00:05"
+      "lastUpdated": "2026-08-27 13:47:01"
     },
     {
       "id": "21192120",
@@ -4066,7 +4142,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 August 2026",
-      "lastUpdated": "2026-08-23 13:15:39"
+      "lastUpdated": "2026-08-27 13:15:10"
     },
     {
       "id": "21191737",
@@ -4104,7 +4180,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "11 August 2026",
-      "lastUpdated": "2026-08-12 22:00:04"
+      "lastUpdated": "2026-08-27 13:45:41"
     },
     {
       "id": "21191607",
@@ -5016,7 +5092,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "26 June 2026",
-      "lastUpdated": "2026-08-23 13:15:35"
+      "lastUpdated": "2026-08-27 13:15:10"
     },
     {
       "id": "21184694",
@@ -5168,7 +5244,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "22 June 2026",
-      "lastUpdated": "2026-07-31 07:08:45"
+      "lastUpdated": "2026-08-27 13:47:01"
     },
     {
       "id": "21183659",
@@ -5586,7 +5662,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "07 June 2026",
-      "lastUpdated": "2026-08-23 13:15:29"
+      "lastUpdated": "2026-08-27 13:15:08"
     },
     {
       "id": "21181304",
@@ -5632,11 +5708,11 @@
       "title": "Absolute Beachfront Management Rights - $410k Net Profit, Ocean View Residence | Resort Brokers ID : MR009228",
       "category": "Resort / Holiday",
       "status": "current",
-      "price": 3500000,
-      "priceView": "$3,500,000",
+      "price": 3300000,
+      "priceView": "$3,300,000",
       "netIncome": 410024,
       "netIncomeBasis": "actual",
-      "unitValue": 1800000,
+      "unitValue": 1600000,
       "multiplier": 4.15,
       "bedrooms": 3,
       "bathrooms": 2,
@@ -5662,7 +5738,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "01 June 2026",
-      "lastUpdated": "2026-08-23 13:15:30"
+      "lastUpdated": "2026-08-27 13:15:09"
     },
     {
       "id": "21180114",
@@ -6156,7 +6232,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
-      "lastUpdated": "2026-08-23 13:15:26"
+      "lastUpdated": "2026-08-27 13:15:08"
     },
     {
       "id": "21176448",
@@ -6615,6 +6691,120 @@
       "lastUpdated": "2026-05-19 08:52:21"
     },
     {
+      "id": "21194048",
+      "url": "https://www.theonsitemanager.com.au/listing/21194048",
+      "title": "Priced to Sell at $1.600M, Don't Miss Out!",
+      "category": "Permanent",
+      "status": "current",
+      "price": 1499999,
+      "priceView": "Business Only $1.600M",
+      "netIncome": 463750,
+      "netIncomeBasis": "actual",
+      "unitValue": 0,
+      "multiplier": 3.23,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": true,
+      "pets": "1",
+      "caretakingRemuneration": 112082,
+      "agreementTerm": "25",
+      "agreementRemaining": "22",
+      "agreementAge": "0",
+      "officeHours": "N/A",
+      "lettingPool": 15,
+      "ownerOccupiers": 18,
+      "lockUps": 1,
+      "outsideAgents": 6,
+      "unitsInComplex": 40,
+      "suburb": "Airlie Beach",
+      "state": "QLD",
+      "postcode": "4802",
+      "agentName": "Joel McCartin",
+      "agentPhone": "0407 834 425",
+      "agentEmail": "fwc3xtxq@robot.zapier.com",
+      "agencyName": "Ras360",
+      "agencyWebsite": null,
+      "dateListed": "27 August 2026",
+      "lastUpdated": "2026-08-27 13:47:10"
+    },
+    {
+      "id": "21194038",
+      "url": "https://www.theonsitemanager.com.au/listing/21194038",
+      "title": "Secure Coastal Management Rights with Proven Income Potential",
+      "category": "Permanent",
+      "status": "current",
+      "price": 2595000,
+      "priceView": "$1.635M MR & $960K Unit = Total $2.595M",
+      "netIncome": 320262,
+      "netIncomeBasis": "actual",
+      "unitValue": 0,
+      "multiplier": 8.1,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "carSpaces": 2,
+      "officeOnTitle": true,
+      "pets": "1",
+      "caretakingRemuneration": 189429,
+      "agreementTerm": "25",
+      "agreementRemaining": "22",
+      "agreementAge": "0",
+      "officeHours": "None",
+      "lettingPool": 47,
+      "ownerOccupiers": 61,
+      "lockUps": 0,
+      "outsideAgents": 15,
+      "unitsInComplex": 123,
+      "suburb": "Mountain Creek",
+      "state": "QLD",
+      "postcode": "4557",
+      "agentName": "Geoff Hatchman",
+      "agentPhone": "0427 938 444",
+      "agentEmail": "fwc3xtxq@robot.zapier.com",
+      "agencyName": "Ras360",
+      "agencyWebsite": null,
+      "dateListed": "27 August 2026",
+      "lastUpdated": "2026-08-27 13:46:48"
+    },
+    {
+      "id": "21194028",
+      "url": "https://www.theonsitemanager.com.au/listing/21194028",
+      "title": "Lifestyle and Income Without the Live Onsite Requirement",
+      "category": "Permanent",
+      "status": "current",
+      "price": 1100000,
+      "priceView": "$300K MR & $800K UNIT = Total $1.1M",
+      "netIncome": 75165,
+      "netIncomeBasis": "actual",
+      "unitValue": 0,
+      "multiplier": 14.63,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "carSpaces": 2,
+      "officeOnTitle": true,
+      "pets": "0",
+      "caretakingRemuneration": 75165,
+      "agreementTerm": "25",
+      "agreementRemaining": "24",
+      "agreementAge": "27",
+      "officeHours": "No Office Hours",
+      "lettingPool": 13,
+      "ownerOccupiers": 24,
+      "lockUps": 0,
+      "outsideAgents": 5,
+      "unitsInComplex": 43,
+      "suburb": "Southport",
+      "state": "QLD",
+      "postcode": "4215",
+      "agentName": "Greg Litzner",
+      "agentPhone": "0499 001 833",
+      "agentEmail": "fwc3xtxq@robot.zapier.com",
+      "agencyName": "Ras360",
+      "agencyWebsite": null,
+      "dateListed": "27 August 2026",
+      "lastUpdated": "2026-08-27 13:44:58"
+    },
+    {
       "id": "21192956",
       "url": "https://www.theonsitemanager.com.au/listing/21192956",
       "title": "Long Agreements. No Set Office Hours. Prime Benowa Location",
@@ -6688,7 +6878,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "17 August 2026",
-      "lastUpdated": "2026-08-17 22:00:04"
+      "lastUpdated": "2026-08-27 13:45:41"
     },
     {
       "id": "21192445",
@@ -6726,7 +6916,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "17 August 2026",
-      "lastUpdated": "2026-08-17 08:00:05"
+      "lastUpdated": "2026-08-27 13:47:02"
     },
     {
       "id": "21191892",
@@ -6878,7 +7068,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "30 June 2026",
-      "lastUpdated": "2026-07-23 06:00:02"
+      "lastUpdated": "2026-08-27 13:47:01"
     },
     {
       "id": "21178174",
@@ -7335,6 +7525,44 @@
       "agencyWebsite": null,
       "dateListed": "2026-05-05 12:34:24",
       "lastUpdated": "2026-06-15 13:01:33"
+    },
+    {
+      "id": "21193998",
+      "url": "https://www.theonsitemanager.com.au/listing/21193998",
+      "title": "Blue Chip, High Net, Beachside Main Beach | Resort Brokers ID : MR009346",
+      "category": "Permanent",
+      "status": "current",
+      "price": 4945000,
+      "priceView": "$4,945,000",
+      "netIncome": 672149,
+      "netIncomeBasis": "actual",
+      "unitValue": 1100000,
+      "multiplier": 5.72,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": false,
+      "pets": "0",
+      "caretakingRemuneration": 160000,
+      "agreementTerm": "0",
+      "agreementRemaining": "0",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 0,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 0,
+      "suburb": "Main Beach",
+      "state": "QLD",
+      "postcode": "4217",
+      "agentName": "Clint Amos",
+      "agentPhone": "0482 061 261",
+      "agentEmail": "info@resortbrokers.com.au",
+      "agencyName": "Resort Brokers",
+      "agencyWebsite": null,
+      "dateListed": "27 August 2026",
+      "lastUpdated": "2026-08-27 13:15:10"
     },
     {
       "id": "21183388",
@@ -8854,7 +9082,7 @@
       "agencyName": "Hotel Resort Sales",
       "agencyWebsite": null,
       "dateListed": "19 January 2026",
-      "lastUpdated": "2026-08-19 21:48:27"
+      "lastUpdated": "2026-08-28 07:34:06"
     },
     {
       "id": "21157578",
@@ -9815,19 +10043,19 @@
       "price": 1762000,
       "priceView": "$1,762,000",
       "netIncome": 181555,
-      "netIncomeBasis": "actual",
+      "netIncomeBasis": "",
       "unitValue": 800000,
       "multiplier": 5.3,
       "bedrooms": 3,
       "bathrooms": 2,
       "carSpaces": 2,
-      "officeOnTitle": true,
-      "pets": "No",
+      "officeOnTitle": false,
+      "pets": "0",
       "caretakingRemuneration": 117587,
       "agreementTerm": "25",
       "agreementRemaining": "22",
       "agreementAge": "0",
-      "officeHours": "none stated",
+      "officeHours": "",
       "lettingPool": 32,
       "ownerOccupiers": 33,
       "lockUps": 0,
@@ -9842,7 +10070,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "01 March 2026",
-      "lastUpdated": "2026-08-26 02:08:34"
+      "lastUpdated": "2026-08-27 13:44:54"
     },
     {
       "id": "21168309",
@@ -11325,44 +11553,6 @@
       "agencyWebsite": null,
       "dateListed": "08 December 2025",
       "lastUpdated": "2026-05-26 02:00:02"
-    },
-    {
-      "id": "21158630",
-      "url": "https://www.theonsitemanager.com.au/listing/21158630",
-      "title": "A Coastal Gem Ready for New Ownership – Growth Awaits!",
-      "category": "Permanent",
-      "status": "under offer",
-      "price": 4750000,
-      "priceView": "Sold Off-Market!",
-      "netIncome": 0,
-      "netIncomeBasis": "actual",
-      "unitValue": 0,
-      "multiplier": null,
-      "bedrooms": 2,
-      "bathrooms": 2,
-      "carSpaces": 2,
-      "officeOnTitle": true,
-      "pets": "1",
-      "caretakingRemuneration": 0,
-      "agreementTerm": "25",
-      "agreementRemaining": "18",
-      "agreementAge": "40",
-      "officeHours": "As per agreement",
-      "lettingPool": 52,
-      "ownerOccupiers": 60,
-      "lockUps": 14,
-      "outsideAgents": 14,
-      "unitsInComplex": 140,
-      "suburb": "Surfers Paradise",
-      "state": "QLD",
-      "postcode": "4217",
-      "agentName": "Syd Douglas",
-      "agentPhone": "0427973537",
-      "agentEmail": "fwc3xtxq@robot.zapier.com",
-      "agencyName": "Ras360",
-      "agencyWebsite": null,
-      "dateListed": "04 August 2025",
-      "lastUpdated": "2026-07-01 04:00:03"
     },
     {
       "id": "21157911",
@@ -13072,7 +13262,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "06 May 2025",
-      "lastUpdated": "2026-07-22 23:00:03"
+      "lastUpdated": "2026-08-27 13:47:01"
     },
     {
       "id": "21149675",
@@ -14650,7 +14840,7 @@
       "officeOnTitle": false,
       "pets": "0",
       "caretakingRemuneration": 125057,
-      "agreementTerm": "10",
+      "agreementTerm": "25",
       "agreementRemaining": "20",
       "agreementAge": "0",
       "officeHours": "No set office hours",
@@ -14668,7 +14858,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "30 March 2026",
-      "lastUpdated": "2026-08-23 13:15:22"
+      "lastUpdated": "2026-08-27 13:15:07"
     },
     {
       "id": "21172459",
@@ -15314,7 +15504,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 April 2026",
-      "lastUpdated": "2026-08-23 13:15:18"
+      "lastUpdated": "2026-08-27 13:15:05"
     },
     {
       "id": "21173419",
@@ -15583,44 +15773,6 @@
       "lastUpdated": "2026-07-17 22:41:11"
     },
     {
-      "id": "21172746",
-      "url": "https://www.theonsitemanager.com.au/listing/21172746",
-      "title": "Price Reduced to sell. High Yield Management Rights 34% Return, Accommodation Module, Coastal Lifestyle",
-      "category": "Permanent",
-      "status": "current",
-      "price": 895000,
-      "priceView": "$401K MR + $495K Unit = $895k Total",
-      "netIncome": 0,
-      "netIncomeBasis": "actual",
-      "unitValue": 0,
-      "multiplier": null,
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "carSpaces": 6,
-      "officeOnTitle": true,
-      "pets": "1",
-      "caretakingRemuneration": 0,
-      "agreementTerm": "21",
-      "agreementRemaining": "21",
-      "agreementAge": "0",
-      "officeHours": "8am to 10am, 3pm to 5pm (Mon-Fri)  8am to 10am (Sat)",
-      "lettingPool": 37,
-      "ownerOccupiers": 0,
-      "lockUps": 6,
-      "outsideAgents": 0,
-      "unitsInComplex": 43,
-      "suburb": "South Gladstone",
-      "state": "QLD",
-      "postcode": "4680",
-      "agentName": "Leigh Carson",
-      "agentPhone": "0431 905 959",
-      "agentEmail": "fwc3xtxq@robot.zapier.com",
-      "agencyName": "Ras360",
-      "agencyWebsite": null,
-      "dateListed": "01 April 2026",
-      "lastUpdated": "2026-06-03 02:00:03"
-    },
-    {
       "id": "21172689",
       "url": "https://www.theonsitemanager.com.au/listing/21172689",
       "title": "Business Only Permanent Management Rights",
@@ -15884,7 +16036,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "14 March 2026",
-      "lastUpdated": "2026-06-26 05:00:03"
+      "lastUpdated": "2026-08-27 13:47:01"
     },
     {
       "id": "21171418",
@@ -16188,7 +16340,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "23 February 2026",
-      "lastUpdated": "2026-08-25 05:00:07"
+      "lastUpdated": "2026-08-27 13:15:05"
     },
     {
       "id": "21170521",
@@ -16231,7 +16383,7 @@
     {
       "id": "21170276",
       "url": "https://www.theonsitemanager.com.au/listing/21170276",
-      "title": "Priced to Sell Yesterday: Highly Profitable Bayside Living Business",
+      "title": "Reduced to Sell: 23-Year Bayside MLR, Motivated Vendors, Genuine Bargain",
       "category": "Permanent",
       "status": "current",
       "price": 1752480,
@@ -16264,7 +16416,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "18 February 2026",
-      "lastUpdated": "2026-05-12 11:00:02"
+      "lastUpdated": "2026-08-27 13:45:40"
     },
     {
       "id": "21170182",
@@ -16796,7 +16948,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "04 January 2026",
-      "lastUpdated": "2026-07-31 07:09:03"
+      "lastUpdated": "2026-08-27 13:45:41"
     },
     {
       "id": "21166904",
@@ -16839,24 +16991,24 @@
     {
       "id": "21166122",
       "url": "https://www.theonsitemanager.com.au/listing/21166122",
-      "title": "Profit Meets Freedom&Lifestyle",
+      "title": "Profit Meets Freedom 72-Unit MLR, $216K Net Profit, ZERO Office Hours - Profit Meets Freedom Lifestyle",
       "category": "Permanent",
       "status": "current",
       "price": 1878000,
       "priceView": "MR $1.05m + UNIT $828k = $1.87M",
       "netIncome": 216288,
       "netIncomeBasis": "actual",
-      "unitValue": 828000,
-      "multiplier": 4.85,
+      "unitValue": 0,
+      "multiplier": 8.68,
       "bedrooms": 3,
       "bathrooms": 2,
       "carSpaces": 2,
       "officeOnTitle": true,
-      "pets": "yes",
+      "pets": "1",
       "caretakingRemuneration": 94458,
       "agreementTerm": "25",
       "agreementRemaining": "22",
-      "agreementAge": "0",
+      "agreementAge": "8",
       "officeHours": "no set office ours",
       "lettingPool": 44,
       "ownerOccupiers": 15,
@@ -16872,7 +17024,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "07 December 2025",
-      "lastUpdated": "2026-04-10 04:13:39"
+      "lastUpdated": "2026-08-27 13:45:40"
     },
     {
       "id": "21166018",
@@ -17138,7 +17290,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "17 October 2025",
-      "lastUpdated": "2026-08-23 13:15:04"
+      "lastUpdated": "2026-08-27 13:15:03"
     },
     {
       "id": "21162334",
@@ -17328,7 +17480,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "17 August 2025",
-      "lastUpdated": "2026-06-22 04:00:21"
+      "lastUpdated": "2026-08-27 13:47:02"
     },
     {
       "id": "21157782",
@@ -17442,7 +17594,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "11 July 2025",
-      "lastUpdated": "2026-07-13 01:00:03"
+      "lastUpdated": "2026-08-27 13:47:01"
     },
     {
       "id": "21156754",
@@ -17594,7 +17746,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "02 June 2025",
-      "lastUpdated": "2026-06-22 04:00:21"
+      "lastUpdated": "2026-08-27 13:47:02"
     },
     {
       "id": "21153565",
@@ -17670,7 +17822,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "07 April 2025",
-      "lastUpdated": "2026-06-08 01:00:03"
+      "lastUpdated": "2026-08-27 13:45:40"
     },
     {
       "id": "21171182",
@@ -18585,17 +18737,55 @@
       "lastUpdated": "2026-08-12 06:00:04"
     },
     {
+      "id": "21170790",
+      "url": "https://www.theonsitemanager.com.au/listing/21170790",
+      "title": "Drop in Price,  lifestyle and Profitable Noosaville Management Rights",
+      "category": "Resort / Holiday",
+      "status": "current",
+      "price": 1125000,
+      "priceView": "$255K MR & $900k Unit= Total $1.125M",
+      "netIncome": 100533,
+      "netIncomeBasis": "actual",
+      "unitValue": 0,
+      "multiplier": 11.19,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "carSpaces": 1,
+      "officeOnTitle": true,
+      "pets": "1",
+      "caretakingRemuneration": 57294,
+      "agreementTerm": "25",
+      "agreementRemaining": "17",
+      "agreementAge": "0",
+      "officeHours": "As per agreement",
+      "lettingPool": 10,
+      "ownerOccupiers": 8,
+      "lockUps": 2,
+      "outsideAgents": 1,
+      "unitsInComplex": 21,
+      "suburb": "Noosaville",
+      "state": "QLD",
+      "postcode": "4566",
+      "agentName": "Geoff Hatchman",
+      "agentPhone": "0427 938 444",
+      "agentEmail": "fwc3xtxq@robot.zapier.com",
+      "agencyName": "Ras360",
+      "agencyWebsite": null,
+      "dateListed": "26 February 2026",
+      "lastUpdated": "2026-08-27 13:47:02"
+    },
+    {
       "id": "21170684",
       "url": "https://www.theonsitemanager.com.au/listing/21170684",
       "title": "Rare Low Maintenance. Not required to live on site. No office hours",
       "category": "Resort / Holiday",
       "status": "current",
-      "price": 1180000,
-      "priceView": "$320K MR & $650K Unit = Total $970K",
+      "price": 930000,
+      "priceView": "$300K MR & $630K Unit = Total $930K",
       "netIncome": 94108,
       "netIncomeBasis": "actual",
       "unitValue": 0,
-      "multiplier": 12.54,
+      "multiplier": 9.88,
       "bedrooms": 2,
       "bathrooms": 2,
       "carSpaces": 1,
@@ -18620,7 +18810,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "25 February 2026",
-      "lastUpdated": "2026-06-22 04:00:08"
+      "lastUpdated": "2026-08-27 13:45:41"
     },
     {
       "id": "21170407",
@@ -18699,6 +18889,82 @@
       "lastUpdated": "2026-05-05 05:00:02"
     },
     {
+      "id": "21168112",
+      "url": "https://www.theonsitemanager.com.au/listing/21168112",
+      "title": "Absolute Beachfront MR in Prime Southern GC Pocket – High Yield Meets Prime Sea Change Destination",
+      "category": "Permanent",
+      "status": "current",
+      "price": 3650000,
+      "priceView": "PRICE REDUCED! $2.55M MR & $1.1M Unit = Total $3.65M",
+      "netIncome": 557000,
+      "netIncomeBasis": "actual",
+      "unitValue": 0,
+      "multiplier": 6.55,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "carSpaces": 1,
+      "officeOnTitle": true,
+      "pets": "1",
+      "caretakingRemuneration": 115928,
+      "agreementTerm": "25",
+      "agreementRemaining": "21",
+      "agreementAge": "25",
+      "officeHours": "9.30am - 4.30pm Mon to Fri, 9.30am -12pm Sat, 9am - 10am Sun",
+      "lettingPool": 43,
+      "ownerOccupiers": 26,
+      "lockUps": 1,
+      "outsideAgents": 3,
+      "unitsInComplex": 74,
+      "suburb": "Tugun",
+      "state": "QLD",
+      "postcode": "4224",
+      "agentName": "Syd Douglas",
+      "agentPhone": "0427973537",
+      "agentEmail": "fwc3xtxq@robot.zapier.com",
+      "agencyName": "Ras360",
+      "agencyWebsite": null,
+      "dateListed": "26 February 2026",
+      "lastUpdated": "2026-08-27 13:47:02"
+    },
+    {
+      "id": "21161488",
+      "url": "https://www.theonsitemanager.com.au/listing/21161488",
+      "title": "Profitable Coastal Management Business in Growing Caloundra Region",
+      "category": "Resort / Holiday",
+      "status": "current",
+      "price": 1995000,
+      "priceView": "$1.145M MR & $850k Unit = Total $1.995M",
+      "netIncome": 326571,
+      "netIncomeBasis": "actual",
+      "unitValue": 0,
+      "multiplier": 6.11,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "carSpaces": 2,
+      "officeOnTitle": true,
+      "pets": "1",
+      "caretakingRemuneration": 141005,
+      "agreementTerm": "25",
+      "agreementRemaining": "20",
+      "agreementAge": "25",
+      "officeHours": "None",
+      "lettingPool": 18,
+      "ownerOccupiers": 32,
+      "lockUps": 12,
+      "outsideAgents": 5,
+      "unitsInComplex": 68,
+      "suburb": "Golden Beach",
+      "state": "QLD",
+      "postcode": "4551",
+      "agentName": "Geoff Hatchman",
+      "agentPhone": "0427 938 444",
+      "agentEmail": "fwc3xtxq@robot.zapier.com",
+      "agencyName": "Ras360",
+      "agencyWebsite": null,
+      "dateListed": "16 September 2025",
+      "lastUpdated": "2026-08-27 13:47:02"
+    },
+    {
       "id": "21155971",
       "url": "https://www.theonsitemanager.com.au/listing/21155971",
       "title": "Luxury Resort Investment: Price Reduction and High Returns Await You",
@@ -18734,7 +19000,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "20 June 2025",
-      "lastUpdated": "2026-06-22 04:00:22"
+      "lastUpdated": "2026-08-27 13:47:01"
     },
     {
       "id": "21154975",
@@ -20105,44 +20371,6 @@
       "lastUpdated": "2026-04-10 04:13:39"
     },
     {
-      "id": "21170790",
-      "url": "https://www.theonsitemanager.com.au/listing/21170790",
-      "title": "Drop in Price,  lifestyle and Profitable Noosaville Management Rights",
-      "category": "Resort / Holiday",
-      "status": "current",
-      "price": 1125000,
-      "priceView": "$255K MR&$900k Unit= Total $1.125M",
-      "netIncome": 100533,
-      "netIncomeBasis": "actual",
-      "unitValue": 900000,
-      "multiplier": 2.24,
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "carSpaces": 1,
-      "officeOnTitle": true,
-      "pets": "yes",
-      "caretakingRemuneration": 57294,
-      "agreementTerm": "25",
-      "agreementRemaining": "17",
-      "agreementAge": "0",
-      "officeHours": "As per agreement",
-      "lettingPool": 10,
-      "ownerOccupiers": 8,
-      "lockUps": 2,
-      "outsideAgents": 1,
-      "unitsInComplex": 21,
-      "suburb": "Noosaville",
-      "state": "QLD",
-      "postcode": "4566",
-      "agentName": "Geoff Hatchman",
-      "agentPhone": "0427 938 444",
-      "agentEmail": "fwc3xtxq@robot.zapier.com",
-      "agencyName": "Ras360",
-      "agencyWebsite": null,
-      "dateListed": "26 February 2026",
-      "lastUpdated": "2026-04-10 04:13:39"
-    },
-    {
       "id": "21170768",
       "url": "https://www.theonsitemanager.com.au/listing/21170768",
       "title": "BEAUTIFUL IN NAME AND NATURE! SENSATIONAL 4.5-STAR BROADBEACH BUSINESS | Resort Brokers ID : MR009099",
@@ -20407,44 +20635,6 @@
       "agencyWebsite": null,
       "dateListed": "28 January 2026",
       "lastUpdated": "2026-08-23 13:15:14"
-    },
-    {
-      "id": "21168112",
-      "url": "https://www.theonsitemanager.com.au/listing/21168112",
-      "title": "Absolute Beachfront MR in Prime Southern GC Pocket– High Yield Meets Prime Sea Change Destination",
-      "category": "Resort / Holiday",
-      "status": "current",
-      "price": 3880000,
-      "priceView": "$2.78M MR&$1.1M Unit = Total $3.88M",
-      "netIncome": 565000,
-      "netIncomeBasis": "actual",
-      "unitValue": 0,
-      "multiplier": 6.87,
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "carSpaces": 1,
-      "officeOnTitle": true,
-      "pets": "yes",
-      "caretakingRemuneration": 115928,
-      "agreementTerm": "25",
-      "agreementRemaining": "21",
-      "agreementAge": "0",
-      "officeHours": "9.30am - 4.30pm Mon to Fri, 9.30am -12pm Sat, 9am - 10am Sun",
-      "lettingPool": 43,
-      "ownerOccupiers": 26,
-      "lockUps": 1,
-      "outsideAgents": 3,
-      "unitsInComplex": 74,
-      "suburb": "Tugun",
-      "state": "QLD",
-      "postcode": "4224",
-      "agentName": "Syd Douglas",
-      "agentPhone": "0427973537",
-      "agentEmail": "fwc3xtxq@robot.zapier.com",
-      "agencyName": "Ras360",
-      "agencyWebsite": null,
-      "dateListed": "26 February 2026",
-      "lastUpdated": "2026-04-10 04:13:39"
     },
     {
       "id": "21167916",
@@ -20787,44 +20977,6 @@
       "agencyWebsite": null,
       "dateListed": "25 September 2025",
       "lastUpdated": "2026-08-23 13:15:10"
-    },
-    {
-      "id": "21161488",
-      "url": "https://www.theonsitemanager.com.au/listing/21161488",
-      "title": "Profitable Coastal Management Business in Growing Caloundra Region",
-      "category": "Resort / Holiday",
-      "status": "current",
-      "price": 1995000,
-      "priceView": "$1.145M MR&$850k Unit = Total $1.995M",
-      "netIncome": 326571,
-      "netIncomeBasis": "actual",
-      "unitValue": 850000,
-      "multiplier": 3.51,
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "carSpaces": 2,
-      "officeOnTitle": true,
-      "pets": "yes",
-      "caretakingRemuneration": 141005,
-      "agreementTerm": "25",
-      "agreementRemaining": "20",
-      "agreementAge": "0",
-      "officeHours": "None",
-      "lettingPool": 18,
-      "ownerOccupiers": 32,
-      "lockUps": 12,
-      "outsideAgents": 5,
-      "unitsInComplex": 68,
-      "suburb": "Golden Beach",
-      "state": "QLD",
-      "postcode": "4551",
-      "agentName": "Geoff Hatchman",
-      "agentPhone": "0427 938 444",
-      "agentEmail": "fwc3xtxq@robot.zapier.com",
-      "agencyName": "Ras360",
-      "agencyWebsite": null,
-      "dateListed": "16 September 2025",
-      "lastUpdated": "2026-04-10 04:13:39"
     },
     {
       "id": "21161419",
