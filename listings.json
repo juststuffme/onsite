@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-02T07:04:34.407618",
-  "total": 563,
+  "scraped_at": "2026-09-03T07:07:55.097154",
+  "total": 562,
   "listings": [
     {
       "id": "21189761",
@@ -214,10 +214,10 @@
       "agreementRemaining": "15",
       "agreementAge": "25",
       "officeHours": "",
-      "lettingPool": 11,
-      "ownerOccupiers": 0,
+      "lettingPool": 12,
+      "ownerOccupiers": 18,
       "lockUps": 0,
-      "outsideAgents": 0,
+      "outsideAgents": 3,
       "unitsInComplex": 33,
       "suburb": "Coolangatta",
       "state": "QLD",
@@ -228,7 +228,7 @@
       "agencyName": "Premier Business Sales",
       "agencyWebsite": null,
       "dateListed": "2026-08-31 04:38:05",
-      "lastUpdated": "2026-09-01 00:12:30"
+      "lastUpdated": "2026-09-03 04:21:23"
     },
     {
       "id": "21194018",
@@ -1257,6 +1257,44 @@
       "lastUpdated": "2026-09-01 00:14:40"
     },
     {
+      "id": "21194918",
+      "url": "https://www.theonsitemanager.com.au/listing/21194918",
+      "title": "Tweed Heads Gem - Prime Permanent Management Rights - ID 7931",
+      "category": "Permanent",
+      "status": "current",
+      "price": 3270000,
+      "priceView": "$3,270,000",
+      "netIncome": 456703,
+      "netIncomeBasis": "actual",
+      "unitValue": 1110000,
+      "multiplier": 4.73,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "carSpaces": 2,
+      "officeOnTitle": true,
+      "pets": "yes",
+      "caretakingRemuneration": 279730,
+      "agreementTerm": "0",
+      "agreementRemaining": "0",
+      "agreementAge": "0",
+      "officeHours": "No set office hours",
+      "lettingPool": 53,
+      "ownerOccupiers": 75,
+      "lockUps": 0,
+      "outsideAgents": 3,
+      "unitsInComplex": 131,
+      "suburb": "Tweed Heads South",
+      "state": "NSW",
+      "postcode": "2486",
+      "agentName": "Phil Trimble",
+      "agentPhone": "0418 478 966",
+      "agentEmail": "sales@mrsales.com.au",
+      "agencyName": "Management Rights Sales",
+      "agencyWebsite": null,
+      "dateListed": "2026-09-03 01:15:20",
+      "lastUpdated": "2026-09-03 01:22:02"
+    },
+    {
       "id": "21194238",
       "url": "https://www.theonsitemanager.com.au/listing/21194238",
       "title": "Absolute Beachfront Management Rights In Surfers Paradise with 3 Bedroom Residence",
@@ -1862,7 +1900,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "29 June 2026",
-      "lastUpdated": "2026-08-31 15:15:36"
+      "lastUpdated": "2026-09-02 13:15:05"
     },
     {
       "id": "21184794",
@@ -3083,11 +3121,11 @@
     {
       "id": "21185690",
       "url": "https://www.theonsitemanager.com.au/listing/21185690",
-      "title": "Secure, Straightforward and Priced to Sell",
+      "title": "Motivated Sale, Vendor Open to Reasonable Offers",
       "category": "Permanent",
       "status": "current",
       "price": 1099000,
-      "priceView": "$1,099,000",
+      "priceView": "$399k MR & $700k Unit = Total $1.1M",
       "netIncome": 127734,
       "netIncomeBasis": "actual",
       "unitValue": 0,
@@ -3116,7 +3154,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "01 July 2026",
-      "lastUpdated": "2026-07-31 07:09:03"
+      "lastUpdated": "2026-09-03 03:45:02"
     },
     {
       "id": "21185475",
@@ -3689,6 +3727,44 @@
       "lastUpdated": "2026-08-10 06:15:36"
     },
     {
+      "id": "21183614",
+      "url": "https://www.theonsitemanager.com.au/listing/21183614",
+      "title": "Rare Surfers Paradise Holiday Management Rights - 2 Multiplier on Business with Strong Upside",
+      "category": "Holiday",
+      "status": "current",
+      "price": 1200000,
+      "priceView": "$1,200,000",
+      "netIncome": 204652,
+      "netIncomeBasis": "actual",
+      "unitValue": 790000,
+      "multiplier": 2.0,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "carSpaces": 1,
+      "officeOnTitle": true,
+      "pets": "yes",
+      "caretakingRemuneration": 82841,
+      "agreementTerm": "25",
+      "agreementRemaining": "22",
+      "agreementAge": "27",
+      "officeHours": "Mon-Fri 8.30am-5pm, Sat 9am-11.30am",
+      "lettingPool": 12,
+      "ownerOccupiers": 12,
+      "lockUps": 0,
+      "outsideAgents": 15,
+      "unitsInComplex": 39,
+      "suburb": "Surfers Paradise",
+      "state": "QLD",
+      "postcode": "4217",
+      "agentName": "Craig Johnson",
+      "agentPhone": "0493 108 073",
+      "agentEmail": "info@hotelresortsales.com.au",
+      "agencyName": "Hotel Resort Sales",
+      "agencyWebsite": null,
+      "dateListed": "18 June 2026",
+      "lastUpdated": "2026-09-02 20:52:52"
+    },
+    {
       "id": "21183588",
       "url": "https://www.theonsitemanager.com.au/listing/21183588",
       "title": "Short Term Gem - Absolute Stunner - ID 7838",
@@ -4183,44 +4259,6 @@
       "lastUpdated": "2026-08-31 15:15:35"
     },
     {
-      "id": "21183614",
-      "url": "https://www.theonsitemanager.com.au/listing/21183614",
-      "title": "Rare Surfers Paradise Holiday Management Rights - 2 Multiplier on Business with Strong Upside",
-      "category": "Permanent",
-      "status": "current",
-      "price": 1200000,
-      "priceView": "$1,200,000",
-      "netIncome": 204652,
-      "netIncomeBasis": "actual",
-      "unitValue": 0,
-      "multiplier": 5.86,
-      "bedrooms": 0,
-      "bathrooms": 0,
-      "carSpaces": 0,
-      "officeOnTitle": true,
-      "pets": "yes",
-      "caretakingRemuneration": 82841,
-      "agreementTerm": "25",
-      "agreementRemaining": "22",
-      "agreementAge": "27",
-      "officeHours": "Mon-Fri 8.30am-5pm, Sat 9am-11.30am",
-      "lettingPool": 0,
-      "ownerOccupiers": 12,
-      "lockUps": 0,
-      "outsideAgents": 15,
-      "unitsInComplex": 0,
-      "suburb": "Surfers Paradise",
-      "state": "QLD",
-      "postcode": "4217",
-      "agentName": "0",
-      "agentPhone": "1300 946 921",
-      "agentEmail": "info@hotelresortsales.com.au",
-      "agencyName": "Hotel Resort Sales",
-      "agencyWebsite": null,
-      "dateListed": "18 June 2026",
-      "lastUpdated": "2026-08-11 00:58:54"
-    },
-    {
       "id": "21194678",
       "url": "https://www.theonsitemanager.com.au/listing/21194678",
       "title": "High Performing Business-Only | Over $212K Net Profit | 21 Years Remaining | Resort Brokers ID : MRB009335",
@@ -4236,7 +4274,7 @@
       "bathrooms": 0,
       "carSpaces": 0,
       "officeOnTitle": false,
-      "pets": "No",
+      "pets": "0",
       "caretakingRemuneration": 155584,
       "agreementTerm": "25",
       "agreementRemaining": "21",
@@ -4256,7 +4294,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "01 September 2026",
-      "lastUpdated": "2026-09-02 00:26:23"
+      "lastUpdated": "2026-09-02 13:15:07"
     },
     {
       "id": "21194618",
@@ -4380,10 +4418,10 @@
       "status": "current",
       "price": 327500,
       "priceView": "$327,500",
-      "netIncome": 65397,
+      "netIncome": 65,
       "netIncomeBasis": "actual",
       "unitValue": 0,
-      "multiplier": 5.01,
+      "multiplier": 5038.46,
       "bedrooms": 0,
       "bathrooms": 0,
       "carSpaces": 0,
@@ -4391,7 +4429,7 @@
       "pets": "0",
       "caretakingRemuneration": 35792,
       "agreementTerm": "25",
-      "agreementRemaining": "25",
+      "agreementRemaining": "0",
       "agreementAge": "0",
       "officeHours": "",
       "lettingPool": 12,
@@ -4408,7 +4446,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "25 August 2026",
-      "lastUpdated": "2026-09-01 21:15:06"
+      "lastUpdated": "2026-09-02 13:15:06"
     },
     {
       "id": "21193523",
@@ -4940,7 +4978,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "27 July 2026",
-      "lastUpdated": "2026-09-01 21:15:05"
+      "lastUpdated": "2026-09-02 13:15:05"
     },
     {
       "id": "21188856",
@@ -7234,7 +7272,7 @@
       "netIncomeBasis": "actual",
       "unitValue": 850000,
       "multiplier": 4.59,
-      "bedrooms": 1,
+      "bedrooms": 2,
       "bathrooms": 2,
       "carSpaces": 1,
       "officeOnTitle": true,
@@ -7258,7 +7296,7 @@
       "agencyName": "Hotel Resort Sales",
       "agencyWebsite": null,
       "dateListed": "02 September 2026",
-      "lastUpdated": "2026-09-02 05:56:28"
+      "lastUpdated": "2026-09-02 23:59:04"
     },
     {
       "id": "21191237",
@@ -8208,7 +8246,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "17 April 2026",
-      "lastUpdated": "2026-09-01 02:28:16"
+      "lastUpdated": "2026-09-03 02:10:27"
     },
     {
       "id": "21168044",
@@ -8750,10 +8788,10 @@
       "status": "current",
       "price": 3650000,
       "priceView": "$3,650,000",
-      "netIncome": 556991,
+      "netIncome": 539016,
       "netIncomeBasis": "projected",
       "unitValue": 1100000,
-      "multiplier": 4.58,
+      "multiplier": 4.73,
       "bedrooms": 3,
       "bathrooms": 2,
       "carSpaces": 1,
@@ -8778,7 +8816,7 @@
       "agencyName": "Premier Business Sales",
       "agencyWebsite": null,
       "dateListed": "18 February 2026",
-      "lastUpdated": "2026-09-01 00:13:14"
+      "lastUpdated": "2026-09-03 04:33:17"
     },
     {
       "id": "21166421",
@@ -9310,7 +9348,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "17 April 2026",
-      "lastUpdated": "2026-08-31 15:15:25"
+      "lastUpdated": "2026-09-02 13:15:04"
     },
     {
       "id": "21172147",
@@ -16492,7 +16530,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "09 February 2026",
-      "lastUpdated": "2026-09-01 21:15:02"
+      "lastUpdated": "2026-09-02 13:15:03"
     },
     {
       "id": "21169178",
@@ -17899,44 +17937,6 @@
       "agencyWebsite": null,
       "dateListed": "08 February 2026",
       "lastUpdated": "2026-07-01 03:00:03"
-    },
-    {
-      "id": "21168643",
-      "url": "https://www.theonsitemanager.com.au/listing/21168643",
-      "title": "Palm Beach Boutique Management Rights with Minimal Caretaking.",
-      "category": "Permanent",
-      "status": "under offer",
-      "price": 300000,
-      "priceView": "$300,000 - Off The Plan",
-      "netIncome": 56000,
-      "netIncomeBasis": "projected",
-      "unitValue": 0,
-      "multiplier": 5.36,
-      "bedrooms": 0,
-      "bathrooms": 0,
-      "carSpaces": 1,
-      "officeOnTitle": true,
-      "pets": "1",
-      "caretakingRemuneration": 56000,
-      "agreementTerm": "25",
-      "agreementRemaining": "25",
-      "agreementAge": "0",
-      "officeHours": "None",
-      "lettingPool": 0,
-      "ownerOccupiers": 20,
-      "lockUps": 0,
-      "outsideAgents": 20,
-      "unitsInComplex": 40,
-      "suburb": "Palm Beach",
-      "state": "QLD",
-      "postcode": "4221",
-      "agentName": "Paul Mueller",
-      "agentPhone": "0439 255 507",
-      "agentEmail": "fwc3xtxq@robot.zapier.com",
-      "agencyName": "Ras360",
-      "agencyWebsite": null,
-      "dateListed": "26 January 2026",
-      "lastUpdated": "2026-06-22 03:00:03"
     },
     {
       "id": "21168535",
@@ -20216,7 +20216,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "17 March 2026",
-      "lastUpdated": "2026-09-01 21:15:03"
+      "lastUpdated": "2026-09-02 13:15:03"
     },
     {
       "id": "21170924",
@@ -21052,44 +21052,6 @@
       "agencyName": "SIRE Management Rights",
       "agencyWebsite": null,
       "dateListed": "01 August 2025",
-      "lastUpdated": "2026-04-10 04:13:39"
-    },
-    {
-      "id": "21157142",
-      "url": "https://www.theonsitemanager.com.au/listing/21157142",
-      "title": "OTP MR Opportunity in desirable Seven Hills",
-      "category": "Permanent",
-      "status": "under offer",
-      "price": 620000,
-      "priceView": "$620,000 - Business Only",
-      "netIncome": 276202,
-      "netIncomeBasis": "actual",
-      "unitValue": 0,
-      "multiplier": 2.24,
-      "bedrooms": 0,
-      "bathrooms": 0,
-      "carSpaces": 0,
-      "officeOnTitle": true,
-      "pets": "yes",
-      "caretakingRemuneration": 201818,
-      "agreementTerm": "25",
-      "agreementRemaining": "20",
-      "agreementAge": "0",
-      "officeHours": "As Listed",
-      "lettingPool": 25,
-      "ownerOccupiers": 144,
-      "lockUps": 0,
-      "outsideAgents": 6,
-      "unitsInComplex": 175,
-      "suburb": "Seven Hills",
-      "state": "QLD",
-      "postcode": "4170",
-      "agentName": "Joel McCartin",
-      "agentPhone": "0407 834 425",
-      "agentEmail": "fwc3xtxq@robot.zapier.com",
-      "agencyName": "Ras360",
-      "agencyWebsite": null,
-      "dateListed": "10 July 2025",
       "lastUpdated": "2026-04-10 04:13:39"
     },
     {
