@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-03T07:07:55.097154",
+  "scraped_at": "2026-09-04T07:13:05.623609",
   "total": 562,
   "listings": [
     {
@@ -806,12 +806,12 @@
       "title": "TERRIFIC SALARY WITH LIFESTYLE",
       "category": "Permanent",
       "status": "current",
-      "price": 2484000,
-      "priceView": "$2,484,000",
+      "price": 2380000,
+      "priceView": "$2,380,000",
       "netIncome": 230200,
       "netIncomeBasis": "",
-      "unitValue": 1218000,
-      "multiplier": 5.5,
+      "unitValue": 1160000,
+      "multiplier": 5.3,
       "bedrooms": 3,
       "bathrooms": 2,
       "carSpaces": 2,
@@ -836,7 +836,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "16 May 2026",
-      "lastUpdated": "2026-09-01 06:45:44"
+      "lastUpdated": "2026-09-04 06:15:02"
     },
     {
       "id": "21194818",
@@ -989,6 +989,44 @@
       "agencyWebsite": null,
       "dateListed": "09 July 2026",
       "lastUpdated": "2026-09-01 03:44:31"
+    },
+    {
+      "id": "21194048",
+      "url": "https://www.theonsitemanager.com.au/listing/21194048",
+      "title": "Priced to Sell at $1.600M, Don't Miss Out!",
+      "category": "Resort / Holiday",
+      "status": "current",
+      "price": 1499999,
+      "priceView": "Business Only $1.600M",
+      "netIncome": 463750,
+      "netIncomeBasis": "actual",
+      "unitValue": 0,
+      "multiplier": 3.23,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": true,
+      "pets": "1",
+      "caretakingRemuneration": 112082,
+      "agreementTerm": "25",
+      "agreementRemaining": "22",
+      "agreementAge": "0",
+      "officeHours": "N/A",
+      "lettingPool": 15,
+      "ownerOccupiers": 18,
+      "lockUps": 1,
+      "outsideAgents": 6,
+      "unitsInComplex": 40,
+      "suburb": "Airlie Beach",
+      "state": "QLD",
+      "postcode": "4802",
+      "agentName": "Joel McCartin",
+      "agentPhone": "0407 834 425",
+      "agentEmail": "fwc3xtxq@robot.zapier.com",
+      "agencyName": "Ras360",
+      "agencyWebsite": null,
+      "dateListed": "27 August 2026",
+      "lastUpdated": "2026-09-04 00:15:02"
     },
     {
       "id": "21194038",
@@ -1938,7 +1976,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "2026-06-25 04:39:28",
-      "lastUpdated": "2026-08-31 23:57:52"
+      "lastUpdated": "2026-09-04 00:18:09"
     },
     {
       "id": "21184494",
@@ -2432,7 +2470,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "05 May 2026",
-      "lastUpdated": "2026-06-22 07:00:03"
+      "lastUpdated": "2026-09-03 23:15:03"
     },
     {
       "id": "21174834",
@@ -3116,7 +3154,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "2026-07-06 06:44:59",
-      "lastUpdated": "2026-08-31 23:56:02"
+      "lastUpdated": "2026-09-04 00:37:23"
     },
     {
       "id": "21185690",
@@ -3420,7 +3458,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "2026-05-04 05:02:45",
-      "lastUpdated": "2026-08-31 23:56:25"
+      "lastUpdated": "2026-09-04 00:37:09"
     },
     {
       "id": "21192816",
@@ -4294,7 +4332,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "01 September 2026",
-      "lastUpdated": "2026-09-02 13:15:07"
+      "lastUpdated": "2026-09-03 13:15:06"
     },
     {
       "id": "21194618",
@@ -4788,7 +4826,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "2026-08-06 05:53:26",
-      "lastUpdated": "2026-08-31 23:58:32"
+      "lastUpdated": "2026-09-04 00:17:55"
     },
     {
       "id": "21190186",
@@ -5361,44 +5399,6 @@
       "lastUpdated": "2026-08-31 15:15:39"
     },
     {
-      "id": "21186292",
-      "url": "https://www.theonsitemanager.com.au/listing/21186292",
-      "title": "Permanent MR 6km from Brisbane CBD - BC Salary 80% of Income | Resort Brokers ID : MR009274",
-      "category": "Permanent",
-      "status": "current",
-      "price": 1263848,
-      "priceView": "$1,263,848",
-      "netIncome": 156924,
-      "netIncomeBasis": "actual",
-      "unitValue": 950000,
-      "multiplier": 2.0,
-      "bedrooms": 0,
-      "bathrooms": 0,
-      "carSpaces": 0,
-      "officeOnTitle": false,
-      "pets": "0",
-      "caretakingRemuneration": 125743,
-      "agreementTerm": "25",
-      "agreementRemaining": "9",
-      "agreementAge": "0",
-      "officeHours": "",
-      "lettingPool": 0,
-      "ownerOccupiers": 0,
-      "lockUps": 0,
-      "outsideAgents": 0,
-      "unitsInComplex": 0,
-      "suburb": "Fairfield",
-      "state": "QLD",
-      "postcode": "4103",
-      "agentName": "Jessie Shi",
-      "agentPhone": "0422 935 428",
-      "agentEmail": "info@resortbrokers.com.au",
-      "agencyName": "Resort Brokers",
-      "agencyWebsite": null,
-      "dateListed": "06 July 2026",
-      "lastUpdated": "2026-08-31 15:15:38"
-    },
-    {
       "id": "21185255",
       "url": "https://www.theonsitemanager.com.au/listing/21185255",
       "title": "HIGH QUALITY, BUSINESS ONLY, PERMANENT MLR WITH NOP OVER $300K | Resort Brokers ID : MRB009224",
@@ -5586,7 +5586,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "22 June 2026",
-      "lastUpdated": "2026-09-01 21:15:05"
+      "lastUpdated": "2026-09-03 13:15:05"
     },
     {
       "id": "21184174",
@@ -5779,44 +5779,6 @@
       "lastUpdated": "2026-08-31 15:15:36"
     },
     {
-      "id": "21182752",
-      "url": "https://www.theonsitemanager.com.au/listing/21182752",
-      "title": "Absolute Beachfront MR $479k Net Profit, $248k Salary, 24 Year Agreements | Resort Brokers ID : MR009254",
-      "category": "Resort / Holiday",
-      "status": "current",
-      "price": 3615000,
-      "priceView": "$3,615,000",
-      "netIncome": 479072,
-      "netIncomeBasis": "actual",
-      "unitValue": 1100000,
-      "multiplier": 5.25,
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "carSpaces": 1,
-      "officeOnTitle": true,
-      "pets": "1",
-      "caretakingRemuneration": 248111,
-      "agreementTerm": "25",
-      "agreementRemaining": "24",
-      "agreementAge": "0",
-      "officeHours": "No fixed office hours",
-      "lettingPool": 40,
-      "ownerOccupiers": 51,
-      "lockUps": 15,
-      "outsideAgents": 18,
-      "unitsInComplex": 125,
-      "suburb": "Palm Beach",
-      "state": "QLD",
-      "postcode": "4221",
-      "agentName": "Todd Warner",
-      "agentPhone": "0438 170 763",
-      "agentEmail": "info@resortbrokers.com.au",
-      "agencyName": "Resort Brokers",
-      "agencyWebsite": null,
-      "dateListed": "11 June 2026",
-      "lastUpdated": "2026-08-31 15:15:35"
-    },
-    {
       "id": "21182742",
       "url": "https://www.theonsitemanager.com.au/listing/21182742",
       "title": "Work Smarter, Not Harder - Easy Management, Exceptional Robina Location | Resort Brokers ID : MR009252",
@@ -5966,7 +5928,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "08 June 2026",
-      "lastUpdated": "2026-08-31 15:15:33"
+      "lastUpdated": "2026-09-03 13:15:04"
     },
     {
       "id": "21181715",
@@ -7033,6 +6995,44 @@
       "lastUpdated": "2026-05-19 08:52:21"
     },
     {
+      "id": "21195044",
+      "url": "https://www.theonsitemanager.com.au/listing/21195044",
+      "title": "Priced to Sell at $1.600M, Don't Miss Out!",
+      "category": "Resort / Holiday",
+      "status": "current",
+      "price": 1499999,
+      "priceView": "Business Only $1.600M",
+      "netIncome": 463750,
+      "netIncomeBasis": "actual",
+      "unitValue": 0,
+      "multiplier": 3.23,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": true,
+      "pets": "1",
+      "caretakingRemuneration": 112081,
+      "agreementTerm": "25",
+      "agreementRemaining": "22",
+      "agreementAge": "0",
+      "officeHours": "None Specified",
+      "lettingPool": 15,
+      "ownerOccupiers": 18,
+      "lockUps": 1,
+      "outsideAgents": 6,
+      "unitsInComplex": 40,
+      "suburb": "Airlie Beach",
+      "state": "QLD",
+      "postcode": "4802",
+      "agentName": "Joel McCartin",
+      "agentPhone": "0407 834 425",
+      "agentEmail": "fwc3xtxq@robot.zapier.com",
+      "agencyName": "Ras360",
+      "agencyWebsite": null,
+      "dateListed": "04 September 2026",
+      "lastUpdated": "2026-09-04 00:15:02"
+    },
+    {
       "id": "21194028",
       "url": "https://www.theonsitemanager.com.au/listing/21194028",
       "title": "Lifestyle and Income Without the Live Onsite Requirement",
@@ -7790,7 +7790,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "03 June 2026",
-      "lastUpdated": "2026-08-31 15:15:34"
+      "lastUpdated": "2026-09-03 13:15:05"
     },
     {
       "id": "21178884",
@@ -8094,7 +8094,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "23 April 2026",
-      "lastUpdated": "2026-08-31 23:50:08"
+      "lastUpdated": "2026-09-04 00:39:25"
     },
     {
       "id": "21172403",
@@ -8170,7 +8170,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "22 April 2026",
-      "lastUpdated": "2026-08-31 23:51:33"
+      "lastUpdated": "2026-09-04 00:38:47"
     },
     {
       "id": "21169904",
@@ -8284,7 +8284,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "23 April 2026",
-      "lastUpdated": "2026-08-31 23:53:10"
+      "lastUpdated": "2026-09-04 00:38:14"
     },
     {
       "id": "21167373",
@@ -8398,7 +8398,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "23 April 2026",
-      "lastUpdated": "2026-08-31 23:52:37"
+      "lastUpdated": "2026-09-04 00:38:29"
     },
     {
       "id": "21157355",
@@ -8778,7 +8778,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "22 April 2026",
-      "lastUpdated": "2026-08-31 23:48:39"
+      "lastUpdated": "2026-09-04 00:39:45"
     },
     {
       "id": "21168509",
@@ -8854,7 +8854,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "22 April 2026",
-      "lastUpdated": "2026-08-31 23:50:56"
+      "lastUpdated": "2026-09-04 00:39:06"
     },
     {
       "id": "21164813",
@@ -8892,45 +8892,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "23 April 2026",
-      "lastUpdated": "2026-08-31 23:54:15"
-    },
-    {
-      "id": "21148721",
-      "url": "https://www.theonsitemanager.com.au/listing/21148721",
-      "title": "Great body corporate salary",
-      "category": "Permanent",
-      "status": "current",
-      "price": 1600000,
-      "priceView": "$1,600,000",
-      "netIncome": 141707,
-      "netIncomeBasis": "actual",
-      "unitValue": 1100000,
-      "multiplier": 3.53,
-      "bedrooms": 4,
-      "bathrooms": 2,
-      "carSpaces": 4,
-      "officeOnTitle": true,
-      "pets": "yes",
-      "caretakingRemuneration": 92559,
-      "agreementTerm": "25",
-      "agreementRemaining": "23",
-      "agreementAge": "33",
-      "officeHours": "No Set Office Hours",
-      "lettingPool": 14,
-      "ownerOccupiers": 26,
-      "lockUps": 0,
-      "outsideAgents": 5,
-      "unitsInComplex": 49,
-      "suburb": "Benowa",
-      "state": "QLD",
-      "postcode": "4217",
-      "agentName": "Susan Grzyb",
-      "agentPhone": "0438 269 259",
-      "agentEmail": "surferspalmsplaza@gmail.com",
-      "agencyName": "Surfers Palms Plaza",
-      "agencyWebsite": null,
-      "dateListed": "30 March 2026",
-      "lastUpdated": "2026-09-01 02:17:11"
+      "lastUpdated": "2026-09-04 00:37:59"
     },
     {
       "id": "21174079",
@@ -9310,7 +9272,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "23 April 2026",
-      "lastUpdated": "2026-08-31 23:55:27"
+      "lastUpdated": "2026-09-04 00:41:48"
     },
     {
       "id": "21172261",
@@ -10070,7 +10032,7 @@
       "agencyName": "Australian Resort Management Sales",
       "agencyWebsite": null,
       "dateListed": "16 April 2026",
-      "lastUpdated": "2026-08-23 21:26:29"
+      "lastUpdated": "2026-09-04 06:03:40"
     },
     {
       "id": "21165717",
@@ -10610,12 +10572,12 @@
       "title": "Possibly the Best Management Rights Deal Ever",
       "category": "Resort / Holiday",
       "status": "current",
-      "price": 995000,
-      "priceView": "$995,000",
-      "netIncome": 189586,
+      "price": 945000,
+      "priceView": "$945,000",
+      "netIncome": 180000,
       "netIncomeBasis": "actual",
       "unitValue": 500000,
-      "multiplier": 2.61,
+      "multiplier": 2.47,
       "bedrooms": 4,
       "bathrooms": 3,
       "carSpaces": 1,
@@ -10640,7 +10602,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "17 April 2026",
-      "lastUpdated": "2026-08-31 23:58:12"
+      "lastUpdated": "2026-09-04 00:17:42"
     },
     {
       "id": "21156748",
@@ -12730,7 +12692,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "22 April 2026",
-      "lastUpdated": "2026-08-31 23:55:46"
+      "lastUpdated": "2026-09-04 00:37:37"
     },
     {
       "id": "21171782",
@@ -12806,7 +12768,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "22 April 2026",
-      "lastUpdated": "2026-08-31 23:57:22"
+      "lastUpdated": "2026-09-04 00:36:41"
     },
     {
       "id": "21164253",
@@ -12882,7 +12844,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "22 April 2026",
-      "lastUpdated": "2026-08-31 23:57:01"
+      "lastUpdated": "2026-09-04 00:36:55"
     },
     {
       "id": "21162663",
@@ -13338,7 +13300,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "22 April 2026",
-      "lastUpdated": "2026-08-31 23:57:37"
+      "lastUpdated": "2026-09-04 00:36:26"
     },
     {
       "id": "21148409",
@@ -14443,6 +14405,44 @@
       "lastUpdated": "2026-06-23 01:39:44"
     },
     {
+      "id": "21148721",
+      "url": "https://www.theonsitemanager.com.au/listing/21148721",
+      "title": "Great body corporate salary",
+      "category": "Permanent",
+      "status": "current",
+      "price": 1600000,
+      "priceView": "$1,600,000",
+      "netIncome": 141707,
+      "netIncomeBasis": "actual",
+      "unitValue": 1100000,
+      "multiplier": 3.53,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "carSpaces": 4,
+      "officeOnTitle": true,
+      "pets": "yes",
+      "caretakingRemuneration": 92559,
+      "agreementTerm": "25",
+      "agreementRemaining": "23",
+      "agreementAge": "33",
+      "officeHours": "No Set Office Hours",
+      "lettingPool": 14,
+      "ownerOccupiers": 26,
+      "lockUps": 0,
+      "outsideAgents": 5,
+      "unitsInComplex": 49,
+      "suburb": "Benowa",
+      "state": "QLD",
+      "postcode": "4217",
+      "agentName": "Susan Grzyb",
+      "agentPhone": "0438 269 259",
+      "agentEmail": "surferspalmsplaza@gmail.com",
+      "agencyName": "Surfers Palms Plaza",
+      "agencyWebsite": null,
+      "dateListed": "30 March 2026",
+      "lastUpdated": "2026-09-01 02:17:11"
+    },
+    {
       "id": "21146171",
       "url": "https://www.theonsitemanager.com.au/listing/21146171",
       "title": "Supervisory Role, Super Easy Business - ID 7991",
@@ -15446,7 +15446,7 @@
       "bathrooms": 0,
       "carSpaces": 0,
       "officeOnTitle": false,
-      "pets": "No",
+      "pets": "0",
       "caretakingRemuneration": 61724,
       "agreementTerm": "25",
       "agreementRemaining": "21",
@@ -15466,7 +15466,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "20 April 2026",
-      "lastUpdated": "2026-08-26 02:01:23"
+      "lastUpdated": "2026-09-04 01:45:02"
     },
     {
       "id": "21173505",
@@ -16609,6 +16609,44 @@
       "lastUpdated": "2026-04-10 04:13:39"
     },
     {
+      "id": "21168934",
+      "url": "https://www.theonsitemanager.com.au/listing/21168934",
+      "title": "Management Rights for Sale Inner Melbourne Business Only",
+      "category": "Permanent",
+      "status": "current",
+      "price": 849000,
+      "priceView": "$849k Negotiable - Business Only",
+      "netIncome": 234104,
+      "netIncomeBasis": "actual",
+      "unitValue": 0,
+      "multiplier": 3.63,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": true,
+      "pets": "1",
+      "caretakingRemuneration": 150300,
+      "agreementTerm": "25",
+      "agreementRemaining": "15",
+      "agreementAge": "9",
+      "officeHours": "Yes but not enforced",
+      "lettingPool": 38,
+      "ownerOccupiers": 37,
+      "lockUps": 0,
+      "outsideAgents": 24,
+      "unitsInComplex": 99,
+      "suburb": "Brunswick",
+      "state": "VIC",
+      "postcode": "3056",
+      "agentName": "Nathan Eades",
+      "agentPhone": "0448 339 920",
+      "agentEmail": "fwc3xtxq@robot.zapier.com",
+      "agencyName": "Ras360",
+      "agencyWebsite": null,
+      "dateListed": "28 January 2026",
+      "lastUpdated": "2026-09-04 00:30:03"
+    },
+    {
       "id": "21168848",
       "url": "https://www.theonsitemanager.com.au/listing/21168848",
       "title": "OFF THE PLAN BUSINESS-ONLY IN BOKARINA - THE LAST RESI DEVELOPMENT IN OCEANSIDE | Resort Brokers ID : OTP009059",
@@ -17063,44 +17101,6 @@
       "agencyWebsite": null,
       "dateListed": "05 December 2025",
       "lastUpdated": "2026-04-10 04:13:39"
-    },
-    {
-      "id": "21164661",
-      "url": "https://www.theonsitemanager.com.au/listing/21164661",
-      "title": "LIVE THE COASTAL DREAM - HOME & INCOME IN ONE, THE BEST OF BOTH WORLDS | Resort Brokers ID : MR008974",
-      "category": "Resort / Holiday",
-      "status": "current",
-      "price": 1480000,
-      "priceView": "$1,480,000",
-      "netIncome": 167435,
-      "netIncomeBasis": "actual",
-      "unitValue": 1000000,
-      "multiplier": 2.87,
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "carSpaces": 2,
-      "officeOnTitle": true,
-      "pets": "1",
-      "caretakingRemuneration": 95819,
-      "agreementTerm": "25",
-      "agreementRemaining": "22",
-      "agreementAge": "0",
-      "officeHours": "Mon - Fri 9.00 - 5.00 Sat/Sun 9.00 - 12.00 Or contactable by phone",
-      "lettingPool": 13,
-      "ownerOccupiers": 27,
-      "lockUps": 4,
-      "outsideAgents": 6,
-      "unitsInComplex": 51,
-      "suburb": "Bilinga",
-      "state": "QLD",
-      "postcode": "4225",
-      "agentName": "Todd Warner",
-      "agentPhone": "0438 170 763",
-      "agentEmail": "info@resortbrokers.com.au",
-      "agencyName": "Resort Brokers",
-      "agencyWebsite": null,
-      "dateListed": "13 November 2025",
-      "lastUpdated": "2026-08-31 15:15:15"
     },
     {
       "id": "21164575",
@@ -18658,7 +18658,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "17 April 2026",
-      "lastUpdated": "2026-09-01 08:31:17"
+      "lastUpdated": "2026-09-04 00:17:23"
     },
     {
       "id": "21171801",
@@ -20530,10 +20530,10 @@
       "status": "current",
       "price": 3650000,
       "priceView": "$3,650,000",
-      "netIncome": 556991,
+      "netIncome": 539016,
       "netIncomeBasis": "actual",
       "unitValue": 1100000,
-      "multiplier": 4.58,
+      "multiplier": 4.73,
       "bedrooms": 3,
       "bathrooms": 2,
       "carSpaces": 2,
@@ -20558,7 +20558,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "14 January 2026",
-      "lastUpdated": "2026-08-31 15:15:19"
+      "lastUpdated": "2026-09-03 13:15:02"
     },
     {
       "id": "21166561",
