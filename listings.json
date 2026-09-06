@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-05T06:57:50.675980",
+  "scraped_at": "2026-09-06T07:06:44.493538",
   "total": 566,
   "listings": [
     {
@@ -13832,7 +13832,7 @@
       "agencyName": "Local Agent",
       "agencyWebsite": null,
       "dateListed": "20 March 2026",
-      "lastUpdated": "2026-07-16 03:42:21"
+      "lastUpdated": "2026-09-06 00:17:28"
     },
     {
       "id": "21170876",
@@ -14749,25 +14749,25 @@
     {
       "id": "21100965",
       "url": "https://www.theonsitemanager.com.au/listing/21100965",
-      "title": "Offer Accepted - Contracts Pending",
+      "title": "Caretaking - with or without Lettings",
       "category": "Permanent",
       "status": "current",
       "price": 750000,
       "priceView": "$750,000 Unit and Business",
-      "netIncome": 153800,
-      "netIncomeBasis": "actual",
+      "netIncome": 140000,
+      "netIncomeBasis": "projected",
       "unitValue": 500000,
-      "multiplier": 1.63,
+      "multiplier": 1.79,
       "bedrooms": 1,
       "bathrooms": 1,
       "carSpaces": 2,
       "officeOnTitle": false,
       "pets": "No",
-      "caretakingRemuneration": 99617,
+      "caretakingRemuneration": 104763,
       "agreementTerm": "0",
       "agreementRemaining": "18",
       "agreementAge": "46",
-      "officeHours": "9am to 3.30pm Monday to Friday (Under discussion)",
+      "officeHours": "9am to 3.30pm Monday to Friday ",
       "lettingPool": 20,
       "ownerOccupiers": 18,
       "lockUps": 0,
@@ -14782,7 +14782,7 @@
       "agencyName": "Local Agent",
       "agencyWebsite": null,
       "dateListed": "10 February 2026",
-      "lastUpdated": "2026-07-27 08:49:11"
+      "lastUpdated": "2026-09-05 23:43:36"
     },
     {
       "id": "21098197",
