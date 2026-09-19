@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-18T07:20:04.418367",
-  "total": 565,
+  "scraped_at": "2026-09-19T07:18:06.134798",
+  "total": 562,
   "listings": [
     {
       "id": "21189761",
@@ -4712,7 +4712,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "07 September 2026",
-      "lastUpdated": "2026-09-17 13:10:10"
+      "lastUpdated": "2026-09-18 13:10:10"
     },
     {
       "id": "21195394",
@@ -5548,7 +5548,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "22 July 2026",
-      "lastUpdated": "2026-09-17 13:10:06"
+      "lastUpdated": "2026-09-18 13:10:09"
     },
     {
       "id": "21188496",
@@ -6232,7 +6232,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "18 June 2026",
-      "lastUpdated": "2026-09-17 13:10:06"
+      "lastUpdated": "2026-09-18 13:10:09"
     },
     {
       "id": "21183639",
@@ -6498,7 +6498,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "07 June 2026",
-      "lastUpdated": "2026-09-13 13:10:35"
+      "lastUpdated": "2026-09-18 13:10:07"
     },
     {
       "id": "21181304",
@@ -6574,7 +6574,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "01 June 2026",
-      "lastUpdated": "2026-09-17 13:10:05"
+      "lastUpdated": "2026-09-18 13:10:07"
     },
     {
       "id": "21180114",
@@ -6959,7 +6959,7 @@
     {
       "id": "21176488",
       "url": "https://www.theonsitemanager.com.au/listing/21176488",
-      "title": "MOTIVATED SELLER - Beaudesert Permanent Rights with $281,745 Net Profit  | Resort Brokers ID : MR009198",
+      "title": "INCREDIBLY PRICED 4-BED HOME / HIGH NET PROFIT / HIGH ROI | Resort Brokers ID : MR009198",
       "category": "Permanent",
       "status": "current",
       "price": 1798000,
@@ -6992,7 +6992,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
-      "lastUpdated": "2026-09-13 13:10:33"
+      "lastUpdated": "2026-09-18 13:10:05"
     },
     {
       "id": "21176458",
@@ -7064,44 +7064,6 @@
       "postcode": "4170",
       "agentName": "Jessie Shi",
       "agentPhone": "0422 935 428",
-      "agentEmail": "info@resortbrokers.com.au",
-      "agencyName": "Resort Brokers",
-      "agencyWebsite": null,
-      "dateListed": "11 May 2026",
-      "lastUpdated": "2026-09-13 13:10:32"
-    },
-    {
-      "id": "21176438",
-      "url": "https://www.theonsitemanager.com.au/listing/21176438",
-      "title": "Beachside Buying Without the Blowout Price Tag | Resort Brokers ID : MR009192",
-      "category": "Resort / Holiday",
-      "status": "current",
-      "price": 1650000,
-      "priceView": "$1,650,000",
-      "netIncome": 281000,
-      "netIncomeBasis": "actual",
-      "unitValue": 750000,
-      "multiplier": 3.2,
-      "bedrooms": 2,
-      "bathrooms": 1,
-      "carSpaces": 1,
-      "officeOnTitle": true,
-      "pets": "1",
-      "caretakingRemuneration": 57099,
-      "agreementTerm": "25",
-      "agreementRemaining": "21",
-      "agreementAge": "0",
-      "officeHours": "As required",
-      "lettingPool": 20,
-      "ownerOccupiers": 7,
-      "lockUps": 0,
-      "outsideAgents": 2,
-      "unitsInComplex": 30,
-      "suburb": "Mooloolaba",
-      "state": "QLD",
-      "postcode": "4557",
-      "agentName": "Chenoa Daniel",
-      "agentPhone": "0403 143 151",
       "agentEmail": "info@resortbrokers.com.au",
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
@@ -8398,7 +8360,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "25 May 2026",
-      "lastUpdated": "2026-09-17 13:10:05"
+      "lastUpdated": "2026-09-18 13:10:07"
     },
     {
       "id": "21177942",
@@ -8436,7 +8398,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "19 May 2026",
-      "lastUpdated": "2026-09-17 13:10:04"
+      "lastUpdated": "2026-09-18 13:10:04"
     },
     {
       "id": "21196390",
@@ -9804,45 +9766,7 @@
       "agencyName": "Australian Resort Management Sales",
       "agencyWebsite": null,
       "dateListed": "14 April 2026",
-      "lastUpdated": "2026-09-10 07:59:20"
-    },
-    {
-      "id": "21173360",
-      "url": "https://www.theonsitemanager.com.au/listing/21173360",
-      "title": "Premier Brisbane Riverfront Business-Only MLR - No real estate! No living onsite | Resort Brokers ID : MRB009149",
-      "category": "Permanent",
-      "status": "current",
-      "price": 781060,
-      "priceView": "$781,060",
-      "netIncome": 164439,
-      "netIncomeBasis": "actual",
-      "unitValue": 0,
-      "multiplier": 4.75,
-      "bedrooms": 0,
-      "bathrooms": 0,
-      "carSpaces": 0,
-      "officeOnTitle": false,
-      "pets": "0",
-      "caretakingRemuneration": 117753,
-      "agreementTerm": "10",
-      "agreementRemaining": "9",
-      "agreementAge": "0",
-      "officeHours": "Flexible 2 hours Mon - Sat with no set ofce opening time",
-      "lettingPool": 4,
-      "ownerOccupiers": 35,
-      "lockUps": 0,
-      "outsideAgents": 3,
-      "unitsInComplex": 42,
-      "suburb": "Brisbane City",
-      "state": "QLD",
-      "postcode": "4000",
-      "agentName": "Jessie Shi",
-      "agentPhone": "0422 935 428",
-      "agentEmail": "info@resortbrokers.com.au",
-      "agencyName": "Resort Brokers",
-      "agencyWebsite": null,
-      "dateListed": "17 April 2026",
-      "lastUpdated": "2026-09-13 13:10:28"
+      "lastUpdated": "2026-09-19 03:17:36"
     },
     {
       "id": "21173221",
@@ -9956,7 +9880,7 @@
       "agencyName": "Australian Resort Management Sales",
       "agencyWebsite": null,
       "dateListed": "02 April 2026",
-      "lastUpdated": "2026-08-03 06:22:57"
+      "lastUpdated": "2026-09-19 03:18:18"
     },
     {
       "id": "21172489",
@@ -15885,44 +15809,6 @@
       "agencyWebsite": null,
       "dateListed": "13 April 2026",
       "lastUpdated": "2026-09-13 13:10:27"
-    },
-    {
-      "id": "21173339",
-      "url": "https://www.theonsitemanager.com.au/listing/21173339",
-      "title": "Iconic Brisbane CBD Permanent MLR - minimal workload & strong conversion upside | Resort Brokers ID : MR009157",
-      "category": "Permanent",
-      "status": "current",
-      "price": 1223895,
-      "priceView": "$1,223,895",
-      "netIncome": 163970,
-      "netIncomeBasis": "actual",
-      "unitValue": 650000,
-      "multiplier": 3.5,
-      "bedrooms": 2,
-      "bathrooms": 2,
-      "carSpaces": 0,
-      "officeOnTitle": false,
-      "pets": "0",
-      "caretakingRemuneration": 100516,
-      "agreementTerm": "25",
-      "agreementRemaining": "20",
-      "agreementAge": "0",
-      "officeHours": "No set office hours",
-      "lettingPool": 22,
-      "ownerOccupiers": 10,
-      "lockUps": 0,
-      "outsideAgents": 25,
-      "unitsInComplex": 58,
-      "suburb": "Brisbane",
-      "state": "QLD",
-      "postcode": "4000",
-      "agentName": "Jessie Shi",
-      "agentPhone": "0422 935 428",
-      "agentEmail": "info@resortbrokers.com.au",
-      "agencyName": "Resort Brokers",
-      "agencyWebsite": null,
-      "dateListed": "13 April 2026",
-      "lastUpdated": "2026-09-13 13:10:28"
     },
     {
       "id": "21173256",
