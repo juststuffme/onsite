@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-23T07:43:16.007645",
-  "total": 561,
+  "scraped_at": "2026-09-24T07:34:40.519135",
+  "total": 558,
   "listings": [
     {
       "id": "21189761",
@@ -2052,7 +2052,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "2026-06-18 00:17:33",
-      "lastUpdated": "2026-09-10 07:59:20"
+      "lastUpdated": "2026-09-24 05:39:27"
     },
     {
       "id": "21185060",
@@ -4598,7 +4598,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "02 July 2026",
-      "lastUpdated": "2026-09-20 13:10:21"
+      "lastUpdated": "2026-09-23 13:10:04"
     },
     {
       "id": "21183759",
@@ -4950,16 +4950,16 @@
       "status": "current",
       "price": 2100000,
       "priceView": "$2,100,000",
-      "netIncome": 194171,
+      "netIncome": 171886,
       "netIncomeBasis": "actual",
       "unitValue": 1250000,
-      "multiplier": 4.38,
+      "multiplier": 4.95,
       "bedrooms": 2,
       "bathrooms": 2,
       "carSpaces": 1,
       "officeOnTitle": true,
       "pets": "1",
-      "caretakingRemuneration": 160043,
+      "caretakingRemuneration": 85159,
       "agreementTerm": "10",
       "agreementRemaining": "8",
       "agreementAge": "0",
@@ -4978,7 +4978,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "25 August 2026",
-      "lastUpdated": "2026-09-20 13:10:50"
+      "lastUpdated": "2026-09-23 13:10:09"
     },
     {
       "id": "21193618",
@@ -5510,7 +5510,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "29 July 2026",
-      "lastUpdated": "2026-09-20 13:10:42"
+      "lastUpdated": "2026-09-23 13:10:07"
     },
     {
       "id": "21189356",
@@ -5776,7 +5776,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "21 July 2026",
-      "lastUpdated": "2026-09-23 07:35:02"
+      "lastUpdated": "2026-09-24 07:20:02"
     },
     {
       "id": "21188256",
@@ -6422,7 +6422,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "15 June 2026",
-      "lastUpdated": "2026-09-20 13:10:35"
+      "lastUpdated": "2026-09-23 13:10:06"
     },
     {
       "id": "21182742",
@@ -6650,7 +6650,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "03 June 2026",
-      "lastUpdated": "2026-09-20 13:10:32"
+      "lastUpdated": "2026-09-23 13:10:06"
     },
     {
       "id": "21180334",
@@ -7030,7 +7030,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
-      "lastUpdated": "2026-09-20 13:10:26"
+      "lastUpdated": "2026-09-23 13:10:05"
     },
     {
       "id": "21176458",
@@ -7833,11 +7833,11 @@
     {
       "id": "21196365",
       "url": "https://www.theonsitemanager.com.au/listing/21196365",
-      "title": "Under Contract - Vendor Ill Health - ID 8595",
+      "title": "Urgent Sale - Vendor Ill Health - ID 8595",
       "category": "Permanent",
       "status": "current",
       "price": 715000,
-      "priceView": "$715,000",
+      "priceView": "Offers Above $715,000",
       "netIncome": 115680,
       "netIncomeBasis": "",
       "unitValue": 0,
@@ -7866,7 +7866,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "2026-09-15 05:15:25",
-      "lastUpdated": "2026-09-15 05:15:53"
+      "lastUpdated": "2026-09-24 04:14:21"
     },
     {
       "id": "21195464",
@@ -8827,19 +8827,19 @@
       "price": 1100000,
       "priceView": "$1,100,000",
       "netIncome": 130116,
-      "netIncomeBasis": "actual",
+      "netIncomeBasis": "",
       "unitValue": 800000,
       "multiplier": 2.31,
       "bedrooms": 2,
       "bathrooms": 1,
       "carSpaces": 1,
       "officeOnTitle": false,
-      "pets": "yes",
+      "pets": "0",
       "caretakingRemuneration": 82684,
       "agreementTerm": "25",
       "agreementRemaining": "22",
       "agreementAge": "0",
-      "officeHours": "None Stated",
+      "officeHours": "",
       "lettingPool": 18,
       "ownerOccupiers": 22,
       "lockUps": 0,
@@ -8854,7 +8854,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "17 April 2026",
-      "lastUpdated": "2026-09-23 01:39:00"
+      "lastUpdated": "2026-09-24 04:20:02"
     },
     {
       "id": "21168044",
@@ -9581,15 +9581,15 @@
     {
       "id": "21165152",
       "url": "https://www.theonsitemanager.com.au/listing/21165152",
-      "title": "Price Reduction - Now Below Market Value - ID 8133",
+      "title": "Huge $200,000 Price Reduction - ID 8133",
       "category": "Resort / Holiday",
       "status": "current",
-      "price": 2700000,
-      "priceView": "$2,700,000",
+      "price": 2500000,
+      "priceView": "$2,500,000",
       "netIncome": 451367,
       "netIncomeBasis": "actual",
       "unitValue": 750000,
-      "multiplier": 4.32,
+      "multiplier": 3.88,
       "bedrooms": 2,
       "bathrooms": 1,
       "carSpaces": 1,
@@ -9614,7 +9614,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "09 March 2026",
-      "lastUpdated": "2026-09-08 02:45:18"
+      "lastUpdated": "2026-09-24 05:04:56"
     },
     {
       "id": "21157578",
@@ -11669,44 +11669,6 @@
       "lastUpdated": "2026-08-26 02:09:12"
     },
     {
-      "id": "21170940",
-      "url": "https://www.theonsitemanager.com.au/listing/21170940",
-      "title": "Undercontract in 1 week",
-      "category": "Permanent",
-      "status": "sold",
-      "price": 550000,
-      "priceView": "$556,800",
-      "netIncome": 101399,
-      "netIncomeBasis": "actual",
-      "unitValue": 0,
-      "multiplier": 5.42,
-      "bedrooms": 0,
-      "bathrooms": 0,
-      "carSpaces": 0,
-      "officeOnTitle": false,
-      "pets": "No",
-      "caretakingRemuneration": 101399,
-      "agreementTerm": "25",
-      "agreementRemaining": "21",
-      "agreementAge": "4",
-      "officeHours": "no set office hour",
-      "lettingPool": 0,
-      "ownerOccupiers": 0,
-      "lockUps": 0,
-      "outsideAgents": 0,
-      "unitsInComplex": 0,
-      "suburb": "Cleveland",
-      "state": "QLD",
-      "postcode": "4163",
-      "agentName": "Celine Tseng",
-      "agentPhone": "0423566566",
-      "agentEmail": "admin@shinerealty.com.au",
-      "agencyName": "Shine Realty",
-      "agencyWebsite": null,
-      "dateListed": "09 March 2026",
-      "lastUpdated": "2026-09-23 07:35:47"
-    },
-    {
       "id": "21170576",
       "url": "https://www.theonsitemanager.com.au/listing/21170576",
       "title": "Under Contract - Caretaking Business Only at Albany Creek - 4.25x Multiplier",
@@ -11857,44 +11819,6 @@
       "agencyWebsite": null,
       "dateListed": "03 February 2026",
       "lastUpdated": "2026-06-15 05:48:51"
-    },
-    {
-      "id": "21150762",
-      "url": "https://www.theonsitemanager.com.au/listing/21150762",
-      "title": "24 YEAR TERM - GREAT RETURN ON INVESTMENT",
-      "category": "Permanent",
-      "status": "under contract",
-      "price": 2063000,
-      "priceView": "$2,063,000",
-      "netIncome": 251761,
-      "netIncomeBasis": "",
-      "unitValue": 830000,
-      "multiplier": 4.9,
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "carSpaces": 2,
-      "officeOnTitle": false,
-      "pets": "No",
-      "caretakingRemuneration": 170524,
-      "agreementTerm": "25",
-      "agreementRemaining": "24",
-      "agreementAge": "0",
-      "officeHours": "",
-      "lettingPool": 24,
-      "ownerOccupiers": 38,
-      "lockUps": 1,
-      "outsideAgents": 12,
-      "unitsInComplex": 75,
-      "suburb": "Arundel",
-      "state": "QLD",
-      "postcode": "4214",
-      "agentName": "Bobo Qi",
-      "agentPhone": "0438 027 771",
-      "agentEmail": "bobo@propertybridge.com.au",
-      "agencyName": "Property Bridge",
-      "agencyWebsite": null,
-      "dateListed": "12 November 2025",
-      "lastUpdated": "2026-08-26 02:10:42"
     },
     {
       "id": "21147288",
@@ -15314,7 +15238,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "23 April 2026",
-      "lastUpdated": "2026-09-20 13:10:07"
+      "lastUpdated": "2026-09-23 13:10:03"
     },
     {
       "id": "21166388",
@@ -20103,44 +20027,6 @@
       "agencyWebsite": null,
       "dateListed": "30 December 2025",
       "lastUpdated": "2026-09-08 08:02:56"
-    },
-    {
-      "id": "21133634",
-      "url": "https://www.theonsitemanager.com.au/listing/21133634",
-      "title": "Under Contract - Vendor Ill Health - ID 8595",
-      "category": "Resort / Holiday",
-      "status": "under contract",
-      "price": 715000,
-      "priceView": "Serious Offers Over $715,000",
-      "netIncome": 115680,
-      "netIncomeBasis": "actual",
-      "unitValue": 590000,
-      "multiplier": 1.08,
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "carSpaces": 1,
-      "officeOnTitle": true,
-      "pets": "No",
-      "caretakingRemuneration": 58556,
-      "agreementTerm": "25",
-      "agreementRemaining": "20",
-      "agreementAge": "29",
-      "officeHours": "No set hours",
-      "lettingPool": 11,
-      "ownerOccupiers": 7,
-      "lockUps": 0,
-      "outsideAgents": 0,
-      "unitsInComplex": 18,
-      "suburb": "Yorkeys Knob",
-      "state": "QLD",
-      "postcode": "4878",
-      "agentName": "Antonio Curulli",
-      "agentPhone": "0488 030 853",
-      "agentEmail": "sales@mrsales.com.au",
-      "agencyName": "Management Rights Sales",
-      "agencyWebsite": null,
-      "dateListed": "21 April 2026",
-      "lastUpdated": "2026-08-20 05:56:58"
     },
     {
       "id": "21171825",
