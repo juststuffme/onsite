@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-25T07:32:03.354068",
+  "scraped_at": "2026-09-27T07:57:14.885532",
   "total": 558,
   "listings": [
     {
@@ -29,7 +29,7 @@
       "lockUps": 0,
       "outsideAgents": 1,
       "unitsInComplex": 45,
-      "suburb": "Urangan",
+      "suburb": "Hervey Bay",
       "state": "QLD",
       "postcode": "4655",
       "agentName": "Kim Carter",
@@ -38,7 +38,7 @@
       "agencyName": "Carter Cooper Realty",
       "agencyWebsite": null,
       "dateListed": "2026-07-29 06:15:49",
-      "lastUpdated": "2026-09-25 05:24:33"
+      "lastUpdated": "2026-09-26 12:20:42"
     },
     {
       "id": "21190196",
@@ -4636,7 +4636,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "18 June 2026",
-      "lastUpdated": "2026-09-24 13:10:09"
+      "lastUpdated": "2026-09-25 13:10:04"
     },
     {
       "id": "21197155",
@@ -5776,7 +5776,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "21 July 2026",
-      "lastUpdated": "2026-09-25 07:20:02"
+      "lastUpdated": "2026-09-27 07:50:02"
     },
     {
       "id": "21188256",
@@ -6422,7 +6422,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "15 June 2026",
-      "lastUpdated": "2026-09-23 13:10:06"
+      "lastUpdated": "2026-09-25 13:10:05"
     },
     {
       "id": "21182742",
@@ -15086,7 +15086,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 April 2026",
-      "lastUpdated": "2026-09-21 13:10:04"
+      "lastUpdated": "2026-09-25 13:10:03"
     },
     {
       "id": "21172726",
@@ -15732,7 +15732,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 April 2026",
-      "lastUpdated": "2026-09-20 13:10:24"
+      "lastUpdated": "2026-09-25 13:10:04"
     },
     {
       "id": "21173256",
