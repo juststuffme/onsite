@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-28T08:36:33.477950",
-  "total": 560,
+  "scraped_at": "2026-09-29T08:16:17.075469",
+  "total": 564,
   "listings": [
     {
       "id": "21197922",
@@ -2093,44 +2093,6 @@
       "lastUpdated": "2026-09-24 05:39:27"
     },
     {
-      "id": "21185060",
-      "url": "https://www.theonsitemanager.com.au/listing/21185060",
-      "title": "BRISBANE CARETAKING ONLY with EXCELLENT 18.6%  ROI",
-      "category": "Permanent",
-      "status": "current",
-      "price": 1375000,
-      "priceView": "1,375,000",
-      "netIncome": 256625,
-      "netIncomeBasis": "actual",
-      "unitValue": 0,
-      "multiplier": 5.36,
-      "bedrooms": 0,
-      "bathrooms": 0,
-      "carSpaces": 0,
-      "officeOnTitle": false,
-      "pets": "No",
-      "caretakingRemuneration": 266469,
-      "agreementTerm": "25",
-      "agreementRemaining": "20",
-      "agreementAge": "0",
-      "officeHours": "No Office Hours",
-      "lettingPool": 0,
-      "ownerOccupiers": 0,
-      "lockUps": 0,
-      "outsideAgents": 0,
-      "unitsInComplex": 200,
-      "suburb": "Burpengary",
-      "state": "QLD",
-      "postcode": "4505",
-      "agentName": "Wendy Derbyshire",
-      "agentPhone": "0494 744 892",
-      "agentEmail": "wderbyshire22@gmail.com",
-      "agencyName": null,
-      "agencyWebsite": null,
-      "dateListed": "2026-06-27 06:42:48",
-      "lastUpdated": "2026-09-19 22:13:36"
-    },
-    {
       "id": "21190862",
       "url": "https://www.theonsitemanager.com.au/listing/21190862",
       "title": "Secure the Business at 4.00× While Introductory Pricing Applies",
@@ -3307,6 +3269,44 @@
       "agencyWebsite": null,
       "dateListed": "14 July 2026",
       "lastUpdated": "2026-09-10 07:59:20"
+    },
+    {
+      "id": "21185060",
+      "url": "https://www.theonsitemanager.com.au/listing/21185060",
+      "title": "BRISBANE CARETAKING ONLY with EXCELLENT 18.6%  ROI",
+      "category": "Permanent",
+      "status": "current",
+      "price": 1375000,
+      "priceView": "1,375,000",
+      "netIncome": 256625,
+      "netIncomeBasis": "actual",
+      "unitValue": 0,
+      "multiplier": 5.36,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": false,
+      "pets": "No",
+      "caretakingRemuneration": 266469,
+      "agreementTerm": "25",
+      "agreementRemaining": "20",
+      "agreementAge": "0",
+      "officeHours": "No Office Hours",
+      "lettingPool": 0,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 200,
+      "suburb": "Burpengary",
+      "state": "QLD",
+      "postcode": "4505",
+      "agentName": "Wendy Derbyshire",
+      "agentPhone": "0494 744 892",
+      "agentEmail": "wderbyshire22@gmail.com",
+      "agencyName": null,
+      "agencyWebsite": null,
+      "dateListed": "2026-06-27 06:42:48",
+      "lastUpdated": "2026-09-19 22:13:36"
     },
     {
       "id": "21181109",
@@ -4636,7 +4636,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "02 July 2026",
-      "lastUpdated": "2026-09-27 13:10:21"
+      "lastUpdated": "2026-09-28 13:10:04"
     },
     {
       "id": "21183759",
@@ -4675,6 +4675,82 @@
       "agencyWebsite": null,
       "dateListed": "18 June 2026",
       "lastUpdated": "2026-09-27 13:10:34"
+    },
+    {
+      "id": "21197962",
+      "url": "https://www.theonsitemanager.com.au/listing/21197962",
+      "title": "RARE NOOSAVILLE BUSINESS-ONLY OPPORTUNITY | GYMPIE TERRACE | Resort Brokers ID : MRB009373",
+      "category": "Resort / Holiday",
+      "status": "current",
+      "price": 1385000,
+      "priceView": "$1,385,000",
+      "netIncome": 254682,
+      "netIncomeBasis": "actual",
+      "unitValue": 0,
+      "multiplier": 5.44,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": false,
+      "pets": "0",
+      "caretakingRemuneration": 86146,
+      "agreementTerm": "25",
+      "agreementRemaining": "20",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 11,
+      "ownerOccupiers": 2,
+      "lockUps": 2,
+      "outsideAgents": 5,
+      "unitsInComplex": 20,
+      "suburb": "Noosaville",
+      "state": "QLD",
+      "postcode": "4566",
+      "agentName": "Chenoa Daniel",
+      "agentPhone": "0403 143 151",
+      "agentEmail": "info@resortbrokers.com.au",
+      "agencyName": "Resort Brokers",
+      "agencyWebsite": null,
+      "dateListed": "28 September 2026",
+      "lastUpdated": "2026-09-28 13:10:13"
+    },
+    {
+      "id": "21197952",
+      "url": "https://www.theonsitemanager.com.au/listing/21197952",
+      "title": "INCREDIBLE VALUE! $413K+ NOP BUSINESS-ONLY PORTFOLIO IN HIGH-DEMAND INNER-NORTH | Resort Brokers ID : MRB009196",
+      "category": "Permanent",
+      "status": "current",
+      "price": 2463276,
+      "priceView": "$2,463,276",
+      "netIncome": 413996,
+      "netIncomeBasis": "actual",
+      "unitValue": 0,
+      "multiplier": 5.95,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": false,
+      "pets": "0",
+      "caretakingRemuneration": 277582,
+      "agreementTerm": "25",
+      "agreementRemaining": "25",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 45,
+      "ownerOccupiers": 89,
+      "lockUps": 0,
+      "outsideAgents": 49,
+      "unitsInComplex": 183,
+      "suburb": "Nundah",
+      "state": "QLD",
+      "postcode": "4012",
+      "agentName": "Jeff Keast",
+      "agentPhone": "0414 669 007",
+      "agentEmail": "info@resortbrokers.com.au",
+      "agencyName": "Resort Brokers",
+      "agencyWebsite": null,
+      "dateListed": "28 September 2026",
+      "lastUpdated": "2026-09-28 13:10:07"
     },
     {
       "id": "21197942",
@@ -4753,6 +4829,44 @@
       "lastUpdated": "2026-09-28 02:35:31"
     },
     {
+      "id": "21197807",
+      "url": "https://www.theonsitemanager.com.au/listing/21197807",
+      "title": "Substantial Caloundra Resort",
+      "category": "Holiday",
+      "status": "current",
+      "price": 5210000,
+      "priceView": "$5,210,000",
+      "netIncome": 674498,
+      "netIncomeBasis": "actual",
+      "unitValue": 1500000,
+      "multiplier": 5.5,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "carSpaces": 2,
+      "officeOnTitle": true,
+      "pets": "yes",
+      "caretakingRemuneration": 201150,
+      "agreementTerm": "25",
+      "agreementRemaining": "23",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 41,
+      "ownerOccupiers": 47,
+      "lockUps": 12,
+      "outsideAgents": 0,
+      "unitsInComplex": 101,
+      "suburb": "Caloundra",
+      "state": "QLD",
+      "postcode": "4551",
+      "agentName": "Adam Langer",
+      "agentPhone": "0468317321",
+      "agentEmail": "matt@managementrights.com",
+      "agencyName": "Australian Resort Management Sales",
+      "agencyWebsite": null,
+      "dateListed": "2026-09-27 10:32:58",
+      "lastUpdated": "2026-09-29 07:00:38"
+    },
+    {
       "id": "21197155",
       "url": "https://www.theonsitemanager.com.au/listing/21197155",
       "title": "Brisbane City Business-Only Permanent MLR - BC Salary equates to 90% of income | Resort Brokers ID : MRB009368",
@@ -4769,16 +4883,16 @@
       "carSpaces": 0,
       "officeOnTitle": false,
       "pets": "0",
-      "caretakingRemuneration": 0,
+      "caretakingRemuneration": 122000,
       "agreementTerm": "25",
-      "agreementRemaining": "0",
+      "agreementRemaining": "20",
       "agreementAge": "0",
-      "officeHours": "",
-      "lettingPool": 0,
-      "ownerOccupiers": 0,
+      "officeHours": "No set office hours",
+      "lettingPool": 14,
+      "ownerOccupiers": 40,
       "lockUps": 0,
-      "outsideAgents": 0,
-      "unitsInComplex": 0,
+      "outsideAgents": 28,
+      "unitsInComplex": 82,
       "suburb": "Brisbane City",
       "state": "QLD",
       "postcode": "4000",
@@ -4788,7 +4902,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "21 September 2026",
-      "lastUpdated": "2026-09-27 13:10:48"
+      "lastUpdated": "2026-09-28 13:10:13"
     },
     {
       "id": "21196570",
@@ -4883,7 +4997,7 @@
       "carSpaces": 1,
       "officeOnTitle": false,
       "pets": "0",
-      "caretakingRemuneration": 240149,
+      "caretakingRemuneration": 240162,
       "agreementTerm": "25",
       "agreementRemaining": "14",
       "agreementAge": "0",
@@ -4902,7 +5016,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "15 September 2026",
-      "lastUpdated": "2026-09-27 13:10:47"
+      "lastUpdated": "2026-09-28 13:10:12"
     },
     {
       "id": "21195414",
@@ -5021,15 +5135,15 @@
     {
       "id": "21194618",
       "url": "https://www.theonsitemanager.com.au/listing/21194618",
-      "title": "High Profit MR with Free Standing Residence",
+      "title": "Price Reduction with Free Standing Residence",
       "category": "Permanent",
       "status": "current",
-      "price": 2100000,
-      "priceView": "$1.19M MR & $910K UNIT = Total $2.1M",
+      "price": 1999000,
+      "priceView": "$1.089M MR & $910K UNIT = Total $1.9M",
       "netIncome": 246000,
       "netIncomeBasis": "actual",
       "unitValue": 0,
-      "multiplier": 8.54,
+      "multiplier": 8.13,
       "bedrooms": 3,
       "bathrooms": 2,
       "carSpaces": 2,
@@ -5054,7 +5168,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "01 September 2026",
-      "lastUpdated": "2026-09-10 07:59:20"
+      "lastUpdated": "2026-09-29 05:50:03"
     },
     {
       "id": "21193698",
@@ -5092,7 +5206,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "25 August 2026",
-      "lastUpdated": "2026-09-27 13:10:43"
+      "lastUpdated": "2026-09-28 13:10:11"
     },
     {
       "id": "21193618",
@@ -5553,7 +5667,7 @@
     {
       "id": "21189856",
       "url": "https://www.theonsitemanager.com.au/listing/21189856",
-      "title": "MAROOCHYDORE | $664K+ NET | LOW REAL ESTATE COMPONENT | Resort Brokers ID : MR009294",
+      "title": "CBD MOTEL-STYLE MANAGEMENT RIGHTS. $664K+ NET PROFIT. A CORPORATE FOCUS. | Resort Brokers ID : MR009294",
       "category": "Resort / Holiday",
       "status": "current",
       "price": 4400000,
@@ -5586,7 +5700,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "29 July 2026",
-      "lastUpdated": "2026-09-27 13:10:39"
+      "lastUpdated": "2026-09-28 13:10:11"
     },
     {
       "id": "21189836",
@@ -5814,7 +5928,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "21 July 2026",
-      "lastUpdated": "2026-09-27 13:10:36"
+      "lastUpdated": "2026-09-28 13:10:10"
     },
     {
       "id": "21188421",
@@ -6118,7 +6232,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "06 July 2026",
-      "lastUpdated": "2026-09-27 13:10:37"
+      "lastUpdated": "2026-09-28 13:10:10"
     },
     {
       "id": "21186292",
@@ -7220,7 +7334,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
-      "lastUpdated": "2026-09-27 13:10:27"
+      "lastUpdated": "2026-09-28 13:10:05"
     },
     {
       "id": "21176197",
@@ -7449,6 +7563,44 @@
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
       "lastUpdated": "2026-09-10 07:59:20"
+    },
+    {
+      "id": "21198032",
+      "url": "https://www.theonsitemanager.com.au/listing/21198032",
+      "title": "Surfers Paradise Waterfront Permanent Management Rights Opportunity",
+      "category": "Permanent",
+      "status": "current",
+      "price": 1399000,
+      "priceView": "$1,399,000",
+      "netIncome": 97011,
+      "netIncomeBasis": "actual",
+      "unitValue": 1050000,
+      "multiplier": 3.6,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "carSpaces": 0,
+      "officeOnTitle": false,
+      "pets": "yes",
+      "caretakingRemuneration": 87871,
+      "agreementTerm": "10",
+      "agreementRemaining": "9",
+      "agreementAge": "0",
+      "officeHours": "Contactable Only Mon-Fri",
+      "lettingPool": 8,
+      "ownerOccupiers": 18,
+      "lockUps": 0,
+      "outsideAgents": 8,
+      "unitsInComplex": 35,
+      "suburb": "Surfers Paradise",
+      "state": "QLD",
+      "postcode": "4217",
+      "agentName": "Craig Johnson",
+      "agentPhone": "04393 108 073",
+      "agentEmail": "info@hotelresortsales.com.au",
+      "agencyName": "Hotel Resort Sales",
+      "agencyWebsite": null,
+      "dateListed": "29 September 2026",
+      "lastUpdated": "2026-09-29 03:43:25"
     },
     {
       "id": "21196910",
@@ -8436,7 +8588,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "27 August 2026",
-      "lastUpdated": "2026-09-27 13:10:46"
+      "lastUpdated": "2026-09-28 13:10:12"
     },
     {
       "id": "21183388",
@@ -15124,7 +15276,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 April 2026",
-      "lastUpdated": "2026-09-27 13:10:23"
+      "lastUpdated": "2026-09-28 13:10:05"
     },
     {
       "id": "21172726",
@@ -15314,7 +15466,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "23 April 2026",
-      "lastUpdated": "2026-09-27 13:10:09"
+      "lastUpdated": "2026-09-28 13:10:03"
     },
     {
       "id": "21166388",
@@ -17032,12 +17184,12 @@
       "title": "Stunning Beach Front Living",
       "category": "Resort / Holiday",
       "status": "current",
-      "price": 3192000,
-      "priceView": "$2.452M MR & $740k Unit = Total $3.192M",
+      "price": 2990000,
+      "priceView": "$2.295M MR & $695k Unit = Total $2.990M",
       "netIncome": 544878,
       "netIncomeBasis": "actual",
       "unitValue": 0,
-      "multiplier": 5.86,
+      "multiplier": 5.49,
       "bedrooms": 2,
       "bathrooms": 2,
       "carSpaces": 1,
@@ -17062,7 +17214,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "12 January 2026",
-      "lastUpdated": "2026-09-10 06:12:47"
+      "lastUpdated": "2026-09-29 04:50:04"
     },
     {
       "id": "21167566",
@@ -17328,7 +17480,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "12 November 2025",
-      "lastUpdated": "2026-09-27 13:10:15"
+      "lastUpdated": "2026-09-28 13:10:04"
     },
     {
       "id": "21164451",
@@ -20596,7 +20748,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 December 2025",
-      "lastUpdated": "2026-09-27 13:10:04"
+      "lastUpdated": "2026-09-28 13:10:03"
     },
     {
       "id": "21166356",
