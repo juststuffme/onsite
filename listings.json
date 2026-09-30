@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-29T08:16:17.075469",
-  "total": 564,
+  "scraped_at": "2026-09-30T08:21:09.121320",
+  "total": 563,
   "listings": [
     {
       "id": "21197922",
@@ -861,9 +861,9 @@
       "agreementAge": "0",
       "officeHours": "As per Contract",
       "lettingPool": 28,
-      "ownerOccupiers": 6,
+      "ownerOccupiers": 5,
       "lockUps": 10,
-      "outsideAgents": 1,
+      "outsideAgents": 2,
       "unitsInComplex": 45,
       "suburb": "Coolangatta",
       "state": "QLD",
@@ -874,7 +874,7 @@
       "agencyName": "Premier Business Sales",
       "agencyWebsite": null,
       "dateListed": "2026-06-19 07:50:44",
-      "lastUpdated": "2026-09-10 07:59:20"
+      "lastUpdated": "2026-09-30 05:34:26"
     },
     {
       "id": "21181555",
@@ -2090,7 +2090,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "2026-06-18 00:17:33",
-      "lastUpdated": "2026-09-24 05:39:27"
+      "lastUpdated": "2026-09-30 02:14:53"
     },
     {
       "id": "21190862",
@@ -2432,7 +2432,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "29 June 2026",
-      "lastUpdated": "2026-09-27 13:10:34"
+      "lastUpdated": "2026-09-29 13:10:08"
     },
     {
       "id": "21184794",
@@ -4674,7 +4674,45 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "18 June 2026",
-      "lastUpdated": "2026-09-27 13:10:34"
+      "lastUpdated": "2026-09-29 13:10:07"
+    },
+    {
+      "id": "21198117",
+      "url": "https://www.theonsitemanager.com.au/listing/21198117",
+      "title": "Caretaking-Only MR – Strong BC Salary $97K+ - Inner-City Brisbane | Resort Brokers ID : MRC009378",
+      "category": "Permanent",
+      "status": "current",
+      "price": 540000,
+      "priceView": "$540,000",
+      "netIncome": 107788,
+      "netIncomeBasis": "actual",
+      "unitValue": 0,
+      "multiplier": 5.01,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": false,
+      "pets": "0",
+      "caretakingRemuneration": 97542,
+      "agreementTerm": "0",
+      "agreementRemaining": "0",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 0,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 0,
+      "suburb": "St Lucia",
+      "state": "QLD",
+      "postcode": "4067",
+      "agentName": "Jeff Keast",
+      "agentPhone": "0414 669 007",
+      "agentEmail": "info@resortbrokers.com.au",
+      "agencyName": "Resort Brokers",
+      "agencyWebsite": null,
+      "dateListed": "29 September 2026",
+      "lastUpdated": "2026-09-29 13:10:14"
     },
     {
       "id": "21197962",
@@ -4712,7 +4750,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "28 September 2026",
-      "lastUpdated": "2026-09-28 13:10:13"
+      "lastUpdated": "2026-09-29 13:10:11"
     },
     {
       "id": "21197952",
@@ -5016,7 +5054,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "15 September 2026",
-      "lastUpdated": "2026-09-28 13:10:12"
+      "lastUpdated": "2026-09-29 13:10:10"
     },
     {
       "id": "21195414",
@@ -7600,7 +7638,7 @@
       "agencyName": "Hotel Resort Sales",
       "agencyWebsite": null,
       "dateListed": "29 September 2026",
-      "lastUpdated": "2026-09-29 03:43:25"
+      "lastUpdated": "2026-09-29 22:57:24"
     },
     {
       "id": "21196910",
@@ -8021,6 +8059,44 @@
       "lastUpdated": "2026-09-10 07:59:20"
     },
     {
+      "id": "21198332",
+      "url": "https://www.theonsitemanager.com.au/listing/21198332",
+      "title": "Permanent Management Rights - $181K Body Corp Salary | 24 Years Remaining | No Office Hours",
+      "category": "Permanent",
+      "status": "current",
+      "price": 1786000,
+      "priceView": "$1,786,000",
+      "netIncome": 205739,
+      "netIncomeBasis": "actual",
+      "unitValue": 840000,
+      "multiplier": 4.6,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "carSpaces": 1,
+      "officeOnTitle": true,
+      "pets": "yes",
+      "caretakingRemuneration": 181299,
+      "agreementTerm": "25",
+      "agreementRemaining": "24",
+      "agreementAge": "0",
+      "officeHours": "No Set Office Hours",
+      "lettingPool": 13,
+      "ownerOccupiers": 89,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 103,
+      "suburb": "Taigum",
+      "state": "QLD",
+      "postcode": "4018",
+      "agentName": "Greg Erwin",
+      "agentPhone": "0455 233 844",
+      "agentEmail": "info@hotelresortsales.com.au",
+      "agencyName": "Hotel Resort Sales",
+      "agencyWebsite": null,
+      "dateListed": "30 September 2026",
+      "lastUpdated": "2026-09-30 05:24:11"
+    },
+    {
       "id": "21197220",
       "url": "https://www.theonsitemanager.com.au/listing/21197220",
       "title": "Well Established Permanent Management Rights - Strong Letting Pool - ID 7992",
@@ -8057,6 +8133,44 @@
       "agencyWebsite": null,
       "dateListed": "2026-09-22 00:36:58",
       "lastUpdated": "2026-09-22 00:42:29"
+    },
+    {
+      "id": "21196390",
+      "url": "https://www.theonsitemanager.com.au/listing/21196390",
+      "title": "Prestigious Main Beach Permanent Management Rights with over $305k Body Corporate Salary",
+      "category": "Permanent",
+      "status": "current",
+      "price": 2800000,
+      "priceView": "$2,800,000",
+      "netIncome": 319638,
+      "netIncomeBasis": "actual",
+      "unitValue": 0,
+      "multiplier": 8.76,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": true,
+      "pets": "yes",
+      "caretakingRemuneration": 0,
+      "agreementTerm": "10",
+      "agreementRemaining": "10",
+      "agreementAge": "0",
+      "officeHours": "Mon to Friday 8.30am-1pm",
+      "lettingPool": 0,
+      "ownerOccupiers": 33,
+      "lockUps": 31,
+      "outsideAgents": 2,
+      "unitsInComplex": 0,
+      "suburb": "Main Beach",
+      "state": "QLD",
+      "postcode": "4217",
+      "agentName": "Craig Johnson",
+      "agentPhone": "0493 108 073",
+      "agentEmail": "info@hotelresortsales.com.au",
+      "agencyName": "Hotel Resort Sales",
+      "agencyWebsite": null,
+      "dateListed": "15 September 2026",
+      "lastUpdated": "2026-09-29 22:58:05"
     },
     {
       "id": "21196365",
@@ -8598,7 +8712,7 @@
       "status": "current",
       "price": 2452696,
       "priceView": "$2,452,696",
-      "netIncome": 454938,
+      "netIncome": 454935,
       "netIncomeBasis": "actual",
       "unitValue": 650000,
       "multiplier": 3.96,
@@ -8626,7 +8740,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "16 June 2026",
-      "lastUpdated": "2026-09-27 13:10:24"
+      "lastUpdated": "2026-09-29 13:10:06"
     },
     {
       "id": "21181334",
@@ -8741,44 +8855,6 @@
       "agencyWebsite": null,
       "dateListed": "19 May 2026",
       "lastUpdated": "2026-09-27 13:10:26"
-    },
-    {
-      "id": "21196390",
-      "url": "https://www.theonsitemanager.com.au/listing/21196390",
-      "title": "Prestigious Main Beach Permanent Management Rights with over $305k Body Corporate Salary",
-      "category": "Permanent",
-      "status": "current",
-      "price": 2800000,
-      "priceView": "$2,800,000",
-      "netIncome": 319638,
-      "netIncomeBasis": "actual",
-      "unitValue": 0,
-      "multiplier": 8.76,
-      "bedrooms": 0,
-      "bathrooms": 0,
-      "carSpaces": 0,
-      "officeOnTitle": true,
-      "pets": "yes",
-      "caretakingRemuneration": 0,
-      "agreementTerm": "10",
-      "agreementRemaining": "10",
-      "agreementAge": "0",
-      "officeHours": "Mon to Friday 8.30am-1pm",
-      "lettingPool": 0,
-      "ownerOccupiers": 33,
-      "lockUps": 31,
-      "outsideAgents": 2,
-      "unitsInComplex": 0,
-      "suburb": "Main Beach",
-      "state": "QLD",
-      "postcode": "4217",
-      "agentName": "0",
-      "agentPhone": "1300 946 921",
-      "agentEmail": "info@hotelresortsales.com.au",
-      "agencyName": "Hotel Resort Sales",
-      "agencyWebsite": null,
-      "dateListed": "15 September 2026",
-      "lastUpdated": "2026-09-15 07:45:32"
     },
     {
       "id": "21175371",
@@ -14212,7 +14288,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "10 April 2026",
-      "lastUpdated": "2026-06-23 01:10:51"
+      "lastUpdated": "2026-09-30 04:17:51"
     },
     {
       "id": "21172352",
@@ -14592,7 +14668,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "02 March 2026",
-      "lastUpdated": "2026-06-23 00:29:28"
+      "lastUpdated": "2026-09-30 04:16:47"
     },
     {
       "id": "21164804",
@@ -14972,7 +15048,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "21 April 2026",
-      "lastUpdated": "2026-06-23 01:17:02"
+      "lastUpdated": "2026-09-30 04:18:19"
     },
     {
       "id": "21143657",
@@ -15276,7 +15352,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 April 2026",
-      "lastUpdated": "2026-09-28 13:10:05"
+      "lastUpdated": "2026-09-29 13:10:06"
     },
     {
       "id": "21172726",
@@ -18971,7 +19047,7 @@
       "category": "Resort / Holiday",
       "status": "current",
       "price": 930000,
-      "priceView": "$300K MR & $630K Unit = Total $930K",
+      "priceView": "$220K MR & $710K Unit = Total $930K",
       "netIncome": 94108,
       "netIncomeBasis": "actual",
       "unitValue": 0,
@@ -19000,7 +19076,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "25 February 2026",
-      "lastUpdated": "2026-08-27 13:45:41"
+      "lastUpdated": "2026-09-30 04:20:03"
     },
     {
       "id": "21170407",
@@ -19461,7 +19537,7 @@
     {
       "id": "21173125",
       "url": "https://www.theonsitemanager.com.au/listing/21173125",
-      "title": "Business Only - No Real Estate REquired - Woolloongabba - ID 9219",
+      "title": "Business Only - No Real Estate Required - Woolloongabba - ID 9219",
       "category": "Permanent",
       "status": "current",
       "price": 258000,
@@ -19494,7 +19570,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "10 April 2026",
-      "lastUpdated": "2026-06-23 01:18:10"
+      "lastUpdated": "2026-09-30 04:19:05"
     },
     {
       "id": "21171951",
@@ -20143,44 +20219,6 @@
       "lastUpdated": "2026-06-23 02:54:22"
     },
     {
-      "id": "21130893",
-      "url": "https://www.theonsitemanager.com.au/listing/21130893",
-      "title": "No Requirement to Live Onsite with $204K NET - ID 9138",
-      "category": "Permanent",
-      "status": "current",
-      "price": 1770000,
-      "priceView": "$1,770,000",
-      "netIncome": 204560,
-      "netIncomeBasis": "actual",
-      "unitValue": 850000,
-      "multiplier": 4.5,
-      "bedrooms": 3,
-      "bathrooms": 1,
-      "carSpaces": 1,
-      "officeOnTitle": true,
-      "pets": "No",
-      "caretakingRemuneration": 162714,
-      "agreementTerm": "25",
-      "agreementRemaining": "0",
-      "agreementAge": "0",
-      "officeHours": "as per agreements",
-      "lettingPool": 0,
-      "ownerOccupiers": 0,
-      "lockUps": 0,
-      "outsideAgents": 0,
-      "unitsInComplex": 0,
-      "suburb": "Carrara",
-      "state": "QLD",
-      "postcode": "4211",
-      "agentName": "Bill He",
-      "agentPhone": "0439 288 960",
-      "agentEmail": "sales@mrsales.com.au",
-      "agencyName": "Management Rights Sales",
-      "agencyWebsite": null,
-      "dateListed": "23 April 2026",
-      "lastUpdated": "2026-07-15 06:08:25"
-    },
-    {
       "id": "21171781",
       "url": "https://www.theonsitemanager.com.au/listing/21171781",
       "title": "Broadbeach Waters Permanent Management Rights Opportunity - Flexible Lifestyle with No Real Estate to Purchase",
@@ -20675,44 +20713,6 @@
       "lastUpdated": "2026-09-27 13:10:18"
     },
     {
-      "id": "21166561",
-      "url": "https://www.theonsitemanager.com.au/listing/21166561",
-      "title": "Iconic Beachfront Management Rights - 50m from the Sand | Resort Brokers ID : MR009030",
-      "category": "Resort / Holiday",
-      "status": "current",
-      "price": 1675000,
-      "priceView": "$1,675,000",
-      "netIncome": 264068,
-      "netIncomeBasis": "actual",
-      "unitValue": 950000,
-      "multiplier": 2.75,
-      "bedrooms": 2,
-      "bathrooms": 1,
-      "carSpaces": 1,
-      "officeOnTitle": false,
-      "pets": "0",
-      "caretakingRemuneration": 71160,
-      "agreementTerm": "25",
-      "agreementRemaining": "15",
-      "agreementAge": "0",
-      "officeHours": "830am to 5pm M-F, Sat 830-2pm, On call Sunda",
-      "lettingPool": 16,
-      "ownerOccupiers": 6,
-      "lockUps": 7,
-      "outsideAgents": 5,
-      "unitsInComplex": 36,
-      "suburb": "Broadbeach",
-      "state": "QLD",
-      "postcode": "4218",
-      "agentName": "Nathan Bock",
-      "agentPhone": "0412 634 277",
-      "agentEmail": "info@resortbrokers.com.au",
-      "agencyName": "Resort Brokers",
-      "agencyWebsite": null,
-      "dateListed": "17 December 2025",
-      "lastUpdated": "2026-09-27 13:10:17"
-    },
-    {
       "id": "21166357",
       "url": "https://www.theonsitemanager.com.au/listing/21166357",
       "title": "Permanent Management Rights in prime location offering a solid BC salary | Resort Brokers ID : MR008372",
@@ -20863,44 +20863,6 @@
       "agencyWebsite": null,
       "dateListed": "22 October 2025",
       "lastUpdated": "2026-09-27 13:10:11"
-    },
-    {
-      "id": "21163082",
-      "url": "https://www.theonsitemanager.com.au/listing/21163082",
-      "title": "Mixed letting Management Rights in Sought-After Suburb – Strong Returns | Resort Brokers ID : MRC008947",
-      "category": "Resort / Holiday",
-      "status": "current",
-      "price": 1425000,
-      "priceView": "$1,425,000",
-      "netIncome": 305875,
-      "netIncomeBasis": "actual",
-      "unitValue": 0,
-      "multiplier": 4.66,
-      "bedrooms": 0,
-      "bathrooms": 0,
-      "carSpaces": 0,
-      "officeOnTitle": false,
-      "pets": "0",
-      "caretakingRemuneration": 242228,
-      "agreementTerm": "10",
-      "agreementRemaining": "10",
-      "agreementAge": "0",
-      "officeHours": "",
-      "lettingPool": 19,
-      "ownerOccupiers": 54,
-      "lockUps": 58,
-      "outsideAgents": 57,
-      "unitsInComplex": 188,
-      "suburb": "Surfers Paradise",
-      "state": "QLD",
-      "postcode": "4217",
-      "agentName": "Nathan Bock",
-      "agentPhone": "0412 634 277",
-      "agentEmail": "info@resortbrokers.com.au",
-      "agencyName": "Resort Brokers",
-      "agencyWebsite": null,
-      "dateListed": "17 October 2025",
-      "lastUpdated": "2026-09-27 13:10:13"
     },
     {
       "id": "21161987",
