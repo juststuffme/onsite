@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-05T08:48:22.620223",
-  "total": 561,
+  "scraped_at": "2026-10-06T08:54:49.498433",
+  "total": 563,
   "listings": [
     {
       "id": "21197922",
@@ -3192,7 +3192,7 @@
       "agencyName": "Hotel Resort Sales",
       "agencyWebsite": null,
       "dateListed": "29 September 2026",
-      "lastUpdated": "2026-09-30 23:09:48"
+      "lastUpdated": "2026-10-06 01:44:53"
     },
     {
       "id": "21194818",
@@ -5361,6 +5361,82 @@
       "lastUpdated": "2026-10-04 13:10:32"
     },
     {
+      "id": "21199248",
+      "url": "https://www.theonsitemanager.com.au/listing/21199248",
+      "title": "Long-tenure, Desirable and in demand location, with clear growth opportunities. This opportunity has it all.",
+      "category": "Permanent",
+      "status": "current",
+      "price": 1870000,
+      "priceView": "$870K MR & $1M Unit = Total $1.87M",
+      "netIncome": 185000,
+      "netIncomeBasis": "actual",
+      "unitValue": 0,
+      "multiplier": 10.11,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "carSpaces": 2,
+      "officeOnTitle": true,
+      "pets": "1",
+      "caretakingRemuneration": 139500,
+      "agreementTerm": "25",
+      "agreementRemaining": "23",
+      "agreementAge": "26",
+      "officeHours": "No Office Hours",
+      "lettingPool": 16,
+      "ownerOccupiers": 42,
+      "lockUps": 0,
+      "outsideAgents": 6,
+      "unitsInComplex": 64,
+      "suburb": "Robina",
+      "state": "QLD",
+      "postcode": "4226",
+      "agentName": "Syd Douglas",
+      "agentPhone": "0427973537",
+      "agentEmail": "fwc3xtxq@robot.zapier.com",
+      "agencyName": "Ras360",
+      "agencyWebsite": null,
+      "dateListed": "06 October 2026",
+      "lastUpdated": "2026-10-06 04:05:10"
+    },
+    {
+      "id": "21199238",
+      "url": "https://www.theonsitemanager.com.au/listing/21199238",
+      "title": "Investor-Friendly Complex with Real Growth Potential in the Permanent Pool",
+      "category": "Permanent",
+      "status": "current",
+      "price": 1830000,
+      "priceView": "$830K MR & $1M Unit = Total $1.83M",
+      "netIncome": 160000,
+      "netIncomeBasis": "actual",
+      "unitValue": 0,
+      "multiplier": 11.44,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "carSpaces": 2,
+      "officeOnTitle": true,
+      "pets": "1",
+      "caretakingRemuneration": 107000,
+      "agreementTerm": "25",
+      "agreementRemaining": "24",
+      "agreementAge": "26",
+      "officeHours": "No Office Hours",
+      "lettingPool": 17,
+      "ownerOccupiers": 30,
+      "lockUps": 0,
+      "outsideAgents": 11,
+      "unitsInComplex": 58,
+      "suburb": "Robina",
+      "state": "QLD",
+      "postcode": "4226",
+      "agentName": "Syd Douglas",
+      "agentPhone": "0427973537",
+      "agentEmail": "fwc3xtxq@robot.zapier.com",
+      "agencyName": "Ras360",
+      "agencyWebsite": null,
+      "dateListed": "06 October 2026",
+      "lastUpdated": "2026-10-06 04:05:03"
+    },
+    {
       "id": "21198117",
       "url": "https://www.theonsitemanager.com.au/listing/21198117",
       "title": "Caretaking-Only MR – Strong BC Salary $97K+ - Inner-City Brisbane | Resort Brokers ID : MRC009378",
@@ -5510,7 +5586,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "28 September 2026",
-      "lastUpdated": "2026-09-28 02:35:31"
+      "lastUpdated": "2026-10-06 03:35:02"
     },
     {
       "id": "21197155",
@@ -6460,7 +6536,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "21 July 2026",
-      "lastUpdated": "2026-09-10 07:59:20"
+      "lastUpdated": "2026-10-06 03:50:03"
     },
     {
       "id": "21188411",
@@ -11590,7 +11666,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "03 November 2025",
-      "lastUpdated": "2026-09-10 06:12:48"
+      "lastUpdated": "2026-10-06 04:05:03"
     },
     {
       "id": "21148769",
