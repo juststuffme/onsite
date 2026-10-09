@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-08T08:44:55.989104",
-  "total": 560,
+  "scraped_at": "2026-10-09T08:50:17.863647",
+  "total": 558,
   "listings": [
     {
       "id": "21197922",
@@ -3002,7 +3002,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
-      "lastUpdated": "2026-10-04 13:10:26"
+      "lastUpdated": "2026-10-08 13:10:21"
     },
     {
       "id": "21176378",
@@ -4522,7 +4522,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "04 September 2026",
-      "lastUpdated": "2026-09-10 07:59:20"
+      "lastUpdated": "2026-10-09 02:45:52"
     },
     {
       "id": "21194918",
@@ -5475,13 +5475,51 @@
       "lastUpdated": "2026-10-06 13:10:39"
     },
     {
+      "id": "21200753",
+      "url": "https://www.theonsitemanager.com.au/listing/21200753",
+      "title": "Business Caretaking Only in Tugun",
+      "category": "Permanent",
+      "status": "current",
+      "price": 245000,
+      "priceView": "$245,000",
+      "netIncome": 56597,
+      "netIncomeBasis": "actual",
+      "unitValue": 0,
+      "multiplier": 4.33,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": true,
+      "pets": "1",
+      "caretakingRemuneration": 56597,
+      "agreementTerm": "25",
+      "agreementRemaining": "16",
+      "agreementAge": "1989",
+      "officeHours": "NA",
+      "lettingPool": 0,
+      "ownerOccupiers": 29,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 29,
+      "suburb": "Tugun",
+      "state": "QLD",
+      "postcode": "4224",
+      "agentName": "Kerrie Lush",
+      "agentPhone": "0416 084 693",
+      "agentEmail": "fwc3xtxq@robot.zapier.com",
+      "agencyName": "Ras360",
+      "agencyWebsite": null,
+      "dateListed": "09 October 2026",
+      "lastUpdated": "2026-10-09 01:20:03"
+    },
+    {
       "id": "21200538",
       "url": "https://www.theonsitemanager.com.au/listing/21200538",
       "title": "Business-Only Portfolio - $449,000+ Net + Strong Rental Demand | Resort Brokers ID : MR009297",
       "category": "Permanent",
       "status": "current",
-      "price": 2560000,
-      "priceView": "$2,560,000",
+      "price": 2650000,
+      "priceView": "$2,650,000",
       "netIncome": 0,
       "netIncomeBasis": "actual",
       "unitValue": 0,
@@ -5497,7 +5535,7 @@
       "agreementAge": "0",
       "officeHours": "None stipulated",
       "lettingPool": 72,
-      "ownerOccupiers": 54,
+      "ownerOccupiers": 43,
       "lockUps": 0,
       "outsideAgents": 0,
       "unitsInComplex": 126,
@@ -5510,7 +5548,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "07 October 2026",
-      "lastUpdated": "2026-10-07 13:10:25"
+      "lastUpdated": "2026-10-08 13:10:23"
     },
     {
       "id": "21199248",
@@ -5624,7 +5662,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "29 September 2026",
-      "lastUpdated": "2026-10-04 13:10:49"
+      "lastUpdated": "2026-10-08 13:10:26"
     },
     {
       "id": "21197962",
@@ -5898,12 +5936,12 @@
       "title": "Strong Income & Low-Maintenance Duties - Permanent Letting  | Resort Brokers ID : MR009325",
       "category": "Permanent",
       "status": "current",
-      "price": 2100000,
-      "priceView": "$2,100,000",
+      "price": 1985000,
+      "priceView": "$1,985,000",
       "netIncome": 171886,
       "netIncomeBasis": "actual",
-      "unitValue": 1250000,
-      "multiplier": 4.95,
+      "unitValue": 1185000,
+      "multiplier": 4.65,
       "bedrooms": 2,
       "bathrooms": 2,
       "carSpaces": 1,
@@ -5928,7 +5966,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "25 August 2026",
-      "lastUpdated": "2026-10-04 13:10:42"
+      "lastUpdated": "2026-10-08 13:10:24"
     },
     {
       "id": "21193618",
@@ -5966,7 +6004,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "25 August 2026",
-      "lastUpdated": "2026-10-06 13:10:51"
+      "lastUpdated": "2026-10-08 13:10:23"
     },
     {
       "id": "21193523",
@@ -6461,44 +6499,6 @@
       "agencyWebsite": null,
       "dateListed": "27 July 2026",
       "lastUpdated": "2026-10-06 13:10:45"
-    },
-    {
-      "id": "21189346",
-      "url": "https://www.theonsitemanager.com.au/listing/21189346",
-      "title": "RARE 4-STAR SERVICED APART-HOTEL IN INNER-SYDNEY WITH C.$1M NET | Resort Brokers ID : MR009263",
-      "category": "Permanent",
-      "status": "current",
-      "price": 5400000,
-      "priceView": "$5,400,000+",
-      "netIncome": 999213,
-      "netIncomeBasis": "actual",
-      "unitValue": 0,
-      "multiplier": 5.4,
-      "bedrooms": 0,
-      "bathrooms": 0,
-      "carSpaces": 0,
-      "officeOnTitle": false,
-      "pets": "0",
-      "caretakingRemuneration": 0,
-      "agreementTerm": "25",
-      "agreementRemaining": "25",
-      "agreementAge": "0",
-      "officeHours": "",
-      "lettingPool": 0,
-      "ownerOccupiers": 0,
-      "lockUps": 0,
-      "outsideAgents": 0,
-      "unitsInComplex": 0,
-      "suburb": "Sydney Inner North Shore",
-      "state": "NSW",
-      "postcode": "2090",
-      "agentName": "Tim Crooks",
-      "agentPhone": "0422 208 450",
-      "agentEmail": "info@resortbrokers.com.au",
-      "agencyName": "Resort Brokers",
-      "agencyWebsite": null,
-      "dateListed": "27 July 2026",
-      "lastUpdated": "2026-10-04 13:10:34"
     },
     {
       "id": "21188856",
@@ -7299,44 +7299,6 @@
       "lastUpdated": "2026-10-07 13:10:24"
     },
     {
-      "id": "21182422",
-      "url": "https://www.theonsitemanager.com.au/listing/21182422",
-      "title": "Byron Bay Portfolio of Holiday Letting Businesses Delivering $817,790 NOP | Resort Brokers ID : MR009248",
-      "category": "Resort / Holiday",
-      "status": "current",
-      "price": 5950000,
-      "priceView": "$5,950,000",
-      "netIncome": 817790,
-      "netIncomeBasis": "actual",
-      "unitValue": 2380000,
-      "multiplier": 4.37,
-      "bedrooms": 2,
-      "bathrooms": 1,
-      "carSpaces": 0,
-      "officeOnTitle": false,
-      "pets": "1",
-      "caretakingRemuneration": 93606,
-      "agreementTerm": "25",
-      "agreementRemaining": "10",
-      "agreementAge": "0",
-      "officeHours": "As per agreements",
-      "lettingPool": 43,
-      "ownerOccupiers": 0,
-      "lockUps": 0,
-      "outsideAgents": 5,
-      "unitsInComplex": 57,
-      "suburb": "Byron Bay",
-      "state": "NSW",
-      "postcode": "2481",
-      "agentName": "Todd Warner",
-      "agentPhone": "0438 170 763",
-      "agentEmail": "info@resortbrokers.com.au",
-      "agencyName": "Resort Brokers",
-      "agencyWebsite": null,
-      "dateListed": "10 June 2026",
-      "lastUpdated": "2026-10-06 13:10:38"
-    },
-    {
       "id": "21182202",
       "url": "https://www.theonsitemanager.com.au/listing/21182202",
       "title": "Island Paradise Holiday Rent Roll Business - $384K NOP with 4WD Hire Operation | Resort Brokers ID : FH009245",
@@ -7562,7 +7524,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "27 May 2026",
-      "lastUpdated": "2026-10-07 13:10:23"
+      "lastUpdated": "2026-10-08 13:10:22"
     },
     {
       "id": "21179099",
@@ -7790,7 +7752,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
-      "lastUpdated": "2026-10-06 13:10:34"
+      "lastUpdated": "2026-10-08 13:10:21"
     },
     {
       "id": "21176498",
@@ -7828,7 +7790,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
-      "lastUpdated": "2026-10-04 13:10:25"
+      "lastUpdated": "2026-10-08 13:10:18"
     },
     {
       "id": "21176458",
@@ -7866,7 +7828,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
-      "lastUpdated": "2026-10-04 13:10:26"
+      "lastUpdated": "2026-10-08 13:10:21"
     },
     {
       "id": "21176448",
@@ -7904,7 +7866,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
-      "lastUpdated": "2026-10-04 13:10:26"
+      "lastUpdated": "2026-10-08 13:10:21"
     },
     {
       "id": "21176197",
@@ -9006,7 +8968,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "16 June 2026",
-      "lastUpdated": "2026-10-06 13:10:32"
+      "lastUpdated": "2026-10-08 13:10:16"
     },
     {
       "id": "21178884",
@@ -10375,44 +10337,6 @@
       "agencyWebsite": null,
       "dateListed": "10 April 2026",
       "lastUpdated": "2026-07-17 07:25:24"
-    },
-    {
-      "id": "21172449",
-      "url": "https://www.theonsitemanager.com.au/listing/21172449",
-      "title": "High Earning Cairns Lifestyle, Location, and Profitability Combined",
-      "category": "Resort / Holiday",
-      "status": "current",
-      "price": 2330000,
-      "priceView": "$2,330,000",
-      "netIncome": 424071,
-      "netIncomeBasis": "actual",
-      "unitValue": 630000,
-      "multiplier": 4.01,
-      "bedrooms": 2,
-      "bathrooms": 1,
-      "carSpaces": 1,
-      "officeOnTitle": true,
-      "pets": "No",
-      "caretakingRemuneration": 77941,
-      "agreementTerm": "25",
-      "agreementRemaining": "22",
-      "agreementAge": "27",
-      "officeHours": "no set hours",
-      "lettingPool": 29,
-      "ownerOccupiers": 4,
-      "lockUps": 0,
-      "outsideAgents": 0,
-      "unitsInComplex": 34,
-      "suburb": "Cairns City",
-      "state": "QLD",
-      "postcode": "4870",
-      "agentName": "Calvin Bailey",
-      "agentPhone": "0414 889 593",
-      "agentEmail": "info@cairnsbeaches.com",
-      "agencyName": "Calvin Bailey Management Rights",
-      "agencyWebsite": null,
-      "dateListed": "23 April 2026",
-      "lastUpdated": "2026-09-25 00:11:21"
     },
     {
       "id": "21172403",
@@ -12087,6 +12011,44 @@
       "lastUpdated": "2026-09-01 02:25:39"
     },
     {
+      "id": "21172449",
+      "url": "https://www.theonsitemanager.com.au/listing/21172449",
+      "title": "High Earning Cairns Lifestyle, Location, and Profitability Combined",
+      "category": "Resort / Holiday",
+      "status": "under contract",
+      "price": 2330000,
+      "priceView": "$2,330,000",
+      "netIncome": 424071,
+      "netIncomeBasis": "actual",
+      "unitValue": 630000,
+      "multiplier": 4.01,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "carSpaces": 1,
+      "officeOnTitle": true,
+      "pets": "No",
+      "caretakingRemuneration": 77941,
+      "agreementTerm": "25",
+      "agreementRemaining": "22",
+      "agreementAge": "27",
+      "officeHours": "no set hours",
+      "lettingPool": 29,
+      "ownerOccupiers": 4,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 34,
+      "suburb": "Cairns City",
+      "state": "QLD",
+      "postcode": "4870",
+      "agentName": "Calvin Bailey",
+      "agentPhone": "0414 889 593",
+      "agentEmail": "info@cairnsbeaches.com",
+      "agencyName": "Calvin Bailey Management Rights",
+      "agencyWebsite": null,
+      "dateListed": "23 April 2026",
+      "lastUpdated": "2026-10-09 01:37:08"
+    },
+    {
       "id": "21169183",
       "url": "https://www.theonsitemanager.com.au/listing/21169183",
       "title": "Approx. $271k p.a. Management Rights + Rent Roll Opportunity",
@@ -12123,44 +12085,6 @@
       "agencyWebsite": null,
       "dateListed": "28 March 2026",
       "lastUpdated": "2026-04-10 04:13:39"
-    },
-    {
-      "id": "21164487",
-      "url": "https://www.theonsitemanager.com.au/listing/21164487",
-      "title": "GOLD COAST MANAGEMENT RIGHTS FOR SALE - PRIME BEACHFRONT LOCATION",
-      "category": "Resort / Holiday",
-      "status": "under contract",
-      "price": 2400000,
-      "priceView": "UNDER CONTRACT",
-      "netIncome": 277354,
-      "netIncomeBasis": "actual",
-      "unitValue": 1200000,
-      "multiplier": 4.33,
-      "bedrooms": 2,
-      "bathrooms": 2,
-      "carSpaces": 1,
-      "officeOnTitle": true,
-      "pets": "No",
-      "caretakingRemuneration": 107666,
-      "agreementTerm": "20",
-      "agreementRemaining": "16",
-      "agreementAge": "43",
-      "officeHours": "No set office hours",
-      "lettingPool": 17,
-      "ownerOccupiers": 14,
-      "lockUps": 9,
-      "outsideAgents": 8,
-      "unitsInComplex": 48,
-      "suburb": "Tugun",
-      "state": "QLD",
-      "postcode": "4224",
-      "agentName": "Scott Saunders",
-      "agentPhone": "0432144822",
-      "agentEmail": "info@premiersales.com.au",
-      "agencyName": "Premier Business Sales",
-      "agencyWebsite": null,
-      "dateListed": "03 February 2026",
-      "lastUpdated": "2026-06-15 05:48:51"
     },
     {
       "id": "21147288",
@@ -14858,7 +14782,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "23 February 2026",
-      "lastUpdated": "2026-06-23 01:30:39"
+      "lastUpdated": "2026-10-09 00:46:01"
     },
     {
       "id": "21162283",
@@ -14937,44 +14861,6 @@
       "lastUpdated": "2026-06-25 05:31:11"
     },
     {
-      "id": "21160320",
-      "url": "https://www.theonsitemanager.com.au/listing/21160320",
-      "title": "Part Time Caretaking Opportunity - $110k Income No Unit to Purchase",
-      "category": "Permanent",
-      "status": "current",
-      "price": 520000,
-      "priceView": "$520,000",
-      "netIncome": 105000,
-      "netIncomeBasis": "actual",
-      "unitValue": 0,
-      "multiplier": 4.95,
-      "bedrooms": 0,
-      "bathrooms": 0,
-      "carSpaces": 0,
-      "officeOnTitle": false,
-      "pets": "yes",
-      "caretakingRemuneration": 110000,
-      "agreementTerm": "25",
-      "agreementRemaining": "19",
-      "agreementAge": "6",
-      "officeHours": "No Set Office Hours",
-      "lettingPool": 0,
-      "ownerOccupiers": 0,
-      "lockUps": 0,
-      "outsideAgents": 0,
-      "unitsInComplex": 0,
-      "suburb": "Redcliffe",
-      "state": "QLD",
-      "postcode": "4020",
-      "agentName": "Craig Johnson",
-      "agentPhone": "0493 108 073",
-      "agentEmail": "info@hotelresortsales.com.au",
-      "agencyName": "Hotel Resort Sales",
-      "agencyWebsite": null,
-      "dateListed": "19 January 2026",
-      "lastUpdated": "2026-09-02 03:14:14"
-    },
-    {
       "id": "21157578",
       "url": "https://www.theonsitemanager.com.au/listing/21157578",
       "title": "A rare opportunity to secure a well-established and easily managed permanent management rights business in the highly sought-after suburb of Pacific Pines",
@@ -15048,7 +14934,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "21 April 2026",
-      "lastUpdated": "2026-06-23 01:27:45"
+      "lastUpdated": "2026-10-09 00:45:24"
     },
     {
       "id": "21150272",
@@ -15086,7 +14972,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "21 April 2026",
-      "lastUpdated": "2026-08-05 04:39:28"
+      "lastUpdated": "2026-10-09 02:44:58"
     },
     {
       "id": "21148772",
@@ -15124,7 +15010,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "21 April 2026",
-      "lastUpdated": "2026-06-23 01:39:44"
+      "lastUpdated": "2026-10-09 00:47:29"
     },
     {
       "id": "21148721",
@@ -15238,7 +15124,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "21 April 2026",
-      "lastUpdated": "2026-06-23 02:49:16"
+      "lastUpdated": "2026-10-09 00:48:48"
     },
     {
       "id": "21128399",
@@ -15314,7 +15200,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "21 April 2026",
-      "lastUpdated": "2026-06-23 23:34:22"
+      "lastUpdated": "2026-10-09 00:52:07"
     },
     {
       "id": "21100965",
@@ -15390,7 +15276,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "21 April 2026",
-      "lastUpdated": "2026-06-23 23:35:21"
+      "lastUpdated": "2026-10-09 00:52:53"
     },
     {
       "id": "21162595",
@@ -15422,13 +15308,13 @@
       "suburb": "Redcliffe",
       "state": "QLD",
       "postcode": "4020",
-      "agentName": "Rebecca Johnson",
-      "agentPhone": "0455 445 531",
+      "agentName": "Craig Johnson",
+      "agentPhone": "0493 108 073",
       "agentEmail": "info@hotelresortsales.com.au",
       "agencyName": "Hotel Resort Sales",
       "agencyWebsite": null,
       "dateListed": "01 April 2026",
-      "lastUpdated": "2026-08-04 03:06:07"
+      "lastUpdated": "2026-10-09 00:16:34"
     },
     {
       "id": "21161546",
@@ -15467,6 +15353,44 @@
       "agencyWebsite": null,
       "dateListed": "14 April 2026",
       "lastUpdated": "2026-06-23 23:44:41"
+    },
+    {
+      "id": "21160320",
+      "url": "https://www.theonsitemanager.com.au/listing/21160320",
+      "title": "Part Time Caretaking Opportunity - $110k Income No Unit to Purchase",
+      "category": "Permanent",
+      "status": "under contract",
+      "price": 520000,
+      "priceView": "$520,000",
+      "netIncome": 105000,
+      "netIncomeBasis": "actual",
+      "unitValue": 0,
+      "multiplier": 4.95,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": false,
+      "pets": "yes",
+      "caretakingRemuneration": 110000,
+      "agreementTerm": "25",
+      "agreementRemaining": "19",
+      "agreementAge": "6",
+      "officeHours": "No Set Office Hours",
+      "lettingPool": 0,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 0,
+      "suburb": "Redcliffe",
+      "state": "QLD",
+      "postcode": "4020",
+      "agentName": "Craig Johnson",
+      "agentPhone": "0493 108 073",
+      "agentEmail": "info@hotelresortsales.com.au",
+      "agencyName": "Hotel Resort Sales",
+      "agencyWebsite": null,
+      "dateListed": "19 January 2026",
+      "lastUpdated": "2026-10-09 00:08:33"
     },
     {
       "id": "21155949",
@@ -15542,7 +15466,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 April 2026",
-      "lastUpdated": "2026-10-04 13:10:23"
+      "lastUpdated": "2026-10-08 13:10:13"
     },
     {
       "id": "21172726",
@@ -16112,7 +16036,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 April 2026",
-      "lastUpdated": "2026-10-06 13:10:32"
+      "lastUpdated": "2026-10-08 13:10:16"
     },
     {
       "id": "21173399",
@@ -16150,7 +16074,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 April 2026",
-      "lastUpdated": "2026-10-04 13:10:23"
+      "lastUpdated": "2026-10-08 13:10:14"
     },
     {
       "id": "21173256",
@@ -16345,15 +16269,15 @@
     {
       "id": "21172398",
       "url": "https://www.theonsitemanager.com.au/listing/21172398",
-      "title": "Iconic Kirra Mixed Letting High Performer | $500K+ Net Profit | Resort Brokers ID : MR009148",
+      "title": "Iconic Kirra Mixed Letting High Performer - $500K+ Net Profit | Resort Brokers ID : MR009148",
       "category": "Resort / Holiday",
       "status": "current",
-      "price": 3525000,
-      "priceView": "$3,525,000",
+      "price": 3350000,
+      "priceView": "$3,350,000",
       "netIncome": 500000,
       "netIncomeBasis": "actual",
-      "unitValue": 1050000,
-      "multiplier": 4.95,
+      "unitValue": 1000000,
+      "multiplier": 4.7,
       "bedrooms": 2,
       "bathrooms": 2,
       "carSpaces": 2,
@@ -16364,7 +16288,7 @@
       "agreementRemaining": "23",
       "agreementAge": "0",
       "officeHours": "No set office hours",
-      "lettingPool": 18,
+      "lettingPool": 17,
       "ownerOccupiers": 48,
       "lockUps": 10,
       "outsideAgents": 14,
@@ -16378,7 +16302,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "26 March 2026",
-      "lastUpdated": "2026-10-04 13:10:23"
+      "lastUpdated": "2026-10-08 13:10:15"
     },
     {
       "id": "21172124",
@@ -17032,24 +16956,24 @@
       "title": "TRANQUIL GOLD COAST LIFESTYLE BUSINESS",
       "category": "Permanent",
       "status": "current",
-      "price": 1290000,
-      "priceView": "$1,290,000",
-      "netIncome": 129000,
-      "netIncomeBasis": "actual",
-      "unitValue": 840000,
-      "multiplier": 3.49,
+      "price": 1135000,
+      "priceView": "$1,135,000",
+      "netIncome": 137627,
+      "netIncomeBasis": "",
+      "unitValue": 835000,
+      "multiplier": 2.18,
       "bedrooms": 3,
       "bathrooms": 2,
       "carSpaces": 2,
-      "officeOnTitle": true,
-      "pets": "No",
-      "caretakingRemuneration": 104265,
+      "officeOnTitle": false,
+      "pets": "0",
+      "caretakingRemuneration": 111147,
       "agreementTerm": "25",
       "agreementRemaining": "19",
       "agreementAge": "0",
-      "officeHours": "none stated",
-      "lettingPool": 16,
-      "ownerOccupiers": 34,
+      "officeHours": "",
+      "lettingPool": 13,
+      "ownerOccupiers": 37,
       "lockUps": 0,
       "outsideAgents": 3,
       "unitsInComplex": 53,
@@ -17062,7 +16986,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "10 April 2026",
-      "lastUpdated": "2026-08-26 02:08:52"
+      "lastUpdated": "2026-10-09 07:05:02"
     },
     {
       "id": "21169126",
@@ -19722,7 +19646,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "08 April 2026",
-      "lastUpdated": "2026-06-23 01:22:43"
+      "lastUpdated": "2026-10-09 00:44:35"
     },
     {
       "id": "21160875",
@@ -19950,7 +19874,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "21 April 2026",
-      "lastUpdated": "2026-06-23 01:35:31"
+      "lastUpdated": "2026-10-09 02:44:31"
     },
     {
       "id": "21151822",
@@ -19988,45 +19912,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "21 April 2026",
-      "lastUpdated": "2026-06-23 01:36:11"
-    },
-    {
-      "id": "21151318",
-      "url": "https://www.theonsitemanager.com.au/listing/21151318",
-      "title": "Exclusive Permanent Management Rights for Sale - Gold Coast High Rise Resort",
-      "category": "Permanent",
-      "status": "current",
-      "price": 3850000,
-      "priceView": "$3,850,000",
-      "netIncome": 439943,
-      "netIncomeBasis": "actual",
-      "unitValue": 1430000,
-      "multiplier": 5.5,
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "carSpaces": 2,
-      "officeOnTitle": true,
-      "pets": "No",
-      "caretakingRemuneration": 494517,
-      "agreementTerm": "10",
-      "agreementRemaining": "9",
-      "agreementAge": "34",
-      "officeHours": "M-F 8.30am-5pm, Sat 8.30am-12noon",
-      "lettingPool": 12,
-      "ownerOccupiers": 169,
-      "lockUps": 6,
-      "outsideAgents": 6,
-      "unitsInComplex": 194,
-      "suburb": "Surfers Paradise",
-      "state": "QLD",
-      "postcode": "4217",
-      "agentName": "Craig Johnson",
-      "agentPhone": "0493 108 073",
-      "agentEmail": "info@hotelresortsales.com.au",
-      "agencyName": "Hotel Resort Sales",
-      "agencyWebsite": null,
-      "dateListed": "30 December 2025",
-      "lastUpdated": "2026-10-01 03:19:43"
+      "lastUpdated": "2026-10-09 00:51:18"
     },
     {
       "id": "21149246",
@@ -20064,7 +19950,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "21 April 2026",
-      "lastUpdated": "2026-06-23 01:38:13"
+      "lastUpdated": "2026-10-09 00:46:54"
     },
     {
       "id": "21146367",
@@ -20102,7 +19988,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "21 April 2026",
-      "lastUpdated": "2026-06-23 02:39:38"
+      "lastUpdated": "2026-10-09 00:47:58"
     },
     {
       "id": "21144021",
@@ -20140,7 +20026,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "21 April 2026",
-      "lastUpdated": "2026-06-23 02:43:30"
+      "lastUpdated": "2026-10-09 00:48:24"
     },
     {
       "id": "21141147",
@@ -20178,7 +20064,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "21 April 2026",
-      "lastUpdated": "2026-06-23 02:52:00"
+      "lastUpdated": "2026-10-09 00:49:22"
     },
     {
       "id": "21140715",
@@ -20216,7 +20102,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "21 April 2026",
-      "lastUpdated": "2026-06-23 02:53:03"
+      "lastUpdated": "2026-10-09 00:49:55"
     },
     {
       "id": "21140655",
@@ -20254,7 +20140,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "21 April 2026",
-      "lastUpdated": "2026-06-23 02:54:22"
+      "lastUpdated": "2026-10-09 00:50:44"
     },
     {
       "id": "21171781",
@@ -20293,6 +20179,44 @@
       "agencyWebsite": null,
       "dateListed": "17 March 2026",
       "lastUpdated": "2026-05-21 01:51:38"
+    },
+    {
+      "id": "21151318",
+      "url": "https://www.theonsitemanager.com.au/listing/21151318",
+      "title": "Exclusive Permanent Management Rights for Sale - Gold Coast High Rise Resort",
+      "category": "Permanent",
+      "status": "under contract",
+      "price": 3850000,
+      "priceView": "$3,850,000",
+      "netIncome": 439943,
+      "netIncomeBasis": "actual",
+      "unitValue": 1430000,
+      "multiplier": 5.5,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "carSpaces": 2,
+      "officeOnTitle": true,
+      "pets": "No",
+      "caretakingRemuneration": 494517,
+      "agreementTerm": "10",
+      "agreementRemaining": "9",
+      "agreementAge": "34",
+      "officeHours": "M-F 8.30am-5pm, Sat 8.30am-12noon",
+      "lettingPool": 12,
+      "ownerOccupiers": 169,
+      "lockUps": 6,
+      "outsideAgents": 6,
+      "unitsInComplex": 194,
+      "suburb": "Surfers Paradise",
+      "state": "QLD",
+      "postcode": "4217",
+      "agentName": "Craig Johnson",
+      "agentPhone": "0493 108 073",
+      "agentEmail": "info@hotelresortsales.com.au",
+      "agencyName": "Hotel Resort Sales",
+      "agencyWebsite": null,
+      "dateListed": "30 December 2025",
+      "lastUpdated": "2026-10-09 00:09:01"
     },
     {
       "id": "21171825",
@@ -21280,7 +21204,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "21 April 2026",
-      "lastUpdated": "2026-06-23 23:43:24"
+      "lastUpdated": "2026-10-09 00:53:41"
     }
   ]
 }
