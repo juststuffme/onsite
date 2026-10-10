@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-09T08:50:17.863647",
-  "total": 558,
+  "scraped_at": "2026-10-10T08:23:55.883194",
+  "total": 556,
   "listings": [
     {
       "id": "21197922",
@@ -5947,7 +5947,7 @@
       "carSpaces": 1,
       "officeOnTitle": true,
       "pets": "1",
-      "caretakingRemuneration": 85159,
+      "caretakingRemuneration": 85231,
       "agreementTerm": "10",
       "agreementRemaining": "8",
       "agreementAge": "0",
@@ -5966,7 +5966,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "25 August 2026",
-      "lastUpdated": "2026-10-08 13:10:24"
+      "lastUpdated": "2026-10-09 13:10:27"
     },
     {
       "id": "21193618",
@@ -7679,82 +7679,6 @@
       "lastUpdated": "2026-10-07 13:10:20"
     },
     {
-      "id": "21176636",
-      "url": "https://www.theonsitemanager.com.au/listing/21176636",
-      "title": "Premium Permanent MR Opportunity Backed by 69% Secure BC Salary | Resort Brokers ID : MR009131",
-      "category": "Permanent",
-      "status": "current",
-      "price": 4850000,
-      "priceView": "$4,850,000",
-      "netIncome": 700737,
-      "netIncomeBasis": "actual",
-      "unitValue": 820000,
-      "multiplier": 5.75,
-      "bedrooms": 4,
-      "bathrooms": 2,
-      "carSpaces": 2,
-      "officeOnTitle": true,
-      "pets": "1",
-      "caretakingRemuneration": 488491,
-      "agreementTerm": "25",
-      "agreementRemaining": "0",
-      "agreementAge": "0",
-      "officeHours": "None set current managers operate - 8.00 AM to 4.00 PM - Monday to Friday",
-      "lettingPool": 117,
-      "ownerOccupiers": 161,
-      "lockUps": 0,
-      "outsideAgents": 26,
-      "unitsInComplex": 305,
-      "suburb": "Buderim",
-      "state": "QLD",
-      "postcode": "4556",
-      "agentName": "Chenoa Daniel",
-      "agentPhone": "0403 143 151",
-      "agentEmail": "info@resortbrokers.com.au",
-      "agencyName": "Resort Brokers",
-      "agencyWebsite": null,
-      "dateListed": "11 May 2026",
-      "lastUpdated": "2026-10-04 13:10:22"
-    },
-    {
-      "id": "21176508",
-      "url": "https://www.theonsitemanager.com.au/listing/21176508",
-      "title": "Dual Business Only Apartments - $355,766 Net Profit - over 72% BC Salary | Resort Brokers ID : MRB009194",
-      "category": "Permanent",
-      "status": "current",
-      "price": 2225000,
-      "priceView": "$2,225,000",
-      "netIncome": 355766,
-      "netIncomeBasis": "actual",
-      "unitValue": 0,
-      "multiplier": 6.25,
-      "bedrooms": 0,
-      "bathrooms": 0,
-      "carSpaces": 0,
-      "officeOnTitle": false,
-      "pets": "0",
-      "caretakingRemuneration": 257492,
-      "agreementTerm": "25",
-      "agreementRemaining": "18",
-      "agreementAge": "0",
-      "officeHours": "No set hours",
-      "lettingPool": 38,
-      "ownerOccupiers": 87,
-      "lockUps": 40,
-      "outsideAgents": 45,
-      "unitsInComplex": 188,
-      "suburb": "Chermside",
-      "state": "QLD",
-      "postcode": "4032",
-      "agentName": "Jeff Keast",
-      "agentPhone": "0414 669 007",
-      "agentEmail": "info@resortbrokers.com.au",
-      "agencyName": "Resort Brokers",
-      "agencyWebsite": null,
-      "dateListed": "11 May 2026",
-      "lastUpdated": "2026-10-08 13:10:21"
-    },
-    {
       "id": "21176498",
       "url": "https://www.theonsitemanager.com.au/listing/21176498",
       "title": "Waterfront Short Stay MR - $481k Net Profit, 3.3x Multiplier, 24-Year Term | Resort Brokers ID : MR009172",
@@ -9391,29 +9315,29 @@
     {
       "id": "21169156",
       "url": "https://www.theonsitemanager.com.au/listing/21169156",
-      "title": "2.3X MULTIPLIER | 22 YEAR TERM | PERMANENT | ENTRY LEVEL OR ADD-ON | SOUTHPORT",
+      "title": "2.7X MULTIPLIER | 22 YEAR TERM | PERMANENT | ENTRY LEVEL OR ADD-ON | SOUTHPORT",
       "category": "Permanent",
       "status": "current",
       "price": 1100000,
       "priceView": "$1,100,000",
       "netIncome": 130116,
-      "netIncomeBasis": "actual",
-      "unitValue": 800000,
-      "multiplier": 2.31,
+      "netIncomeBasis": "",
+      "unitValue": 750000,
+      "multiplier": 2.69,
       "bedrooms": 2,
       "bathrooms": 1,
       "carSpaces": 1,
       "officeOnTitle": false,
-      "pets": "yes",
+      "pets": "0",
       "caretakingRemuneration": 82684,
       "agreementTerm": "25",
       "agreementRemaining": "22",
       "agreementAge": "0",
       "officeHours": "",
-      "lettingPool": 18,
-      "ownerOccupiers": 22,
+      "lettingPool": 17,
+      "ownerOccupiers": 26,
       "lockUps": 0,
-      "outsideAgents": 22,
+      "outsideAgents": 19,
       "unitsInComplex": 62,
       "suburb": "Southport",
       "state": "QLD",
@@ -9424,7 +9348,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "17 April 2026",
-      "lastUpdated": "2026-10-02 03:53:31"
+      "lastUpdated": "2026-10-10 07:20:02"
     },
     {
       "id": "21168044",
@@ -9572,7 +9496,7 @@
       "postcode": "4216",
       "agentName": "Barry Teren",
       "agentPhone": "0414565530",
-      "agentEmail": "david@mragents.com.au",
+      "agentEmail": "barryteren@gmail.com",
       "agencyName": "Management Rights Agents",
       "agencyWebsite": null,
       "dateListed": "28 October 2025",
@@ -11590,7 +11514,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "17 April 2026",
-      "lastUpdated": "2026-10-02 08:18:46"
+      "lastUpdated": "2026-10-10 04:33:30"
     },
     {
       "id": "21157419",
@@ -12156,7 +12080,7 @@
       "postcode": "4217",
       "agentName": "Barry Teren",
       "agentPhone": "0414 565 530",
-      "agentEmail": "david@mragents.com.au",
+      "agentEmail": "barryteren@gmail.com",
       "agencyName": "Management Rights Agents",
       "agencyWebsite": null,
       "dateListed": "14 April 2026",
@@ -15998,7 +15922,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 April 2026",
-      "lastUpdated": "2026-10-04 13:10:20"
+      "lastUpdated": "2026-10-09 13:10:19"
     },
     {
       "id": "21173419",
@@ -16269,7 +16193,7 @@
     {
       "id": "21172398",
       "url": "https://www.theonsitemanager.com.au/listing/21172398",
-      "title": "Iconic Kirra Mixed Letting High Performer - $500K+ Net Profit | Resort Brokers ID : MR009148",
+      "title": "ICONIC KIRRA BEACHFRONT / PROVEN PERFORMANCE / EXCELLENT ROI | Resort Brokers ID : MR009148",
       "category": "Resort / Holiday",
       "status": "current",
       "price": 3350000,
@@ -16289,7 +16213,7 @@
       "agreementAge": "0",
       "officeHours": "No set office hours",
       "lettingPool": 17,
-      "ownerOccupiers": 48,
+      "ownerOccupiers": 49,
       "lockUps": 10,
       "outsideAgents": 14,
       "unitsInComplex": 91,
@@ -16302,7 +16226,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "26 March 2026",
-      "lastUpdated": "2026-10-08 13:10:15"
+      "lastUpdated": "2026-10-09 13:10:24"
     },
     {
       "id": "21172124",
@@ -16530,7 +16454,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "16 March 2026",
-      "lastUpdated": "2026-10-04 13:10:22"
+      "lastUpdated": "2026-10-09 13:10:22"
     },
     {
       "id": "21171304",
@@ -16872,7 +16796,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "17 February 2026",
-      "lastUpdated": "2026-10-04 13:10:19"
+      "lastUpdated": "2026-10-09 13:10:17"
     },
     {
       "id": "21169867",
@@ -16959,19 +16883,19 @@
       "price": 1135000,
       "priceView": "$1,135,000",
       "netIncome": 137627,
-      "netIncomeBasis": "",
+      "netIncomeBasis": "actual",
       "unitValue": 835000,
       "multiplier": 2.18,
       "bedrooms": 3,
       "bathrooms": 2,
       "carSpaces": 2,
-      "officeOnTitle": false,
-      "pets": "0",
+      "officeOnTitle": true,
+      "pets": "yes",
       "caretakingRemuneration": 111147,
       "agreementTerm": "25",
       "agreementRemaining": "19",
       "agreementAge": "0",
-      "officeHours": "",
+      "officeHours": "none",
       "lettingPool": 13,
       "ownerOccupiers": 37,
       "lockUps": 0,
@@ -16986,7 +16910,7 @@
       "agencyName": "Property Bridge",
       "agencyWebsite": null,
       "dateListed": "10 April 2026",
-      "lastUpdated": "2026-10-09 07:05:02"
+      "lastUpdated": "2026-10-10 04:42:29"
     },
     {
       "id": "21169126",
@@ -20292,7 +20216,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "09 March 2026",
-      "lastUpdated": "2026-10-04 13:10:21"
+      "lastUpdated": "2026-10-09 13:10:20"
     },
     {
       "id": "21170924",
