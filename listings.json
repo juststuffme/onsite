@@ -1,7 +1,501 @@
 {
-  "scraped_at": "2026-10-11T08:37:49.826310",
-  "total": 556,
+  "scraped_at": "2026-10-12T09:00:38.981991",
+  "total": 572,
   "listings": [
+    {
+      "id": "21201008",
+      "url": "https://www.theonsitemanager.com.au/listing/21201008",
+      "title": "Aljada CBD Office CBD10-508 | 2,660 sqft | Off-Plan Sharjah | Total AUD $2.21M",
+      "category": "Off The Plan",
+      "status": "current",
+      "price": 2212625,
+      "priceView": "AUD 2,212,625 (AED 5,710,000)",
+      "netIncome": 0,
+      "netIncomeBasis": "",
+      "unitValue": 0,
+      "multiplier": null,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": false,
+      "pets": "No",
+      "caretakingRemuneration": 0,
+      "agreementTerm": "0",
+      "agreementRemaining": "0",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 0,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 0,
+      "suburb": "Aljada",
+      "state": "SHARJAH",
+      "postcode": "0000",
+      "agentName": "Nick Buick",
+      "agentPhone": "+971 5544 16 450",
+      "agentEmail": "info@crowns.ae",
+      "agencyName": "Crownsbridge Properties",
+      "agencyWebsite": null,
+      "dateListed": "2026-10-11 11:58:54",
+      "lastUpdated": "2026-10-11 14:06:27"
+    },
+    {
+      "id": "21201003",
+      "url": "https://www.theonsitemanager.com.au/listing/21201003",
+      "title": "Aljada CBD Office CBD10-410 | 2,284 sqft | Off-Plan Sharjah | Total AUD $1.89M",
+      "category": "Off The Plan",
+      "status": "current",
+      "price": 1891000,
+      "priceView": "AUD 1,891,000 (AED 4,880,000)",
+      "netIncome": 0,
+      "netIncomeBasis": "",
+      "unitValue": 0,
+      "multiplier": null,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": false,
+      "pets": "No",
+      "caretakingRemuneration": 0,
+      "agreementTerm": "0",
+      "agreementRemaining": "0",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 0,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 0,
+      "suburb": "Aljada",
+      "state": "SHARJAH",
+      "postcode": "0000",
+      "agentName": "Nick Buick",
+      "agentPhone": "+971 5544 16 450",
+      "agentEmail": "info@crowns.ae",
+      "agencyName": "Crownsbridge Properties",
+      "agencyWebsite": null,
+      "dateListed": "2026-10-11 11:58:49",
+      "lastUpdated": "2026-10-11 14:06:23"
+    },
+    {
+      "id": "21200998",
+      "url": "https://www.theonsitemanager.com.au/listing/21200998",
+      "title": "Aljada CBD Office CBD10-408 | 2,660 sqft | Off-Plan Sharjah | Total AUD $2.20M",
+      "category": "Off The Plan",
+      "status": "current",
+      "price": 2201000,
+      "priceView": "AUD 2,201,000 (AED 5,680,000)",
+      "netIncome": 0,
+      "netIncomeBasis": "",
+      "unitValue": 0,
+      "multiplier": null,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": false,
+      "pets": "No",
+      "caretakingRemuneration": 0,
+      "agreementTerm": "0",
+      "agreementRemaining": "0",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 0,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 0,
+      "suburb": "Aljada",
+      "state": "SHARJAH",
+      "postcode": "0000",
+      "agentName": "Nick Buick",
+      "agentPhone": "+971 5544 16 450",
+      "agentEmail": "info@crowns.ae",
+      "agencyName": "Crownsbridge Properties",
+      "agencyWebsite": null,
+      "dateListed": "2026-10-11 11:58:45",
+      "lastUpdated": "2026-10-11 14:06:21"
+    },
+    {
+      "id": "21200993",
+      "url": "https://www.theonsitemanager.com.au/listing/21200993",
+      "title": "Aljada CBD Office CBD10-403 | 2,920 sqft | Off-Plan Sharjah | Total AUD $2.44M",
+      "category": "Off The Plan",
+      "status": "current",
+      "price": 2439312,
+      "priceView": "AUD 2,439,312 (AED 6,295,000)",
+      "netIncome": 0,
+      "netIncomeBasis": "",
+      "unitValue": 0,
+      "multiplier": null,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": false,
+      "pets": "No",
+      "caretakingRemuneration": 0,
+      "agreementTerm": "0",
+      "agreementRemaining": "0",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 0,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 0,
+      "suburb": "Aljada",
+      "state": "SHARJAH",
+      "postcode": "0000",
+      "agentName": "Nick Buick",
+      "agentPhone": "+971 5544 16 450",
+      "agentEmail": "info@crowns.ae",
+      "agencyName": "Crownsbridge Properties",
+      "agencyWebsite": null,
+      "dateListed": "2026-10-11 11:58:40",
+      "lastUpdated": "2026-10-11 14:06:18"
+    },
+    {
+      "id": "21200988",
+      "url": "https://www.theonsitemanager.com.au/listing/21200988",
+      "title": "Aljada CBD Office CBD10-310 | 2,284 sqft | Off-Plan Sharjah | Total AUD $1.88M",
+      "category": "Off The Plan",
+      "status": "current",
+      "price": 1883250,
+      "priceView": "AUD 1,883,250 (AED 4,860,000)",
+      "netIncome": 0,
+      "netIncomeBasis": "",
+      "unitValue": 0,
+      "multiplier": null,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": false,
+      "pets": "No",
+      "caretakingRemuneration": 0,
+      "agreementTerm": "0",
+      "agreementRemaining": "0",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 0,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 0,
+      "suburb": "Aljada",
+      "state": "SHARJAH",
+      "postcode": "0000",
+      "agentName": "Nick Buick",
+      "agentPhone": "+971 5544 16 450",
+      "agentEmail": "info@crowns.ae",
+      "agencyName": "Crownsbridge Properties",
+      "agencyWebsite": null,
+      "dateListed": "2026-10-11 11:58:36",
+      "lastUpdated": "2026-10-11 14:06:14"
+    },
+    {
+      "id": "21200983",
+      "url": "https://www.theonsitemanager.com.au/listing/21200983",
+      "title": "Aljada CBD Office CBD10-308 | 2,660 sqft | Off-Plan Sharjah | Total AUD $2.19M",
+      "category": "Off The Plan",
+      "status": "current",
+      "price": 2191312,
+      "priceView": "AUD 2,191,312 (AED 5,655,000)",
+      "netIncome": 0,
+      "netIncomeBasis": "",
+      "unitValue": 0,
+      "multiplier": null,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": false,
+      "pets": "No",
+      "caretakingRemuneration": 0,
+      "agreementTerm": "0",
+      "agreementRemaining": "0",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 0,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 0,
+      "suburb": "Aljada",
+      "state": "SHARJAH",
+      "postcode": "0000",
+      "agentName": "Nick Buick",
+      "agentPhone": "+971 5544 16 450",
+      "agentEmail": "info@crowns.ae",
+      "agencyName": "Crownsbridge Properties",
+      "agencyWebsite": null,
+      "dateListed": "2026-10-11 11:58:31",
+      "lastUpdated": "2026-10-11 14:06:11"
+    },
+    {
+      "id": "21200978",
+      "url": "https://www.theonsitemanager.com.au/listing/21200978",
+      "title": "Aljada CBD Office CBD10-208 | 2,675 sqft | Off-Plan Sharjah | Total AUD $2.20M",
+      "category": "Off The Plan",
+      "status": "current",
+      "price": 2195188,
+      "priceView": "AUD 2,195,188 (AED 5,665,000)",
+      "netIncome": 0,
+      "netIncomeBasis": "",
+      "unitValue": 0,
+      "multiplier": null,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": false,
+      "pets": "No",
+      "caretakingRemuneration": 0,
+      "agreementTerm": "0",
+      "agreementRemaining": "0",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 0,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 0,
+      "suburb": "Aljada",
+      "state": "SHARJAH",
+      "postcode": "0000",
+      "agentName": "Nick Buick",
+      "agentPhone": "+971 5544 16 450",
+      "agentEmail": "info@crowns.ae",
+      "agencyName": "Crownsbridge Properties",
+      "agencyWebsite": null,
+      "dateListed": "2026-10-11 11:58:26",
+      "lastUpdated": "2026-10-11 14:06:08"
+    },
+    {
+      "id": "21200973",
+      "url": "https://www.theonsitemanager.com.au/listing/21200973",
+      "title": "Aljada CBD Office CBD10-201 | 3,103 sqft | Off-Plan Sharjah | Total AUD $2.57M",
+      "category": "Off The Plan",
+      "status": "current",
+      "price": 2569125,
+      "priceView": "AUD 2,569,125 (AED 6,630,000)",
+      "netIncome": 0,
+      "netIncomeBasis": "",
+      "unitValue": 0,
+      "multiplier": null,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": false,
+      "pets": "No",
+      "caretakingRemuneration": 0,
+      "agreementTerm": "0",
+      "agreementRemaining": "0",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 0,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 0,
+      "suburb": "Aljada",
+      "state": "SHARJAH",
+      "postcode": "0000",
+      "agentName": "Nick Buick",
+      "agentPhone": "+971 5544 16 450",
+      "agentEmail": "info@crowns.ae",
+      "agencyName": "Crownsbridge Properties",
+      "agencyWebsite": null,
+      "dateListed": "2026-10-11 11:58:21",
+      "lastUpdated": "2026-10-11 14:06:05"
+    },
+    {
+      "id": "21200968",
+      "url": "https://www.theonsitemanager.com.au/listing/21200968",
+      "title": "Aljada CBD Office CBD3804 | 2,389 sqft | Off-Plan Sharjah | Total AUD $2.03M",
+      "category": "Off The Plan",
+      "status": "current",
+      "price": 2032438,
+      "priceView": "AUD 2,032,438 (AED 5,245,000)",
+      "netIncome": 0,
+      "netIncomeBasis": "",
+      "unitValue": 0,
+      "multiplier": null,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": false,
+      "pets": "No",
+      "caretakingRemuneration": 0,
+      "agreementTerm": "0",
+      "agreementRemaining": "0",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 0,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 0,
+      "suburb": "Aljada",
+      "state": "SHARJAH",
+      "postcode": "0000",
+      "agentName": "Nick Buick",
+      "agentPhone": "+971 5544 16 450",
+      "agentEmail": "info@crowns.ae",
+      "agencyName": "Crownsbridge Properties",
+      "agencyWebsite": null,
+      "dateListed": "2026-10-11 11:58:16",
+      "lastUpdated": "2026-10-11 14:06:02"
+    },
+    {
+      "id": "21200963",
+      "url": "https://www.theonsitemanager.com.au/listing/21200963",
+      "title": "Aljada CBD Office CBD3803 | 2,388 sqft | Off-Plan Sharjah | Total AUD $2.03M",
+      "category": "Off The Plan",
+      "status": "current",
+      "price": 2032438,
+      "priceView": "AUD 2,032,438 (AED 5,245,000)",
+      "netIncome": 0,
+      "netIncomeBasis": "",
+      "unitValue": 0,
+      "multiplier": null,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": false,
+      "pets": "No",
+      "caretakingRemuneration": 0,
+      "agreementTerm": "0",
+      "agreementRemaining": "0",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 0,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 0,
+      "suburb": "Aljada",
+      "state": "SHARJAH",
+      "postcode": "0000",
+      "agentName": "Nick Buick",
+      "agentPhone": "+971 5544 16 450",
+      "agentEmail": "info@crowns.ae",
+      "agencyName": "Crownsbridge Properties",
+      "agencyWebsite": null,
+      "dateListed": "2026-10-11 11:58:11",
+      "lastUpdated": "2026-10-11 14:05:59"
+    },
+    {
+      "id": "21200958",
+      "url": "https://www.theonsitemanager.com.au/listing/21200958",
+      "title": "Aljada CBD Office CBD3703 | 2,388 sqft | Off-Plan Sharjah | Total AUD $2.02M",
+      "category": "Off The Plan",
+      "status": "current",
+      "price": 2022750,
+      "priceView": "AUD 2,022,750 (AED 5,220,000)",
+      "netIncome": 0,
+      "netIncomeBasis": "",
+      "unitValue": 0,
+      "multiplier": null,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": false,
+      "pets": "No",
+      "caretakingRemuneration": 0,
+      "agreementTerm": "0",
+      "agreementRemaining": "0",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 0,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 0,
+      "suburb": "Aljada",
+      "state": "SHARJAH",
+      "postcode": "0000",
+      "agentName": "Nick Buick",
+      "agentPhone": "+971 5544 16 450",
+      "agentEmail": "info@crowns.ae",
+      "agencyName": "Crownsbridge Properties",
+      "agencyWebsite": null,
+      "dateListed": "2026-10-11 11:58:06",
+      "lastUpdated": "2026-10-11 14:05:56"
+    },
+    {
+      "id": "21200953",
+      "url": "https://www.theonsitemanager.com.au/listing/21200953",
+      "title": "Aljada CBD Office CBD3604 | 2,389 sqft | Off-Plan Sharjah | Total AUD $2.02M",
+      "category": "Off The Plan",
+      "status": "current",
+      "price": 2015000,
+      "priceView": "AUD 2,015,000 (AED 5,200,000)",
+      "netIncome": 0,
+      "netIncomeBasis": "",
+      "unitValue": 0,
+      "multiplier": null,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": false,
+      "pets": "No",
+      "caretakingRemuneration": 0,
+      "agreementTerm": "0",
+      "agreementRemaining": "0",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 0,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 0,
+      "suburb": "Aljada",
+      "state": "SHARJAH",
+      "postcode": "0000",
+      "agentName": "Nick Buick",
+      "agentPhone": "+971 5544 16 450",
+      "agentEmail": "info@crowns.ae",
+      "agencyName": "Crownsbridge Properties",
+      "agencyWebsite": null,
+      "dateListed": "2026-10-11 11:58:02",
+      "lastUpdated": "2026-10-11 14:05:53"
+    },
+    {
+      "id": "21200948",
+      "url": "https://www.theonsitemanager.com.au/listing/21200948",
+      "title": "Aljada CBD Office CBD3603 | 2,388 sqft | Off-Plan Sharjah | Total AUD $2.01M",
+      "category": "Off The Plan",
+      "status": "current",
+      "price": 2013062,
+      "priceView": "AUD 2,013,062 (AED 5,195,000)",
+      "netIncome": 0,
+      "netIncomeBasis": "",
+      "unitValue": 0,
+      "multiplier": null,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": false,
+      "pets": "No",
+      "caretakingRemuneration": 0,
+      "agreementTerm": "0",
+      "agreementRemaining": "0",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 0,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 0,
+      "suburb": "Aljada",
+      "state": "SHARJAH",
+      "postcode": "0000",
+      "agentName": "Nick Buick",
+      "agentPhone": "+971 5544 16 450",
+      "agentEmail": "info@crowns.ae",
+      "agencyName": "Crownsbridge Properties",
+      "agencyWebsite": null,
+      "dateListed": "2026-10-11 11:57:53",
+      "lastUpdated": "2026-10-11 14:05:50"
+    },
     {
       "id": "21197922",
       "url": "https://www.theonsitemanager.com.au/listing/21197922",
@@ -39,6 +533,44 @@
       "agencyWebsite": null,
       "dateListed": "2026-09-28 04:24:26",
       "lastUpdated": "2026-09-28 05:54:22"
+    },
+    {
+      "id": "21200558",
+      "url": "https://www.theonsitemanager.com.au/listing/21200558",
+      "title": "A Genuine Growth Opportunity in Gympie",
+      "category": "Retirement",
+      "status": "current",
+      "price": 1393000,
+      "priceView": "$1,393,000",
+      "netIncome": 252308,
+      "netIncomeBasis": "actual",
+      "unitValue": 510000,
+      "multiplier": 3.5,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "carSpaces": 1,
+      "officeOnTitle": true,
+      "pets": "yes",
+      "caretakingRemuneration": 246113,
+      "agreementTerm": "10",
+      "agreementRemaining": "10",
+      "agreementAge": "20",
+      "officeHours": "No",
+      "lettingPool": 12,
+      "ownerOccupiers": 26,
+      "lockUps": 0,
+      "outsideAgents": 51,
+      "unitsInComplex": 91,
+      "suburb": "Southside",
+      "state": "QLD",
+      "postcode": "4570",
+      "agentName": "Greg Jorgensen",
+      "agentPhone": "0407721335",
+      "agentEmail": "greg@mrbrokers.com.au",
+      "agencyName": "Management Rights Brokers",
+      "agencyWebsite": null,
+      "dateListed": "2026-10-07 23:18:37",
+      "lastUpdated": "2026-10-12 03:28:16"
     },
     {
       "id": "21199448",
@@ -418,7 +950,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "07 September 2026",
-      "lastUpdated": "2026-10-04 13:10:45"
+      "lastUpdated": "2026-10-11 13:11:02"
     },
     {
       "id": "21194678",
@@ -456,7 +988,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "01 September 2026",
-      "lastUpdated": "2026-10-04 13:10:43"
+      "lastUpdated": "2026-10-11 13:10:59"
     },
     {
       "id": "21194338",
@@ -646,7 +1178,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "29 July 2026",
-      "lastUpdated": "2026-10-06 13:10:50"
+      "lastUpdated": "2026-10-11 13:10:54"
     },
     {
       "id": "21188421",
@@ -722,7 +1254,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "06 July 2026",
-      "lastUpdated": "2026-10-06 13:10:47"
+      "lastUpdated": "2026-10-11 13:10:51"
     },
     {
       "id": "21185185",
@@ -836,7 +1368,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "01 June 2026",
-      "lastUpdated": "2026-10-07 13:10:23"
+      "lastUpdated": "2026-10-11 13:10:46"
     },
     {
       "id": "21177459",
@@ -1447,6 +1979,196 @@
       "lastUpdated": "2026-10-01 03:39:49"
     },
     {
+      "id": "21195544",
+      "url": "https://www.theonsitemanager.com.au/listing/21195544",
+      "title": "Brand-New Management Rights Business Only – Brisbane Southside",
+      "category": "Permanent",
+      "status": "current",
+      "price": 1210000,
+      "priceView": "$1,210,000",
+      "netIncome": 264000,
+      "netIncomeBasis": "projected",
+      "unitValue": 0,
+      "multiplier": 4.58,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": false,
+      "pets": "No",
+      "caretakingRemuneration": 74000,
+      "agreementTerm": "25",
+      "agreementRemaining": "25",
+      "agreementAge": "0",
+      "officeHours": "N/A",
+      "lettingPool": 72,
+      "ownerOccupiers": 2,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 74,
+      "suburb": "Mount Gravatt East",
+      "state": "QLD",
+      "postcode": "4122",
+      "agentName": "Keeya Zhang",
+      "agentPhone": "0477 736 696",
+      "agentEmail": "admin@portalrealty.com.au",
+      "agencyName": "Portal Realty",
+      "agencyWebsite": null,
+      "dateListed": "2026-09-08 04:51:37",
+      "lastUpdated": "2026-10-12 01:54:52"
+    },
+    {
+      "id": "21192816",
+      "url": "https://www.theonsitemanager.com.au/listing/21192816",
+      "title": "RIGHT ON BEACH: GENERATING OVER $410,000 ANNUALLY WITH MINIMAL CARETAKING REQUIREMENTS IN THE CENTRE OF SURFERS PARADISE",
+      "category": "Holiday",
+      "status": "current",
+      "price": 3300000,
+      "priceView": "$3,300,000",
+      "netIncome": 410000,
+      "netIncomeBasis": "",
+      "unitValue": 1600000,
+      "multiplier": 4.15,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "carSpaces": 1,
+      "officeOnTitle": false,
+      "pets": "No",
+      "caretakingRemuneration": 0,
+      "agreementTerm": "10",
+      "agreementRemaining": "10",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 16,
+      "ownerOccupiers": 1,
+      "lockUps": 0,
+      "outsideAgents": 38,
+      "unitsInComplex": 54,
+      "suburb": "Surfers Paradise",
+      "state": "QLD",
+      "postcode": "4217",
+      "agentName": "Mr Hong Hu",
+      "agentPhone": "0481700998",
+      "agentEmail": "admin@portalrealty.com.au",
+      "agencyName": "Portal Realty",
+      "agencyWebsite": null,
+      "dateListed": "2026-08-19 00:30:46",
+      "lastUpdated": "2026-10-12 01:56:27"
+    },
+    {
+      "id": "21191012",
+      "url": "https://www.theonsitemanager.com.au/listing/21191012",
+      "title": "Morayfield Management Rights – Stable Income, Easy Operation & Outstanding Lifestyle",
+      "category": "Permanent",
+      "status": "current",
+      "price": 1850045,
+      "priceView": "$1,850,045",
+      "netIncome": 200000,
+      "netIncomeBasis": "",
+      "unitValue": 0,
+      "multiplier": 9.25,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "carSpaces": 2,
+      "officeOnTitle": false,
+      "pets": "No",
+      "caretakingRemuneration": 80876,
+      "agreementTerm": "25",
+      "agreementRemaining": "23",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 38,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 13,
+      "unitsInComplex": 52,
+      "suburb": "Morayfield",
+      "state": "QLD",
+      "postcode": "4506",
+      "agentName": "Keeya Zhang",
+      "agentPhone": "04 7773 6696",
+      "agentEmail": "admin@portalrealty.com.au",
+      "agencyName": "Portal Realty",
+      "agencyWebsite": null,
+      "dateListed": "2026-08-06 01:52:09",
+      "lastUpdated": "2026-10-12 01:57:31"
+    },
+    {
+      "id": "21184194",
+      "url": "https://www.theonsitemanager.com.au/listing/21184194",
+      "title": "PRICED TO SELL – Large Caretaker-Only Management Rights Business Deception Bay, QLD",
+      "category": "Permanent",
+      "status": "current",
+      "price": 3028000,
+      "priceView": "$3,028,000",
+      "netIncome": 380000,
+      "netIncomeBasis": "",
+      "unitValue": 900000,
+      "multiplier": 5.6,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "carSpaces": 2,
+      "officeOnTitle": false,
+      "pets": "No",
+      "caretakingRemuneration": 380000,
+      "agreementTerm": "25",
+      "agreementRemaining": "21",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 0,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 215,
+      "suburb": "Deception Bay",
+      "state": "QLD",
+      "postcode": "4508",
+      "agentName": "Steve Gong",
+      "agentPhone": "0421552887",
+      "agentEmail": "admin@portalrealty.com.au",
+      "agencyName": "Portal Realty",
+      "agencyWebsite": null,
+      "dateListed": "2026-06-22 04:58:07",
+      "lastUpdated": "2026-10-12 01:57:45"
+    },
+    {
+      "id": "21183859",
+      "url": "https://www.theonsitemanager.com.au/listing/21183859",
+      "title": "Motivated Vendor – Easy-to-Manage Bracken Ridge Management Rights with Growth Potential",
+      "category": "Permanent",
+      "status": "current",
+      "price": 1519000,
+      "priceView": "$1,519,000",
+      "netIncome": 113000,
+      "netIncomeBasis": "",
+      "unitValue": 1100000,
+      "multiplier": 3.71,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": false,
+      "pets": "No",
+      "caretakingRemuneration": 59699,
+      "agreementTerm": "25",
+      "agreementRemaining": "23",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 17,
+      "ownerOccupiers": 22,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 40,
+      "suburb": "Bracken Ridge",
+      "state": "QLD",
+      "postcode": "4017",
+      "agentName": "Keeya Zhang",
+      "agentPhone": "04 7773 6696",
+      "agentEmail": "admin@portalrealty.com.au",
+      "agencyName": "Portal Realty",
+      "agencyWebsite": null,
+      "dateListed": "2026-06-19 04:02:26",
+      "lastUpdated": "2026-10-12 01:55:37"
+    },
+    {
       "id": "21183588",
       "url": "https://www.theonsitemanager.com.au/listing/21183588",
       "title": "Short Term Gem - Absolute Stunner - ID 7838",
@@ -1596,7 +2318,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "27 August 2026",
-      "lastUpdated": "2026-10-04 13:10:44"
+      "lastUpdated": "2026-10-11 13:11:01"
     },
     {
       "id": "21181334",
@@ -1634,7 +2356,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "03 June 2026",
-      "lastUpdated": "2026-10-07 13:10:24"
+      "lastUpdated": "2026-10-11 13:10:47"
     },
     {
       "id": "21190196",
@@ -2299,7 +3021,7 @@
       "carSpaces": 0,
       "officeOnTitle": true,
       "pets": "1",
-      "caretakingRemuneration": 255000,
+      "caretakingRemuneration": 257942,
       "agreementTerm": "10",
       "agreementRemaining": "10",
       "agreementAge": "0",
@@ -2318,7 +3040,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "23 July 2026",
-      "lastUpdated": "2026-09-10 07:59:20"
+      "lastUpdated": "2026-10-12 02:35:03"
     },
     {
       "id": "21187968",
@@ -2470,7 +3192,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "29 June 2026",
-      "lastUpdated": "2026-10-06 13:10:41"
+      "lastUpdated": "2026-10-11 13:10:49"
     },
     {
       "id": "21184794",
@@ -2774,7 +3496,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "03 June 2026",
-      "lastUpdated": "2026-10-04 13:10:30"
+      "lastUpdated": "2026-10-11 13:10:46"
     },
     {
       "id": "21181189",
@@ -2888,7 +3610,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "29 May 2026",
-      "lastUpdated": "2026-10-07 13:10:22"
+      "lastUpdated": "2026-10-11 13:10:45"
     },
     {
       "id": "21179119",
@@ -2964,7 +3686,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "19 May 2026",
-      "lastUpdated": "2026-10-04 13:10:28"
+      "lastUpdated": "2026-10-11 13:10:44"
     },
     {
       "id": "21176418",
@@ -3002,7 +3724,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
-      "lastUpdated": "2026-10-08 13:10:21"
+      "lastUpdated": "2026-10-11 13:10:41"
     },
     {
       "id": "21176378",
@@ -3040,7 +3762,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
-      "lastUpdated": "2026-10-04 13:10:04"
+      "lastUpdated": "2026-10-11 13:10:12"
     },
     {
       "id": "21175206",
@@ -3459,44 +4181,6 @@
       "agencyWebsite": null,
       "dateListed": "18 August 2026",
       "lastUpdated": "2026-09-30 23:10:09"
-    },
-    {
-      "id": "21187562",
-      "url": "https://www.theonsitemanager.com.au/listing/21187562",
-      "title": "Stable Income - 87% from Salary | Net Profit $196,034 - ID 9235",
-      "category": "Permanent",
-      "status": "current",
-      "price": 1650000,
-      "priceView": "$1,650,000",
-      "netIncome": 196034,
-      "netIncomeBasis": "actual",
-      "unitValue": 840000,
-      "multiplier": 4.13,
-      "bedrooms": 3,
-      "bathrooms": 1,
-      "carSpaces": 1,
-      "officeOnTitle": true,
-      "pets": "No",
-      "caretakingRemuneration": 172071,
-      "agreementTerm": "10",
-      "agreementRemaining": "10",
-      "agreementAge": "0",
-      "officeHours": "No set office hours",
-      "lettingPool": 0,
-      "ownerOccupiers": 0,
-      "lockUps": 0,
-      "outsideAgents": 0,
-      "unitsInComplex": 0,
-      "suburb": "Thorneside",
-      "state": "QLD",
-      "postcode": "4158",
-      "agentName": "Bill He",
-      "agentPhone": "0439 288 960",
-      "agentEmail": "sales@mrsales.com.au",
-      "agencyName": "Management Rights Sales",
-      "agencyWebsite": null,
-      "dateListed": "2026-07-15 03:50:13",
-      "lastUpdated": "2026-09-10 07:59:20"
     },
     {
       "id": "21187361",
@@ -4449,44 +5133,6 @@
       "lastUpdated": "2026-10-03 07:15:08"
     },
     {
-      "id": "21195544",
-      "url": "https://www.theonsitemanager.com.au/listing/21195544",
-      "title": "Brand-New Management Rights Business Only – Brisbane Southside",
-      "category": "Permanent",
-      "status": "current",
-      "price": 1210000,
-      "priceView": "$1,210,000",
-      "netIncome": 264000,
-      "netIncomeBasis": "projected",
-      "unitValue": 0,
-      "multiplier": 4.58,
-      "bedrooms": 0,
-      "bathrooms": 0,
-      "carSpaces": 0,
-      "officeOnTitle": false,
-      "pets": "No",
-      "caretakingRemuneration": 74000,
-      "agreementTerm": "25",
-      "agreementRemaining": "25",
-      "agreementAge": "0",
-      "officeHours": "N/A",
-      "lettingPool": 72,
-      "ownerOccupiers": 2,
-      "lockUps": 0,
-      "outsideAgents": 0,
-      "unitsInComplex": 74,
-      "suburb": "Mount Gravatt East",
-      "state": "QLD",
-      "postcode": "4122",
-      "agentName": "Keeya Zhang",
-      "agentPhone": "0477 736 696",
-      "agentEmail": "admin@portalrealty.com.au",
-      "agencyName": "Portal Realty",
-      "agencyWebsite": null,
-      "dateListed": "2026-09-08 04:51:37",
-      "lastUpdated": "2026-09-21 06:35:16"
-    },
-    {
       "id": "21195134",
       "url": "https://www.theonsitemanager.com.au/listing/21195134",
       "title": "Absolute Beachfront Surfers Paradise $410k Net Profit - ID 9239",
@@ -4639,44 +5285,6 @@
       "lastUpdated": "2026-09-10 07:59:20"
     },
     {
-      "id": "21192816",
-      "url": "https://www.theonsitemanager.com.au/listing/21192816",
-      "title": "RIGHT ON BEACH: GENERATING OVER $410,000 ANNUALLY WITH MINIMAL CARETAKING REQUIREMENTS IN THE CENTRE OF SURFERS PARADISE",
-      "category": "Holiday",
-      "status": "current",
-      "price": 3300000,
-      "priceView": "$3,300,000",
-      "netIncome": 410000,
-      "netIncomeBasis": "",
-      "unitValue": 1600000,
-      "multiplier": 4.15,
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "carSpaces": 1,
-      "officeOnTitle": false,
-      "pets": "No",
-      "caretakingRemuneration": 0,
-      "agreementTerm": "10",
-      "agreementRemaining": "10",
-      "agreementAge": "0",
-      "officeHours": "",
-      "lettingPool": 16,
-      "ownerOccupiers": 1,
-      "lockUps": 0,
-      "outsideAgents": 38,
-      "unitsInComplex": 54,
-      "suburb": "Surfers Paradise",
-      "state": "QLD",
-      "postcode": "4217",
-      "agentName": "Mr Hong Hu",
-      "agentPhone": "0481700998",
-      "agentEmail": "admin@portalrealty.com.au",
-      "agencyName": "Portal Realty",
-      "agencyWebsite": null,
-      "dateListed": "2026-08-19 00:30:46",
-      "lastUpdated": "2026-09-10 07:59:20"
-    },
-    {
       "id": "21191627",
       "url": "https://www.theonsitemanager.com.au/listing/21191627",
       "title": "Beachside Holiday Management Rights with Flexibility to Reside Offsite",
@@ -4791,42 +5399,42 @@
       "lastUpdated": "2026-09-10 07:59:20"
     },
     {
-      "id": "21191012",
-      "url": "https://www.theonsitemanager.com.au/listing/21191012",
-      "title": "Morayfield Management Rights – Stable Income, Easy Operation & Outstanding Lifestyle",
+      "id": "21187562",
+      "url": "https://www.theonsitemanager.com.au/listing/21187562",
+      "title": "Stable Income - 87% from Salary | Net Profit $196,034 - ID 9235",
       "category": "Permanent",
       "status": "current",
-      "price": 1850045,
-      "priceView": "$1,850,045",
-      "netIncome": 200000,
-      "netIncomeBasis": "",
-      "unitValue": 0,
-      "multiplier": 9.25,
-      "bedrooms": 4,
-      "bathrooms": 2,
-      "carSpaces": 2,
-      "officeOnTitle": false,
+      "price": 1650000,
+      "priceView": "$1,650,000",
+      "netIncome": 196034,
+      "netIncomeBasis": "actual",
+      "unitValue": 840000,
+      "multiplier": 4.13,
+      "bedrooms": 3,
+      "bathrooms": 1,
+      "carSpaces": 1,
+      "officeOnTitle": true,
       "pets": "No",
-      "caretakingRemuneration": 80876,
-      "agreementTerm": "25",
-      "agreementRemaining": "23",
+      "caretakingRemuneration": 172071,
+      "agreementTerm": "10",
+      "agreementRemaining": "10",
       "agreementAge": "0",
-      "officeHours": "",
-      "lettingPool": 38,
+      "officeHours": "No set office hours",
+      "lettingPool": 0,
       "ownerOccupiers": 0,
       "lockUps": 0,
-      "outsideAgents": 13,
-      "unitsInComplex": 52,
-      "suburb": "Morayfield",
+      "outsideAgents": 0,
+      "unitsInComplex": 0,
+      "suburb": "Thorneside",
       "state": "QLD",
-      "postcode": "4506",
-      "agentName": "Keeya Zhang",
-      "agentPhone": "04 7773 6696",
-      "agentEmail": "admin@portalrealty.com.au",
-      "agencyName": "Portal Realty",
+      "postcode": "4158",
+      "agentName": "Bill He",
+      "agentPhone": "0439 288 960",
+      "agentEmail": "sales@mrsales.com.au",
+      "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
-      "dateListed": "2026-08-06 01:52:09",
-      "lastUpdated": "2026-09-10 07:59:20"
+      "dateListed": "2026-07-15 03:50:13",
+      "lastUpdated": "2026-10-12 05:27:10"
     },
     {
       "id": "21186906",
@@ -4978,82 +5586,6 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "2026-06-23 05:01:04",
-      "lastUpdated": "2026-09-10 07:59:20"
-    },
-    {
-      "id": "21184194",
-      "url": "https://www.theonsitemanager.com.au/listing/21184194",
-      "title": "PRICED TO SELL – Large Caretaker-Only Management Rights Business Deception Bay, QLD",
-      "category": "Permanent",
-      "status": "current",
-      "price": 3028000,
-      "priceView": "$3,028,000",
-      "netIncome": 380000,
-      "netIncomeBasis": "",
-      "unitValue": 900000,
-      "multiplier": 5.6,
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "carSpaces": 2,
-      "officeOnTitle": false,
-      "pets": "No",
-      "caretakingRemuneration": 380000,
-      "agreementTerm": "25",
-      "agreementRemaining": "21",
-      "agreementAge": "0",
-      "officeHours": "",
-      "lettingPool": 0,
-      "ownerOccupiers": 0,
-      "lockUps": 0,
-      "outsideAgents": 0,
-      "unitsInComplex": 215,
-      "suburb": "Deception Bay",
-      "state": "QLD",
-      "postcode": "4508",
-      "agentName": "Steve Gong",
-      "agentPhone": "0421552887",
-      "agentEmail": "admin@portalrealty.com.au",
-      "agencyName": "Portal Realty",
-      "agencyWebsite": null,
-      "dateListed": "2026-06-22 04:58:07",
-      "lastUpdated": "2026-09-10 07:59:20"
-    },
-    {
-      "id": "21183859",
-      "url": "https://www.theonsitemanager.com.au/listing/21183859",
-      "title": "Motivated Vendor – Easy-to-Manage Bracken Ridge Management Rights with Growth Potential",
-      "category": "Permanent",
-      "status": "current",
-      "price": 1519000,
-      "priceView": "$1,519,000",
-      "netIncome": 113000,
-      "netIncomeBasis": "",
-      "unitValue": 1100000,
-      "multiplier": 3.71,
-      "bedrooms": 0,
-      "bathrooms": 0,
-      "carSpaces": 0,
-      "officeOnTitle": false,
-      "pets": "No",
-      "caretakingRemuneration": 59699,
-      "agreementTerm": "25",
-      "agreementRemaining": "23",
-      "agreementAge": "0",
-      "officeHours": "",
-      "lettingPool": 17,
-      "ownerOccupiers": 22,
-      "lockUps": 0,
-      "outsideAgents": 0,
-      "unitsInComplex": 40,
-      "suburb": "Bracken Ridge",
-      "state": "QLD",
-      "postcode": "4017",
-      "agentName": "Keeya Zhang",
-      "agentPhone": "04 7773 6696",
-      "agentEmail": "admin@portalrealty.com.au",
-      "agencyName": "Portal Realty",
-      "agencyWebsite": null,
-      "dateListed": "2026-06-19 04:02:26",
       "lastUpdated": "2026-09-10 07:59:20"
     },
     {
@@ -5247,44 +5779,6 @@
       "lastUpdated": "2026-09-10 07:59:20"
     },
     {
-      "id": "21178994",
-      "url": "https://www.theonsitemanager.com.au/listing/21178994",
-      "title": "Luxury Coastal Management Rights - ID 9227",
-      "category": "Holiday",
-      "status": "current",
-      "price": 2700000,
-      "priceView": "$2,700,000",
-      "netIncome": 321639,
-      "netIncomeBasis": "actual",
-      "unitValue": 1550000,
-      "multiplier": 3.58,
-      "bedrooms": 4,
-      "bathrooms": 2,
-      "carSpaces": 2,
-      "officeOnTitle": true,
-      "pets": "No",
-      "caretakingRemuneration": 87318,
-      "agreementTerm": "25",
-      "agreementRemaining": "23",
-      "agreementAge": "0",
-      "officeHours": "No set office hours",
-      "lettingPool": 10,
-      "ownerOccupiers": 0,
-      "lockUps": 0,
-      "outsideAgents": 0,
-      "unitsInComplex": 0,
-      "suburb": "Caloundra",
-      "state": "QLD",
-      "postcode": "4551",
-      "agentName": "Zsofi Popplewell",
-      "agentPhone": "0459 693 160",
-      "agentEmail": "sales@mrsales.com.au",
-      "agencyName": "Management Rights Sales",
-      "agencyWebsite": null,
-      "dateListed": "2026-05-26 05:18:57",
-      "lastUpdated": "2026-09-10 07:59:20"
-    },
-    {
       "id": "21178619",
       "url": "https://www.theonsitemanager.com.au/listing/21178619",
       "title": "High Percentage Body Corporate Salary - ID 9229",
@@ -5399,6 +5893,44 @@
       "lastUpdated": "2026-09-10 07:59:20"
     },
     {
+      "id": "21178994",
+      "url": "https://www.theonsitemanager.com.au/listing/21178994",
+      "title": "Luxury Coastal Management Rights - ID 9227",
+      "category": "Holiday",
+      "status": "under contract",
+      "price": 2700000,
+      "priceView": "$2,700,000",
+      "netIncome": 321639,
+      "netIncomeBasis": "actual",
+      "unitValue": 1550000,
+      "multiplier": 3.58,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "carSpaces": 2,
+      "officeOnTitle": true,
+      "pets": "No",
+      "caretakingRemuneration": 87318,
+      "agreementTerm": "25",
+      "agreementRemaining": "23",
+      "agreementAge": "0",
+      "officeHours": "No set office hours",
+      "lettingPool": 10,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 0,
+      "suburb": "Caloundra",
+      "state": "QLD",
+      "postcode": "4551",
+      "agentName": "Zsofi Popplewell",
+      "agentPhone": "0459 693 160",
+      "agentEmail": "sales@mrsales.com.au",
+      "agencyName": "Management Rights Sales",
+      "agencyWebsite": null,
+      "dateListed": "2026-05-26 05:18:57",
+      "lastUpdated": "2026-10-12 03:19:29"
+    },
+    {
       "id": "21185760",
       "url": "https://www.theonsitemanager.com.au/listing/21185760",
       "title": "ONE OF THE BEST IN MAIN BEACH…  | Resort Brokers ID : MR009103",
@@ -5434,7 +5966,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "02 July 2026",
-      "lastUpdated": "2026-10-04 13:10:20"
+      "lastUpdated": "2026-10-11 13:10:30"
     },
     {
       "id": "21183759",
@@ -5472,7 +6004,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "18 June 2026",
-      "lastUpdated": "2026-10-06 13:10:39"
+      "lastUpdated": "2026-10-11 13:10:48"
     },
     {
       "id": "21200753",
@@ -5510,7 +6042,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "09 October 2026",
-      "lastUpdated": "2026-10-09 01:20:03"
+      "lastUpdated": "2026-10-12 03:20:14"
     },
     {
       "id": "21200538",
@@ -5548,7 +6080,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "07 October 2026",
-      "lastUpdated": "2026-10-08 13:10:23"
+      "lastUpdated": "2026-10-11 13:10:54"
     },
     {
       "id": "21199248",
@@ -5662,7 +6194,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "29 September 2026",
-      "lastUpdated": "2026-10-08 13:10:26"
+      "lastUpdated": "2026-10-11 13:11:06"
     },
     {
       "id": "21197962",
@@ -5700,7 +6232,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "28 September 2026",
-      "lastUpdated": "2026-10-06 13:10:52"
+      "lastUpdated": "2026-10-11 13:11:05"
     },
     {
       "id": "21197952",
@@ -5738,7 +6270,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "28 September 2026",
-      "lastUpdated": "2026-10-07 13:10:17"
+      "lastUpdated": "2026-10-11 13:10:42"
     },
     {
       "id": "21197155",
@@ -5776,7 +6308,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "21 September 2026",
-      "lastUpdated": "2026-10-04 13:10:47"
+      "lastUpdated": "2026-10-11 13:11:05"
     },
     {
       "id": "21196560",
@@ -5852,7 +6384,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "15 September 2026",
-      "lastUpdated": "2026-10-04 13:10:46"
+      "lastUpdated": "2026-10-11 13:11:02"
     },
     {
       "id": "21195394",
@@ -5890,7 +6422,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "07 September 2026",
-      "lastUpdated": "2026-10-04 13:10:45"
+      "lastUpdated": "2026-10-11 13:11:01"
     },
     {
       "id": "21194618",
@@ -5966,7 +6498,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "25 August 2026",
-      "lastUpdated": "2026-10-09 13:10:27"
+      "lastUpdated": "2026-10-11 13:10:58"
     },
     {
       "id": "21193618",
@@ -6004,7 +6536,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "25 August 2026",
-      "lastUpdated": "2026-10-08 13:10:23"
+      "lastUpdated": "2026-10-11 13:10:55"
     },
     {
       "id": "21193523",
@@ -6042,7 +6574,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "24 August 2026",
-      "lastUpdated": "2026-10-04 13:10:44"
+      "lastUpdated": "2026-10-11 13:11:00"
     },
     {
       "id": "21193166",
@@ -6080,7 +6612,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "20 August 2026",
-      "lastUpdated": "2026-10-04 13:10:42"
+      "lastUpdated": "2026-10-11 13:10:59"
     },
     {
       "id": "21192570",
@@ -6118,7 +6650,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "17 August 2026",
-      "lastUpdated": "2026-10-04 13:10:41"
+      "lastUpdated": "2026-10-11 13:10:56"
     },
     {
       "id": "21192120",
@@ -6156,7 +6688,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 August 2026",
-      "lastUpdated": "2026-10-04 13:10:39"
+      "lastUpdated": "2026-10-11 13:10:54"
     },
     {
       "id": "21191852",
@@ -6232,7 +6764,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "10 August 2026",
-      "lastUpdated": "2026-10-04 13:10:39"
+      "lastUpdated": "2026-10-11 13:10:55"
     },
     {
       "id": "21191592",
@@ -6460,7 +6992,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "29 July 2026",
-      "lastUpdated": "2026-10-07 13:10:25"
+      "lastUpdated": "2026-10-11 13:10:52"
     },
     {
       "id": "21189356",
@@ -6498,7 +7030,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "27 July 2026",
-      "lastUpdated": "2026-10-06 13:10:45"
+      "lastUpdated": "2026-10-11 13:10:50"
     },
     {
       "id": "21188856",
@@ -6574,7 +7106,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "22 July 2026",
-      "lastUpdated": "2026-10-06 13:10:47"
+      "lastUpdated": "2026-10-11 13:10:52"
     },
     {
       "id": "21188496",
@@ -6612,7 +7144,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "21 July 2026",
-      "lastUpdated": "2026-10-07 13:10:24"
+      "lastUpdated": "2026-10-11 13:10:50"
     },
     {
       "id": "21188411",
@@ -6764,7 +7296,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "15 July 2026",
-      "lastUpdated": "2026-10-06 13:10:47"
+      "lastUpdated": "2026-10-11 13:10:51"
     },
     {
       "id": "21187491",
@@ -6802,7 +7334,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "14 July 2026",
-      "lastUpdated": "2026-10-06 13:10:46"
+      "lastUpdated": "2026-10-11 13:10:50"
     },
     {
       "id": "21187201",
@@ -6840,7 +7372,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 July 2026",
-      "lastUpdated": "2026-10-04 13:10:36"
+      "lastUpdated": "2026-10-11 13:10:52"
     },
     {
       "id": "21186292",
@@ -6878,7 +7410,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "06 July 2026",
-      "lastUpdated": "2026-10-06 13:10:46"
+      "lastUpdated": "2026-10-11 13:10:51"
     },
     {
       "id": "21185255",
@@ -6916,7 +7448,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "29 June 2026",
-      "lastUpdated": "2026-10-04 13:10:29"
+      "lastUpdated": "2026-10-11 13:10:45"
     },
     {
       "id": "21185020",
@@ -6954,7 +7486,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "26 June 2026",
-      "lastUpdated": "2026-10-06 13:10:44"
+      "lastUpdated": "2026-10-11 13:10:50"
     },
     {
       "id": "21184694",
@@ -6992,7 +7524,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "24 June 2026",
-      "lastUpdated": "2026-10-06 13:10:43"
+      "lastUpdated": "2026-10-11 13:10:49"
     },
     {
       "id": "21184674",
@@ -7030,7 +7562,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "24 June 2026",
-      "lastUpdated": "2026-10-04 13:10:04"
+      "lastUpdated": "2026-10-11 13:10:13"
     },
     {
       "id": "21184279",
@@ -7068,7 +7600,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "22 June 2026",
-      "lastUpdated": "2026-10-06 13:10:42"
+      "lastUpdated": "2026-10-11 13:10:49"
     },
     {
       "id": "21184174",
@@ -7144,7 +7676,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "18 June 2026",
-      "lastUpdated": "2026-10-06 13:10:40"
+      "lastUpdated": "2026-10-11 13:10:48"
     },
     {
       "id": "21183649",
@@ -7182,7 +7714,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "18 June 2026",
-      "lastUpdated": "2026-10-06 13:10:40"
+      "lastUpdated": "2026-10-11 13:10:48"
     },
     {
       "id": "21183639",
@@ -7220,7 +7752,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "18 June 2026",
-      "lastUpdated": "2026-10-04 13:10:13"
+      "lastUpdated": "2026-10-11 13:10:21"
     },
     {
       "id": "21183173",
@@ -7258,7 +7790,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "15 June 2026",
-      "lastUpdated": "2026-10-06 13:10:40"
+      "lastUpdated": "2026-10-11 13:10:48"
     },
     {
       "id": "21182742",
@@ -7296,7 +7828,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 June 2026",
-      "lastUpdated": "2026-10-07 13:10:24"
+      "lastUpdated": "2026-10-11 13:10:48"
     },
     {
       "id": "21182202",
@@ -7334,7 +7866,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "09 June 2026",
-      "lastUpdated": "2026-10-06 13:10:37"
+      "lastUpdated": "2026-10-11 13:10:47"
     },
     {
       "id": "21181951",
@@ -7372,7 +7904,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "08 June 2026",
-      "lastUpdated": "2026-10-04 13:10:31"
+      "lastUpdated": "2026-10-11 13:10:46"
     },
     {
       "id": "21181715",
@@ -7410,7 +7942,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "07 June 2026",
-      "lastUpdated": "2026-10-07 13:10:21"
+      "lastUpdated": "2026-10-11 13:10:44"
     },
     {
       "id": "21181304",
@@ -7448,7 +7980,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "03 June 2026",
-      "lastUpdated": "2026-10-07 13:10:23"
+      "lastUpdated": "2026-10-11 13:10:46"
     },
     {
       "id": "21180114",
@@ -7524,7 +8056,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "27 May 2026",
-      "lastUpdated": "2026-10-08 13:10:22"
+      "lastUpdated": "2026-10-11 13:10:46"
     },
     {
       "id": "21179099",
@@ -7562,7 +8094,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "26 May 2026",
-      "lastUpdated": "2026-10-07 13:10:22"
+      "lastUpdated": "2026-10-11 13:10:45"
     },
     {
       "id": "21178864",
@@ -7600,7 +8132,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "25 May 2026",
-      "lastUpdated": "2026-10-06 13:10:34"
+      "lastUpdated": "2026-10-11 13:10:42"
     },
     {
       "id": "21178239",
@@ -7676,7 +8208,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "20 May 2026",
-      "lastUpdated": "2026-10-07 13:10:20"
+      "lastUpdated": "2026-10-11 13:10:43"
     },
     {
       "id": "21176498",
@@ -7714,7 +8246,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
-      "lastUpdated": "2026-10-08 13:10:18"
+      "lastUpdated": "2026-10-11 13:10:38"
     },
     {
       "id": "21176458",
@@ -7752,7 +8284,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
-      "lastUpdated": "2026-10-08 13:10:21"
+      "lastUpdated": "2026-10-11 13:10:41"
     },
     {
       "id": "21176448",
@@ -7790,7 +8322,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
-      "lastUpdated": "2026-10-08 13:10:21"
+      "lastUpdated": "2026-10-11 13:10:40"
     },
     {
       "id": "21176197",
@@ -7983,6 +8515,44 @@
       "lastUpdated": "2026-09-10 07:59:20"
     },
     {
+      "id": "21201118",
+      "url": "https://www.theonsitemanager.com.au/listing/21201118",
+      "title": "Exclusive - Net $148,586 with Multiple Income Upside Potential - ID 9240",
+      "category": "Permanent",
+      "status": "current",
+      "price": 1580000,
+      "priceView": "Spacious 4-Bedroom Manager’s Residence",
+      "netIncome": 148586,
+      "netIncomeBasis": "actual",
+      "unitValue": 950000,
+      "multiplier": 4.24,
+      "bedrooms": 4,
+      "bathrooms": 2,
+      "carSpaces": 2,
+      "officeOnTitle": true,
+      "pets": "yes",
+      "caretakingRemuneration": 107667,
+      "agreementTerm": "25",
+      "agreementRemaining": "22",
+      "agreementAge": "24",
+      "officeHours": "No set office hours.",
+      "lettingPool": 0,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 0,
+      "suburb": "Pacific Pines",
+      "state": "QLD",
+      "postcode": "4211",
+      "agentName": "Bill He",
+      "agentPhone": "0439 288 960",
+      "agentEmail": "sales@mrsales.com.au",
+      "agencyName": "Management Rights Sales",
+      "agencyWebsite": null,
+      "dateListed": "2026-10-12 03:02:05",
+      "lastUpdated": "2026-10-12 03:14:59"
+    },
+    {
       "id": "21199393",
       "url": "https://www.theonsitemanager.com.au/listing/21199393",
       "title": "Sunshine Coast Management Rights Opportunity | Net Circa 1.2 Million | Substantial Body Corporate Remuneration | Long-Term Agreement",
@@ -8018,7 +8588,7 @@
       "agencyName": "Hotel Resort Sales",
       "agencyWebsite": null,
       "dateListed": "06 October 2026",
-      "lastUpdated": "2026-10-06 23:32:26"
+      "lastUpdated": "2026-10-12 02:54:00"
     },
     {
       "id": "21196910",
@@ -8361,44 +8931,6 @@
       "agencyWebsite": null,
       "dateListed": "2026-05-20 10:22:07",
       "lastUpdated": "2026-09-10 07:59:20"
-    },
-    {
-      "id": "21196365",
-      "url": "https://www.theonsitemanager.com.au/listing/21196365",
-      "title": "Urgent Sale - Vendor Ill Health - ID 8595",
-      "category": "Permanent",
-      "status": "current",
-      "price": 715000,
-      "priceView": "Offers Above $715,000",
-      "netIncome": 115680,
-      "netIncomeBasis": "",
-      "unitValue": 0,
-      "multiplier": 6.18,
-      "bedrooms": 0,
-      "bathrooms": 0,
-      "carSpaces": 0,
-      "officeOnTitle": false,
-      "pets": "No",
-      "caretakingRemuneration": 58556,
-      "agreementTerm": "0",
-      "agreementRemaining": "0",
-      "agreementAge": "0",
-      "officeHours": "",
-      "lettingPool": 0,
-      "ownerOccupiers": 0,
-      "lockUps": 0,
-      "outsideAgents": 0,
-      "unitsInComplex": 11,
-      "suburb": "Yorkeys Knob",
-      "state": "QLD",
-      "postcode": "4878",
-      "agentName": "Antonio Curulli",
-      "agentPhone": "0488 030 853",
-      "agentEmail": "sales@mrsales.com.au",
-      "agencyName": "Management Rights Sales",
-      "agencyWebsite": null,
-      "dateListed": "2026-09-15 05:15:25",
-      "lastUpdated": "2026-09-24 04:14:21"
     },
     {
       "id": "21195464",
@@ -8819,6 +9351,44 @@
       "lastUpdated": "2026-09-10 07:59:20"
     },
     {
+      "id": "21196365",
+      "url": "https://www.theonsitemanager.com.au/listing/21196365",
+      "title": "Urgent Sale - Vendor Ill Health - ID 8595",
+      "category": "Permanent",
+      "status": "under contract",
+      "price": 715000,
+      "priceView": "Offers Above $715,000",
+      "netIncome": 115680,
+      "netIncomeBasis": "",
+      "unitValue": 0,
+      "multiplier": 6.18,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": false,
+      "pets": "No",
+      "caretakingRemuneration": 58556,
+      "agreementTerm": "0",
+      "agreementRemaining": "0",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 0,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 11,
+      "suburb": "Yorkeys Knob",
+      "state": "QLD",
+      "postcode": "4878",
+      "agentName": "Antonio Curulli",
+      "agentPhone": "0488 030 853",
+      "agentEmail": "sales@mrsales.com.au",
+      "agencyName": "Management Rights Sales",
+      "agencyWebsite": null,
+      "dateListed": "2026-09-15 05:15:25",
+      "lastUpdated": "2026-10-12 03:18:30"
+    },
+    {
       "id": "21196255",
       "url": "https://www.theonsitemanager.com.au/listing/21196255",
       "title": "Prime Mermaid Beach Management Rights – $196,615 Net Profit, 25-Year Agreements | Resort Brokers ID : MR009354",
@@ -8854,7 +9424,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "14 September 2026",
-      "lastUpdated": "2026-10-04 13:10:46"
+      "lastUpdated": "2026-10-11 13:11:02"
     },
     {
       "id": "21183388",
@@ -8892,7 +9462,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "16 June 2026",
-      "lastUpdated": "2026-10-08 13:10:16"
+      "lastUpdated": "2026-10-11 13:10:36"
     },
     {
       "id": "21178884",
@@ -8930,7 +9500,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "25 May 2026",
-      "lastUpdated": "2026-10-07 13:10:21"
+      "lastUpdated": "2026-10-11 13:10:44"
     },
     {
       "id": "21177942",
@@ -8968,7 +9538,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "19 May 2026",
-      "lastUpdated": "2026-10-06 13:10:33"
+      "lastUpdated": "2026-10-11 13:10:38"
     },
     {
       "id": "21175371",
@@ -9485,13 +10055,13 @@
       "agreementTerm": "10",
       "agreementRemaining": "10",
       "agreementAge": "0",
-      "officeHours": "09h00 - 15h00 weekdays excluding holidays",
+      "officeHours": "07h00 - 15h00 weekdays excluding holidays Contactable onsite",
       "lettingPool": 6,
       "ownerOccupiers": 43,
       "lockUps": 0,
       "outsideAgents": 7,
       "unitsInComplex": 58,
-      "suburb": "Biggera Waters",
+      "suburb": "Runaway Bay",
       "state": "QLD",
       "postcode": "4216",
       "agentName": "Barry Teren",
@@ -9500,7 +10070,7 @@
       "agencyName": "Management Rights Agents",
       "agencyWebsite": null,
       "dateListed": "28 October 2025",
-      "lastUpdated": "2026-10-03 22:25:02"
+      "lastUpdated": "2026-10-12 02:39:29"
     },
     {
       "id": "21130954",
@@ -9539,6 +10109,82 @@
       "agencyWebsite": null,
       "dateListed": "04 April 2026",
       "lastUpdated": "2026-10-02 04:19:59"
+    },
+    {
+      "id": "21173567",
+      "url": "https://www.theonsitemanager.com.au/listing/21173567",
+      "title": "Create Listing",
+      "category": "Retirement",
+      "status": "current",
+      "price": 1350000,
+      "priceView": "EOI",
+      "netIncome": 170000,
+      "netIncomeBasis": "actual",
+      "unitValue": 500000,
+      "multiplier": 5.0,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "carSpaces": 0,
+      "officeOnTitle": true,
+      "pets": "No",
+      "caretakingRemuneration": 170000,
+      "agreementTerm": "25",
+      "agreementRemaining": "20",
+      "agreementAge": "0",
+      "officeHours": "No",
+      "lettingPool": 0,
+      "ownerOccupiers": 74,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 74,
+      "suburb": "Wynnum West",
+      "state": "QLD",
+      "postcode": "4178",
+      "agentName": "Keeya Zhang",
+      "agentPhone": "04 7773 6696",
+      "agentEmail": "admin@portalrealty.com.au",
+      "agencyName": "Portal Realty",
+      "agencyWebsite": null,
+      "dateListed": "14 April 2026",
+      "lastUpdated": "2026-10-12 01:55:14"
+    },
+    {
+      "id": "21172063",
+      "url": "https://www.theonsitemanager.com.au/listing/21172063",
+      "title": "PRICED TO SELL-- MULTIPLE MANAGEMENT RIGHTS OPPORTUNITY | Deception Bay, QLD",
+      "category": "Permanent",
+      "status": "current",
+      "price": 3341460,
+      "priceView": "$3,341,460",
+      "netIncome": 460650,
+      "netIncomeBasis": "actual",
+      "unitValue": 900000,
+      "multiplier": 5.3,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "carSpaces": 2,
+      "officeOnTitle": true,
+      "pets": "No",
+      "caretakingRemuneration": 0,
+      "agreementTerm": "25",
+      "agreementRemaining": "21",
+      "agreementAge": "0",
+      "officeHours": "No",
+      "lettingPool": 40,
+      "ownerOccupiers": 143,
+      "lockUps": 175,
+      "outsideAgents": 32,
+      "unitsInComplex": 215,
+      "suburb": "Deception Bay",
+      "state": "QLD",
+      "postcode": "4508",
+      "agentName": "Steve Gong",
+      "agentPhone": "0421552887",
+      "agentEmail": "admin@portalrealty.com.au",
+      "agencyName": "Portal Realty",
+      "agencyWebsite": null,
+      "dateListed": "02 April 2026",
+      "lastUpdated": "2026-10-12 01:56:04"
     },
     {
       "id": "21172060",
@@ -9615,6 +10261,44 @@
       "agencyWebsite": null,
       "dateListed": "29 July 2025",
       "lastUpdated": "2026-10-01 00:47:07"
+    },
+    {
+      "id": "21129859",
+      "url": "https://www.theonsitemanager.com.au/listing/21129859",
+      "title": "Rare Opportunity: Profitable Management Rights Business in Brisbane",
+      "category": "Caretaking",
+      "status": "current",
+      "price": 1620000,
+      "priceView": "$1,620,000",
+      "netIncome": 133778,
+      "netIncomeBasis": "actual",
+      "unitValue": 1000000,
+      "multiplier": 4.63,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "carSpaces": 2,
+      "officeOnTitle": true,
+      "pets": "No",
+      "caretakingRemuneration": 133778,
+      "agreementTerm": "10",
+      "agreementRemaining": "10",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 0,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 91,
+      "suburb": "Carina",
+      "state": "QLD",
+      "postcode": "4152",
+      "agentName": "Keeza Zhang",
+      "agentPhone": "04 7773 6696",
+      "agentEmail": "admin@portalrealty.com.au",
+      "agencyName": "Portal Realty",
+      "agencyWebsite": null,
+      "dateListed": "02 April 2026",
+      "lastUpdated": "2026-10-12 01:58:43"
     },
     {
       "id": "21173930",
@@ -9994,7 +10678,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "14 January 2026",
-      "lastUpdated": "2026-10-07 13:10:16"
+      "lastUpdated": "2026-10-11 13:10:25"
     },
     {
       "id": "21166357",
@@ -10032,7 +10716,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 December 2025",
-      "lastUpdated": "2026-10-06 13:10:22"
+      "lastUpdated": "2026-10-11 13:10:11"
     },
     {
       "id": "21174044",
@@ -10336,7 +11020,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "17 April 2026",
-      "lastUpdated": "2026-10-04 13:10:23"
+      "lastUpdated": "2026-10-11 13:10:34"
     },
     {
       "id": "21171302",
@@ -11400,7 +12084,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "08 September 2025",
-      "lastUpdated": "2026-10-04 13:10:08"
+      "lastUpdated": "2026-10-11 13:10:17"
     },
     {
       "id": "21160415",
@@ -12277,82 +12961,6 @@
       "lastUpdated": "2026-09-10 07:59:20"
     },
     {
-      "id": "21173567",
-      "url": "https://www.theonsitemanager.com.au/listing/21173567",
-      "title": "Create Listing",
-      "category": "Retirement",
-      "status": "current",
-      "price": 1350000,
-      "priceView": "EOI",
-      "netIncome": 170000,
-      "netIncomeBasis": "actual",
-      "unitValue": 500000,
-      "multiplier": 5.0,
-      "bedrooms": 2,
-      "bathrooms": 1,
-      "carSpaces": 0,
-      "officeOnTitle": true,
-      "pets": "No",
-      "caretakingRemuneration": 170000,
-      "agreementTerm": "25",
-      "agreementRemaining": "20",
-      "agreementAge": "0",
-      "officeHours": "No",
-      "lettingPool": 0,
-      "ownerOccupiers": 74,
-      "lockUps": 0,
-      "outsideAgents": 0,
-      "unitsInComplex": 74,
-      "suburb": "Wynnum West",
-      "state": "QLD",
-      "postcode": "4178",
-      "agentName": "Keeya Zhang",
-      "agentPhone": "04 7773 6696",
-      "agentEmail": "admin@portalrealty.com.au",
-      "agencyName": "Portal Realty",
-      "agencyWebsite": null,
-      "dateListed": "14 April 2026",
-      "lastUpdated": "2026-09-10 07:59:20"
-    },
-    {
-      "id": "21172063",
-      "url": "https://www.theonsitemanager.com.au/listing/21172063",
-      "title": "PRICED TO SELL-- MULTIPLE MANAGEMENT RIGHTS OPPORTUNITY | Deception Bay, QLD",
-      "category": "Permanent",
-      "status": "current",
-      "price": 3341460,
-      "priceView": "$3,341,460",
-      "netIncome": 460650,
-      "netIncomeBasis": "actual",
-      "unitValue": 900000,
-      "multiplier": 5.3,
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "carSpaces": 2,
-      "officeOnTitle": true,
-      "pets": "No",
-      "caretakingRemuneration": 0,
-      "agreementTerm": "25",
-      "agreementRemaining": "21",
-      "agreementAge": "0",
-      "officeHours": "No",
-      "lettingPool": 40,
-      "ownerOccupiers": 143,
-      "lockUps": 175,
-      "outsideAgents": 32,
-      "unitsInComplex": 215,
-      "suburb": "Deception Bay",
-      "state": "QLD",
-      "postcode": "4508",
-      "agentName": "Steve Gong",
-      "agentPhone": "0421552887",
-      "agentEmail": "admin@portalrealty.com.au",
-      "agencyName": "Portal Realty",
-      "agencyWebsite": null,
-      "dateListed": "02 April 2026",
-      "lastUpdated": "2026-08-11 02:27:45"
-    },
-    {
       "id": "21169016",
       "url": "https://www.theonsitemanager.com.au/listing/21169016",
       "title": "Business Only Permanent Business in West End",
@@ -12807,44 +13415,6 @@
       "agencyWebsite": null,
       "dateListed": "09 March 2026",
       "lastUpdated": "2026-07-10 23:46:46"
-    },
-    {
-      "id": "21129859",
-      "url": "https://www.theonsitemanager.com.au/listing/21129859",
-      "title": "Rare Opportunity: Profitable Management Rights Business in Brisbane",
-      "category": "Caretaking",
-      "status": "current",
-      "price": 1620000,
-      "priceView": "$1,620,000",
-      "netIncome": 133778,
-      "netIncomeBasis": "actual",
-      "unitValue": 1000000,
-      "multiplier": 4.63,
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "carSpaces": 2,
-      "officeOnTitle": true,
-      "pets": "No",
-      "caretakingRemuneration": 133778,
-      "agreementTerm": "10",
-      "agreementRemaining": "10",
-      "agreementAge": "0",
-      "officeHours": "",
-      "lettingPool": 0,
-      "ownerOccupiers": 0,
-      "lockUps": 0,
-      "outsideAgents": 0,
-      "unitsInComplex": 91,
-      "suburb": "Carina",
-      "state": "QLD",
-      "postcode": "4152",
-      "agentName": "Keeza Zhang",
-      "agentPhone": "04 7773 6696",
-      "agentEmail": "admin@portalrealty.com.au",
-      "agencyName": "Portal Realty",
-      "agencyWebsite": null,
-      "dateListed": "02 April 2026",
-      "lastUpdated": "2026-09-09 01:54:36"
     },
     {
       "id": "21117965",
@@ -15390,7 +15960,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 April 2026",
-      "lastUpdated": "2026-10-08 13:10:13"
+      "lastUpdated": "2026-10-11 13:10:34"
     },
     {
       "id": "21172726",
@@ -15542,7 +16112,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "04 March 2026",
-      "lastUpdated": "2026-10-04 13:10:18"
+      "lastUpdated": "2026-10-11 13:10:27"
     },
     {
       "id": "21167467",
@@ -15580,7 +16150,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "23 April 2026",
-      "lastUpdated": "2026-10-07 13:10:14"
+      "lastUpdated": "2026-10-11 13:10:16"
     },
     {
       "id": "21157398",
@@ -15922,7 +16492,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 April 2026",
-      "lastUpdated": "2026-10-09 13:10:19"
+      "lastUpdated": "2026-10-11 13:10:29"
     },
     {
       "id": "21173419",
@@ -15960,7 +16530,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 April 2026",
-      "lastUpdated": "2026-10-08 13:10:16"
+      "lastUpdated": "2026-10-11 13:10:35"
     },
     {
       "id": "21173399",
@@ -15998,7 +16568,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 April 2026",
-      "lastUpdated": "2026-10-08 13:10:14"
+      "lastUpdated": "2026-10-11 13:10:35"
     },
     {
       "id": "21173256",
@@ -16226,7 +16796,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "26 March 2026",
-      "lastUpdated": "2026-10-09 13:10:24"
+      "lastUpdated": "2026-10-11 13:10:35"
     },
     {
       "id": "21172124",
@@ -16264,7 +16834,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "23 March 2026",
-      "lastUpdated": "2026-10-04 13:10:18"
+      "lastUpdated": "2026-10-11 13:10:27"
     },
     {
       "id": "21172105",
@@ -16302,7 +16872,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "17 April 2026",
-      "lastUpdated": "2026-10-04 13:10:21"
+      "lastUpdated": "2026-10-11 13:10:32"
     },
     {
       "id": "21171998",
@@ -16454,7 +17024,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "16 March 2026",
-      "lastUpdated": "2026-10-09 13:10:22"
+      "lastUpdated": "2026-10-11 13:10:33"
     },
     {
       "id": "21171304",
@@ -16682,7 +17252,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "23 February 2026",
-      "lastUpdated": "2026-10-04 13:10:20"
+      "lastUpdated": "2026-10-11 13:10:30"
     },
     {
       "id": "21170521",
@@ -16796,7 +17366,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "17 February 2026",
-      "lastUpdated": "2026-10-09 13:10:17"
+      "lastUpdated": "2026-10-11 13:10:28"
     },
     {
       "id": "21169867",
@@ -16872,7 +17442,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "09 February 2026",
-      "lastUpdated": "2026-10-06 13:10:26"
+      "lastUpdated": "2026-10-11 13:10:20"
     },
     {
       "id": "21169178",
@@ -17024,7 +17594,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "27 January 2026",
-      "lastUpdated": "2026-10-04 13:10:15"
+      "lastUpdated": "2026-10-11 13:10:23"
     },
     {
       "id": "21168310",
@@ -17214,7 +17784,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "08 January 2026",
-      "lastUpdated": "2026-10-04 13:10:07"
+      "lastUpdated": "2026-10-11 13:10:16"
     },
     {
       "id": "21167217",
@@ -17290,7 +17860,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "19 December 2025",
-      "lastUpdated": "2026-10-04 13:10:07"
+      "lastUpdated": "2026-10-11 13:10:15"
     },
     {
       "id": "21166122",
@@ -17442,7 +18012,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "12 November 2025",
-      "lastUpdated": "2026-10-07 13:10:16"
+      "lastUpdated": "2026-10-11 13:10:21"
     },
     {
       "id": "21164451",
@@ -17556,7 +18126,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "20 October 2025",
-      "lastUpdated": "2026-10-04 13:10:11"
+      "lastUpdated": "2026-10-11 13:10:19"
     },
     {
       "id": "21162334",
@@ -17860,7 +18430,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "11 July 2025",
-      "lastUpdated": "2026-09-28 02:35:04"
+      "lastUpdated": "2026-10-12 03:20:03"
     },
     {
       "id": "21156754",
@@ -19041,6 +19611,44 @@
       "lastUpdated": "2026-09-18 00:50:02"
     },
     {
+      "id": "21165992",
+      "url": "https://www.theonsitemanager.com.au/listing/21165992",
+      "title": "Rare Opportunity to own Management Rights on beautiful Fraser Island Circa 19% ROI",
+      "category": "Resort / Holiday",
+      "status": "current",
+      "price": 2500000,
+      "priceView": "$1.650M MR & $850k Unit = Total $2.5M",
+      "netIncome": 472773,
+      "netIncomeBasis": "actual",
+      "unitValue": 0,
+      "multiplier": 5.29,
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "carSpaces": 2,
+      "officeOnTitle": true,
+      "pets": "1",
+      "caretakingRemuneration": 189369,
+      "agreementTerm": "25",
+      "agreementRemaining": "25",
+      "agreementAge": "0",
+      "officeHours": "9-5 week days 9-12 sat sun",
+      "lettingPool": 18,
+      "ownerOccupiers": 1,
+      "lockUps": 1,
+      "outsideAgents": 6,
+      "unitsInComplex": 27,
+      "suburb": "Eurong",
+      "state": "QLD",
+      "postcode": "4581",
+      "agentName": "Geoff Hatchman",
+      "agentPhone": "0427 938 444",
+      "agentEmail": "fwc3xtxq@robot.zapier.com",
+      "agencyName": "Ras360",
+      "agencyWebsite": null,
+      "dateListed": "04 December 2025",
+      "lastUpdated": "2026-10-12 03:05:02"
+    },
+    {
       "id": "21161488",
       "url": "https://www.theonsitemanager.com.au/listing/21161488",
       "title": "Profitable Coastal Management Business in Growing Caloundra Region",
@@ -20178,7 +20786,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "17 March 2026",
-      "lastUpdated": "2026-10-04 13:10:18"
+      "lastUpdated": "2026-10-11 13:10:26"
     },
     {
       "id": "21171238",
@@ -20216,7 +20824,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "09 March 2026",
-      "lastUpdated": "2026-10-09 13:10:20"
+      "lastUpdated": "2026-10-11 13:10:31"
     },
     {
       "id": "21170924",
@@ -20292,7 +20900,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "26 February 2026",
-      "lastUpdated": "2026-10-04 13:10:20"
+      "lastUpdated": "2026-10-11 13:10:30"
     },
     {
       "id": "21170628",
@@ -20368,7 +20976,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "16 February 2026",
-      "lastUpdated": "2026-10-04 13:10:17"
+      "lastUpdated": "2026-10-11 13:10:25"
     },
     {
       "id": "21169266",
@@ -20482,7 +21090,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "28 January 2026",
-      "lastUpdated": "2026-10-04 13:10:15"
+      "lastUpdated": "2026-10-11 13:10:23"
     },
     {
       "id": "21168787",
@@ -20520,7 +21128,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "28 January 2026",
-      "lastUpdated": "2026-10-04 13:10:15"
+      "lastUpdated": "2026-10-11 13:10:23"
     },
     {
       "id": "21166356",
@@ -20558,7 +21166,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "12 December 2025",
-      "lastUpdated": "2026-10-06 13:10:27"
+      "lastUpdated": "2026-10-11 13:10:23"
     },
     {
       "id": "21165051",
@@ -20596,7 +21204,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "16 December 2025",
-      "lastUpdated": "2026-10-04 13:10:12"
+      "lastUpdated": "2026-10-11 13:10:20"
     },
     {
       "id": "21161987",
@@ -20634,7 +21242,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "26 September 2025",
-      "lastUpdated": "2026-10-04 13:10:10"
+      "lastUpdated": "2026-10-11 13:10:18"
     },
     {
       "id": "21161944",
@@ -20672,7 +21280,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "25 September 2025",
-      "lastUpdated": "2026-10-04 13:10:10"
+      "lastUpdated": "2026-10-11 13:10:18"
     },
     {
       "id": "21161419",
