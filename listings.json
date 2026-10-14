@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-13T09:17:45.450871",
-  "total": 572,
+  "scraped_at": "2026-10-14T07:25:38.076026",
+  "total": 570,
   "listings": [
     {
       "id": "21201008",
@@ -702,7 +702,7 @@
       "bathrooms": 3,
       "carSpaces": 2,
       "officeOnTitle": true,
-      "pets": "No",
+      "pets": "1",
       "caretakingRemuneration": 246500,
       "agreementTerm": "25",
       "agreementRemaining": "23",
@@ -722,7 +722,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "28 September 2026",
-      "lastUpdated": "2026-10-06 22:51:35"
+      "lastUpdated": "2026-10-14 06:21:32"
     },
     {
       "id": "21197807",
@@ -1196,7 +1196,7 @@
       "bathrooms": 0,
       "carSpaces": 0,
       "officeOnTitle": true,
-      "pets": "No",
+      "pets": "1",
       "caretakingRemuneration": 33000,
       "agreementTerm": "25",
       "agreementRemaining": "25",
@@ -1216,7 +1216,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "21 July 2026",
-      "lastUpdated": "2026-10-06 23:21:48"
+      "lastUpdated": "2026-10-14 00:50:04"
     },
     {
       "id": "21186302",
@@ -1749,44 +1749,6 @@
       "agencyWebsite": null,
       "dateListed": "11 August 2026",
       "lastUpdated": "2026-10-02 04:14:17"
-    },
-    {
-      "id": "21188401",
-      "url": "https://www.theonsitemanager.com.au/listing/21188401",
-      "title": "Kangaroo Point Complexes with BIG income!!",
-      "category": "Permanent",
-      "status": "current",
-      "price": 5680000,
-      "priceView": "$5.68M inclusive of $1.8M in real estate",
-      "netIncome": 705398,
-      "netIncomeBasis": "actual",
-      "unitValue": 0,
-      "multiplier": 8.05,
-      "bedrooms": 0,
-      "bathrooms": 0,
-      "carSpaces": 0,
-      "officeOnTitle": true,
-      "pets": "No",
-      "caretakingRemuneration": 551162,
-      "agreementTerm": "25",
-      "agreementRemaining": "0",
-      "agreementAge": "0",
-      "officeHours": "Nil",
-      "lettingPool": 108,
-      "ownerOccupiers": 61,
-      "lockUps": 0,
-      "outsideAgents": 70,
-      "unitsInComplex": 239,
-      "suburb": "Kangaroo Point",
-      "state": "QLD",
-      "postcode": "4169",
-      "agentName": "Robert Collins",
-      "agentPhone": "0404 678 792",
-      "agentEmail": "fwc3xtxq@robot.zapier.com",
-      "agencyName": "Ras360",
-      "agencyWebsite": null,
-      "dateListed": "21 July 2026",
-      "lastUpdated": "2026-10-06 23:22:55"
     },
     {
       "id": "21185475",
@@ -6007,6 +5969,44 @@
       "lastUpdated": "2026-10-11 13:10:48"
     },
     {
+      "id": "21201493",
+      "url": "https://www.theonsitemanager.com.au/listing/21201493",
+      "title": "OUTSTANDING OFF THE PLAN MIXED-USE MANAGEMENT RIGHTS - $2.4M+ PROJ. NET PROFIT | Resort Brokers ID : OTP009363",
+      "category": "Off The Plan",
+      "status": "current",
+      "price": 7361193,
+      "priceView": "$7,361,193",
+      "netIncome": 2453731,
+      "netIncomeBasis": "projected",
+      "unitValue": 0,
+      "multiplier": 3.0,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": false,
+      "pets": "0",
+      "caretakingRemuneration": 299200,
+      "agreementTerm": "25",
+      "agreementRemaining": "25",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 231,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 272,
+      "suburb": "Melbourne",
+      "state": "VIC",
+      "postcode": "3101",
+      "agentName": "Tim Crooks",
+      "agentPhone": "0422 208 450",
+      "agentEmail": "info@resortbrokers.com.au",
+      "agencyName": "Resort Brokers",
+      "agencyWebsite": null,
+      "dateListed": "13 October 2026",
+      "lastUpdated": "2026-10-13 13:11:12"
+    },
+    {
       "id": "21201298",
       "url": "https://www.theonsitemanager.com.au/listing/21201298",
       "title": "PRICE REDUCTION - 4-STAR SERVICED APART-HOTEL IN INNER-SYDNEY WITH C.$1M NET | Resort Brokers ID : MR009395",
@@ -6194,7 +6194,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "06 October 2026",
-      "lastUpdated": "2026-10-06 04:05:10"
+      "lastUpdated": "2026-10-14 05:50:03"
     },
     {
       "id": "21199238",
@@ -6232,7 +6232,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "06 October 2026",
-      "lastUpdated": "2026-10-06 04:05:03"
+      "lastUpdated": "2026-10-14 05:51:29"
     },
     {
       "id": "21198117",
@@ -6384,7 +6384,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "21 September 2026",
-      "lastUpdated": "2026-10-11 13:11:05"
+      "lastUpdated": "2026-10-13 13:11:14"
     },
     {
       "id": "21196560",
@@ -7147,44 +7147,6 @@
       "lastUpdated": "2026-09-10 07:59:20"
     },
     {
-      "id": "21188696",
-      "url": "https://www.theonsitemanager.com.au/listing/21188696",
-      "title": "Spring Hill Mixed-Use Short-Term / Holiday MLR - High Net $466K! | Resort Brokers ID : MR009283",
-      "category": "Permanent",
-      "status": "current",
-      "price": 3350000,
-      "priceView": "$3,350,000",
-      "netIncome": 466828,
-      "netIncomeBasis": "actual",
-      "unitValue": 870000,
-      "multiplier": 5.31,
-      "bedrooms": 2,
-      "bathrooms": 2,
-      "carSpaces": 1,
-      "officeOnTitle": false,
-      "pets": "1",
-      "caretakingRemuneration": 137856,
-      "agreementTerm": "25",
-      "agreementRemaining": "16",
-      "agreementAge": "0",
-      "officeHours": "No fixed office hours",
-      "lettingPool": 18,
-      "ownerOccupiers": 22,
-      "lockUps": 0,
-      "outsideAgents": 11,
-      "unitsInComplex": 54,
-      "suburb": "Spring Hill",
-      "state": "QLD",
-      "postcode": "4000",
-      "agentName": "Jessie Shi",
-      "agentPhone": "0422 935 428",
-      "agentEmail": "info@resortbrokers.com.au",
-      "agencyName": "Resort Brokers",
-      "agencyWebsite": null,
-      "dateListed": "22 July 2026",
-      "lastUpdated": "2026-10-11 13:10:52"
-    },
-    {
       "id": "21188496",
       "url": "https://www.theonsitemanager.com.au/listing/21188496",
       "title": "Substantial Growth Platform – 181 Homes, $350K Salary & 50+ Outside Agents | Resort Brokers ID : MR009269",
@@ -7524,7 +7486,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "29 June 2026",
-      "lastUpdated": "2026-10-11 13:10:45"
+      "lastUpdated": "2026-10-13 13:11:11"
     },
     {
       "id": "21185020",
@@ -7562,7 +7524,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "26 June 2026",
-      "lastUpdated": "2026-10-11 13:10:50"
+      "lastUpdated": "2026-10-13 13:11:11"
     },
     {
       "id": "21184694",
@@ -8743,44 +8705,6 @@
       "lastUpdated": "2026-09-10 07:59:20"
     },
     {
-      "id": "21175361",
-      "url": "https://www.theonsitemanager.com.au/listing/21175361",
-      "title": "Business Only! No Need Live onsite No Office Hours No Facilities| 73% of the income is derived from strong remuneration |Add-On Opportunity!|",
-      "category": "Permanent",
-      "status": "under contract",
-      "price": 383960,
-      "priceView": "$383,960",
-      "netIncome": 69811,
-      "netIncomeBasis": "actual",
-      "unitValue": 0,
-      "multiplier": 5.5,
-      "bedrooms": 0,
-      "bathrooms": 0,
-      "carSpaces": 1,
-      "officeOnTitle": true,
-      "pets": "No",
-      "caretakingRemuneration": 50981,
-      "agreementTerm": "25",
-      "agreementRemaining": "21",
-      "agreementAge": "15",
-      "officeHours": "NO",
-      "lettingPool": 10,
-      "ownerOccupiers": 22,
-      "lockUps": 0,
-      "outsideAgents": 5,
-      "unitsInComplex": 37,
-      "suburb": "Logan Central",
-      "state": "QLD",
-      "postcode": "4114",
-      "agentName": "Bill  LI",
-      "agentPhone": "0420485088",
-      "agentEmail": "sales@CedarRealty.com.au",
-      "agencyName": "Cedar Realty",
-      "agencyWebsite": null,
-      "dateListed": "2026-05-05 13:24:41",
-      "lastUpdated": "2026-09-10 07:59:20"
-    },
-    {
       "id": "21194028",
       "url": "https://www.theonsitemanager.com.au/listing/21194028",
       "title": "Lifestyle and Income Without the Live Onsite Requirement",
@@ -9427,6 +9351,44 @@
       "lastUpdated": "2026-09-10 07:59:20"
     },
     {
+      "id": "21175326",
+      "url": "https://www.theonsitemanager.com.au/listing/21175326",
+      "title": "[Near CBD | no onsite residence and no fixed office hours | salary accounts for 80% of total net income $ $333000/year",
+      "category": "Permanent",
+      "status": "current",
+      "price": 1790000,
+      "priceView": "$1,790,000",
+      "netIncome": 333000,
+      "netIncomeBasis": "actual",
+      "unitValue": 150000,
+      "multiplier": 4.92,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": true,
+      "pets": "No",
+      "caretakingRemuneration": 267000,
+      "agreementTerm": "25",
+      "agreementRemaining": "15",
+      "agreementAge": "15",
+      "officeHours": "NO",
+      "lettingPool": 0,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 0,
+      "suburb": "Moorooka",
+      "state": "QLD",
+      "postcode": "4104",
+      "agentName": "Bill LI",
+      "agentPhone": "0420485088",
+      "agentEmail": "sales@CedarRealty.com.au",
+      "agencyName": "Cedar Realty",
+      "agencyWebsite": null,
+      "dateListed": "2026-05-05 09:36:02",
+      "lastUpdated": "2026-10-13 14:13:58"
+    },
+    {
       "id": "21196365",
       "url": "https://www.theonsitemanager.com.au/listing/21196365",
       "title": "Urgent Sale - Vendor Ill Health - ID 8595",
@@ -9538,7 +9500,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "16 June 2026",
-      "lastUpdated": "2026-10-11 13:10:36"
+      "lastUpdated": "2026-10-13 13:11:10"
     },
     {
       "id": "21178884",
@@ -9690,44 +9652,6 @@
       "agencyName": "Cedar Realty",
       "agencyWebsite": null,
       "dateListed": "2026-05-05 12:44:07",
-      "lastUpdated": "2026-09-10 07:59:20"
-    },
-    {
-      "id": "21175326",
-      "url": "https://www.theonsitemanager.com.au/listing/21175326",
-      "title": "[Near CBD | no onsite residence and no fixed office hours | salary accounts for 80% of total net income $ $333000/year",
-      "category": "Permanent",
-      "status": "current",
-      "price": 1790000,
-      "priceView": "$1,790,000",
-      "netIncome": 333000,
-      "netIncomeBasis": "actual",
-      "unitValue": 150000,
-      "multiplier": 4.92,
-      "bedrooms": 0,
-      "bathrooms": 0,
-      "carSpaces": 0,
-      "officeOnTitle": true,
-      "pets": "No",
-      "caretakingRemuneration": 267000,
-      "agreementTerm": "25",
-      "agreementRemaining": "15",
-      "agreementAge": "15",
-      "officeHours": "NO",
-      "lettingPool": 0,
-      "ownerOccupiers": 0,
-      "lockUps": 0,
-      "outsideAgents": 0,
-      "unitsInComplex": 0,
-      "suburb": "Yeronga",
-      "state": "QLD",
-      "postcode": "4104",
-      "agentName": "Bill LI",
-      "agentPhone": "0420485088",
-      "agentEmail": "sales@CedarRealty.com.au",
-      "agencyName": "Cedar Realty",
-      "agencyWebsite": null,
-      "dateListed": "2026-05-05 09:36:02",
       "lastUpdated": "2026-09-10 07:59:20"
     },
     {
@@ -12160,7 +12084,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "08 September 2025",
-      "lastUpdated": "2026-10-11 13:10:17"
+      "lastUpdated": "2026-10-13 13:11:01"
     },
     {
       "id": "21160415",
@@ -14680,8 +14604,8 @@
       "priceView": "$1,615,000",
       "netIncome": 285000,
       "netIncomeBasis": "actual",
-      "unitValue": 525000,
-      "multiplier": 3.82,
+      "unitValue": 625000,
+      "multiplier": 3.47,
       "bedrooms": 2,
       "bathrooms": 2,
       "carSpaces": 0,
@@ -14706,7 +14630,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "09 April 2026",
-      "lastUpdated": "2026-08-30 23:56:42"
+      "lastUpdated": "2026-10-14 04:09:25"
     },
     {
       "id": "21172945",
@@ -15512,12 +15436,12 @@
       "title": "Great body corporate salary",
       "category": "Permanent",
       "status": "current",
-      "price": 1600000,
-      "priceView": "$1,600,000",
-      "netIncome": 141707,
+      "price": 1550000,
+      "priceView": "$1,550,000",
+      "netIncome": 120317,
       "netIncomeBasis": "actual",
       "unitValue": 1100000,
-      "multiplier": 3.53,
+      "multiplier": 3.74,
       "bedrooms": 4,
       "bathrooms": 2,
       "carSpaces": 4,
@@ -15542,7 +15466,7 @@
       "agencyName": "Surfers Palms Plaza",
       "agencyWebsite": null,
       "dateListed": "30 March 2026",
-      "lastUpdated": "2026-09-01 02:17:11"
+      "lastUpdated": "2026-10-14 03:32:44"
     },
     {
       "id": "21146171",
@@ -15657,6 +15581,44 @@
       "agencyWebsite": null,
       "dateListed": "02 January 2026",
       "lastUpdated": "2026-09-09 01:55:05"
+    },
+    {
+      "id": "21117965",
+      "url": "https://www.theonsitemanager.com.au/listing/21117965",
+      "title": "Price Slashed - Ill Health Forces Sale - ID 9097",
+      "category": "Resort / Holiday",
+      "status": "current",
+      "price": 860000,
+      "priceView": "$860,000",
+      "netIncome": 131694,
+      "netIncomeBasis": "actual",
+      "unitValue": 575000,
+      "multiplier": 2.16,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "carSpaces": 0,
+      "officeOnTitle": true,
+      "pets": "No",
+      "caretakingRemuneration": 12000,
+      "agreementTerm": "10",
+      "agreementRemaining": "9",
+      "agreementAge": "23",
+      "officeHours": "As per agreements",
+      "lettingPool": 14,
+      "ownerOccupiers": 1,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 15,
+      "suburb": "Metung",
+      "state": "VIC",
+      "postcode": "3904",
+      "agentName": "Michael Philpott",
+      "agentPhone": "0433 137 927",
+      "agentEmail": "sales@mrsales.com.au",
+      "agencyName": "Management Rights Sales",
+      "agencyWebsite": null,
+      "dateListed": "23 February 2026",
+      "lastUpdated": "2026-10-13 23:47:43"
     },
     {
       "id": "21107956",
@@ -16188,7 +16150,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "23 April 2026",
-      "lastUpdated": "2026-10-11 13:10:16"
+      "lastUpdated": "2026-10-13 13:10:05"
     },
     {
       "id": "21157398",
@@ -17480,7 +17442,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "09 February 2026",
-      "lastUpdated": "2026-10-11 13:10:20"
+      "lastUpdated": "2026-10-13 13:11:05"
     },
     {
       "id": "21169178",
@@ -17594,7 +17556,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "28 January 2026",
-      "lastUpdated": "2026-09-04 00:30:03"
+      "lastUpdated": "2026-10-14 00:05:03"
     },
     {
       "id": "21168788",
@@ -17632,7 +17594,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "27 January 2026",
-      "lastUpdated": "2026-10-11 13:10:23"
+      "lastUpdated": "2026-10-13 13:11:07"
     },
     {
       "id": "21168310",
@@ -18050,7 +18012,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "12 November 2025",
-      "lastUpdated": "2026-10-11 13:10:21"
+      "lastUpdated": "2026-10-13 13:11:06"
     },
     {
       "id": "21164451",
@@ -18164,7 +18126,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "20 October 2025",
-      "lastUpdated": "2026-10-11 13:10:19"
+      "lastUpdated": "2026-10-13 13:11:04"
     },
     {
       "id": "21162334",
@@ -19003,44 +18965,6 @@
       "lastUpdated": "2026-04-10 04:13:39"
     },
     {
-      "id": "21140931",
-      "url": "https://www.theonsitemanager.com.au/listing/21140931",
-      "title": "Spacious Townhouse Living with a Profitable Management Opportunity in a Prime Location",
-      "category": "Permanent",
-      "status": "under offer",
-      "price": 1040000,
-      "priceView": "$295K MR & $745K Unit = Total $1.04M",
-      "netIncome": 71578,
-      "netIncomeBasis": "actual",
-      "unitValue": 0,
-      "multiplier": 14.53,
-      "bedrooms": 4,
-      "bathrooms": 1,
-      "carSpaces": 2,
-      "officeOnTitle": true,
-      "pets": "1",
-      "caretakingRemuneration": 55753,
-      "agreementTerm": "25",
-      "agreementRemaining": "24",
-      "agreementAge": "0",
-      "officeHours": "Nil",
-      "lettingPool": 13,
-      "ownerOccupiers": 13,
-      "lockUps": 2,
-      "outsideAgents": 8,
-      "unitsInComplex": 34,
-      "suburb": "Springwood",
-      "state": "QLD",
-      "postcode": "4127",
-      "agentName": "Robert Collins",
-      "agentPhone": "0404 678 792",
-      "agentEmail": "fwc3xtxq@robot.zapier.com",
-      "agencyName": "Ras360",
-      "agencyWebsite": null,
-      "dateListed": "07 April 2025",
-      "lastUpdated": "2026-08-03 23:00:05"
-    },
-    {
       "id": "21167391",
       "url": "https://www.theonsitemanager.com.au/listing/21167391",
       "title": "Business Only! No Need Live onsite No Office Hours | Add-On Opportunity!",
@@ -19646,7 +19570,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "26 February 2026",
-      "lastUpdated": "2026-09-18 00:50:02"
+      "lastUpdated": "2026-10-14 06:20:03"
     },
     {
       "id": "21165992",
@@ -21128,7 +21052,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "28 January 2026",
-      "lastUpdated": "2026-10-11 13:10:23"
+      "lastUpdated": "2026-10-13 13:11:07"
     },
     {
       "id": "21168787",
@@ -21166,7 +21090,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "28 January 2026",
-      "lastUpdated": "2026-10-11 13:10:23"
+      "lastUpdated": "2026-10-13 13:11:08"
     },
     {
       "id": "21166356",
@@ -21204,7 +21128,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "12 December 2025",
-      "lastUpdated": "2026-10-11 13:10:23"
+      "lastUpdated": "2026-10-13 13:11:07"
     },
     {
       "id": "21165051",
@@ -21242,7 +21166,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "16 December 2025",
-      "lastUpdated": "2026-10-12 13:10:04"
+      "lastUpdated": "2026-10-13 13:11:06"
     },
     {
       "id": "21161987",
