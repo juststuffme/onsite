@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-14T07:25:38.076026",
-  "total": 570,
+  "scraped_at": "2026-10-15T07:19:54.831752",
+  "total": 571,
   "listings": [
     {
       "id": "21201008",
@@ -38,7 +38,7 @@
       "agencyName": "Crownsbridge Properties",
       "agencyWebsite": null,
       "dateListed": "2026-10-11 11:58:54",
-      "lastUpdated": "2026-10-11 14:06:27"
+      "lastUpdated": "2026-10-14 08:05:42"
     },
     {
       "id": "21201003",
@@ -76,7 +76,7 @@
       "agencyName": "Crownsbridge Properties",
       "agencyWebsite": null,
       "dateListed": "2026-10-11 11:58:49",
-      "lastUpdated": "2026-10-11 14:06:23"
+      "lastUpdated": "2026-10-14 08:05:45"
     },
     {
       "id": "21200998",
@@ -114,7 +114,7 @@
       "agencyName": "Crownsbridge Properties",
       "agencyWebsite": null,
       "dateListed": "2026-10-11 11:58:45",
-      "lastUpdated": "2026-10-11 14:06:21"
+      "lastUpdated": "2026-10-14 08:05:48"
     },
     {
       "id": "21200993",
@@ -152,7 +152,7 @@
       "agencyName": "Crownsbridge Properties",
       "agencyWebsite": null,
       "dateListed": "2026-10-11 11:58:40",
-      "lastUpdated": "2026-10-11 14:06:18"
+      "lastUpdated": "2026-10-14 08:05:51"
     },
     {
       "id": "21200988",
@@ -190,7 +190,7 @@
       "agencyName": "Crownsbridge Properties",
       "agencyWebsite": null,
       "dateListed": "2026-10-11 11:58:36",
-      "lastUpdated": "2026-10-11 14:06:14"
+      "lastUpdated": "2026-10-14 08:05:53"
     },
     {
       "id": "21200983",
@@ -228,7 +228,7 @@
       "agencyName": "Crownsbridge Properties",
       "agencyWebsite": null,
       "dateListed": "2026-10-11 11:58:31",
-      "lastUpdated": "2026-10-11 14:06:11"
+      "lastUpdated": "2026-10-14 08:05:56"
     },
     {
       "id": "21200978",
@@ -266,7 +266,7 @@
       "agencyName": "Crownsbridge Properties",
       "agencyWebsite": null,
       "dateListed": "2026-10-11 11:58:26",
-      "lastUpdated": "2026-10-11 14:06:08"
+      "lastUpdated": "2026-10-14 08:05:59"
     },
     {
       "id": "21200973",
@@ -304,7 +304,7 @@
       "agencyName": "Crownsbridge Properties",
       "agencyWebsite": null,
       "dateListed": "2026-10-11 11:58:21",
-      "lastUpdated": "2026-10-11 14:06:05"
+      "lastUpdated": "2026-10-14 08:06:07"
     },
     {
       "id": "21200968",
@@ -342,7 +342,7 @@
       "agencyName": "Crownsbridge Properties",
       "agencyWebsite": null,
       "dateListed": "2026-10-11 11:58:16",
-      "lastUpdated": "2026-10-11 14:06:02"
+      "lastUpdated": "2026-10-14 08:06:10"
     },
     {
       "id": "21200963",
@@ -380,7 +380,7 @@
       "agencyName": "Crownsbridge Properties",
       "agencyWebsite": null,
       "dateListed": "2026-10-11 11:58:11",
-      "lastUpdated": "2026-10-11 14:05:59"
+      "lastUpdated": "2026-10-14 08:06:13"
     },
     {
       "id": "21200958",
@@ -418,7 +418,7 @@
       "agencyName": "Crownsbridge Properties",
       "agencyWebsite": null,
       "dateListed": "2026-10-11 11:58:06",
-      "lastUpdated": "2026-10-11 14:05:56"
+      "lastUpdated": "2026-10-14 08:06:16"
     },
     {
       "id": "21200953",
@@ -456,7 +456,7 @@
       "agencyName": "Crownsbridge Properties",
       "agencyWebsite": null,
       "dateListed": "2026-10-11 11:58:02",
-      "lastUpdated": "2026-10-11 14:05:53"
+      "lastUpdated": "2026-10-14 08:06:18"
     },
     {
       "id": "21200948",
@@ -494,7 +494,7 @@
       "agencyName": "Crownsbridge Properties",
       "agencyWebsite": null,
       "dateListed": "2026-10-11 11:57:53",
-      "lastUpdated": "2026-10-11 14:05:50"
+      "lastUpdated": "2026-10-14 08:06:21"
     },
     {
       "id": "21197922",
@@ -609,44 +609,6 @@
       "agencyWebsite": null,
       "dateListed": "07 October 2026",
       "lastUpdated": "2026-10-08 01:50:19"
-    },
-    {
-      "id": "21198738",
-      "url": "https://www.theonsitemanager.com.au/listing/21198738",
-      "title": "One Combined Business, Two Premium Locations",
-      "category": "Resort",
-      "status": "current",
-      "price": 4725000,
-      "priceView": "$4,725,000",
-      "netIncome": 649436,
-      "netIncomeBasis": "actual",
-      "unitValue": 1150000,
-      "multiplier": 5.5,
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "carSpaces": 1,
-      "officeOnTitle": true,
-      "pets": "yes",
-      "caretakingRemuneration": 133370,
-      "agreementTerm": "25",
-      "agreementRemaining": "20",
-      "agreementAge": "26",
-      "officeHours": "",
-      "lettingPool": 40,
-      "ownerOccupiers": 4,
-      "lockUps": 11,
-      "outsideAgents": 1,
-      "unitsInComplex": 56,
-      "suburb": "Caloundra",
-      "state": "QLD",
-      "postcode": "4551",
-      "agentName": "Matt Campbell",
-      "agentPhone": "0410343219",
-      "agentEmail": "matt@managementrights.com",
-      "agencyName": "Australian Resort Management Sales",
-      "agencyWebsite": null,
-      "dateListed": "2026-10-03 03:20:59",
-      "lastUpdated": "2026-10-03 03:33:56"
     },
     {
       "id": "21197942",
@@ -1178,7 +1140,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "29 July 2026",
-      "lastUpdated": "2026-10-11 13:10:54"
+      "lastUpdated": "2026-10-14 13:10:47"
     },
     {
       "id": "21188421",
@@ -3154,7 +3116,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "29 June 2026",
-      "lastUpdated": "2026-10-11 13:10:49"
+      "lastUpdated": "2026-10-14 13:10:47"
     },
     {
       "id": "21184794",
@@ -3724,7 +3686,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
-      "lastUpdated": "2026-10-11 13:10:12"
+      "lastUpdated": "2026-10-14 13:10:44"
     },
     {
       "id": "21175206",
@@ -5969,6 +5931,82 @@
       "lastUpdated": "2026-10-11 13:10:48"
     },
     {
+      "id": "21202173",
+      "url": "https://www.theonsitemanager.com.au/listing/21202173",
+      "title": "The Gold Coast's Next Trophy Management Rights Acquisition. \nMARIS | SOUTHPORT, GOLD COAST",
+      "category": "Permanent",
+      "status": "current",
+      "price": 6000000,
+      "priceView": "Expression of Interest",
+      "netIncome": 950000,
+      "netIncomeBasis": "actual",
+      "unitValue": 0,
+      "multiplier": 6.32,
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "carSpaces": 1,
+      "officeOnTitle": true,
+      "pets": "1",
+      "caretakingRemuneration": 340800,
+      "agreementTerm": "25",
+      "agreementRemaining": "25",
+      "agreementAge": "0",
+      "officeHours": "Contactable / Available during the hours of 9am - 5pm Mon - Fri",
+      "lettingPool": 150,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 192,
+      "suburb": "Southport",
+      "state": "QLD",
+      "postcode": "4215",
+      "agentName": "Syd Douglas",
+      "agentPhone": "0427973537",
+      "agentEmail": "fwc3xtxq@robot.zapier.com",
+      "agencyName": "Ras360",
+      "agencyWebsite": null,
+      "dateListed": "15 October 2026",
+      "lastUpdated": "2026-10-15 01:05:03"
+    },
+    {
+      "id": "21202093",
+      "url": "https://www.theonsitemanager.com.au/listing/21202093",
+      "title": "PARADISE ON THE BEACH - THE NAME SAYS IT ALL! PRIME BEACHFRONT MLR in PALM COVE | Resort Brokers ID : MR009382",
+      "category": "Permanent",
+      "status": "current",
+      "price": 5000000,
+      "priceView": "Expressions Of Interest",
+      "netIncome": 0,
+      "netIncomeBasis": "actual",
+      "unitValue": 0,
+      "multiplier": null,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": false,
+      "pets": "No",
+      "caretakingRemuneration": 0,
+      "agreementTerm": "25",
+      "agreementRemaining": "6",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 0,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 0,
+      "suburb": "Palm Cove",
+      "state": "QLD",
+      "postcode": "4879",
+      "agentName": "Leah Bursztynowicz",
+      "agentPhone": "0468 918 250",
+      "agentEmail": "info@resortbrokers.com.au",
+      "agencyName": "Resort Brokers",
+      "agencyWebsite": null,
+      "dateListed": "14 October 2026",
+      "lastUpdated": "2026-10-15 00:25:44"
+    },
+    {
       "id": "21201493",
       "url": "https://www.theonsitemanager.com.au/listing/21201493",
       "title": "OUTSTANDING OFF THE PLAN MIXED-USE MANAGEMENT RIGHTS - $2.4M+ PROJ. NET PROFIT | Resort Brokers ID : OTP009363",
@@ -6004,7 +6042,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 October 2026",
-      "lastUpdated": "2026-10-13 13:11:12"
+      "lastUpdated": "2026-10-14 13:10:48"
     },
     {
       "id": "21201298",
@@ -7600,7 +7638,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "24 June 2026",
-      "lastUpdated": "2026-10-11 13:10:13"
+      "lastUpdated": "2026-10-14 13:10:44"
     },
     {
       "id": "21184279",
@@ -9538,7 +9576,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "25 May 2026",
-      "lastUpdated": "2026-10-11 13:10:44"
+      "lastUpdated": "2026-10-14 13:10:46"
     },
     {
       "id": "21177942",
@@ -9576,7 +9614,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "19 May 2026",
-      "lastUpdated": "2026-10-11 13:10:38"
+      "lastUpdated": "2026-10-14 13:10:46"
     },
     {
       "id": "21175371",
@@ -9820,9 +9858,9 @@
       "multiplier": 12.65,
       "bedrooms": 2,
       "bathrooms": 2,
-      "carSpaces": 2,
+      "carSpaces": 1,
       "officeOnTitle": true,
-      "pets": "No",
+      "pets": "1",
       "caretakingRemuneration": 132603,
       "agreementTerm": "10",
       "agreementRemaining": "10",
@@ -9842,7 +9880,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "23 March 2026",
-      "lastUpdated": "2026-10-07 00:04:02"
+      "lastUpdated": "2026-10-14 09:35:03"
     },
     {
       "id": "21171293",
@@ -16150,7 +16188,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "23 April 2026",
-      "lastUpdated": "2026-10-13 13:10:05"
+      "lastUpdated": "2026-10-14 13:10:45"
     },
     {
       "id": "21157398",
@@ -21166,7 +21204,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "16 December 2025",
-      "lastUpdated": "2026-10-13 13:11:06"
+      "lastUpdated": "2026-10-14 13:10:45"
     },
     {
       "id": "21161987",
