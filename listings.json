@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-22T07:29:15.625720",
-  "total": 572,
+  "scraped_at": "2026-10-23T07:19:58.633143",
+  "total": 575,
   "listings": [
     {
       "id": "21201008",
@@ -1449,12 +1449,12 @@
     {
       "id": "21203188",
       "url": "https://www.theonsitemanager.com.au/listing/21203188",
-      "title": "No Requirement To Live Onsite - Up to $320,000 Income - ID 9241",
+      "title": "No Requirement To Live Onsite - Up to $340,000 Income - ID 9241",
       "category": "Permanent",
       "status": "current",
-      "price": 2400000,
-      "priceView": "$2,400,000",
-      "netIncome": 270000,
+      "price": 2536440,
+      "priceView": "$2,536,440",
+      "netIncome": 296253,
       "netIncomeBasis": "actual",
       "unitValue": 990000,
       "multiplier": 5.22,
@@ -1482,7 +1482,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "2026-10-22 05:30:57",
-      "lastUpdated": "2026-10-22 05:36:48"
+      "lastUpdated": "2026-10-22 23:27:34"
     },
     {
       "id": "21195900",
@@ -1786,7 +1786,7 @@
       "agencyName": "Management Rights Agents",
       "agencyWebsite": null,
       "dateListed": "2026-10-22 00:59:22",
-      "lastUpdated": "2026-10-22 03:34:42"
+      "lastUpdated": "2026-10-22 22:05:49"
     },
     {
       "id": "21192620",
@@ -5710,16 +5710,16 @@
       "status": "current",
       "price": 2450000,
       "priceView": "$2,450,000",
-      "netIncome": 499000,
+      "netIncome": 488407,
       "netIncomeBasis": "actual",
       "unitValue": 650000,
-      "multiplier": 3.61,
+      "multiplier": 3.69,
       "bedrooms": 2,
       "bathrooms": 2,
       "carSpaces": 1,
       "officeOnTitle": true,
       "pets": "yes",
-      "caretakingRemuneration": 113280,
+      "caretakingRemuneration": 108074,
       "agreementTerm": "25",
       "agreementRemaining": "24",
       "agreementAge": "0",
@@ -5738,7 +5738,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "2026-06-05 01:44:15",
-      "lastUpdated": "2026-09-10 07:59:20"
+      "lastUpdated": "2026-10-23 03:33:19"
     },
     {
       "id": "21179024",
@@ -6007,6 +6007,82 @@
       "lastUpdated": "2026-10-21 13:10:27"
     },
     {
+      "id": "21203348",
+      "url": "https://www.theonsitemanager.com.au/listing/21203348",
+      "title": "Premium Spring Hill MLR | $466K Net Profit with Exceptional Growth Potential | Resort Brokers ID : MR009401",
+      "category": "Permanent",
+      "status": "current",
+      "price": 2880000,
+      "priceView": "$2,880,000",
+      "netIncome": 466828,
+      "netIncomeBasis": "actual",
+      "unitValue": 850000,
+      "multiplier": 4.35,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": false,
+      "pets": "No",
+      "caretakingRemuneration": 137856,
+      "agreementTerm": "0",
+      "agreementRemaining": "16",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 0,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 0,
+      "suburb": "Spring Hill",
+      "state": "QLD",
+      "postcode": "4000",
+      "agentName": "Jessie Shi",
+      "agentPhone": "0422 935 428",
+      "agentEmail": "info@resortbrokers.com.au",
+      "agencyName": "Resort Brokers",
+      "agencyWebsite": null,
+      "dateListed": "22 October 2026",
+      "lastUpdated": "2026-10-23 00:17:10"
+    },
+    {
+      "id": "21203093",
+      "url": "https://www.theonsitemanager.com.au/listing/21203093",
+      "title": "Two businesses – One outstanding Mooloolaba investment",
+      "category": "Holiday",
+      "status": "current",
+      "price": 2195000,
+      "priceView": "$2,195,000",
+      "netIncome": 414082,
+      "netIncomeBasis": "actual",
+      "unitValue": 750000,
+      "multiplier": 3.49,
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "carSpaces": 1,
+      "officeOnTitle": true,
+      "pets": "yes",
+      "caretakingRemuneration": 107762,
+      "agreementTerm": "25",
+      "agreementRemaining": "23",
+      "agreementAge": "0",
+      "officeHours": "As required",
+      "lettingPool": 28,
+      "ownerOccupiers": 17,
+      "lockUps": 0,
+      "outsideAgents": 2,
+      "unitsInComplex": 48,
+      "suburb": "Mooloolaba",
+      "state": "QLD",
+      "postcode": "4557",
+      "agentName": "Adam Langer",
+      "agentPhone": "0468 317 321",
+      "agentEmail": "matt@managementrights.com",
+      "agencyName": "Australian Resort Management Sales",
+      "agencyWebsite": null,
+      "dateListed": "2026-10-22 00:58:37",
+      "lastUpdated": "2026-10-22 07:44:43"
+    },
+    {
       "id": "21203038",
       "url": "https://www.theonsitemanager.com.au/listing/21203038",
       "title": "$720K+ Net - established permanent portfolio in Kangaroo Point | Resort Brokers ID : MR009403",
@@ -6252,7 +6328,7 @@
       "officeOnTitle": false,
       "pets": "0",
       "caretakingRemuneration": 0,
-      "agreementTerm": "25",
+      "agreementTerm": "10",
       "agreementRemaining": "0",
       "agreementAge": "0",
       "officeHours": "",
@@ -6270,7 +6346,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "14 October 2026",
-      "lastUpdated": "2026-10-20 13:10:28"
+      "lastUpdated": "2026-10-22 13:10:26"
     },
     {
       "id": "21201493",
@@ -6650,7 +6726,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "28 September 2026",
-      "lastUpdated": "2026-10-18 13:10:53"
+      "lastUpdated": "2026-10-22 13:10:24"
     },
     {
       "id": "21197155",
@@ -6878,7 +6954,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "25 August 2026",
-      "lastUpdated": "2026-10-18 13:11:13"
+      "lastUpdated": "2026-10-22 13:10:25"
     },
     {
       "id": "21193618",
@@ -8208,7 +8284,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 June 2026",
-      "lastUpdated": "2026-10-18 13:11:03"
+      "lastUpdated": "2026-10-22 13:10:24"
     },
     {
       "id": "21182202",
@@ -9045,6 +9121,44 @@
       "agencyWebsite": null,
       "dateListed": "2026-05-12 07:00:53",
       "lastUpdated": "2026-09-10 07:59:20"
+    },
+    {
+      "id": "21203448",
+      "url": "https://www.theonsitemanager.com.au/listing/21203448",
+      "title": "💰 $246K Net Profit – Live the Trinity Beach Lifestyle!",
+      "category": "Resort / Holiday",
+      "status": "current",
+      "price": 1250000,
+      "priceView": "$650k MR & $600k Unit = Total $1.25M",
+      "netIncome": 246932,
+      "netIncomeBasis": "actual",
+      "unitValue": 0,
+      "multiplier": 5.06,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "carSpaces": 2,
+      "officeOnTitle": true,
+      "pets": "1",
+      "caretakingRemuneration": 77346,
+      "agreementTerm": "25",
+      "agreementRemaining": "17",
+      "agreementAge": "22",
+      "officeHours": "None Specified",
+      "lettingPool": 13,
+      "ownerOccupiers": 13,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 26,
+      "suburb": "Trinity Beach",
+      "state": "QLD",
+      "postcode": "4879",
+      "agentName": "Joel McCartin",
+      "agentPhone": "0407 834 425",
+      "agentEmail": "fwc3xtxq@robot.zapier.com",
+      "agencyName": "Ras360",
+      "agencyWebsite": null,
+      "dateListed": "23 October 2026",
+      "lastUpdated": "2026-10-23 03:05:04"
     },
     {
       "id": "21203008",
@@ -11172,7 +11286,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 December 2025",
-      "lastUpdated": "2026-10-18 13:10:19"
+      "lastUpdated": "2026-10-22 13:10:05"
     },
     {
       "id": "21174044",
@@ -17632,7 +17746,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "23 February 2026",
-      "lastUpdated": "2026-10-18 13:10:43"
+      "lastUpdated": "2026-10-22 13:10:23"
     },
     {
       "id": "21170521",
@@ -21052,7 +21166,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "09 March 2026",
-      "lastUpdated": "2026-10-18 13:10:45"
+      "lastUpdated": "2026-10-22 13:10:23"
     },
     {
       "id": "21170924",
@@ -21318,7 +21432,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "16 December 2025",
-      "lastUpdated": "2026-10-18 13:10:33"
+      "lastUpdated": "2026-10-22 13:10:22"
     },
     {
       "id": "21161944",
