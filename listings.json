@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-24T07:10:35.995643",
+  "scraped_at": "2026-10-25T07:35:00.430491",
   "total": 578,
   "listings": [
     {
@@ -502,12 +502,12 @@
       "title": "Exceptional Management Rights Opportunity -Dual-Complex Portfolio with $105,000+ Nett Revenue in Beautiful Yeppoon",
       "category": "Permanent",
       "status": "current",
-      "price": 450000,
-      "priceView": "450000",
+      "price": 400000,
+      "priceView": "400000",
       "netIncome": 105000,
       "netIncomeBasis": "actual",
       "unitValue": 0,
-      "multiplier": 4.29,
+      "multiplier": 3.81,
       "bedrooms": 0,
       "bathrooms": 0,
       "carSpaces": 0,
@@ -532,7 +532,7 @@
       "agencyName": null,
       "agencyWebsite": null,
       "dateListed": "2026-09-28 04:24:26",
-      "lastUpdated": "2026-09-28 05:54:22"
+      "lastUpdated": "2026-10-24 23:13:44"
     },
     {
       "id": "21203553",
