@@ -1,5 +1,6 @@
 import requests
 import json
+import re
 import time
 from datetime import datetime
 
@@ -8,6 +9,58 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
     "Accept": "application/json"
 }
+
+
+def _num(x):
+    """Parse a coordinate to float, guarding blanks and 0/placeholder values."""
+    try:
+        v = float(x)
+        return v if abs(v) > 0.01 else None
+    except (TypeError, ValueError):
+        return None
+
+
+def _typed_street(d):
+    """A street address from the typed fields, only when it's a real street
+    (a leading number + name) rather than a bare unit fragment ("Unit 10")."""
+    num = str(d.get("streetNumber") or "").strip()
+    st = str(d.get("street") or "").strip()
+    typed = f"{num} {st}".strip()
+    return typed if re.match(r"^\d+[A-Za-z]?\s+\S", typed) else ""
+
+
+def geocode_addresses(listings):
+    """Resolve a real street address from each listing's map pin. The public ad
+    hides the street when addressDisplay=no, so the pin (cordLat/cordLong, which
+    the ad's OpenFreeMap map renders) is the reliable source. Reverse-geocode via
+    OSM Nominatim and keep the result only when it lands in the listing's own
+    suburb/postcode, so a stray pin never yields a wrong street. ~1 req/sec."""
+    todo = [l for l in listings
+            if l.get("lat") and l.get("lng") and not re.match(r"^\s*\d", str(l.get("address") or ""))]
+    print(f"Resolving street addresses from the map pin for {len(todo)} listings (~1/sec)...")
+    done = 0
+    for i, l in enumerate(todo, 1):
+        try:
+            url = ("https://nominatim.openstreetmap.org/reverse?format=jsonv2"
+                   f"&lat={l['lat']}&lon={l['lng']}&zoom=18&addressdetails=1")
+            r = requests.get(url, headers={"User-Agent": "Ras360iQ-Onsite/1.0 (internal research tool)"}, timeout=20)
+            a = (r.json() or {}).get("address", {})
+            road = a.get("road") or a.get("pedestrian") or a.get("footway")
+            pc = str(a.get("postcode") or "")
+            sub = (a.get("suburb") or a.get("town") or a.get("city") or a.get("village") or "").lower()
+            want_sub = str(l.get("suburb") or "").lower()
+            want_pc = str(l.get("postcode") or "")
+            if road and ((want_pc and pc == want_pc) or (want_sub and sub and (want_sub in sub or sub in want_sub))):
+                hn = a.get("house_number")
+                l["address"] = ((f"{hn} " if hn else "") + road).strip()
+                done += 1
+        except Exception:
+            pass
+        time.sleep(1.1)
+        if i % 50 == 0:
+            print(f"  {i}/{len(todo)} checked ({done} resolved)")
+    print(f"  geocoded {done}/{len(todo)} listings to a street address")
+    return done
 
 def fetch_all_ids():
     all_ids = []
@@ -69,6 +122,9 @@ def fetch_listing_detail(listing_id):
         "suburb": d.get("suburb"),
         "state": d.get("state"),
         "postcode": d.get("postcode"),
+        "address": _typed_street(d),            # real street from the pin filled in a later pass
+        "lat": _num(d.get("cordLat")),          # map-pin latitude  (from the ad's map)
+        "lng": _num(d.get("cordLong")),         # map-pin longitude
         "agentName": (d.get("listingAgentName") or d.get("salesName") or "").strip(),
         "agentPhone": d.get("listingAgentPhone") or d.get("agentPhone"),
         "agentEmail": d.get("agentEmail"),
@@ -96,6 +152,7 @@ def main():
         except Exception as e:
             print(f"  Error on {lid}: {e}")
             errors.append(lid)
+    geocode_addresses(listings)
     output = {
         "scraped_at": datetime.now().isoformat(),
         "total": len(listings),
