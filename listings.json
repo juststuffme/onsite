@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-01T09:06:17.137839",
-  "total": 573,
+  "scraped_at": "2026-11-02T09:15:40.247418",
+  "total": 572,
   "listings": [
     {
       "id": "21201008",
@@ -659,6 +659,47 @@
       "lastUpdated": "2026-11-01 04:32:08"
     },
     {
+      "id": "21194338",
+      "url": "https://www.theonsitemanager.com.au/listing/21194338",
+      "title": "BEACHFRONT BUSINESS ONLY MANAGEMENT RIGHTS - HIGH NET PROFIT",
+      "category": "Holiday",
+      "status": "current",
+      "price": 1100000,
+      "priceView": "$1,100,000",
+      "netIncome": 246007,
+      "netIncomeBasis": "actual",
+      "unitValue": 0,
+      "multiplier": 4.47,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": false,
+      "pets": "No",
+      "caretakingRemuneration": 64892,
+      "agreementTerm": "0",
+      "agreementRemaining": "15",
+      "agreementAge": "25",
+      "officeHours": "",
+      "lettingPool": 12,
+      "ownerOccupiers": 18,
+      "lockUps": 0,
+      "outsideAgents": 3,
+      "unitsInComplex": 33,
+      "suburb": "Coolangatta",
+      "state": "QLD",
+      "postcode": "4225",
+      "address": "28 Musgrave Street",
+      "lat": -28.1675129,
+      "lng": 153.5268891,
+      "agentName": "Scott Saunders",
+      "agentPhone": "0432 144 822",
+      "agentEmail": "info@premiersales.com.au",
+      "agencyName": "Premier Business Sales",
+      "agencyWebsite": null,
+      "dateListed": "2026-08-31 04:38:05",
+      "lastUpdated": "2026-11-02 02:03:32"
+    },
+    {
       "id": "21194008",
       "url": "https://www.theonsitemanager.com.au/listing/21194008",
       "title": "VARSITY CATCHMENT INVESTMENT - NET $270,000",
@@ -741,6 +782,47 @@
       "lastUpdated": "2026-11-01 04:28:00"
     },
     {
+      "id": "21185185",
+      "url": "https://www.theonsitemanager.com.au/listing/21185185",
+      "title": "QUALITY COASTAL MANAGEMENT RIGHTS - EXCELLENT NET PROFIT",
+      "category": "Holiday",
+      "status": "current",
+      "price": 2995000,
+      "priceView": "$2,995,000",
+      "netIncome": 497896,
+      "netIncomeBasis": "actual",
+      "unitValue": 1000000,
+      "multiplier": 4.01,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "carSpaces": 1,
+      "officeOnTitle": true,
+      "pets": "yes",
+      "caretakingRemuneration": 79715,
+      "agreementTerm": "25",
+      "agreementRemaining": "20",
+      "agreementAge": "0",
+      "officeHours": "As Per Contract",
+      "lettingPool": 27,
+      "ownerOccupiers": 9,
+      "lockUps": 1,
+      "outsideAgents": 0,
+      "unitsInComplex": 37,
+      "suburb": "Bargara",
+      "state": "QLD",
+      "postcode": "4670",
+      "address": "95 Esplanade",
+      "lat": -24.8114123,
+      "lng": 152.4615798,
+      "agentName": "Scott Saunders",
+      "agentPhone": "0432144822",
+      "agentEmail": "info@premiersales.com.au",
+      "agencyName": "Premier Business Sales",
+      "agencyWebsite": null,
+      "dateListed": "2026-06-29 02:50:54",
+      "lastUpdated": "2026-11-02 02:03:07"
+    },
+    {
       "id": "21177459",
       "url": "https://www.theonsitemanager.com.au/listing/21177459",
       "title": "TERRIFIC SALARY WITH LIFESTYLE",
@@ -780,6 +862,375 @@
       "agencyWebsite": null,
       "dateListed": "16 May 2026",
       "lastUpdated": "2026-11-01 04:34:32"
+    },
+    {
+      "id": "21188776",
+      "url": "https://www.theonsitemanager.com.au/listing/21188776",
+      "title": "Huge Income and Rare Opportunity - 25 Years Permanent MR Business in Gold Coast",
+      "category": "Permanent",
+      "status": "current",
+      "price": 6128000,
+      "priceView": "Expression of interest",
+      "netIncome": 790000,
+      "netIncomeBasis": "actual",
+      "unitValue": 0,
+      "multiplier": 7.76,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": true,
+      "pets": "No",
+      "caretakingRemuneration": 188082,
+      "agreementTerm": "25",
+      "agreementRemaining": "25",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 0,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 0,
+      "suburb": "Robina",
+      "state": "QLD",
+      "postcode": "4226",
+      "address": "University Drive",
+      "lat": -28.0700386,
+      "lng": 153.4127463,
+      "agentName": "David Jiang",
+      "agentPhone": "+61 481500278",
+      "agentEmail": "davidjianghui@nextrealty.com.au",
+      "agencyName": "NEXT International Realty Pty Ltd",
+      "agencyWebsite": null,
+      "dateListed": "22 July 2026",
+      "lastUpdated": "2026-11-01 23:52:46"
+    },
+    {
+      "id": "21188766",
+      "url": "https://www.theonsitemanager.com.au/listing/21188766",
+      "title": "Solid, Lifestyle, Permanent GEM in Bayside Brisbane",
+      "category": "Permanent",
+      "status": "current",
+      "price": 1880000,
+      "priceView": "$984k/4.8 times MR + $896k Unit = $1,880,000",
+      "netIncome": 204969,
+      "netIncomeBasis": "actual",
+      "unitValue": 0,
+      "multiplier": 9.17,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": true,
+      "pets": "yes",
+      "caretakingRemuneration": 163713,
+      "agreementTerm": "25",
+      "agreementRemaining": "22",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 0,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 0,
+      "suburb": "Manly West",
+      "state": "QLD",
+      "postcode": "4179",
+      "address": "96 Radford Road",
+      "lat": -27.4684097,
+      "lng": 153.1660102,
+      "agentName": "David Jiang",
+      "agentPhone": "0481500278",
+      "agentEmail": "davidjianghui@nextrealty.com.au",
+      "agencyName": "NEXT International Realty Pty Ltd",
+      "agencyWebsite": null,
+      "dateListed": "22 July 2026",
+      "lastUpdated": "2026-11-01 23:51:52"
+    },
+    {
+      "id": "21186731",
+      "url": "https://www.theonsitemanager.com.au/listing/21186731",
+      "title": "Large Remuneration and Best Residence Permanent Business in Brisbane Westside",
+      "category": "Permanent",
+      "status": "current",
+      "price": 2078000,
+      "priceView": "$1,088k/MR and $990k/Manager Lot",
+      "netIncome": 217649,
+      "netIncomeBasis": "actual",
+      "unitValue": 990000,
+      "multiplier": 5.0,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "carSpaces": 2,
+      "officeOnTitle": true,
+      "pets": "yes",
+      "caretakingRemuneration": 171737,
+      "agreementTerm": "25",
+      "agreementRemaining": "21",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 22,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 0,
+      "suburb": "Seventeen Mile Rocks",
+      "state": "QLD",
+      "postcode": "4073",
+      "address": "9 Hogan Place",
+      "lat": -27.5474974,
+      "lng": 152.9589563,
+      "agentName": "David Jiang",
+      "agentPhone": "+61 481500278",
+      "agentEmail": "davidjianghui@nextrealty.com.au",
+      "agencyName": "NEXT International Realty Pty Ltd",
+      "agencyWebsite": null,
+      "dateListed": "09 July 2026",
+      "lastUpdated": "2026-11-01 23:53:01"
+    },
+    {
+      "id": "21181479",
+      "url": "https://www.theonsitemanager.com.au/listing/21181479",
+      "title": "Business Only, Permanent Business in Fortitude Vally, Brisbane City",
+      "category": "Permanent",
+      "status": "current",
+      "price": 845000,
+      "priceView": "Business Only for $845,000",
+      "netIncome": 145682,
+      "netIncomeBasis": "actual",
+      "unitValue": 0,
+      "multiplier": 5.8,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": false,
+      "pets": "No",
+      "caretakingRemuneration": 103210,
+      "agreementTerm": "25",
+      "agreementRemaining": "21",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 18,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 0,
+      "suburb": "Fortitude Valley",
+      "state": "QLD",
+      "postcode": "4006",
+      "address": "50 McLachlan Street",
+      "lat": -27.4580282,
+      "lng": 153.0363583,
+      "agentName": "David Jiang",
+      "agentPhone": "0481500278",
+      "agentEmail": "davidjianghui@nextrealty.com.au",
+      "agencyName": "NEXT International Realty Pty Ltd",
+      "agencyWebsite": null,
+      "dateListed": "04 June 2026",
+      "lastUpdated": "2026-11-01 23:53:58"
+    },
+    {
+      "id": "21203098",
+      "url": "https://www.theonsitemanager.com.au/listing/21203098",
+      "title": "YOU ARE INVITED TO BE IMPRESSED BY THIS MAIN BEACH TOP EARNER - SALARY REPRESENTS 97%OF THE $315,000 NET PROFIT",
+      "category": "Permanent",
+      "status": "current",
+      "price": 2800000,
+      "priceView": "$2,800,000",
+      "netIncome": 315000,
+      "netIncomeBasis": "actual",
+      "unitValue": 1200000,
+      "multiplier": 5.08,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "carSpaces": 1,
+      "officeOnTitle": true,
+      "pets": "yes",
+      "caretakingRemuneration": 305869,
+      "agreementTerm": "10",
+      "agreementRemaining": "10",
+      "agreementAge": "25",
+      "officeHours": "Mon-Fri  08h30-13h00 (contactable)",
+      "lettingPool": 4,
+      "ownerOccupiers": 34,
+      "lockUps": 32,
+      "outsideAgents": 2,
+      "unitsInComplex": 72,
+      "suburb": "Main Beach",
+      "state": "QLD",
+      "postcode": "4217",
+      "address": "3 Cunningham Avenue",
+      "lat": -27.9748201,
+      "lng": 153.4271186,
+      "agentName": "Barry Teren",
+      "agentPhone": "0414565530",
+      "agentEmail": "barryteren@gmail.com",
+      "agencyName": "Management Rights Agents",
+      "agencyWebsite": null,
+      "dateListed": "2026-10-22 00:59:22",
+      "lastUpdated": "2026-11-01 21:14:13"
+    },
+    {
+      "id": "21186846",
+      "url": "https://www.theonsitemanager.com.au/listing/21186846",
+      "title": "GOLD COAST MANAGEMENT RIGHTS FOR SALE - HIGH SALARY -  PREMIUM BROADWATER LIFESTYLE",
+      "category": "Permanent",
+      "status": "current",
+      "price": 2300000,
+      "priceView": "$2,300,000",
+      "netIncome": 232553,
+      "netIncomeBasis": "actual",
+      "unitValue": 1200000,
+      "multiplier": 4.73,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "carSpaces": 2,
+      "officeOnTitle": true,
+      "pets": "yes",
+      "caretakingRemuneration": 192436,
+      "agreementTerm": "25",
+      "agreementRemaining": "23",
+      "agreementAge": "0",
+      "officeHours": "No Office Hours",
+      "lettingPool": 12,
+      "ownerOccupiers": 67,
+      "lockUps": 11,
+      "outsideAgents": 2,
+      "unitsInComplex": 92,
+      "suburb": "Labrador",
+      "state": "QLD",
+      "postcode": "4215",
+      "address": "230 Marine Parade",
+      "lat": -27.9504541,
+      "lng": 153.4090877,
+      "agentName": "Sam Saunders",
+      "agentPhone": "0447419950",
+      "agentEmail": "info@premiersales.com.au",
+      "agencyName": "Premier Business Sales",
+      "agencyWebsite": null,
+      "dateListed": "2026-07-10 02:10:25",
+      "lastUpdated": "2026-11-02 02:04:04"
+    },
+    {
+      "id": "21198332",
+      "url": "https://www.theonsitemanager.com.au/listing/21198332",
+      "title": "Permanent Management Rights - $181K Body Corp Salary | 24 Years Remaining | No Office Hours",
+      "category": "Permanent",
+      "status": "current",
+      "price": 1786000,
+      "priceView": "$1,786,000",
+      "netIncome": 205739,
+      "netIncomeBasis": "actual",
+      "unitValue": 840000,
+      "multiplier": 4.6,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "carSpaces": 1,
+      "officeOnTitle": true,
+      "pets": "yes",
+      "caretakingRemuneration": 181299,
+      "agreementTerm": "25",
+      "agreementRemaining": "24",
+      "agreementAge": "29",
+      "officeHours": "No Set Office Hours",
+      "lettingPool": 13,
+      "ownerOccupiers": 89,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 103,
+      "suburb": "Taigum",
+      "state": "QLD",
+      "postcode": "4018",
+      "address": "308 Handford Road",
+      "lat": -27.3462147,
+      "lng": 153.0397751,
+      "agentName": "Greg Erwin",
+      "agentPhone": "0455 233 844",
+      "agentEmail": "info@hotelresortsales.com.au",
+      "agencyName": "Hotel Resort Sales",
+      "agencyWebsite": null,
+      "dateListed": "30 September 2026",
+      "lastUpdated": "2026-11-01 21:09:35"
+    },
+    {
+      "id": "21196390",
+      "url": "https://www.theonsitemanager.com.au/listing/21196390",
+      "title": "Prestigious Main Beach Permanent Management Rights with over $305k Body Corporate Salary",
+      "category": "Permanent",
+      "status": "current",
+      "price": 2800000,
+      "priceView": "$2,800,000",
+      "netIncome": 319638,
+      "netIncomeBasis": "actual",
+      "unitValue": 1200000,
+      "multiplier": 5.01,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "carSpaces": 1,
+      "officeOnTitle": true,
+      "pets": "yes",
+      "caretakingRemuneration": 305869,
+      "agreementTerm": "10",
+      "agreementRemaining": "10",
+      "agreementAge": "36",
+      "officeHours": "Mon to Friday 8.30am-1pm",
+      "lettingPool": 4,
+      "ownerOccupiers": 34,
+      "lockUps": 31,
+      "outsideAgents": 2,
+      "unitsInComplex": 72,
+      "suburb": "Main Beach",
+      "state": "QLD",
+      "postcode": "4217",
+      "address": "36 Stafford Avenue",
+      "lat": -27.9769591,
+      "lng": 153.4273139,
+      "agentName": "Craig Johnson",
+      "agentPhone": "0493 108 073",
+      "agentEmail": "info@hotelresortsales.com.au",
+      "agencyName": "Hotel Resort Sales",
+      "agencyWebsite": null,
+      "dateListed": "15 September 2026",
+      "lastUpdated": "2026-11-01 21:08:52"
+    },
+    {
+      "id": "21184995",
+      "url": "https://www.theonsitemanager.com.au/listing/21184995",
+      "title": "Townsville Permanent Management Rights with Exceptional Remuneration",
+      "category": "Permanent",
+      "status": "current",
+      "price": 1750000,
+      "priceView": "$1,699,000",
+      "netIncome": 296480,
+      "netIncomeBasis": "actual",
+      "unitValue": 599000,
+      "multiplier": 3.88,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "carSpaces": 1,
+      "officeOnTitle": true,
+      "pets": "yes",
+      "caretakingRemuneration": 252000,
+      "agreementTerm": "25",
+      "agreementRemaining": "23",
+      "agreementAge": "20",
+      "officeHours": "No Set Office Hours ",
+      "lettingPool": 20,
+      "ownerOccupiers": 81,
+      "lockUps": 0,
+      "outsideAgents": 7,
+      "unitsInComplex": 20,
+      "suburb": "Rosslea",
+      "state": "QLD",
+      "postcode": "4812",
+      "address": "Bowen Road",
+      "lat": -19.3013337,
+      "lng": 146.8003875,
+      "agentName": "Rebecca Johnson",
+      "agentPhone": "0455 445 531",
+      "agentEmail": "info@hotelresortsales.com.au",
+      "agencyName": "Hotel Resort Sales",
+      "agencyWebsite": null,
+      "dateListed": "26 June 2026",
+      "lastUpdated": "2026-11-01 21:10:48"
     },
     {
       "id": "21204330",
@@ -1435,7 +1886,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "07 September 2026",
-      "lastUpdated": "2026-10-31 15:11:32"
+      "lastUpdated": "2026-11-01 13:11:23"
     },
     {
       "id": "21194823",
@@ -1517,7 +1968,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "01 September 2026",
-      "lastUpdated": "2026-10-31 15:11:30"
+      "lastUpdated": "2026-11-01 13:11:20"
     },
     {
       "id": "21194523",
@@ -1559,47 +2010,6 @@
       "agencyWebsite": null,
       "dateListed": "2026-09-01 01:50:01",
       "lastUpdated": "2026-09-10 07:59:20"
-    },
-    {
-      "id": "21194338",
-      "url": "https://www.theonsitemanager.com.au/listing/21194338",
-      "title": "BEACHFRONT BUSINESS ONLY MANAGEMENT RIGHTS - HIGH NET PROFIT",
-      "category": "Holiday",
-      "status": "current",
-      "price": 1100000,
-      "priceView": "$1,100,000",
-      "netIncome": 246007,
-      "netIncomeBasis": "actual",
-      "unitValue": 0,
-      "multiplier": 4.47,
-      "bedrooms": 0,
-      "bathrooms": 0,
-      "carSpaces": 0,
-      "officeOnTitle": false,
-      "pets": "No",
-      "caretakingRemuneration": 64892,
-      "agreementTerm": "0",
-      "agreementRemaining": "15",
-      "agreementAge": "25",
-      "officeHours": "",
-      "lettingPool": 12,
-      "ownerOccupiers": 18,
-      "lockUps": 0,
-      "outsideAgents": 3,
-      "unitsInComplex": 33,
-      "suburb": "Coolangatta",
-      "state": "QLD",
-      "postcode": "4225",
-      "address": "28 Musgrave Street",
-      "lat": -28.1675129,
-      "lng": 153.5268891,
-      "agentName": "Scott Saunders",
-      "agentPhone": "0432 144 822",
-      "agentEmail": "info@premiersales.com.au",
-      "agencyName": "Premier Business Sales",
-      "agencyWebsite": null,
-      "dateListed": "2026-08-31 04:38:05",
-      "lastUpdated": "2026-10-01 03:56:42"
     },
     {
       "id": "21193878",
@@ -1768,7 +2178,7 @@
     {
       "id": "21191737",
       "url": "https://www.theonsitemanager.com.au/listing/21191737",
-      "title": "Massive $338 Nett for Townsville Management Rights",
+      "title": "Huge Income and even more potential",
       "category": "Permanent",
       "status": "current",
       "price": 2052000,
@@ -1804,7 +2214,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "11 August 2026",
-      "lastUpdated": "2026-10-26 00:50:04"
+      "lastUpdated": "2026-11-01 20:50:04"
     },
     {
       "id": "21190862",
@@ -1968,7 +2378,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "29 July 2026",
-      "lastUpdated": "2026-10-31 15:11:25"
+      "lastUpdated": "2026-11-01 13:11:14"
     },
     {
       "id": "21189211",
@@ -2173,7 +2583,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "06 July 2026",
-      "lastUpdated": "2026-10-31 15:11:22"
+      "lastUpdated": "2026-11-01 13:11:10"
     },
     {
       "id": "21185855",
@@ -2296,48 +2706,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "29 June 2026",
-      "lastUpdated": "2026-10-31 15:11:18"
-    },
-    {
-      "id": "21185185",
-      "url": "https://www.theonsitemanager.com.au/listing/21185185",
-      "title": "QUALITY COASTAL MANAGEMENT RIGHTS - EXCELLENT NET PROFIT",
-      "category": "Holiday",
-      "status": "current",
-      "price": 2995000,
-      "priceView": "$2,995,000",
-      "netIncome": 497896,
-      "netIncomeBasis": "actual",
-      "unitValue": 1000000,
-      "multiplier": 4.01,
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "carSpaces": 1,
-      "officeOnTitle": true,
-      "pets": "yes",
-      "caretakingRemuneration": 79715,
-      "agreementTerm": "25",
-      "agreementRemaining": "20",
-      "agreementAge": "0",
-      "officeHours": "As Per Contract",
-      "lettingPool": 27,
-      "ownerOccupiers": 9,
-      "lockUps": 1,
-      "outsideAgents": 0,
-      "unitsInComplex": 37,
-      "suburb": "Bargara",
-      "state": "QLD",
-      "postcode": "4670",
-      "address": "95 Esplanade",
-      "lat": -24.8114123,
-      "lng": 152.4615798,
-      "agentName": "Scott Saunders",
-      "agentPhone": "0432144822",
-      "agentEmail": "info@premiersales.com.au",
-      "agencyName": "Premier Business Sales",
-      "agencyWebsite": null,
-      "dateListed": "2026-06-29 02:50:54",
-      "lastUpdated": "2026-10-01 03:58:12"
+      "lastUpdated": "2026-11-01 13:11:06"
     },
     {
       "id": "21184794",
@@ -2665,7 +3034,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "03 June 2026",
-      "lastUpdated": "2026-10-25 13:10:56"
+      "lastUpdated": "2026-11-01 13:11:01"
     },
     {
       "id": "21181189",
@@ -2747,7 +3116,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "01 June 2026",
-      "lastUpdated": "2026-10-31 15:11:13"
+      "lastUpdated": "2026-11-01 13:11:01"
     },
     {
       "id": "21180269",
@@ -2829,7 +3198,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "29 May 2026",
-      "lastUpdated": "2026-10-31 15:11:12"
+      "lastUpdated": "2026-11-01 13:10:59"
     },
     {
       "id": "21179119",
@@ -2911,7 +3280,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "19 May 2026",
-      "lastUpdated": "2026-10-31 15:11:10"
+      "lastUpdated": "2026-11-01 13:10:58"
     },
     {
       "id": "21176418",
@@ -2952,7 +3321,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
-      "lastUpdated": "2026-10-31 15:11:06"
+      "lastUpdated": "2026-11-01 13:10:55"
     },
     {
       "id": "21176378",
@@ -2993,7 +3362,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
-      "lastUpdated": "2026-10-31 15:10:40"
+      "lastUpdated": "2026-11-01 13:10:27"
     },
     {
       "id": "21175206",
@@ -3080,7 +3449,7 @@
     {
       "id": "21174814",
       "url": "https://www.theonsitemanager.com.au/listing/21174814",
-      "title": "Exceptionally Priced at Offers over $650k",
+      "title": "Genuine Sellers -Make an Offer",
       "category": "Permanent",
       "status": "current",
       "price": 649000,
@@ -3116,7 +3485,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "30 April 2026",
-      "lastUpdated": "2026-09-10 07:59:20"
+      "lastUpdated": "2026-11-01 21:20:04"
     },
     {
       "id": "21190286",
@@ -3529,88 +3898,6 @@
       "lastUpdated": "2026-09-28 00:06:31"
     },
     {
-      "id": "21188776",
-      "url": "https://www.theonsitemanager.com.au/listing/21188776",
-      "title": "Huge Income and Rare Opportunity - 25 Years Permanent MR Business in Gold Coast",
-      "category": "Permanent",
-      "status": "current",
-      "price": 6128000,
-      "priceView": "Expression of interest",
-      "netIncome": 790000,
-      "netIncomeBasis": "actual",
-      "unitValue": 0,
-      "multiplier": 7.76,
-      "bedrooms": 0,
-      "bathrooms": 0,
-      "carSpaces": 0,
-      "officeOnTitle": true,
-      "pets": "No",
-      "caretakingRemuneration": 188082,
-      "agreementTerm": "25",
-      "agreementRemaining": "25",
-      "agreementAge": "0",
-      "officeHours": "",
-      "lettingPool": 0,
-      "ownerOccupiers": 0,
-      "lockUps": 0,
-      "outsideAgents": 0,
-      "unitsInComplex": 0,
-      "suburb": "Robina",
-      "state": "QLD",
-      "postcode": "4226",
-      "address": "University Drive",
-      "lat": -28.0700386,
-      "lng": 153.4127463,
-      "agentName": "David Jiang",
-      "agentPhone": "+61 481500278",
-      "agentEmail": "davidjianghui@nextrealty.com.au",
-      "agencyName": "NEXT International Realty Pty Ltd",
-      "agencyWebsite": null,
-      "dateListed": "22 July 2026",
-      "lastUpdated": "2026-10-01 00:48:30"
-    },
-    {
-      "id": "21188766",
-      "url": "https://www.theonsitemanager.com.au/listing/21188766",
-      "title": "Solid, Lifestyle, Permanent GEM in Bayside Brisbane",
-      "category": "Permanent",
-      "status": "current",
-      "price": 1880000,
-      "priceView": "$984k/4.8 times MR + $896k Unit = $1,880,000",
-      "netIncome": 204969,
-      "netIncomeBasis": "actual",
-      "unitValue": 0,
-      "multiplier": 9.17,
-      "bedrooms": 0,
-      "bathrooms": 0,
-      "carSpaces": 0,
-      "officeOnTitle": true,
-      "pets": "yes",
-      "caretakingRemuneration": 163713,
-      "agreementTerm": "25",
-      "agreementRemaining": "22",
-      "agreementAge": "0",
-      "officeHours": "",
-      "lettingPool": 0,
-      "ownerOccupiers": 0,
-      "lockUps": 0,
-      "outsideAgents": 0,
-      "unitsInComplex": 0,
-      "suburb": "Manly West",
-      "state": "QLD",
-      "postcode": "4179",
-      "address": "96 Radford Road",
-      "lat": -27.4684097,
-      "lng": 153.1660102,
-      "agentName": "David Jiang",
-      "agentPhone": "0481500278",
-      "agentEmail": "davidjianghui@nextrealty.com.au",
-      "agencyName": "NEXT International Realty Pty Ltd",
-      "agencyWebsite": null,
-      "dateListed": "22 July 2026",
-      "lastUpdated": "2026-10-29 08:21:16"
-    },
-    {
       "id": "21187361",
       "url": "https://www.theonsitemanager.com.au/listing/21187361",
       "title": "Business Only and Solid Permanent MR in Teneriffe",
@@ -3652,47 +3939,6 @@
       "lastUpdated": "2026-09-10 07:59:20"
     },
     {
-      "id": "21186731",
-      "url": "https://www.theonsitemanager.com.au/listing/21186731",
-      "title": "Large Remuneration and Best Residence Permanent Business in Brisbane Westside",
-      "category": "Permanent",
-      "status": "current",
-      "price": 2078000,
-      "priceView": "$1,088k/MR and $990k/Manager Lot",
-      "netIncome": 217649,
-      "netIncomeBasis": "actual",
-      "unitValue": 990000,
-      "multiplier": 5.0,
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "carSpaces": 2,
-      "officeOnTitle": true,
-      "pets": "yes",
-      "caretakingRemuneration": 171737,
-      "agreementTerm": "25",
-      "agreementRemaining": "21",
-      "agreementAge": "0",
-      "officeHours": "",
-      "lettingPool": 22,
-      "ownerOccupiers": 0,
-      "lockUps": 0,
-      "outsideAgents": 0,
-      "unitsInComplex": 0,
-      "suburb": "Seventeen Mile Rocks",
-      "state": "QLD",
-      "postcode": "4073",
-      "address": "9 Hogan Place",
-      "lat": -27.5474974,
-      "lng": 152.9589563,
-      "agentName": "David Jiang",
-      "agentPhone": "+61 481500278",
-      "agentEmail": "davidjianghui@nextrealty.com.au",
-      "agencyName": "NEXT International Realty Pty Ltd",
-      "agencyWebsite": null,
-      "dateListed": "09 July 2026",
-      "lastUpdated": "2026-10-01 00:48:08"
-    },
-    {
       "id": "21185060",
       "url": "https://www.theonsitemanager.com.au/listing/21185060",
       "title": "TRUE CARETAKING ONLY with EXCELLENT ROI",
@@ -3732,47 +3978,6 @@
       "agencyWebsite": null,
       "dateListed": "2026-06-27 06:42:48",
       "lastUpdated": "2026-10-17 04:06:07"
-    },
-    {
-      "id": "21181479",
-      "url": "https://www.theonsitemanager.com.au/listing/21181479",
-      "title": "Business Only, Permanent Business in Fortitude Vally, Brisbane City",
-      "category": "Permanent",
-      "status": "current",
-      "price": 845000,
-      "priceView": "Business Only for $845,000",
-      "netIncome": 145682,
-      "netIncomeBasis": "actual",
-      "unitValue": 0,
-      "multiplier": 5.8,
-      "bedrooms": 0,
-      "bathrooms": 0,
-      "carSpaces": 0,
-      "officeOnTitle": false,
-      "pets": "No",
-      "caretakingRemuneration": 103210,
-      "agreementTerm": "25",
-      "agreementRemaining": "21",
-      "agreementAge": "0",
-      "officeHours": "",
-      "lettingPool": 18,
-      "ownerOccupiers": 0,
-      "lockUps": 0,
-      "outsideAgents": 0,
-      "unitsInComplex": 0,
-      "suburb": "Fortitude Valley",
-      "state": "QLD",
-      "postcode": "4006",
-      "address": "50 McLachlan Street",
-      "lat": -27.4580282,
-      "lng": 153.0363583,
-      "agentName": "David Jiang",
-      "agentPhone": "0481500278",
-      "agentEmail": "davidjianghui@nextrealty.com.au",
-      "agencyName": "NEXT International Realty Pty Ltd",
-      "agencyWebsite": null,
-      "dateListed": "04 June 2026",
-      "lastUpdated": "2026-10-01 00:46:11"
     },
     {
       "id": "21181109",
@@ -4019,47 +4224,6 @@
       "agencyWebsite": null,
       "dateListed": "2026-05-08 00:22:19",
       "lastUpdated": "2026-09-16 04:11:17"
-    },
-    {
-      "id": "21203098",
-      "url": "https://www.theonsitemanager.com.au/listing/21203098",
-      "title": "YOU ARE INVITED TO BE IMPRESSED BY THIS MAIN BEACH TOP EARNER - SALARY REPRESENTS 97%OF THE $315,000 NET PROFIT",
-      "category": "Permanent",
-      "status": "active",
-      "price": 2800000,
-      "priceView": "$2,800,000",
-      "netIncome": 315000,
-      "netIncomeBasis": "actual",
-      "unitValue": 1200000,
-      "multiplier": 5.08,
-      "bedrooms": 2,
-      "bathrooms": 2,
-      "carSpaces": 1,
-      "officeOnTitle": true,
-      "pets": "yes",
-      "caretakingRemuneration": 305869,
-      "agreementTerm": "10",
-      "agreementRemaining": "10",
-      "agreementAge": "25",
-      "officeHours": "Mon-Fri  08h30-13h00 (contactable)",
-      "lettingPool": 4,
-      "ownerOccupiers": 34,
-      "lockUps": 32,
-      "outsideAgents": 2,
-      "unitsInComplex": 72,
-      "suburb": "Main Beach",
-      "state": "QLD",
-      "postcode": "4217",
-      "address": "3 Cunningham Avenue",
-      "lat": -27.9748201,
-      "lng": 153.4271186,
-      "agentName": "Barry Teren",
-      "agentPhone": "0414565530",
-      "agentEmail": "barryteren@gmail.com",
-      "agencyName": "Management Rights Agents",
-      "agencyWebsite": null,
-      "dateListed": "2026-10-22 00:59:22",
-      "lastUpdated": "2026-10-29 07:35:31"
     },
     {
       "id": "21187026",
@@ -4513,47 +4677,6 @@
       "lastUpdated": "2026-09-10 07:59:20"
     },
     {
-      "id": "21186846",
-      "url": "https://www.theonsitemanager.com.au/listing/21186846",
-      "title": "GOLD COAST MANAGEMENT RIGHTS FOR SALE - HIGH SALARY -  PREMIUM BROADWATER LIFESTYLE",
-      "category": "Permanent",
-      "status": "current",
-      "price": 2300000,
-      "priceView": "$2,300,000",
-      "netIncome": 232553,
-      "netIncomeBasis": "actual",
-      "unitValue": 1200000,
-      "multiplier": 4.73,
-      "bedrooms": 2,
-      "bathrooms": 2,
-      "carSpaces": 2,
-      "officeOnTitle": true,
-      "pets": "yes",
-      "caretakingRemuneration": 192436,
-      "agreementTerm": "25",
-      "agreementRemaining": "23",
-      "agreementAge": "0",
-      "officeHours": "No Office Hours",
-      "lettingPool": 12,
-      "ownerOccupiers": 67,
-      "lockUps": 11,
-      "outsideAgents": 2,
-      "unitsInComplex": 92,
-      "suburb": "Labrador",
-      "state": "QLD",
-      "postcode": "4215",
-      "address": "230 Marine Parade",
-      "lat": -27.9504541,
-      "lng": 153.4090877,
-      "agentName": "Sam Saunders",
-      "agentPhone": "0447419950",
-      "agentEmail": "info@premiersales.com.au",
-      "agencyName": "Premier Business Sales",
-      "agencyWebsite": null,
-      "dateListed": "2026-07-10 02:10:25",
-      "lastUpdated": "2026-09-15 00:09:15"
-    },
-    {
       "id": "21186202",
       "url": "https://www.theonsitemanager.com.au/listing/21186202",
       "title": "Sunshine Beach Boutique Beauty with Exceptional Returns",
@@ -4679,7 +4802,7 @@
     {
       "id": "21183694",
       "url": "https://www.theonsitemanager.com.au/listing/21183694",
-      "title": "Apartment Management Rights in Stunning Northward",
+      "title": "Great Entry Level Business in Townsville",
       "category": "Permanent",
       "status": "current",
       "price": 400000,
@@ -4715,7 +4838,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "18 June 2026",
-      "lastUpdated": "2026-09-10 07:59:20"
+      "lastUpdated": "2026-11-01 21:05:16"
     },
     {
       "id": "21182037",
@@ -4882,47 +5005,6 @@
       "lastUpdated": "2026-10-16 08:05:02"
     },
     {
-      "id": "21198332",
-      "url": "https://www.theonsitemanager.com.au/listing/21198332",
-      "title": "Permanent Management Rights - $181K Body Corp Salary | 24 Years Remaining | No Office Hours",
-      "category": "Permanent",
-      "status": "current",
-      "price": 1786000,
-      "priceView": "$1,786,000",
-      "netIncome": 205739,
-      "netIncomeBasis": "actual",
-      "unitValue": 840000,
-      "multiplier": 4.6,
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "carSpaces": 1,
-      "officeOnTitle": true,
-      "pets": "yes",
-      "caretakingRemuneration": 181299,
-      "agreementTerm": "25",
-      "agreementRemaining": "24",
-      "agreementAge": "29",
-      "officeHours": "No Set Office Hours",
-      "lettingPool": 13,
-      "ownerOccupiers": 89,
-      "lockUps": 0,
-      "outsideAgents": 0,
-      "unitsInComplex": 103,
-      "suburb": "Taigum",
-      "state": "QLD",
-      "postcode": "4018",
-      "address": "308 Handford Road",
-      "lat": -27.3462147,
-      "lng": 153.0397751,
-      "agentName": "Greg Erwin",
-      "agentPhone": "0455 233 844",
-      "agentEmail": "info@hotelresortsales.com.au",
-      "agencyName": "Hotel Resort Sales",
-      "agencyWebsite": null,
-      "dateListed": "30 September 2026",
-      "lastUpdated": "2026-10-01 23:38:08"
-    },
-    {
       "id": "21197220",
       "url": "https://www.theonsitemanager.com.au/listing/21197220",
       "title": "Well Established Permanent Management Rights - Strong Letting Pool - ID 7992",
@@ -4962,47 +5044,6 @@
       "agencyWebsite": null,
       "dateListed": "2026-09-22 00:36:58",
       "lastUpdated": "2026-10-01 03:38:11"
-    },
-    {
-      "id": "21196390",
-      "url": "https://www.theonsitemanager.com.au/listing/21196390",
-      "title": "Prestigious Main Beach Permanent Management Rights with over $305k Body Corporate Salary",
-      "category": "Permanent",
-      "status": "current",
-      "price": 2800000,
-      "priceView": "$2,800,000",
-      "netIncome": 319638,
-      "netIncomeBasis": "actual",
-      "unitValue": 1200000,
-      "multiplier": 5.01,
-      "bedrooms": 2,
-      "bathrooms": 2,
-      "carSpaces": 1,
-      "officeOnTitle": true,
-      "pets": "yes",
-      "caretakingRemuneration": 305869,
-      "agreementTerm": "10",
-      "agreementRemaining": "10",
-      "agreementAge": "36",
-      "officeHours": "Mon to Friday 8.30am-1pm",
-      "lettingPool": 4,
-      "ownerOccupiers": 34,
-      "lockUps": 31,
-      "outsideAgents": 2,
-      "unitsInComplex": 72,
-      "suburb": "Main Beach",
-      "state": "QLD",
-      "postcode": "4217",
-      "address": "36 Stafford Avenue",
-      "lat": -27.9769591,
-      "lng": 153.4273139,
-      "agentName": "Craig Johnson",
-      "agentPhone": "0493 108 073",
-      "agentEmail": "info@hotelresortsales.com.au",
-      "agencyName": "Hotel Resort Sales",
-      "agencyWebsite": null,
-      "dateListed": "15 September 2026",
-      "lastUpdated": "2026-10-20 02:15:07"
     },
     {
       "id": "21196140",
@@ -5661,47 +5702,6 @@
       "lastUpdated": "2026-09-28 02:05:43"
     },
     {
-      "id": "21184995",
-      "url": "https://www.theonsitemanager.com.au/listing/21184995",
-      "title": "Townsville Permanent Management Rights with Exceptional Remuneration",
-      "category": "Permanent",
-      "status": "current",
-      "price": 1750000,
-      "priceView": "$1,699,000",
-      "netIncome": 296480,
-      "netIncomeBasis": "actual",
-      "unitValue": 599000,
-      "multiplier": 3.88,
-      "bedrooms": 2,
-      "bathrooms": 2,
-      "carSpaces": 1,
-      "officeOnTitle": true,
-      "pets": "yes",
-      "caretakingRemuneration": 252000,
-      "agreementTerm": "25",
-      "agreementRemaining": "23",
-      "agreementAge": "20",
-      "officeHours": "No Set Office Hours ",
-      "lettingPool": 20,
-      "ownerOccupiers": 81,
-      "lockUps": 0,
-      "outsideAgents": 7,
-      "unitsInComplex": 20,
-      "suburb": "Rosslea",
-      "state": "QLD",
-      "postcode": "4812",
-      "address": "Bowen Road",
-      "lat": -19.3013337,
-      "lng": 146.8003875,
-      "agentName": "Rebecca Johnson",
-      "agentPhone": "0455 445 531",
-      "agentEmail": "info@hotelresortsales.com.au",
-      "agencyName": "Hotel Resort Sales",
-      "agencyWebsite": null,
-      "dateListed": "26 June 2026",
-      "lastUpdated": "2026-09-10 07:59:20"
-    },
-    {
       "id": "21184414",
       "url": "https://www.theonsitemanager.com.au/listing/21184414",
       "title": "$303,878 High Net + Modern 3-Bedroom Townhouse - ID 8873",
@@ -6355,7 +6355,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "27 August 2026",
-      "lastUpdated": "2026-10-31 15:11:31"
+      "lastUpdated": "2026-11-01 13:11:22"
     },
     {
       "id": "21185760",
@@ -6396,7 +6396,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "02 July 2026",
-      "lastUpdated": "2026-10-31 15:10:56"
+      "lastUpdated": "2026-11-01 13:10:46"
     },
     {
       "id": "21183759",
@@ -6437,7 +6437,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "18 June 2026",
-      "lastUpdated": "2026-10-31 15:11:18"
+      "lastUpdated": "2026-11-01 13:11:05"
     },
     {
       "id": "21181334",
@@ -6478,7 +6478,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "03 June 2026",
-      "lastUpdated": "2026-10-31 15:11:15"
+      "lastUpdated": "2026-11-01 13:11:03"
     },
     {
       "id": "21204771",
@@ -6519,7 +6519,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "30 October 2026",
-      "lastUpdated": "2026-10-31 15:11:45"
+      "lastUpdated": "2026-11-01 13:11:35"
     },
     {
       "id": "21204590",
@@ -6560,7 +6560,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "29 October 2026",
-      "lastUpdated": "2026-10-31 15:11:45"
+      "lastUpdated": "2026-11-01 13:11:35"
     },
     {
       "id": "21204435",
@@ -6642,7 +6642,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "27 October 2026",
-      "lastUpdated": "2026-10-31 15:11:43"
+      "lastUpdated": "2026-11-01 13:11:34"
     },
     {
       "id": "21204255",
@@ -6683,7 +6683,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "27 October 2026",
-      "lastUpdated": "2026-10-31 15:11:27"
+      "lastUpdated": "2026-11-01 13:11:18"
     },
     {
       "id": "21203790",
@@ -6724,7 +6724,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "26 October 2026",
-      "lastUpdated": "2026-10-31 15:11:42"
+      "lastUpdated": "2026-11-01 13:11:33"
     },
     {
       "id": "21203538",
@@ -6765,7 +6765,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "23 October 2026",
-      "lastUpdated": "2026-10-31 15:11:41"
+      "lastUpdated": "2026-11-01 13:11:32"
     },
     {
       "id": "21203348",
@@ -6806,7 +6806,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "22 October 2026",
-      "lastUpdated": "2026-10-31 15:11:40"
+      "lastUpdated": "2026-11-01 13:11:31"
     },
     {
       "id": "21203093",
@@ -6888,7 +6888,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "21 October 2026",
-      "lastUpdated": "2026-10-31 15:11:41"
+      "lastUpdated": "2026-11-01 13:11:31"
     },
     {
       "id": "21202943",
@@ -6970,7 +6970,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "19 October 2026",
-      "lastUpdated": "2026-10-31 15:11:41"
+      "lastUpdated": "2026-11-01 13:11:32"
     },
     {
       "id": "21202648",
@@ -7011,7 +7011,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "19 October 2026",
-      "lastUpdated": "2026-10-31 15:11:40"
+      "lastUpdated": "2026-11-01 13:11:31"
     },
     {
       "id": "21202503",
@@ -7134,7 +7134,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "14 October 2026",
-      "lastUpdated": "2026-10-31 15:11:37"
+      "lastUpdated": "2026-11-01 13:11:28"
     },
     {
       "id": "21201493",
@@ -7175,7 +7175,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 October 2026",
-      "lastUpdated": "2026-10-31 15:11:34"
+      "lastUpdated": "2026-11-01 13:11:25"
     },
     {
       "id": "21201298",
@@ -7216,7 +7216,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "12 October 2026",
-      "lastUpdated": "2026-10-31 15:11:39"
+      "lastUpdated": "2026-11-01 13:11:31"
     },
     {
       "id": "21201288",
@@ -7257,7 +7257,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "12 October 2026",
-      "lastUpdated": "2026-10-31 15:11:39"
+      "lastUpdated": "2026-11-01 13:11:30"
     },
     {
       "id": "21200753",
@@ -7339,7 +7339,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "07 October 2026",
-      "lastUpdated": "2026-10-31 15:11:25"
+      "lastUpdated": "2026-11-01 13:11:15"
     },
     {
       "id": "21199248",
@@ -7462,7 +7462,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "29 September 2026",
-      "lastUpdated": "2026-10-31 15:11:37"
+      "lastUpdated": "2026-11-01 13:11:28"
     },
     {
       "id": "21197962",
@@ -7503,7 +7503,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "28 September 2026",
-      "lastUpdated": "2026-10-31 15:11:36"
+      "lastUpdated": "2026-11-01 13:11:27"
     },
     {
       "id": "21197952",
@@ -7544,7 +7544,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "28 September 2026",
-      "lastUpdated": "2026-10-31 15:11:07"
+      "lastUpdated": "2026-11-01 13:10:56"
     },
     {
       "id": "21197155",
@@ -7585,7 +7585,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "21 September 2026",
-      "lastUpdated": "2026-10-31 15:11:35"
+      "lastUpdated": "2026-11-01 13:11:26"
     },
     {
       "id": "21196560",
@@ -7667,7 +7667,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "15 September 2026",
-      "lastUpdated": "2026-10-25 13:11:14"
+      "lastUpdated": "2026-11-01 13:11:23"
     },
     {
       "id": "21195394",
@@ -7708,7 +7708,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "07 September 2026",
-      "lastUpdated": "2026-10-31 15:11:31"
+      "lastUpdated": "2026-11-01 13:11:22"
     },
     {
       "id": "21194618",
@@ -7790,7 +7790,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "25 August 2026",
-      "lastUpdated": "2026-10-31 15:11:26"
+      "lastUpdated": "2026-11-01 13:11:17"
     },
     {
       "id": "21193523",
@@ -7831,7 +7831,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "24 August 2026",
-      "lastUpdated": "2026-10-31 15:11:30"
+      "lastUpdated": "2026-11-01 13:11:22"
     },
     {
       "id": "21193166",
@@ -7872,7 +7872,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "20 August 2026",
-      "lastUpdated": "2026-10-31 15:11:29"
+      "lastUpdated": "2026-11-01 13:11:20"
     },
     {
       "id": "21192570",
@@ -7913,7 +7913,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "17 August 2026",
-      "lastUpdated": "2026-10-31 15:11:27"
+      "lastUpdated": "2026-11-01 13:11:18"
     },
     {
       "id": "21192120",
@@ -7954,7 +7954,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 August 2026",
-      "lastUpdated": "2026-10-31 15:11:25"
+      "lastUpdated": "2026-11-01 13:11:15"
     },
     {
       "id": "21191852",
@@ -8036,7 +8036,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "10 August 2026",
-      "lastUpdated": "2026-10-31 15:11:25"
+      "lastUpdated": "2026-11-01 13:11:17"
     },
     {
       "id": "21191592",
@@ -8118,7 +8118,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "10 August 2026",
-      "lastUpdated": "2026-09-10 07:59:20"
+      "lastUpdated": "2026-11-02 06:05:09"
     },
     {
       "id": "21191107",
@@ -8282,7 +8282,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "29 July 2026",
-      "lastUpdated": "2026-10-31 15:11:23"
+      "lastUpdated": "2026-11-01 13:11:11"
     },
     {
       "id": "21189356",
@@ -8323,7 +8323,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "27 July 2026",
-      "lastUpdated": "2026-10-31 15:11:20"
+      "lastUpdated": "2026-11-01 13:11:08"
     },
     {
       "id": "21188856",
@@ -8405,7 +8405,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "21 July 2026",
-      "lastUpdated": "2026-10-31 15:11:20"
+      "lastUpdated": "2026-11-01 13:11:08"
     },
     {
       "id": "21188411",
@@ -8569,7 +8569,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "14 July 2026",
-      "lastUpdated": "2026-10-31 15:11:21"
+      "lastUpdated": "2026-11-01 13:11:09"
     },
     {
       "id": "21187201",
@@ -8610,7 +8610,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 July 2026",
-      "lastUpdated": "2026-10-31 15:11:22"
+      "lastUpdated": "2026-11-01 13:11:10"
     },
     {
       "id": "21186292",
@@ -8651,7 +8651,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "06 July 2026",
-      "lastUpdated": "2026-10-31 15:11:21"
+      "lastUpdated": "2026-11-01 13:11:09"
     },
     {
       "id": "21185255",
@@ -8692,7 +8692,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "29 June 2026",
-      "lastUpdated": "2026-10-31 15:11:12"
+      "lastUpdated": "2026-11-01 13:11:00"
     },
     {
       "id": "21185020",
@@ -8733,7 +8733,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "26 June 2026",
-      "lastUpdated": "2026-10-31 15:11:20"
+      "lastUpdated": "2026-11-01 13:11:08"
     },
     {
       "id": "21184694",
@@ -8774,7 +8774,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "24 June 2026",
-      "lastUpdated": "2026-10-31 15:11:19"
+      "lastUpdated": "2026-11-01 13:11:07"
     },
     {
       "id": "21184674",
@@ -8815,7 +8815,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "24 June 2026",
-      "lastUpdated": "2026-10-31 15:10:41"
+      "lastUpdated": "2026-11-01 13:10:28"
     },
     {
       "id": "21184279",
@@ -8856,7 +8856,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "22 June 2026",
-      "lastUpdated": "2026-10-31 15:11:19"
+      "lastUpdated": "2026-11-01 13:11:07"
     },
     {
       "id": "21184209",
@@ -8979,7 +8979,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "18 June 2026",
-      "lastUpdated": "2026-10-31 15:11:18"
+      "lastUpdated": "2026-11-01 13:11:06"
     },
     {
       "id": "21183649",
@@ -9020,7 +9020,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "18 June 2026",
-      "lastUpdated": "2026-10-31 15:11:18"
+      "lastUpdated": "2026-11-01 13:11:05"
     },
     {
       "id": "21183639",
@@ -9061,7 +9061,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "18 June 2026",
-      "lastUpdated": "2026-10-25 13:10:31"
+      "lastUpdated": "2026-11-01 13:10:37"
     },
     {
       "id": "21183173",
@@ -9102,7 +9102,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "15 June 2026",
-      "lastUpdated": "2026-10-31 15:11:18"
+      "lastUpdated": "2026-11-01 13:11:06"
     },
     {
       "id": "21182742",
@@ -9143,7 +9143,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 June 2026",
-      "lastUpdated": "2026-10-31 15:11:17"
+      "lastUpdated": "2026-11-01 13:11:05"
     },
     {
       "id": "21182202",
@@ -9184,7 +9184,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "09 June 2026",
-      "lastUpdated": "2026-10-31 15:11:16"
+      "lastUpdated": "2026-11-01 13:11:04"
     },
     {
       "id": "21181951",
@@ -9225,7 +9225,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "08 June 2026",
-      "lastUpdated": "2026-10-25 13:10:56"
+      "lastUpdated": "2026-11-01 13:11:02"
     },
     {
       "id": "21181715",
@@ -9266,7 +9266,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "07 June 2026",
-      "lastUpdated": "2026-10-31 15:11:11"
+      "lastUpdated": "2026-11-01 13:10:59"
     },
     {
       "id": "21180114",
@@ -9348,7 +9348,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "26 May 2026",
-      "lastUpdated": "2026-10-31 15:11:12"
+      "lastUpdated": "2026-11-01 13:11:00"
     },
     {
       "id": "21178864",
@@ -9389,7 +9389,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "25 May 2026",
-      "lastUpdated": "2026-10-31 15:11:06"
+      "lastUpdated": "2026-11-01 13:10:55"
     },
     {
       "id": "21178239",
@@ -9471,7 +9471,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "20 May 2026",
-      "lastUpdated": "2026-10-31 15:11:09"
+      "lastUpdated": "2026-11-01 13:10:58"
     },
     {
       "id": "21176498",
@@ -9512,7 +9512,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
-      "lastUpdated": "2026-10-31 15:11:03"
+      "lastUpdated": "2026-11-01 13:10:53"
     },
     {
       "id": "21176458",
@@ -9553,7 +9553,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
-      "lastUpdated": "2026-10-31 15:11:06"
+      "lastUpdated": "2026-11-01 13:10:55"
     },
     {
       "id": "21176448",
@@ -9594,7 +9594,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 May 2026",
-      "lastUpdated": "2026-10-31 15:11:05"
+      "lastUpdated": "2026-11-01 13:10:54"
     },
     {
       "id": "21195689",
@@ -10045,7 +10045,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "23 October 2026",
-      "lastUpdated": "2026-10-23 03:05:04"
+      "lastUpdated": "2026-11-01 20:35:03"
     },
     {
       "id": "21203008",
@@ -10332,47 +10332,6 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "30 June 2026",
-      "lastUpdated": "2026-09-10 07:59:20"
-    },
-    {
-      "id": "21178174",
-      "url": "https://www.theonsitemanager.com.au/listing/21178174",
-      "title": "Business Only in Prime Mooloolaba Location",
-      "category": "Holiday",
-      "status": "current",
-      "price": 465000,
-      "priceView": "$465,000",
-      "netIncome": 133082,
-      "netIncomeBasis": "actual",
-      "unitValue": 0,
-      "multiplier": 3.49,
-      "bedrooms": 0,
-      "bathrooms": 0,
-      "carSpaces": 0,
-      "officeOnTitle": false,
-      "pets": "No",
-      "caretakingRemuneration": 50663,
-      "agreementTerm": "25",
-      "agreementRemaining": "24",
-      "agreementAge": "0",
-      "officeHours": "None required",
-      "lettingPool": 8,
-      "ownerOccupiers": 6,
-      "lockUps": 2,
-      "outsideAgents": 1,
-      "unitsInComplex": 18,
-      "suburb": "Mooloolaba",
-      "state": "QLD",
-      "postcode": "4557",
-      "address": "50 Burnett Street",
-      "lat": -26.6834958,
-      "lng": 153.1188359,
-      "agentName": "Adam Langer",
-      "agentPhone": "0468 317 321",
-      "agentEmail": "matt@managementrights.com",
-      "agencyName": "Australian Resort Management Sales",
-      "agencyWebsite": null,
-      "dateListed": "2026-05-20 10:22:07",
       "lastUpdated": "2026-09-10 07:59:20"
     },
     {
@@ -10988,7 +10947,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "30 October 2026",
-      "lastUpdated": "2026-10-31 15:11:45"
+      "lastUpdated": "2026-11-01 13:11:35"
     },
     {
       "id": "21204265",
@@ -11029,7 +10988,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "27 October 2026",
-      "lastUpdated": "2026-10-31 15:11:40"
+      "lastUpdated": "2026-11-01 13:11:31"
     },
     {
       "id": "21196255",
@@ -11070,7 +11029,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "14 September 2026",
-      "lastUpdated": "2026-10-25 13:11:14"
+      "lastUpdated": "2026-11-01 13:11:24"
     },
     {
       "id": "21178884",
@@ -11111,7 +11070,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "25 May 2026",
-      "lastUpdated": "2026-10-31 15:11:10"
+      "lastUpdated": "2026-11-01 13:10:58"
     },
     {
       "id": "21177942",
@@ -11152,7 +11111,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "19 May 2026",
-      "lastUpdated": "2026-10-31 15:11:03"
+      "lastUpdated": "2026-11-01 13:10:53"
     },
     {
       "id": "21175371",
@@ -11401,6 +11360,88 @@
       "lastUpdated": "2026-11-01 04:26:29"
     },
     {
+      "id": "21157355",
+      "url": "https://www.theonsitemanager.com.au/listing/21157355",
+      "title": " ABSOLUTE BEACHFRONT MANAGEMENT RIGHTS ",
+      "category": "Resort / Holiday",
+      "status": "current",
+      "price": 1790000,
+      "priceView": "$1,790,000",
+      "netIncome": 213684,
+      "netIncomeBasis": "actual",
+      "unitValue": 975000,
+      "multiplier": 3.81,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "carSpaces": 2,
+      "officeOnTitle": true,
+      "pets": "No",
+      "caretakingRemuneration": 83529,
+      "agreementTerm": "25",
+      "agreementRemaining": "22",
+      "agreementAge": "0",
+      "officeHours": "Set",
+      "lettingPool": 18,
+      "ownerOccupiers": 11,
+      "lockUps": 5,
+      "outsideAgents": 1,
+      "unitsInComplex": 35,
+      "suburb": "Tugun",
+      "state": "QLD",
+      "postcode": "4224",
+      "address": "443 Golden Four Drive",
+      "lat": -28.143616,
+      "lng": 153.494865,
+      "agentName": "Scott Saunders",
+      "agentPhone": "0432144822",
+      "agentEmail": "info@premiersales.com.au",
+      "agencyName": "Premier Business Sales",
+      "agencyWebsite": null,
+      "dateListed": "02 April 2026",
+      "lastUpdated": "2026-11-02 02:05:04"
+    },
+    {
+      "id": "21156419",
+      "url": "https://www.theonsitemanager.com.au/listing/21156419",
+      "title": "\"EVERY DAY FEELS LIKE A HOLIDAY AT  TIMBERTOP TERRACES.\"",
+      "category": "Permanent",
+      "status": "current",
+      "price": 1200000,
+      "priceView": "$1,200,000",
+      "netIncome": 104479,
+      "netIncomeBasis": "actual",
+      "unitValue": 850000,
+      "multiplier": 3.35,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "carSpaces": 2,
+      "officeOnTitle": false,
+      "pets": "yes",
+      "caretakingRemuneration": 98039,
+      "agreementTerm": "10",
+      "agreementRemaining": "10",
+      "agreementAge": "0",
+      "officeHours": "07h00 - 15h00 weekdays excluding holidays Contactable onsite",
+      "lettingPool": 6,
+      "ownerOccupiers": 43,
+      "lockUps": 0,
+      "outsideAgents": 7,
+      "unitsInComplex": 58,
+      "suburb": "Runaway Bay",
+      "state": "QLD",
+      "postcode": "4216",
+      "address": "469 Pine Ridge Road",
+      "lat": -27.9192556,
+      "lng": 153.3866507,
+      "agentName": "Barry Teren",
+      "agentPhone": "0414565530",
+      "agentEmail": "barryteren@gmail.com",
+      "agencyName": "Management Rights Agents",
+      "agencyWebsite": null,
+      "dateListed": "28 October 2025",
+      "lastUpdated": "2026-11-01 22:22:15"
+    },
+    {
       "id": "21130954",
       "url": "https://www.theonsitemanager.com.au/listing/21130954",
       "title": "ROBINA BLISS - GOLD COAST GEM",
@@ -11440,6 +11481,129 @@
       "agencyWebsite": null,
       "dateListed": "04 April 2026",
       "lastUpdated": "2026-11-01 04:25:36"
+    },
+    {
+      "id": "21172060",
+      "url": "https://www.theonsitemanager.com.au/listing/21172060",
+      "title": "25 Years Agreement, Great Caretaking Salary $158k and 3% Annual Increase",
+      "category": "Permanent",
+      "status": "current",
+      "price": 1600000,
+      "priceView": "$868k/4.8 times on MR and $780k on MU",
+      "netIncome": 180703,
+      "netIncomeBasis": "actual",
+      "unitValue": 0,
+      "multiplier": 8.85,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": true,
+      "pets": "No",
+      "caretakingRemuneration": 157589,
+      "agreementTerm": "25",
+      "agreementRemaining": "25",
+      "agreementAge": "0",
+      "officeHours": "As Per Agreements",
+      "lettingPool": 0,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 14,
+      "suburb": "Oxley",
+      "state": "QLD",
+      "postcode": "4075",
+      "address": "86 Cook Street",
+      "lat": -27.552877,
+      "lng": 152.974715,
+      "agentName": "David Jiang",
+      "agentPhone": "0481500278",
+      "agentEmail": "davidjianghui@nextrealty.com.au",
+      "agencyName": "NEXT International Realty Pty Ltd",
+      "agencyWebsite": null,
+      "dateListed": "07 April 2026",
+      "lastUpdated": "2026-11-01 23:52:08"
+    },
+    {
+      "id": "21148488",
+      "url": "https://www.theonsitemanager.com.au/listing/21148488",
+      "title": "Well-priced for Sale, Large Remuneration, Solid Permanent MR in Capalaba - Brisbane Bayside",
+      "category": "Permanent",
+      "status": "current",
+      "price": 1250000,
+      "priceView": "$658k/4.5 times on MR and $680k on MU",
+      "netIncome": 148977,
+      "netIncomeBasis": "actual",
+      "unitValue": 680000,
+      "multiplier": 3.83,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "carSpaces": 2,
+      "officeOnTitle": true,
+      "pets": "No",
+      "caretakingRemuneration": 114614,
+      "agreementTerm": "25",
+      "agreementRemaining": "20",
+      "agreementAge": "0",
+      "officeHours": "None",
+      "lettingPool": 18,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 0,
+      "suburb": "Capalaba",
+      "state": "QLD",
+      "postcode": "4157",
+      "address": "Redland Bay Road",
+      "lat": -27.525711,
+      "lng": 153.19336,
+      "agentName": "David Jiang",
+      "agentPhone": "+61 481500278",
+      "agentEmail": "davidjianghui@nextrealty.com.au",
+      "agencyName": "NEXT International Realty Pty Ltd",
+      "agencyWebsite": null,
+      "dateListed": "01 April 2026",
+      "lastUpdated": "2026-11-01 23:54:52"
+    },
+    {
+      "id": "21145377",
+      "url": "https://www.theonsitemanager.com.au/listing/21145377",
+      "title": "Business Only, Nearly New Complex, Permanent MLR in Brisbane Southside",
+      "category": "Permanent",
+      "status": "current",
+      "price": 1800000,
+      "priceView": "$1,813,600 Business Only",
+      "netIncome": 302268,
+      "netIncomeBasis": "actual",
+      "unitValue": 0,
+      "multiplier": 5.95,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": false,
+      "pets": "No",
+      "caretakingRemuneration": 139088,
+      "agreementTerm": "25",
+      "agreementRemaining": "24",
+      "agreementAge": "0",
+      "officeHours": "None",
+      "lettingPool": 51,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 0,
+      "suburb": "Heathwood",
+      "state": "QLD",
+      "postcode": "4110",
+      "address": "31 Stapylton Road",
+      "lat": -27.642378,
+      "lng": 152.985253,
+      "agentName": "David Jiang",
+      "agentPhone": "0481500278",
+      "agentEmail": "davidjianghui@nextrealty.com.au",
+      "agencyName": "NEXT International Realty Pty Ltd",
+      "agencyWebsite": null,
+      "dateListed": "29 July 2025",
+      "lastUpdated": "2026-11-01 23:53:38"
     },
     {
       "id": "21174079",
@@ -11849,7 +12013,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "17 April 2026",
-      "lastUpdated": "2026-10-31 15:11:00"
+      "lastUpdated": "2026-11-01 13:10:50"
     },
     {
       "id": "21172147",
@@ -13079,7 +13243,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "08 September 2025",
-      "lastUpdated": "2026-10-31 15:10:42"
+      "lastUpdated": "2026-11-01 13:10:32"
     },
     {
       "id": "21160415",
@@ -13246,47 +13410,6 @@
       "lastUpdated": "2026-09-18 00:25:46"
     },
     {
-      "id": "21157355",
-      "url": "https://www.theonsitemanager.com.au/listing/21157355",
-      "title": " ABSOLUTE BEACHFRONT MANAGEMENT RIGHTS ",
-      "category": "Resort / Holiday",
-      "status": "current",
-      "price": 1790000,
-      "priceView": "$1,790,000",
-      "netIncome": 213684,
-      "netIncomeBasis": "actual",
-      "unitValue": 975000,
-      "multiplier": 3.81,
-      "bedrooms": 2,
-      "bathrooms": 2,
-      "carSpaces": 2,
-      "officeOnTitle": true,
-      "pets": "No",
-      "caretakingRemuneration": 83529,
-      "agreementTerm": "25",
-      "agreementRemaining": "22",
-      "agreementAge": "0",
-      "officeHours": "Set",
-      "lettingPool": 18,
-      "ownerOccupiers": 11,
-      "lockUps": 5,
-      "outsideAgents": 1,
-      "unitsInComplex": 35,
-      "suburb": "Tugun",
-      "state": "QLD",
-      "postcode": "4224",
-      "address": "443 Golden Four Drive",
-      "lat": -28.143616,
-      "lng": 153.494865,
-      "agentName": "Scott Saunders",
-      "agentPhone": "0432144822",
-      "agentEmail": "info@premiersales.com.au",
-      "agencyName": "Premier Business Sales",
-      "agencyWebsite": null,
-      "dateListed": "02 April 2026",
-      "lastUpdated": "2026-09-01 00:15:47"
-    },
-    {
       "id": "21157105",
       "url": "https://www.theonsitemanager.com.au/listing/21157105",
       "title": "Possibly the Best Management Rights Deal Ever",
@@ -13367,47 +13490,6 @@
       "agencyWebsite": null,
       "dateListed": "04 July 2025",
       "lastUpdated": "2026-04-10 04:13:39"
-    },
-    {
-      "id": "21156419",
-      "url": "https://www.theonsitemanager.com.au/listing/21156419",
-      "title": " OH SO EASILY MANAGED - RETIREE AND FIRST TIME BUYER READY.  ALL FOR $1.2M.",
-      "category": "Permanent",
-      "status": "current",
-      "price": 1200000,
-      "priceView": "$1,200,000",
-      "netIncome": 104479,
-      "netIncomeBasis": "actual",
-      "unitValue": 850000,
-      "multiplier": 3.35,
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "carSpaces": 2,
-      "officeOnTitle": false,
-      "pets": "yes",
-      "caretakingRemuneration": 98039,
-      "agreementTerm": "10",
-      "agreementRemaining": "10",
-      "agreementAge": "0",
-      "officeHours": "07h00 - 15h00 weekdays excluding holidays Contactable onsite",
-      "lettingPool": 6,
-      "ownerOccupiers": 43,
-      "lockUps": 0,
-      "outsideAgents": 7,
-      "unitsInComplex": 58,
-      "suburb": "Runaway Bay",
-      "state": "QLD",
-      "postcode": "4216",
-      "address": "469 Pine Ridge Road",
-      "lat": -27.9192556,
-      "lng": 153.3866507,
-      "agentName": "Barry Teren",
-      "agentPhone": "0414565530",
-      "agentEmail": "barryteren@gmail.com",
-      "agencyName": "Management Rights Agents",
-      "agencyWebsite": null,
-      "dateListed": "28 October 2025",
-      "lastUpdated": "2026-10-12 02:39:29"
     },
     {
       "id": "21154820",
@@ -14025,47 +14107,6 @@
       "lastUpdated": "2026-10-12 01:56:04"
     },
     {
-      "id": "21172060",
-      "url": "https://www.theonsitemanager.com.au/listing/21172060",
-      "title": "25 Years Agreement, Great Caretaking Salary $158k and 3% Annual Increase",
-      "category": "Permanent",
-      "status": "current",
-      "price": 1600000,
-      "priceView": "$868k/4.8 times on MR and $780k on MU",
-      "netIncome": 180703,
-      "netIncomeBasis": "actual",
-      "unitValue": 0,
-      "multiplier": 8.85,
-      "bedrooms": 0,
-      "bathrooms": 0,
-      "carSpaces": 0,
-      "officeOnTitle": true,
-      "pets": "No",
-      "caretakingRemuneration": 157589,
-      "agreementTerm": "25",
-      "agreementRemaining": "25",
-      "agreementAge": "0",
-      "officeHours": "As Per Agreements",
-      "lettingPool": 0,
-      "ownerOccupiers": 0,
-      "lockUps": 0,
-      "outsideAgents": 0,
-      "unitsInComplex": 14,
-      "suburb": "Oxley",
-      "state": "QLD",
-      "postcode": "4075",
-      "address": "86 Cook Street",
-      "lat": -27.552877,
-      "lng": 152.974715,
-      "agentName": "David Jiang",
-      "agentPhone": "0481500278",
-      "agentEmail": "davidjianghui@nextrealty.com.au",
-      "agencyName": "NEXT International Realty Pty Ltd",
-      "agencyWebsite": null,
-      "dateListed": "07 April 2026",
-      "lastUpdated": "2026-10-19 11:59:18"
-    },
-    {
       "id": "21169016",
       "url": "https://www.theonsitemanager.com.au/listing/21169016",
       "title": "Business Only Permanent Business in West End",
@@ -14435,47 +14476,6 @@
       "lastUpdated": "2026-09-02 06:09:02"
     },
     {
-      "id": "21148488",
-      "url": "https://www.theonsitemanager.com.au/listing/21148488",
-      "title": "Well-priced for Sale, Large Remuneration, Solid Permanent MR in Capalaba - Brisbane Bayside",
-      "category": "Permanent",
-      "status": "current",
-      "price": 1250000,
-      "priceView": "$658k/4.5 times on MR and $680k on MU",
-      "netIncome": 148977,
-      "netIncomeBasis": "actual",
-      "unitValue": 680000,
-      "multiplier": 3.83,
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "carSpaces": 2,
-      "officeOnTitle": true,
-      "pets": "No",
-      "caretakingRemuneration": 114614,
-      "agreementTerm": "25",
-      "agreementRemaining": "20",
-      "agreementAge": "0",
-      "officeHours": "None",
-      "lettingPool": 18,
-      "ownerOccupiers": 0,
-      "lockUps": 0,
-      "outsideAgents": 0,
-      "unitsInComplex": 0,
-      "suburb": "Capalaba",
-      "state": "QLD",
-      "postcode": "4157",
-      "address": "Redland Bay Road",
-      "lat": -27.525711,
-      "lng": 153.19336,
-      "agentName": "David Jiang",
-      "agentPhone": "+61 481500278",
-      "agentEmail": "davidjianghui@nextrealty.com.au",
-      "agencyName": "NEXT International Realty Pty Ltd",
-      "agencyWebsite": null,
-      "dateListed": "01 April 2026",
-      "lastUpdated": "2026-09-01 03:43:55"
-    },
-    {
       "id": "21146849",
       "url": "https://www.theonsitemanager.com.au/listing/21146849",
       "title": "Create Listing",
@@ -14515,47 +14515,6 @@
       "agencyWebsite": null,
       "dateListed": "20 April 2026",
       "lastUpdated": "2026-04-19 23:10:22"
-    },
-    {
-      "id": "21145377",
-      "url": "https://www.theonsitemanager.com.au/listing/21145377",
-      "title": "Business Only, Nearly New Complex, Permanent MLR in Brisbane Southside",
-      "category": "Permanent",
-      "status": "current",
-      "price": 1800000,
-      "priceView": "$1,813,600 Business Only",
-      "netIncome": 302268,
-      "netIncomeBasis": "actual",
-      "unitValue": 0,
-      "multiplier": 5.95,
-      "bedrooms": 0,
-      "bathrooms": 0,
-      "carSpaces": 0,
-      "officeOnTitle": false,
-      "pets": "No",
-      "caretakingRemuneration": 139088,
-      "agreementTerm": "25",
-      "agreementRemaining": "24",
-      "agreementAge": "0",
-      "officeHours": "None",
-      "lettingPool": 51,
-      "ownerOccupiers": 0,
-      "lockUps": 0,
-      "outsideAgents": 0,
-      "unitsInComplex": 0,
-      "suburb": "Heathwood",
-      "state": "QLD",
-      "postcode": "4110",
-      "address": "31 Stapylton Road",
-      "lat": -27.642378,
-      "lng": 152.985253,
-      "agentName": "David Jiang",
-      "agentPhone": "0481500278",
-      "agentEmail": "davidjianghui@nextrealty.com.au",
-      "agencyName": "NEXT International Realty Pty Ltd",
-      "agencyWebsite": null,
-      "dateListed": "29 July 2025",
-      "lastUpdated": "2026-10-01 00:47:07"
     },
     {
       "id": "21135566",
@@ -15293,7 +15252,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "07 April 2026",
-      "lastUpdated": "2026-06-22 04:00:04"
+      "lastUpdated": "2026-11-02 00:50:04"
     },
     {
       "id": "21170684",
@@ -17712,7 +17671,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 April 2026",
-      "lastUpdated": "2026-10-31 15:11:00"
+      "lastUpdated": "2026-11-01 13:10:50"
     },
     {
       "id": "21172726",
@@ -17876,7 +17835,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "04 March 2026",
-      "lastUpdated": "2026-10-25 13:10:37"
+      "lastUpdated": "2026-11-01 13:10:44"
     },
     {
       "id": "21167916",
@@ -17917,7 +17876,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "14 January 2026",
-      "lastUpdated": "2026-10-31 15:10:51"
+      "lastUpdated": "2026-11-01 13:10:42"
     },
     {
       "id": "21167467",
@@ -17958,7 +17917,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "23 April 2026",
-      "lastUpdated": "2026-10-31 15:10:42"
+      "lastUpdated": "2026-11-01 13:10:31"
     },
     {
       "id": "21166357",
@@ -17999,7 +17958,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "11 December 2025",
-      "lastUpdated": "2026-10-31 15:10:39"
+      "lastUpdated": "2026-11-01 13:10:26"
     },
     {
       "id": "21157398",
@@ -18368,7 +18327,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 April 2026",
-      "lastUpdated": "2026-10-31 15:10:54"
+      "lastUpdated": "2026-11-01 13:10:46"
     },
     {
       "id": "21173419",
@@ -18409,7 +18368,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 April 2026",
-      "lastUpdated": "2026-10-31 15:11:01"
+      "lastUpdated": "2026-11-01 13:10:51"
     },
     {
       "id": "21173399",
@@ -18450,7 +18409,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "13 April 2026",
-      "lastUpdated": "2026-10-31 15:11:00"
+      "lastUpdated": "2026-11-01 13:10:50"
     },
     {
       "id": "21173256",
@@ -18696,7 +18655,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "26 March 2026",
-      "lastUpdated": "2026-10-31 15:11:01"
+      "lastUpdated": "2026-11-01 13:10:51"
     },
     {
       "id": "21172124",
@@ -18737,7 +18696,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "23 March 2026",
-      "lastUpdated": "2026-10-25 13:10:36"
+      "lastUpdated": "2026-11-01 13:10:43"
     },
     {
       "id": "21172105",
@@ -18778,7 +18737,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "17 April 2026",
-      "lastUpdated": "2026-10-25 13:10:40"
+      "lastUpdated": "2026-11-01 13:10:48"
     },
     {
       "id": "21171998",
@@ -18942,7 +18901,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "16 March 2026",
-      "lastUpdated": "2026-10-31 15:10:58"
+      "lastUpdated": "2026-11-01 13:10:48"
     },
     {
       "id": "21171304",
@@ -19147,7 +19106,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "23 February 2026",
-      "lastUpdated": "2026-10-31 15:10:55"
+      "lastUpdated": "2026-11-01 13:10:46"
     },
     {
       "id": "21170521",
@@ -19270,7 +19229,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "17 February 2026",
-      "lastUpdated": "2026-10-31 15:10:54"
+      "lastUpdated": "2026-11-01 13:10:45"
     },
     {
       "id": "21169867",
@@ -19352,7 +19311,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "09 February 2026",
-      "lastUpdated": "2026-10-31 15:10:46"
+      "lastUpdated": "2026-11-01 13:10:36"
     },
     {
       "id": "21169178",
@@ -19680,7 +19639,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "08 January 2026",
-      "lastUpdated": "2026-10-25 13:10:25"
+      "lastUpdated": "2026-11-01 13:10:31"
     },
     {
       "id": "21167217",
@@ -19762,7 +19721,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "19 December 2025",
-      "lastUpdated": "2026-10-25 13:10:25"
+      "lastUpdated": "2026-11-01 13:10:30"
     },
     {
       "id": "21166057",
@@ -19926,7 +19885,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "12 November 2025",
-      "lastUpdated": "2026-10-31 15:10:47"
+      "lastUpdated": "2026-11-01 13:10:37"
     },
     {
       "id": "21164451",
@@ -20049,7 +20008,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "20 October 2025",
-      "lastUpdated": "2026-10-31 15:10:45"
+      "lastUpdated": "2026-11-01 13:10:35"
     },
     {
       "id": "21162334",
@@ -22714,7 +22673,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "17 March 2026",
-      "lastUpdated": "2026-10-25 13:10:35"
+      "lastUpdated": "2026-11-01 13:10:43"
     },
     {
       "id": "21171238",
@@ -22755,7 +22714,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "09 March 2026",
-      "lastUpdated": "2026-10-31 15:10:57"
+      "lastUpdated": "2026-11-01 13:10:47"
     },
     {
       "id": "21170924",
@@ -22878,7 +22837,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "16 February 2026",
-      "lastUpdated": "2026-10-25 13:10:35"
+      "lastUpdated": "2026-11-01 13:10:42"
     },
     {
       "id": "21169266",
@@ -23001,7 +22960,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "12 December 2025",
-      "lastUpdated": "2026-10-31 15:10:49"
+      "lastUpdated": "2026-11-01 13:10:40"
     },
     {
       "id": "21165051",
@@ -23042,7 +23001,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "16 December 2025",
-      "lastUpdated": "2026-10-31 15:10:47"
+      "lastUpdated": "2026-11-01 13:10:36"
     },
     {
       "id": "21161944",
@@ -23083,7 +23042,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "25 September 2025",
-      "lastUpdated": "2026-10-31 15:10:44"
+      "lastUpdated": "2026-11-01 13:10:33"
     },
     {
       "id": "21161419",
