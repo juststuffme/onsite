@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-06T09:15:26.543591",
-  "total": 567,
+  "scraped_at": "2026-11-07T08:42:14.182034",
+  "total": 566,
   "listings": [
     {
       "id": "21197922",
@@ -100,7 +100,7 @@
       "bathrooms": 2,
       "carSpaces": 2,
       "officeOnTitle": true,
-      "pets": "No",
+      "pets": "1",
       "caretakingRemuneration": 75474,
       "agreementTerm": "25",
       "agreementRemaining": "20",
@@ -123,7 +123,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "04 November 2026",
-      "lastUpdated": "2026-11-05 05:20:46"
+      "lastUpdated": "2026-11-06 13:14:07"
     },
     {
       "id": "21205071",
@@ -6606,7 +6606,7 @@
     {
       "id": "21193998",
       "url": "https://www.theonsitemanager.com.au/listing/21193998",
-      "title": "Blue Chip, High Net, Beachside Main Beach | Resort Brokers ID : MR009346",
+      "title": "BEACHSIDE GEM, EXCELLENT ROI, MAIN BEACH | Resort Brokers ID : MR009346",
       "category": "Permanent",
       "status": "current",
       "price": 4695000,
@@ -6642,7 +6642,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "27 August 2026",
-      "lastUpdated": "2026-11-05 13:11:11"
+      "lastUpdated": "2026-11-06 13:14:04"
     },
     {
       "id": "21185760",
@@ -6806,7 +6806,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "04 November 2026",
-      "lastUpdated": "2026-11-05 13:11:46"
+      "lastUpdated": "2026-11-06 13:14:10"
     },
     {
       "id": "21205427",
@@ -7585,7 +7585,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "28 September 2026",
-      "lastUpdated": "2026-11-02 13:10:38"
+      "lastUpdated": "2026-11-06 13:14:07"
     },
     {
       "id": "21197952",
@@ -7831,7 +7831,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "25 August 2026",
-      "lastUpdated": "2026-11-01 13:11:17"
+      "lastUpdated": "2026-11-06 13:14:03"
     },
     {
       "id": "21193166",
@@ -17756,47 +17756,6 @@
       "lastUpdated": "2026-04-10 04:13:39"
     },
     {
-      "id": "21169760",
-      "url": "https://www.theonsitemanager.com.au/listing/21169760",
-      "title": "EXCEPTIONAL BUSINESS ROI, LIVE ON, or OFF SITE IN BURLEIGH WATERS | Resort Brokers ID : MR009077",
-      "category": "Permanent",
-      "status": "current",
-      "price": 1998000,
-      "priceView": "$1,998,000",
-      "netIncome": 266743,
-      "netIncomeBasis": "actual",
-      "unitValue": 1000000,
-      "multiplier": 3.74,
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "carSpaces": 2,
-      "officeOnTitle": true,
-      "pets": "1",
-      "caretakingRemuneration": 104166,
-      "agreementTerm": "25",
-      "agreementRemaining": "22",
-      "agreementAge": "0",
-      "officeHours": "No set office hours",
-      "lettingPool": 37,
-      "ownerOccupiers": 30,
-      "lockUps": 0,
-      "outsideAgents": 2,
-      "unitsInComplex": 70,
-      "suburb": "Burleigh Waters",
-      "state": "QLD",
-      "postcode": "4220",
-      "address": "Bermuda Street",
-      "lat": -28.095217,
-      "lng": 153.42702,
-      "agentName": "Todd Warner",
-      "agentPhone": "0438 170 763",
-      "agentEmail": "info@resortbrokers.com.au",
-      "agencyName": "Resort Brokers",
-      "agencyWebsite": null,
-      "dateListed": "04 March 2026",
-      "lastUpdated": "2026-11-01 13:10:44"
-    },
-    {
       "id": "21167916",
       "url": "https://www.theonsitemanager.com.au/listing/21167916",
       "title": "ABSOLUTE BEACHFRONT, FLEXIBLE OPERATION, LIFESTYLE APPEAL, STRONG RETURNS! | Resort Brokers ID : MR009045",
@@ -18658,6 +18617,47 @@
       "lastUpdated": "2026-11-01 13:10:48"
     },
     {
+      "id": "21171998",
+      "url": "https://www.theonsitemanager.com.au/listing/21171998",
+      "title": "Low-Care Standalone MLR: 18%+ Business ROI, $309K Net Profit",
+      "category": "Permanent",
+      "status": "current",
+      "price": 2659188,
+      "priceView": "MR $1.76m + UNIT $898k = $2.66M",
+      "netIncome": 0,
+      "netIncomeBasis": "actual",
+      "unitValue": 0,
+      "multiplier": null,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "carSpaces": 2,
+      "officeOnTitle": true,
+      "pets": "1",
+      "caretakingRemuneration": 308840,
+      "agreementTerm": "24",
+      "agreementRemaining": "23",
+      "agreementAge": "12",
+      "officeHours": "No set hours",
+      "lettingPool": 38,
+      "ownerOccupiers": 60,
+      "lockUps": 0,
+      "outsideAgents": 9,
+      "unitsInComplex": 107,
+      "suburb": "Acacia Ridge",
+      "state": "QLD",
+      "postcode": "4110",
+      "address": "429 Watson Road",
+      "lat": -27.589633,
+      "lng": 153.02787,
+      "agentName": "Kevin Tsai",
+      "agentPhone": "0403 443 979",
+      "agentEmail": "fwc3xtxq@robot.zapier.com",
+      "agencyName": "Ras360",
+      "agencyWebsite": null,
+      "dateListed": "20 March 2026",
+      "lastUpdated": "2026-10-26 14:05:07"
+    },
+    {
       "id": "21171803",
       "url": "https://www.theonsitemanager.com.au/listing/21171803",
       "title": "Business only",
@@ -18738,47 +18738,6 @@
       "agencyWebsite": null,
       "dateListed": "14 March 2026",
       "lastUpdated": "2026-10-01 03:35:01"
-    },
-    {
-      "id": "21171418",
-      "url": "https://www.theonsitemanager.com.au/listing/21171418",
-      "title": "Premier Waterfront Permanent MLR delivering $431K+ NOP - Prime Brisbane CBD  | Resort Brokers ID : MR009117",
-      "category": "Permanent",
-      "status": "current",
-      "price": 2905029,
-      "priceView": "$2,905,029",
-      "netIncome": 431225,
-      "netIncomeBasis": "actual",
-      "unitValue": 650000,
-      "multiplier": 5.23,
-      "bedrooms": 1,
-      "bathrooms": 1,
-      "carSpaces": 1,
-      "officeOnTitle": false,
-      "pets": "1",
-      "caretakingRemuneration": 247899,
-      "agreementTerm": "10",
-      "agreementRemaining": "8",
-      "agreementAge": "0",
-      "officeHours": "Monday – Friday: 7:30am – 5pm Saturday: 9am – 12pm",
-      "lettingPool": 52,
-      "ownerOccupiers": 0,
-      "lockUps": 0,
-      "outsideAgents": 0,
-      "unitsInComplex": 150,
-      "suburb": "Brisbane City",
-      "state": "QLD",
-      "postcode": "4000",
-      "address": "35 Howard Street",
-      "lat": -27.46758,
-      "lng": 153.027892,
-      "agentName": "Jessie Shi",
-      "agentPhone": "0422 935 428",
-      "agentEmail": "info@resortbrokers.com.au",
-      "agencyName": "Resort Brokers",
-      "agencyWebsite": null,
-      "dateListed": "16 March 2026",
-      "lastUpdated": "2026-11-01 13:10:48"
     },
     {
       "id": "21171304",
@@ -19188,7 +19147,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "09 February 2026",
-      "lastUpdated": "2026-11-01 13:10:36"
+      "lastUpdated": "2026-11-06 13:10:05"
     },
     {
       "id": "21169178",
