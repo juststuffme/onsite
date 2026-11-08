@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-07T08:42:14.182034",
+  "scraped_at": "2026-11-08T08:56:23.404180",
   "total": 566,
   "listings": [
     {
@@ -7585,7 +7585,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "28 September 2026",
-      "lastUpdated": "2026-11-06 13:14:07"
+      "lastUpdated": "2026-11-07 13:10:24"
     },
     {
       "id": "21197952",
@@ -20122,7 +20122,7 @@
       "suburb": "Bongaree",
       "state": "QLD",
       "postcode": "4507",
-      "address": "Toorbul Street",
+      "address": "Campbell Street",
       "lat": -27.087454,
       "lng": 153.161686,
       "agentName": "Geoff Hatchman",
