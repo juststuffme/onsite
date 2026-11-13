@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-12T09:43:25.983113",
-  "total": 556,
+  "scraped_at": "2026-11-13T09:27:37.670683",
+  "total": 555,
   "listings": [
     {
       "id": "21197922",
@@ -697,7 +697,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "2026-09-28 06:19:30",
-      "lastUpdated": "2026-11-06 07:21:39"
+      "lastUpdated": "2026-11-13 01:09:26"
     },
     {
       "id": "21197807",
@@ -1274,6 +1274,47 @@
       "lastUpdated": "2026-11-11 23:51:40"
     },
     {
+      "id": "21202413",
+      "url": "https://www.theonsitemanager.com.au/listing/21202413",
+      "title": "Exclusive - No Onsite Living Required - Exceptional 3.30 Multiplier! - ID 7970",
+      "category": "Permanent",
+      "status": "current",
+      "price": 980000,
+      "priceView": "$980,000",
+      "netIncome": 73108,
+      "netIncomeBasis": "",
+      "unitValue": 0,
+      "multiplier": 13.4,
+      "bedrooms": 0,
+      "bathrooms": 0,
+      "carSpaces": 0,
+      "officeOnTitle": false,
+      "pets": "No",
+      "caretakingRemuneration": 0,
+      "agreementTerm": "0",
+      "agreementRemaining": "0",
+      "agreementAge": "0",
+      "officeHours": "",
+      "lettingPool": 0,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 15,
+      "suburb": "Surfers Paradise",
+      "state": "QLD",
+      "postcode": "4217",
+      "address": "7970 Barranbali Street",
+      "lat": -27.9974005,
+      "lng": 153.419431,
+      "agentName": "Bill He",
+      "agentPhone": "0439 288 960",
+      "agentEmail": "sales@mrsales.com.au",
+      "agencyName": "Management Rights Sales",
+      "agencyWebsite": null,
+      "dateListed": "16 October 2026",
+      "lastUpdated": "2026-11-12 23:33:14"
+    },
+    {
       "id": "21188776",
       "url": "https://www.theonsitemanager.com.au/listing/21188776",
       "title": "Huge Income and Rare Opportunity - 25 Years Permanent MR Business in Gold Coast",
@@ -1476,7 +1517,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "2026-11-06 06:43:44",
-      "lastUpdated": "2026-11-09 02:24:45"
+      "lastUpdated": "2026-11-13 01:07:43"
     },
     {
       "id": "21203098",
@@ -1725,6 +1766,47 @@
       "lastUpdated": "2026-11-01 21:08:52"
     },
     {
+      "id": "21196140",
+      "url": "https://www.theonsitemanager.com.au/listing/21196140",
+      "title": "Caretaking Only Management Rights - Main Beach - ID 8175",
+      "category": "Permanent",
+      "status": "current",
+      "price": 1850000,
+      "priceView": "$1,850,000",
+      "netIncome": 101734,
+      "netIncomeBasis": "actual",
+      "unitValue": 1500000,
+      "multiplier": 3.44,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "carSpaces": 1,
+      "officeOnTitle": false,
+      "pets": "yes",
+      "caretakingRemuneration": 90236,
+      "agreementTerm": "10",
+      "agreementRemaining": "9",
+      "agreementAge": "0",
+      "officeHours": "No office hours",
+      "lettingPool": 0,
+      "ownerOccupiers": 14,
+      "lockUps": 17,
+      "outsideAgents": 10,
+      "unitsInComplex": 42,
+      "suburb": "Main Beach",
+      "state": "QLD",
+      "postcode": "4217",
+      "address": "18 Macarthur Parade",
+      "lat": -27.9747341,
+      "lng": 153.4262415,
+      "agentName": "Phil Trimble",
+      "agentPhone": "0418 478 966",
+      "agentEmail": "sales@mrsales.com.au",
+      "agencyName": "Management Rights Sales",
+      "agencyWebsite": null,
+      "dateListed": "2026-09-14 01:26:23",
+      "lastUpdated": "2026-11-12 23:41:37"
+    },
+    {
       "id": "21192816",
       "url": "https://www.theonsitemanager.com.au/listing/21192816",
       "title": "RIGHT ON BEACH: GENERATING OVER $410,000 ANNUALLY WITH MINIMAL CARETAKING REQUIREMENTS IN THE CENTRE OF SURFERS PARADISE",
@@ -1891,15 +1973,15 @@
     {
       "id": "21204265",
       "url": "https://www.theonsitemanager.com.au/listing/21204265",
-      "title": "Capri Business-Only: $130K Salary, 25-Year Agreement, No Property Purchase | Resort Brokers ID : MRB009397",
+      "title": "Business-Only $130K Salary, 25-Year Agreement, No Property Purchase | Resort Brokers ID : MRB009397",
       "category": "Permanent",
       "status": "current",
       "price": 1200000,
       "priceView": "$1,200,000",
-      "netIncome": 203000,
+      "netIncome": 220792,
       "netIncomeBasis": "actual",
       "unitValue": 0,
-      "multiplier": 5.91,
+      "multiplier": 5.43,
       "bedrooms": 0,
       "bathrooms": 0,
       "carSpaces": 0,
@@ -1927,7 +2009,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "27 October 2026",
-      "lastUpdated": "2026-11-08 13:11:50"
+      "lastUpdated": "2026-11-12 13:10:43"
     },
     {
       "id": "21195900",
@@ -2993,7 +3075,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "2026-06-25 04:39:28",
-      "lastUpdated": "2026-11-06 08:27:59"
+      "lastUpdated": "2026-11-13 01:08:07"
     },
     {
       "id": "21184494",
@@ -5330,7 +5412,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "2026-07-06 06:44:59",
-      "lastUpdated": "2026-11-10 05:15:58"
+      "lastUpdated": "2026-11-13 01:06:38"
     },
     {
       "id": "21185690",
@@ -5576,48 +5658,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "2026-09-22 00:36:58",
-      "lastUpdated": "2026-10-01 03:38:11"
-    },
-    {
-      "id": "21196140",
-      "url": "https://www.theonsitemanager.com.au/listing/21196140",
-      "title": "Caretaking Only Management Rights - Main Beach - ID 8175",
-      "category": "Permanent",
-      "status": "current",
-      "price": 1850000,
-      "priceView": "$1,850,000",
-      "netIncome": 101734,
-      "netIncomeBasis": "actual",
-      "unitValue": 1500000,
-      "multiplier": 3.44,
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "carSpaces": 1,
-      "officeOnTitle": false,
-      "pets": "yes",
-      "caretakingRemuneration": 90236,
-      "agreementTerm": "10",
-      "agreementRemaining": "9",
-      "agreementAge": "0",
-      "officeHours": "No office hours",
-      "lettingPool": 0,
-      "ownerOccupiers": 14,
-      "lockUps": 17,
-      "outsideAgents": 10,
-      "unitsInComplex": 42,
-      "suburb": "Main Beach",
-      "state": "QLD",
-      "postcode": "4217",
-      "address": "18 Macarthur Parade",
-      "lat": -27.9747341,
-      "lng": 153.4262415,
-      "agentName": "Phil Trimble",
-      "agentPhone": "0418 478 966",
-      "agentEmail": "sales@mrsales.com.au",
-      "agencyName": "Management Rights Sales",
-      "agencyWebsite": null,
-      "dateListed": "2026-09-14 01:26:23",
-      "lastUpdated": "2026-10-01 03:39:49"
+      "lastUpdated": "2026-11-13 02:38:22"
     },
     {
       "id": "21195544",
@@ -5699,7 +5740,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "04 September 2026",
-      "lastUpdated": "2026-10-09 02:45:52"
+      "lastUpdated": "2026-11-13 05:26:57"
     },
     {
       "id": "21194918",
@@ -5740,7 +5781,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "2026-09-03 01:15:20",
-      "lastUpdated": "2026-09-10 07:59:20"
+      "lastUpdated": "2026-11-13 00:34:33"
     },
     {
       "id": "21194238",
@@ -5822,7 +5863,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "2026-08-26 05:16:54",
-      "lastUpdated": "2026-09-10 07:59:20"
+      "lastUpdated": "2026-11-13 00:40:39"
     },
     {
       "id": "21192806",
@@ -5945,7 +5986,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "2026-08-10 04:08:55",
-      "lastUpdated": "2026-09-10 07:59:20"
+      "lastUpdated": "2026-11-13 00:41:27"
     },
     {
       "id": "21191237",
@@ -5986,7 +6027,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "2026-08-07 03:32:51",
-      "lastUpdated": "2026-09-10 07:59:20"
+      "lastUpdated": "2026-11-13 00:44:42"
     },
     {
       "id": "21191012",
@@ -6109,7 +6150,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "2026-07-15 03:50:13",
-      "lastUpdated": "2026-10-12 05:27:10"
+      "lastUpdated": "2026-11-13 05:36:52"
     },
     {
       "id": "21186906",
@@ -6150,7 +6191,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "2026-07-10 05:05:18",
-      "lastUpdated": "2026-09-10 07:59:20"
+      "lastUpdated": "2026-11-13 00:59:03"
     },
     {
       "id": "21185380",
@@ -6191,7 +6232,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "2026-06-30 04:46:21",
-      "lastUpdated": "2026-09-28 02:05:43"
+      "lastUpdated": "2026-11-13 01:19:19"
     },
     {
       "id": "21184414",
@@ -6232,7 +6273,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "2026-06-23 05:01:04",
-      "lastUpdated": "2026-09-10 07:59:20"
+      "lastUpdated": "2026-11-13 01:00:29"
     },
     {
       "id": "21184194",
@@ -6396,7 +6437,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "2026-06-12 03:57:19",
-      "lastUpdated": "2026-09-10 07:59:20"
+      "lastUpdated": "2026-11-13 01:15:37"
     },
     {
       "id": "21181565",
@@ -6437,7 +6478,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "2026-06-05 01:44:15",
-      "lastUpdated": "2026-10-23 03:33:19"
+      "lastUpdated": "2026-11-13 06:36:03"
     },
     {
       "id": "21180499",
@@ -6519,7 +6560,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "2026-05-26 06:17:38",
-      "lastUpdated": "2026-09-10 07:59:20"
+      "lastUpdated": "2026-11-13 01:01:39"
     },
     {
       "id": "21178619",
@@ -6560,7 +6601,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "2026-05-22 21:04:21",
-      "lastUpdated": "2026-09-10 07:59:20"
+      "lastUpdated": "2026-11-13 01:02:33"
     },
     {
       "id": "21178614",
@@ -6601,7 +6642,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "2026-05-22 20:53:25",
-      "lastUpdated": "2026-09-10 07:59:20"
+      "lastUpdated": "2026-11-13 01:04:21"
     },
     {
       "id": "21174193",
@@ -6683,7 +6724,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "2026-05-26 05:18:57",
-      "lastUpdated": "2026-10-12 03:19:29"
+      "lastUpdated": "2026-11-13 05:33:33"
     },
     {
       "id": "21185760",
@@ -7875,47 +7916,6 @@
       "lastUpdated": "2026-11-08 13:11:41"
     },
     {
-      "id": "21194618",
-      "url": "https://www.theonsitemanager.com.au/listing/21194618",
-      "title": "High Net Business with Free Standing Residence",
-      "category": "Permanent",
-      "status": "current",
-      "price": 1999000,
-      "priceView": "$1.089M MR & $910K UNIT = Total $1.9M",
-      "netIncome": 246000,
-      "netIncomeBasis": "actual",
-      "unitValue": 0,
-      "multiplier": 8.13,
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "carSpaces": 2,
-      "officeOnTitle": true,
-      "pets": "1",
-      "caretakingRemuneration": 148000,
-      "agreementTerm": "25",
-      "agreementRemaining": "21",
-      "agreementAge": "13",
-      "officeHours": "No Office Hours",
-      "lettingPool": 36,
-      "ownerOccupiers": 22,
-      "lockUps": 0,
-      "outsideAgents": 10,
-      "unitsInComplex": 68,
-      "suburb": "Runaway Bay",
-      "state": "QLD",
-      "postcode": "4216",
-      "address": "Coombabah Road",
-      "lat": -27.9220582,
-      "lng": 153.3851306,
-      "agentName": "Greg Litzner",
-      "agentPhone": "0499 001 833",
-      "agentEmail": "fwc3xtxq@robot.zapier.com",
-      "agencyName": "Ras360",
-      "agencyWebsite": null,
-      "dateListed": "01 September 2026",
-      "lastUpdated": "2026-10-19 23:50:04"
-    },
-    {
       "id": "21193618",
       "url": "https://www.theonsitemanager.com.au/listing/21193618",
       "title": "Business Only MR Opportunity - No Facilities - Low Maintenance Operation  | Resort Brokers ID : MRB009309",
@@ -8323,7 +8323,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "2026-08-06 05:53:26",
-      "lastUpdated": "2026-11-06 08:27:43"
+      "lastUpdated": "2026-11-13 01:08:31"
     },
     {
       "id": "21190186",
@@ -9020,7 +9020,7 @@
       "agencyName": "Resort Brokers",
       "agencyWebsite": null,
       "dateListed": "18 June 2026",
-      "lastUpdated": "2026-11-08 13:11:20"
+      "lastUpdated": "2026-11-12 13:10:07"
     },
     {
       "id": "21183649",
@@ -9720,47 +9720,6 @@
       "lastUpdated": "2026-09-10 07:59:20"
     },
     {
-      "id": "21202413",
-      "url": "https://www.theonsitemanager.com.au/listing/21202413",
-      "title": "Exclusive - No Onsite Living Required - Exceptional 3.30 Multiplier! - ID 7970",
-      "category": "Permanent",
-      "status": "current",
-      "price": 980000,
-      "priceView": "$980,000",
-      "netIncome": 73108,
-      "netIncomeBasis": "",
-      "unitValue": 0,
-      "multiplier": 13.4,
-      "bedrooms": 0,
-      "bathrooms": 0,
-      "carSpaces": 0,
-      "officeOnTitle": false,
-      "pets": "0",
-      "caretakingRemuneration": 0,
-      "agreementTerm": "0",
-      "agreementRemaining": "0",
-      "agreementAge": "0",
-      "officeHours": "",
-      "lettingPool": 0,
-      "ownerOccupiers": 0,
-      "lockUps": 0,
-      "outsideAgents": 0,
-      "unitsInComplex": 15,
-      "suburb": "Surfers Paradise",
-      "state": "QLD",
-      "postcode": "4217",
-      "address": "7970 Barranbali Street",
-      "lat": -27.9974005,
-      "lng": 153.419431,
-      "agentName": "Bill He",
-      "agentPhone": "0439 288 960",
-      "agentEmail": "sales@mrsales.com.au",
-      "agencyName": "Management Rights Sales",
-      "agencyWebsite": null,
-      "dateListed": "16 October 2026",
-      "lastUpdated": "2026-10-16 07:45:32"
-    },
-    {
       "id": "21201118",
       "url": "https://www.theonsitemanager.com.au/listing/21201118",
       "title": "Exclusive - Net $148,586 with Multiple Income Upside Potential - ID 9240",
@@ -9799,7 +9758,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "2026-10-12 03:02:05",
-      "lastUpdated": "2026-10-12 03:14:59"
+      "lastUpdated": "2026-11-13 05:19:35"
     },
     {
       "id": "21196910",
@@ -9841,47 +9800,6 @@
       "agencyWebsite": null,
       "dateListed": "2026-09-18 05:27:21",
       "lastUpdated": "2026-09-18 06:38:18"
-    },
-    {
-      "id": "21177680",
-      "url": "https://www.theonsitemanager.com.au/listing/21177680",
-      "title": "Exclusive - Super Low Hours & Low Multiplier in Southport – ID 9226",
-      "category": "Permanent",
-      "status": "current",
-      "price": 1298000,
-      "priceView": "Super Easy Duties with Flexible Hours",
-      "netIncome": 121461,
-      "netIncomeBasis": "actual",
-      "unitValue": 850000,
-      "multiplier": 3.69,
-      "bedrooms": 2,
-      "bathrooms": 2,
-      "carSpaces": 2,
-      "officeOnTitle": true,
-      "pets": "yes",
-      "caretakingRemuneration": 77090,
-      "agreementTerm": "25",
-      "agreementRemaining": "20",
-      "agreementAge": "0",
-      "officeHours": "No set office hours",
-      "lettingPool": 0,
-      "ownerOccupiers": 0,
-      "lockUps": 0,
-      "outsideAgents": 0,
-      "unitsInComplex": 0,
-      "suburb": "Southport",
-      "state": "QLD",
-      "postcode": "4215",
-      "address": "170 High Street",
-      "lat": -27.959983,
-      "lng": 153.4078335,
-      "agentName": "Bill He",
-      "agentPhone": "0439 288 960",
-      "agentEmail": "sales@mrsales.com.au",
-      "agencyName": "Management Rights Sales",
-      "agencyWebsite": null,
-      "dateListed": "2026-05-18 05:08:45",
-      "lastUpdated": "2026-09-10 07:59:20"
     },
     {
       "id": "21176811",
@@ -10496,7 +10414,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "2026-07-28 03:57:50",
-      "lastUpdated": "2026-09-10 07:59:20"
+      "lastUpdated": "2026-11-13 00:45:45"
     },
     {
       "id": "21188231",
@@ -10578,7 +10496,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "2026-07-17 07:26:57",
-      "lastUpdated": "2026-09-10 07:59:20"
+      "lastUpdated": "2026-11-13 00:57:18"
     },
     {
       "id": "21182597",
@@ -10660,7 +10578,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "2026-06-04 00:40:29",
-      "lastUpdated": "2026-09-28 02:07:24"
+      "lastUpdated": "2026-11-13 01:21:48"
     },
     {
       "id": "21181239",
@@ -10742,7 +10660,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "2026-05-20 06:26:41",
-      "lastUpdated": "2026-09-10 07:59:20"
+      "lastUpdated": "2026-11-13 01:06:54"
     },
     {
       "id": "21178099",
@@ -10783,7 +10701,48 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "2026-05-20 05:15:03",
-      "lastUpdated": "2026-09-10 07:59:20"
+      "lastUpdated": "2026-11-13 01:08:14"
+    },
+    {
+      "id": "21177680",
+      "url": "https://www.theonsitemanager.com.au/listing/21177680",
+      "title": "Super Low Hours & Low Multiplier in Southport – ID 9226",
+      "category": "Permanent",
+      "status": "current",
+      "price": 1298000,
+      "priceView": "Super Easy Duties with Flexible Hours",
+      "netIncome": 121461,
+      "netIncomeBasis": "actual",
+      "unitValue": 850000,
+      "multiplier": 3.69,
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "carSpaces": 2,
+      "officeOnTitle": true,
+      "pets": "yes",
+      "caretakingRemuneration": 77090,
+      "agreementTerm": "25",
+      "agreementRemaining": "20",
+      "agreementAge": "0",
+      "officeHours": "No set office hours",
+      "lettingPool": 0,
+      "ownerOccupiers": 0,
+      "lockUps": 0,
+      "outsideAgents": 0,
+      "unitsInComplex": 0,
+      "suburb": "Southport",
+      "state": "QLD",
+      "postcode": "4215",
+      "address": "170 High Street",
+      "lat": -27.959983,
+      "lng": 153.4078335,
+      "agentName": "Bill He",
+      "agentPhone": "0439 288 960",
+      "agentEmail": "sales@mrsales.com.au",
+      "agencyName": "Management Rights Sales",
+      "agencyWebsite": null,
+      "dateListed": "2026-05-18 05:08:45",
+      "lastUpdated": "2026-11-13 01:13:56"
     },
     {
       "id": "21175341",
@@ -10870,7 +10829,7 @@
     {
       "id": "21196365",
       "url": "https://www.theonsitemanager.com.au/listing/21196365",
-      "title": "Urgent Sale - Vendor Ill Health - ID 8595",
+      "title": "Under Contract - ID 8595",
       "category": "Permanent",
       "status": "under contract",
       "price": 715000,
@@ -10906,7 +10865,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "2026-09-15 05:15:25",
-      "lastUpdated": "2026-10-12 03:18:30"
+      "lastUpdated": "2026-11-13 05:32:07"
     },
     {
       "id": "21195464",
@@ -11357,7 +11316,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "22 April 2026",
-      "lastUpdated": "2026-11-10 05:16:16"
+      "lastUpdated": "2026-11-13 01:06:02"
     },
     {
       "id": "21169156",
@@ -11439,7 +11398,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "23 April 2026",
-      "lastUpdated": "2026-11-10 05:16:35"
+      "lastUpdated": "2026-11-13 01:05:47"
     },
     {
       "id": "21162062",
@@ -11767,7 +11726,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "22 April 2026",
-      "lastUpdated": "2026-11-10 05:17:14"
+      "lastUpdated": "2026-11-13 01:05:14"
     },
     {
       "id": "21168509",
@@ -11849,7 +11808,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "22 April 2026",
-      "lastUpdated": "2026-11-06 07:16:34"
+      "lastUpdated": "2026-11-13 01:09:44"
     },
     {
       "id": "21164813",
@@ -11890,7 +11849,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "23 April 2026",
-      "lastUpdated": "2026-11-10 05:16:52"
+      "lastUpdated": "2026-11-13 01:05:34"
     },
     {
       "id": "21162838",
@@ -12145,7 +12104,7 @@
       "category": "Permanent",
       "status": "current",
       "price": 858000,
-      "priceView": "$363K MR + $495K Unit = $895k Total",
+      "priceView": "$363K MR + $495K Unit = $858k Total",
       "netIncome": 134545,
       "netIncomeBasis": "actual",
       "unitValue": 0,
@@ -12154,7 +12113,7 @@
       "bathrooms": 2,
       "carSpaces": 6,
       "officeOnTitle": true,
-      "pets": "No",
+      "pets": "1",
       "caretakingRemuneration": 52655,
       "agreementTerm": "21",
       "agreementRemaining": "21",
@@ -12177,7 +12136,7 @@
       "agencyName": "Ras360",
       "agencyWebsite": null,
       "dateListed": "01 April 2026",
-      "lastUpdated": "2026-10-06 22:54:28"
+      "lastUpdated": "2026-11-13 05:05:04"
     },
     {
       "id": "21172489",
@@ -13248,21 +13207,21 @@
     {
       "id": "21161699",
       "url": "https://www.theonsitemanager.com.au/listing/21161699",
-      "title": "Excellent ROI and Compelling Multiplier plus Top Occupancy Rate",
+      "title": "Excellent ROI 29% on the Business and Compelling Multiplier plus Top Occupancy Rate",
       "category": "Resort / Holiday",
       "status": "current",
       "price": 1595000,
       "priceView": "$1,595,000",
-      "netIncome": 309100,
+      "netIncome": 322905,
       "netIncomeBasis": "actual",
       "unitValue": 495000,
-      "multiplier": 3.56,
+      "multiplier": 3.41,
       "bedrooms": 2,
       "bathrooms": 1,
       "carSpaces": 1,
       "officeOnTitle": true,
-      "pets": "No",
-      "caretakingRemuneration": 66841,
+      "pets": "yes",
+      "caretakingRemuneration": 64700,
       "agreementTerm": "25",
       "agreementRemaining": "24",
       "agreementAge": "0",
@@ -13284,7 +13243,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "23 April 2026",
-      "lastUpdated": "2026-11-06 08:25:57"
+      "lastUpdated": "2026-11-13 00:53:45"
     },
     {
       "id": "21161428",
@@ -15375,7 +15334,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "22 April 2026",
-      "lastUpdated": "2026-11-10 05:14:47"
+      "lastUpdated": "2026-11-13 01:07:24"
     },
     {
       "id": "21170684",
@@ -15826,7 +15785,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "22 April 2026",
-      "lastUpdated": "2026-11-10 05:15:06"
+      "lastUpdated": "2026-11-13 01:07:06"
     },
     {
       "id": "21170821",
@@ -15908,7 +15867,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "16 April 2026",
-      "lastUpdated": "2026-09-10 07:59:20"
+      "lastUpdated": "2026-11-13 01:10:01"
     },
     {
       "id": "21173011",
@@ -15949,7 +15908,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "09 April 2026",
-      "lastUpdated": "2026-11-03 00:55:57"
+      "lastUpdated": "2026-11-13 06:43:51"
     },
     {
       "id": "21172945",
@@ -15990,7 +15949,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "08 April 2026",
-      "lastUpdated": "2026-07-28 04:18:59"
+      "lastUpdated": "2026-11-13 00:22:22"
     },
     {
       "id": "21172672",
@@ -16072,7 +16031,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "10 April 2026",
-      "lastUpdated": "2026-08-05 04:44:50"
+      "lastUpdated": "2026-11-13 00:25:17"
     },
     {
       "id": "21172367",
@@ -16113,7 +16072,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "10 April 2026",
-      "lastUpdated": "2026-10-01 03:40:50"
+      "lastUpdated": "2026-11-13 02:39:18"
     },
     {
       "id": "21172352",
@@ -16154,7 +16113,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "10 April 2026",
-      "lastUpdated": "2026-09-28 02:10:03"
+      "lastUpdated": "2026-11-13 01:25:51"
     },
     {
       "id": "21172219",
@@ -16195,7 +16154,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "24 March 2026",
-      "lastUpdated": "2026-06-24 03:39:12"
+      "lastUpdated": "2026-11-12 23:46:21"
     },
     {
       "id": "21171979",
@@ -16277,7 +16236,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "02 March 2026",
-      "lastUpdated": "2026-07-01 03:48:21"
+      "lastUpdated": "2026-11-13 00:04:41"
     },
     {
       "id": "21170006",
@@ -16446,7 +16405,7 @@
     {
       "id": "21165486",
       "url": "https://www.theonsitemanager.com.au/listing/21165486",
-      "title": "NO Facilities, Business Only, Close to Sunnybank - ID 9215",
+      "title": "No Facilities, Business Only, Close to Sunnybank - ID 9215",
       "category": "Permanent",
       "status": "current",
       "price": 658000,
@@ -16482,7 +16441,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "23 February 2026",
-      "lastUpdated": "2026-07-03 01:24:15"
+      "lastUpdated": "2026-11-13 00:18:51"
     },
     {
       "id": "21165152",
@@ -16523,7 +16482,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "09 March 2026",
-      "lastUpdated": "2026-09-24 05:04:56"
+      "lastUpdated": "2026-11-13 01:17:26"
     },
     {
       "id": "21164941",
@@ -16564,7 +16523,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "02 March 2026",
-      "lastUpdated": "2026-09-30 04:16:47"
+      "lastUpdated": "2026-11-13 02:17:36"
     },
     {
       "id": "21164804",
@@ -16646,7 +16605,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "23 February 2026",
-      "lastUpdated": "2026-10-09 00:46:01"
+      "lastUpdated": "2026-11-13 03:56:18"
     },
     {
       "id": "21162283",
@@ -16687,7 +16646,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "23 February 2026",
-      "lastUpdated": "2026-06-25 05:28:14"
+      "lastUpdated": "2026-11-13 00:05:55"
     },
     {
       "id": "21162043",
@@ -16728,7 +16687,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "06 March 2026",
-      "lastUpdated": "2026-10-19 00:00:21"
+      "lastUpdated": "2026-11-13 06:20:04"
     },
     {
       "id": "21160320",
@@ -16851,7 +16810,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "21 April 2026",
-      "lastUpdated": "2026-10-09 00:45:24"
+      "lastUpdated": "2026-11-13 03:55:19"
     },
     {
       "id": "21150272",
@@ -16892,7 +16851,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "21 April 2026",
-      "lastUpdated": "2026-10-09 02:44:58"
+      "lastUpdated": "2026-11-13 05:08:53"
     },
     {
       "id": "21148772",
@@ -16933,7 +16892,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "21 April 2026",
-      "lastUpdated": "2026-10-09 00:47:29"
+      "lastUpdated": "2026-11-13 04:09:06"
     },
     {
       "id": "21148721",
@@ -17015,7 +16974,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "21 April 2026",
-      "lastUpdated": "2026-09-30 04:18:19"
+      "lastUpdated": "2026-11-13 02:25:50"
     },
     {
       "id": "21143657",
@@ -17056,7 +17015,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "21 April 2026",
-      "lastUpdated": "2026-10-09 00:48:48"
+      "lastUpdated": "2026-11-13 04:14:49"
     },
     {
       "id": "21128399",
@@ -17138,7 +17097,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "23 February 2026",
-      "lastUpdated": "2026-10-13 23:47:43"
+      "lastUpdated": "2026-11-13 06:18:06"
     },
     {
       "id": "21107956",
@@ -17179,7 +17138,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "21 April 2026",
-      "lastUpdated": "2026-10-09 00:52:07"
+      "lastUpdated": "2026-11-13 04:41:37"
     },
     {
       "id": "21100965",
@@ -17261,7 +17220,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "21 April 2026",
-      "lastUpdated": "2026-10-09 00:52:53"
+      "lastUpdated": "2026-11-13 04:48:13"
     },
     {
       "id": "21162595",
@@ -17343,7 +17302,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "23 February 2026",
-      "lastUpdated": "2026-08-24 00:52:07"
+      "lastUpdated": "2026-11-13 00:27:29"
     },
     {
       "id": "21173483",
@@ -19835,7 +19794,7 @@
       "suburb": "Bongaree",
       "state": "QLD",
       "postcode": "4507",
-      "address": "Toorbul Street",
+      "address": "Toorbul Lane",
       "lat": -27.087454,
       "lng": 153.161686,
       "agentName": "Geoff Hatchman",
@@ -20787,7 +20746,7 @@
       "agencyName": "Calvin Bailey Management Rights",
       "agencyWebsite": null,
       "dateListed": "17 April 2026",
-      "lastUpdated": "2026-11-10 05:15:34"
+      "lastUpdated": "2026-11-13 01:06:51"
     },
     {
       "id": "21171801",
@@ -21238,7 +21197,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "27 April 2026",
-      "lastUpdated": "2026-09-10 07:59:20"
+      "lastUpdated": "2026-11-13 01:11:29"
     },
     {
       "id": "21173775",
@@ -21320,7 +21279,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "10 April 2026",
-      "lastUpdated": "2026-09-30 04:19:05"
+      "lastUpdated": "2026-11-13 02:37:11"
     },
     {
       "id": "21171951",
@@ -21443,7 +21402,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "14 January 2026",
-      "lastUpdated": "2026-07-03 00:48:56"
+      "lastUpdated": "2026-11-13 00:07:58"
     },
     {
       "id": "21162639",
@@ -21484,7 +21443,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "08 April 2026",
-      "lastUpdated": "2026-10-09 00:44:35"
+      "lastUpdated": "2026-11-13 03:35:32"
     },
     {
       "id": "21160875",
@@ -21525,7 +21484,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "23 February 2026",
-      "lastUpdated": "2026-06-25 02:14:52"
+      "lastUpdated": "2026-11-13 00:03:49"
     },
     {
       "id": "21156483",
@@ -21566,7 +21525,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "23 February 2026",
-      "lastUpdated": "2026-10-27 00:17:19"
+      "lastUpdated": "2026-11-13 06:42:56"
     },
     {
       "id": "21155228",
@@ -21607,7 +21566,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "30 March 2026",
-      "lastUpdated": "2026-06-24 03:50:28"
+      "lastUpdated": "2026-11-12 23:56:07"
     },
     {
       "id": "21154125",
@@ -21648,7 +21607,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "23 February 2026",
-      "lastUpdated": "2026-06-24 03:45:58"
+      "lastUpdated": "2026-11-12 23:47:31"
     },
     {
       "id": "21153042",
@@ -21689,7 +21648,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "21 April 2026",
-      "lastUpdated": "2026-10-09 02:44:31"
+      "lastUpdated": "2026-11-13 04:50:59"
     },
     {
       "id": "21151822",
@@ -21730,7 +21689,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "21 April 2026",
-      "lastUpdated": "2026-10-09 00:51:18"
+      "lastUpdated": "2026-11-13 04:39:53"
     },
     {
       "id": "21149246",
@@ -21771,12 +21730,12 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "21 April 2026",
-      "lastUpdated": "2026-10-09 00:46:54"
+      "lastUpdated": "2026-11-13 04:05:56"
     },
     {
       "id": "21146367",
       "url": "https://www.theonsitemanager.com.au/listing/21146367",
-      "title": "Permanent Management Rights for Sale in Wynnum West - ID 9180",
+      "title": "High Net Profit - Wynnum West - ID 9180",
       "category": "Permanent",
       "status": "current",
       "price": 1590000,
@@ -21812,7 +21771,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "21 April 2026",
-      "lastUpdated": "2026-10-09 00:47:58"
+      "lastUpdated": "2026-11-13 04:10:28"
     },
     {
       "id": "21144021",
@@ -21853,7 +21812,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "21 April 2026",
-      "lastUpdated": "2026-10-09 00:48:24"
+      "lastUpdated": "2026-11-13 04:11:33"
     },
     {
       "id": "21141147",
@@ -21894,12 +21853,12 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "21 April 2026",
-      "lastUpdated": "2026-10-09 00:49:22"
+      "lastUpdated": "2026-11-13 04:26:07"
     },
     {
       "id": "21140715",
       "url": "https://www.theonsitemanager.com.au/listing/21140715",
-      "title": "High Net Income Permanent Management Rights for Sale in Merrimac - ID 8997",
+      "title": "High Net Income Permanent in Merrimac - ID 8997",
       "category": "Permanent",
       "status": "current",
       "price": 1495000,
@@ -21935,7 +21894,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "21 April 2026",
-      "lastUpdated": "2026-10-09 00:49:55"
+      "lastUpdated": "2026-11-13 04:28:16"
     },
     {
       "id": "21140655",
@@ -21976,7 +21935,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "21 April 2026",
-      "lastUpdated": "2026-10-09 00:50:44"
+      "lastUpdated": "2026-11-13 04:33:50"
     },
     {
       "id": "21151318",
@@ -22553,6 +22512,47 @@
       "lastUpdated": "2026-04-10 04:13:39"
     },
     {
+      "id": "21174115",
+      "url": "https://www.theonsitemanager.com.au/listing/21174115",
+      "title": "Boutique Bayside Management Rights - Well Positioned Complex - ID 9224",
+      "category": "Permanent",
+      "status": "current",
+      "price": 1375000,
+      "priceView": "$1,375,000",
+      "netIncome": 152500,
+      "netIncomeBasis": "actual",
+      "unitValue": 750000,
+      "multiplier": 4.1,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "carSpaces": 4,
+      "officeOnTitle": true,
+      "pets": "No",
+      "caretakingRemuneration": 124158,
+      "agreementTerm": "25",
+      "agreementRemaining": "19",
+      "agreementAge": "26",
+      "officeHours": "No set office hours",
+      "lettingPool": 19,
+      "ownerOccupiers": 46,
+      "lockUps": 0,
+      "outsideAgents": 3,
+      "unitsInComplex": 68,
+      "suburb": "Deception Bay",
+      "state": "QLD",
+      "postcode": "4508",
+      "address": "Bay Avenue",
+      "lat": -27.196702,
+      "lng": 153.029501,
+      "agentName": "Zsofi Popplewell",
+      "agentPhone": "0459 693 160",
+      "agentEmail": "sales@mrsales.com.au",
+      "agencyName": "Management Rights Sales",
+      "agencyWebsite": null,
+      "dateListed": "24 April 2026",
+      "lastUpdated": "2026-11-12 23:40:48"
+    },
+    {
       "id": "21164031",
       "url": "https://www.theonsitemanager.com.au/listing/21164031",
       "title": "Premium Caretaking Only Management Rights",
@@ -22592,47 +22592,6 @@
       "agencyWebsite": null,
       "dateListed": "04 November 2025",
       "lastUpdated": "2026-09-13 03:22:06"
-    },
-    {
-      "id": "21174115",
-      "url": "https://www.theonsitemanager.com.au/listing/21174115",
-      "title": "Boutique Bayside Management Rights - Well Positioned Complex - ID 9224",
-      "category": "Permanent",
-      "status": "current",
-      "price": 1375000,
-      "priceView": "$1,375,000",
-      "netIncome": 152500,
-      "netIncomeBasis": "actual",
-      "unitValue": 750000,
-      "multiplier": 4.1,
-      "bedrooms": 3,
-      "bathrooms": 2,
-      "carSpaces": 4,
-      "officeOnTitle": true,
-      "pets": "No",
-      "caretakingRemuneration": 124158,
-      "agreementTerm": "25",
-      "agreementRemaining": "19",
-      "agreementAge": "26",
-      "officeHours": "No set office hours",
-      "lettingPool": 19,
-      "ownerOccupiers": 46,
-      "lockUps": 0,
-      "outsideAgents": 3,
-      "unitsInComplex": 68,
-      "suburb": "Deception Bay",
-      "state": "QLD",
-      "postcode": "4508",
-      "address": "Bay Avenue",
-      "lat": -27.196702,
-      "lng": 153.029501,
-      "agentName": "Zsofi Popplewell",
-      "agentPhone": "0459 693 160",
-      "agentEmail": "sales@mrsales.com.au",
-      "agencyName": "Management Rights Sales",
-      "agencyWebsite": null,
-      "dateListed": "24 April 2026",
-      "lastUpdated": "2026-10-01 03:44:28"
     },
     {
       "id": "21170925",
@@ -22714,7 +22673,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "10 April 2026",
-      "lastUpdated": "2026-07-03 00:45:48"
+      "lastUpdated": "2026-11-13 00:07:01"
     },
     {
       "id": "21171029",
@@ -22755,7 +22714,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "04 March 2026",
-      "lastUpdated": "2026-07-03 00:50:51"
+      "lastUpdated": "2026-11-13 00:16:05"
     },
     {
       "id": "21163696",
@@ -22796,7 +22755,7 @@
       "agencyName": "Management Rights Sales",
       "agencyWebsite": null,
       "dateListed": "21 April 2026",
-      "lastUpdated": "2026-10-09 00:53:41"
+      "lastUpdated": "2026-11-13 04:49:00"
     }
   ]
 }
